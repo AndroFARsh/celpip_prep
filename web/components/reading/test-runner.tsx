@@ -1,0 +1,66 @@
+"use client"
+
+import { useCallback, useState } from "react"
+
+import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
+import { Card, CardContent } from "@/components/ui/card"
+import { ScrollArea } from "@/components/ui/scroll-area"
+import { useCountdown } from "@/hooks/use-countdown"
+import { formatTime, itemsForPart, PART_NAMES, type Answers } from "@/lib/scoring"
+import type { ReadingTest } from "@/lib/schema"
+import { PANES } from "./parts"
+import { Results } from "./results"
+
+type PartScreenProps = {
+  test: ReadingTest
+  part: number
+  answers: Answers
+  onAnswer: (key: string, value: string) => void
+  onNext: () => void
+}
+
+function PartScreen({ test, part, answers, onAnswer, onNext }: PartScreenProps) {
+  const left = useCountdown(test.parts[part - 1].timeLimitSec, onNext)
+  const { left: leftPane, right: rightPane } = PANES[part - 1]({
+    test,
+    items: itemsForPart(test, part),
+    answers,
+    onAnswer,
+  })
+
+  return (
+    <div className="flex flex-1 flex-col">
+      <div className="sticky top-0 z-10 flex flex-wrap items-center justify-between gap-2 border-b bg-background px-4 py-2">
+        <h1 className="font-semibold">
+          Reading Part {part}: {PART_NAMES[part - 1]}
+        </h1>
+        <div className="flex items-center gap-2">
+          <Badge variant="outline" aria-label="Time remaining">
+            Time remaining: {formatTime(left)}
+          </Badge>
+          <Button onClick={onNext}>{part === 4 ? "Finish" : "Next"}</Button>
+        </div>
+      </div>
+      <div className="grid flex-1 gap-4 p-4 md:grid-cols-2">
+        {[leftPane, rightPane].map((pane, i) => (
+          <Card key={i} className="py-0">
+            <ScrollArea className="md:h-[calc(100dvh-9.5rem)]">
+              <CardContent className="py-6">{pane}</CardContent>
+            </ScrollArea>
+          </Card>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+export function TestRunner({ test }: { test: ReadingTest }) {
+  const [part, setPart] = useState(1)
+  const [answers, setAnswers] = useState<Answers>({})
+  const onAnswer = useCallback((key: string, value: string) => setAnswers((a) => ({ ...a, [key]: value })), [])
+  const onNext = useCallback(() => setPart((p) => p + 1), [])
+
+  if (part > 4) return <Results test={test} answers={answers} />
+  return <PartScreen key={part} test={test} part={part} answers={answers} onAnswer={onAnswer} onNext={onNext} />
+}

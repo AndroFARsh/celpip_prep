@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Urban beekeeping has grown rapidly in Canadian cities over the past decade. In Toronto alone, the number of registered hives has more than tripled since 2015. Many new beekeepers are young professionals who see the hobby as a way to reconnect with nature without leaving the city. Rooftops, community gardens, and even hotel balconies now host colonies of honeybees.",
+    "Despite its popularity, beekeeping in the city comes with rules. Most municipalities require hives to be registered with the provincial agriculture ministry and placed a minimum distance from property lines. Some cities also limit the number of hives on a single property to prevent overcrowding. Beekeepers who ignore these regulations can face fines, and neighbours are encouraged to report hives they believe are unsafe.",
+    "Scientists have raised concerns that too many honeybees may harm wild bee species. Canada is home to more than 800 species of native bees, many of which compete with honeybees for the same flowers. Researchers at a university in Montreal found that areas with dense hive populations had fewer native bees. They suggest that cities should focus on planting more flowers rather than adding more hives.",
+    "For those who want to support pollinators without keeping bees, there are simple alternatives. Planting native wildflowers, avoiding pesticides, and leaving small patches of bare soil for ground-nesting bees can all make a difference. Several cities now offer free seed packets to residents each spring, and local libraries often run workshops on building bee hotels from recycled materials."
+  ],
+  "statements": [
+    { "text": "The number of hives in one Canadian city has increased greatly in recent years.", "answer": "A" },
+    { "text": "Honeybees and native bees may compete for food.", "answer": "C" },
+    { "text": "Honey produced in the city tastes better than honey from the country.", "answer": "E" },
+    { "text": "Some cities restrict how many hives a person may keep.", "answer": "B" },
+    { "text": "Residents of some cities can get free seeds.", "answer": "D" },
+    { "text": "Many people who start beekeeping are young workers.", "answer": "A" },
+    { "text": "Beekeeping courses are offered at most universities.", "answer": "E" },
+    { "text": "Researchers recommend adding flowers instead of hives.", "answer": "C" },
+    { "text": "People who break beekeeping rules may have to pay money.", "answer": "B" }
+  ]
+}
