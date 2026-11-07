@@ -1,63 +1,69 @@
 import { act, render, screen, within } from "@testing-library/react"
 import userEvent from "@testing-library/user-event"
-import { describe, expect, it, vi } from "vitest"
+import { Activity } from "react"
+import { beforeEach, describe, expect, it, vi } from "vitest"
 
-import { allItems, itemsForPart } from "@/lib/scoring"
+import { itemsForPart } from "@/lib/scoring"
 import { loadTest } from "@/lib/tests"
 import { TestRunner } from "./test-runner"
 
-const test = await loadTest("demo-1")
+const push = vi.fn()
+vi.mock("next/navigation", () => ({ useRouter: () => ({ push }) }))
 
-async function answerPart(user: ReturnType<typeof userEvent.setup>, part: number, pick: "right" | "wrong") {
+const test = await loadTest("demo-1")
+const saved = (run: string) => JSON.parse(localStorage.getItem(`celpip:demo-1:${run}`)!)
+
+async function answerPart(user: ReturnType<typeof userEvent.setup>, part: number) {
   for (const item of itemsForPart(test, part)) {
     await user.click(screen.getByRole("combobox", { name: `Question ${item.number}` }))
-    const choice = pick === "right" ? item.answer : item.options.find((o) => o !== item.answer)!
-    await user.click(within(screen.getByRole("listbox")).getByRole("option", { name: choice }))
+    await user.click(within(screen.getByRole("listbox")).getByRole("option", { name: item.answer }))
   }
 }
 
+const next = (user: ReturnType<typeof userEvent.setup>) => user.click(screen.getByRole("button", { name: "Next" }))
+
 describe("TestRunner", () => {
-  it("renders every question of each part and scores a perfect run", async () => {
+  beforeEach(() => push.mockClear())
+
+  it("full test goes through every part, then saves and opens results", async () => {
     const user = userEvent.setup()
-    render(<TestRunner test={test} />)
+    render(<TestRunner test={test} run="full" />)
     for (const part of [1, 2, 3, 4]) {
       expect(screen.getByRole("heading", { name: new RegExp(`Reading Part ${part}`) })).toBeInTheDocument()
       expect(screen.getAllByRole("combobox")).toHaveLength(itemsForPart(test, part).length)
-      await answerPart(user, part, "right")
-      await user.click(screen.getByRole("button", { name: part === 4 ? "Finish" : "Next" }))
+      expect(push).not.toHaveBeenCalled()
+      await answerPart(user, part)
+      await next(user)
     }
-    expect(screen.getByTestId("score")).toHaveTextContent("Score: 38 / 38")
-    expect(screen.getAllByText("Correct")).toHaveLength(38)
+    expect(push).toHaveBeenCalledWith("/reading/demo-1/results/full")
+    expect(saved("full")).toMatchObject({ score: 38, total: 38 })
   }, 60000)
 
-  it("shows the user's answer and the correct answer on results", async () => {
+  it("single part goes to its results after Next", async () => {
     const user = userEvent.setup()
-    render(<TestRunner test={test} />)
-    await answerPart(user, 1, "wrong")
-    for (let i = 0; i < 4; i++) await user.click(screen.getByRole("button", { name: /Next|Finish/ }))
-    expect(screen.getByTestId("score")).toHaveTextContent("Score: 0 / 38")
-    const first = allItems(test)[0]
-    const row = screen.getByRole("cell", { name: first.label }).closest("tr")!
-    expect(row).toHaveTextContent(first.options.find((o) => o !== first.answer)!)
-    expect(row).toHaveTextContent(first.answer)
-    expect(screen.getAllByText("Wrong")).toHaveLength(38)
+    render(<TestRunner test={test} run="3" />)
+    expect(screen.getByRole("heading", { name: /Reading Part 3/ })).toBeInTheDocument()
+    expect(screen.getByLabelText("Time remaining")).toHaveTextContent("10:00")
+    await answerPart(user, 3)
+    await next(user)
+    expect(push).toHaveBeenCalledWith("/reading/demo-1/results/3")
+    expect(saved("3")).toMatchObject({ score: 9, total: 9 })
   }, 30000)
 
-  it("keeps answers across parts in the final score", async () => {
+  it("keeps answers across parts in the saved score", async () => {
     const user = userEvent.setup()
-    render(<TestRunner test={test} />)
-    await user.click(screen.getByRole("button", { name: "Next" }))
-    await user.click(screen.getByRole("button", { name: "Next" }))
-    await answerPart(user, 3, "right")
-    await user.click(screen.getByRole("button", { name: "Next" }))
-    await user.click(screen.getByRole("button", { name: "Finish" }))
-    expect(screen.getByTestId("score")).toHaveTextContent("Score: 9 / 38")
-    expect(screen.getByText("Part 3: 9 / 9")).toBeInTheDocument()
+    render(<TestRunner test={test} run="full" />)
+    await next(user)
+    await next(user)
+    await answerPart(user, 3)
+    await next(user)
+    await next(user)
+    expect(saved("full")).toMatchObject({ score: 9, total: 38 })
   }, 30000)
 
-  it("auto-advances when a part's time runs out", () => {
+  it("auto-advances when time runs out and saves at the end", () => {
     vi.useFakeTimers()
-    render(<TestRunner test={test} />)
+    render(<TestRunner test={test} run="full" />)
     expect(screen.getByLabelText("Time remaining")).toHaveTextContent("11:00")
     act(() => vi.advanceTimersByTime(60_000))
     expect(screen.getByLabelText("Time remaining")).toHaveTextContent("10:00")
@@ -65,7 +71,26 @@ describe("TestRunner", () => {
     expect(screen.getByRole("heading", { name: /Reading Part 2/ })).toBeInTheDocument()
     expect(screen.getByLabelText("Time remaining")).toHaveTextContent("9:00")
     for (const sec of [540, 600, 780]) act(() => vi.advanceTimersByTime(sec * 1000))
-    expect(screen.getByTestId("score")).toBeInTheDocument()
+    expect(push).toHaveBeenCalledWith("/reading/demo-1/results/full")
+    expect(saved("full")).toMatchObject({ score: 0, total: 38 })
     vi.useRealTimers()
   })
+
+  it("starts fresh when the page is hidden and shown again", async () => {
+    const user = userEvent.setup()
+    const view = (mode: "visible" | "hidden") => (
+      <Activity mode={mode}>
+        <TestRunner test={test} run="full" />
+      </Activity>
+    )
+    const { rerender } = render(view("visible"))
+    await answerPart(user, 1)
+    await next(user)
+    expect(screen.getByRole("heading", { name: /Reading Part 2/ })).toBeInTheDocument()
+    rerender(view("hidden"))
+    rerender(view("visible"))
+    expect(screen.getByRole("heading", { name: /Reading Part 1/ })).toBeInTheDocument()
+    expect(screen.getByLabelText("Time remaining")).toHaveTextContent("11:00")
+    expect(screen.getByRole("combobox", { name: "Question 1" })).toHaveTextContent("Choose an answer")
+  }, 30000)
 })

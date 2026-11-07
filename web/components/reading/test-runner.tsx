@@ -1,16 +1,18 @@
 "use client"
 
-import { useCallback, useState } from "react"
+import { useRouter } from "next/navigation"
+import { useCallback, useLayoutEffect, useState } from "react"
 
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { ScrollArea } from "@/components/ui/scroll-area"
 import { useCountdown } from "@/hooks/use-countdown"
-import { formatTime, itemsForPart, PART_NAMES, type Answers } from "@/lib/scoring"
+import { saveResult } from "@/lib/results-store"
+import { resultsPath, runParts, type Run } from "@/lib/runs"
+import { formatTime, itemsForPart, PART_NAMES, score, type Answers } from "@/lib/scoring"
 import type { ReadingTest } from "@/lib/schema"
 import { PANES } from "./parts"
-import { Results } from "./results"
 
 type PartScreenProps = {
   test: ReadingTest
@@ -39,7 +41,7 @@ function PartScreen({ test, part, answers, onAnswer, onNext }: PartScreenProps) 
           <Badge variant="outline" aria-label="Time remaining">
             Time remaining: {formatTime(left)}
           </Badge>
-          <Button onClick={onNext}>{part === 4 ? "Finish" : "Next"}</Button>
+          <Button onClick={onNext}>Next</Button>
         </div>
       </div>
       <div className="grid flex-1 gap-4 p-4 md:grid-cols-2">
@@ -55,12 +57,39 @@ function PartScreen({ test, part, answers, onAnswer, onNext }: PartScreenProps) 
   )
 }
 
-export function TestRunner({ test }: { test: ReadingTest }) {
-  const [part, setPart] = useState(1)
+export function TestRunner({ test, run }: { test: ReadingTest; run: Run }) {
+  const router = useRouter()
+  const parts = runParts(run)
+  const [step, setStep] = useState(0)
+  const [attempt, setAttempt] = useState(0)
   const [answers, setAnswers] = useState<Answers>({})
   const onAnswer = useCallback((key: string, value: string) => setAnswers((a) => ({ ...a, [key]: value })), [])
-  const onNext = useCallback(() => setPart((p) => p + 1), [])
 
-  if (part > 4) return <Results test={test} answers={answers} />
-  return <PartScreen key={part} test={test} part={part} answers={answers} onAnswer={onAnswer} onNext={onNext} />
+  // Next.js keeps visited pages alive (Activity); start fresh whenever this page is left.
+  useLayoutEffect(
+    () => () => {
+      setStep(0)
+      setAnswers({})
+      setAttempt((a) => a + 1)
+    },
+    [],
+  )
+
+  const onNext = useCallback(() => {
+    if (step < parts.length - 1) return setStep(step + 1)
+    const items = parts.flatMap((p) => itemsForPart(test, p))
+    saveResult(test.id, run, { answers, score: score(items, answers), total: items.length })
+    router.push(resultsPath(test.id, run))
+  }, [step, parts, test, run, answers, router])
+
+  return (
+    <PartScreen
+      key={`${attempt}-${step}`}
+      test={test}
+      part={parts[step]}
+      answers={answers}
+      onAnswer={onAnswer}
+      onNext={onNext}
+    />
+  )
 }

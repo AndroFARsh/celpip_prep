@@ -8,13 +8,15 @@
   3. Reading for Information: passage split into paragraphs A-D; 9 statements, each matched to a paragraph or "E: not given". 10 min.
   4. Reading for Viewpoints: article, 5 multiple-choice questions, then a reader comment with 5 blanks. 13 min.
 - Per-part countdown timer; auto-advance when time runs out.
-- After the last part: results page with score, per-question correct answer and the user's answer.
+- Run the full test (Next moves to the next part) or a single part (Next goes to its results).
+- After the last part: results page with score, per-question correct answer and the user's answer, plus Start again and Clear result.
+- Every Start begins a fresh run. Home shows Results and Clear for runs taken before.
 - Adding a new test must be trivial: create `data/reading/<test-id>/` with `meta.json` and `part1.json` through `part4.json`. The app discovers tests from the filesystem; no code changes.
 - Desktop and mobile layouts (mobile stacks passage above questions).
 
 ## Technical
 - Next.js (App Router, TypeScript) in the `web/` subdirectory. Test data lives at repo root in `data/reading/`.
-- No user login. No database. Answers are kept in client state only.
+- No user login. No database. Finished results are saved in the browser (localStorage), one per test and run (full test or single part).
 - UI only from shadcn/ui components (Tailwind). Do not create custom UI components or hand-roll substitutes. If a component is missing, add it with the shadcn CLI, then use it.
 - Validate test JSON with zod; one schema per part.
 - Keep it simple.

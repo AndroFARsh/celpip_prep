@@ -1,26 +1,14 @@
-import Link from "next/link"
 import { Suspense } from "react"
 
-import { Button } from "@/components/ui/button"
-import { Card, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
+import { TestCard } from "@/components/reading/test-card"
 import { listTests } from "@/lib/tests"
 
 async function TestList() {
   const tests = await listTests()
   return (
-    <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    <div className="grid gap-4 lg:grid-cols-2">
       {tests.map((t) => (
-        <Card key={t.id}>
-          <CardHeader>
-            <CardTitle>{t.title}</CardTitle>
-            <CardDescription>4 parts, 38 questions, 55-60 minutes</CardDescription>
-          </CardHeader>
-          <CardFooter>
-            <Button asChild>
-              <Link href={`/reading/${t.id}`}>Start</Link>
-            </Button>
-          </CardFooter>
-        </Card>
+        <TestCard key={t.id} id={t.id} title={t.title} />
       ))}
     </div>
   )

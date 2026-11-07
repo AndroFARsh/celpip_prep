@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000.
+Open http://localhost:3000. Start the full test or a single part. Finished results are saved in the browser; home shows Results and Clear for runs taken before.
 
 ## Test
 

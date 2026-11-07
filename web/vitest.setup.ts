@@ -13,3 +13,5 @@ globalThis.ResizeObserver = class {
   unobserve() {}
   disconnect() {}
 }
+
+afterEach(() => localStorage.clear())

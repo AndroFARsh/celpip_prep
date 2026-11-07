@@ -1,38 +1,85 @@
 "use client"
 
 import Link from "next/link"
+import { useRouter } from "next/navigation"
 
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
-import { allItems, itemsForPart, PART_NAMES, score, type Answers } from "@/lib/scoring"
+import { clearResult, useResult } from "@/lib/results-store"
+import { runLabel, runParts, runPath, type Run } from "@/lib/runs"
+import { itemsForPart, score } from "@/lib/scoring"
 import type { ReadingTest } from "@/lib/schema"
 
-export function Results({ test, answers }: { test: ReadingTest; answers: Answers }) {
-  const items = allItems(test)
+export function Results({ test, run }: { test: ReadingTest; run: Run }) {
+  const router = useRouter()
+  const result = useResult(test.id, run)
+  const parts = runParts(run)
+
+  if (!result)
+    return (
+      <div className="mx-auto w-full max-w-5xl p-4">
+        <Card>
+          <CardHeader>
+            <CardTitle>
+              {test.title}: {runLabel(run)}
+            </CardTitle>
+            <CardDescription>No saved result.</CardDescription>
+          </CardHeader>
+          <CardFooter className="gap-2">
+            <Button asChild>
+              <Link href={runPath(test.id, run)}>Start</Link>
+            </Button>
+            <Button variant="outline" asChild>
+              <Link href="/">Back to tests</Link>
+            </Button>
+          </CardFooter>
+        </Card>
+      </div>
+    )
+
+  const { answers } = result
+  const items = parts.flatMap((p) => itemsForPart(test, p))
 
   return (
     <div className="mx-auto w-full max-w-5xl space-y-4 p-4">
       <Card>
         <CardHeader>
           <CardTitle>
-            {test.title}: Results
+            {test.title}: {runLabel(run)}
           </CardTitle>
           <CardDescription data-testid="score">
             Score: {score(items, answers)} / {items.length}
           </CardDescription>
         </CardHeader>
         <CardContent className="flex flex-wrap gap-2">
-          {PART_NAMES.map((name, i) => {
-            const partItems = itemsForPart(test, i + 1)
+          {parts.map((p) => {
+            const partItems = itemsForPart(test, p)
             return (
-              <Badge key={name} variant="secondary">
-                Part {i + 1}: {score(partItems, answers)} / {partItems.length}
+              <Badge key={p} variant="secondary">
+                Part {p}: {score(partItems, answers)} / {partItems.length}
               </Badge>
             )
           })}
         </CardContent>
+        <CardFooter className="flex-wrap gap-2">
+          <Button asChild>
+            <Link href={runPath(test.id, run)}>Start again</Link>
+          </Button>
+          <Button
+            variant="destructive"
+            onClick={() => {
+              clearResult(test.id, run)
+              router.push("/")
+            }}
+          >
+            Clear result
+          </Button>
+          <Button variant="outline" asChild>
+            <Link href="/">Back to tests</Link>
+          </Button>
+        </CardFooter>
       </Card>
       <Card>
         <CardContent>
@@ -67,9 +114,6 @@ export function Results({ test, answers }: { test: ReadingTest; answers: Answers
           </Table>
         </CardContent>
       </Card>
-      <Button asChild>
-        <Link href="/">Back to tests</Link>
-      </Button>
     </div>
   )
 }

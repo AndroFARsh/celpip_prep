@@ -1,19 +1,17 @@
-import { notFound } from "next/navigation"
 import { Suspense } from "react"
 
 import { TestRunner } from "@/components/reading/test-runner"
-import { listTests, loadTest } from "@/lib/tests"
+import { loadRun } from "@/lib/load-run"
 
-async function Test({ params }: { params: Promise<{ id: string }> }) {
+async function Run({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params
-  if (!(await listTests()).some((t) => t.id === id)) notFound()
-  return <TestRunner test={await loadTest(id)} />
+  return <TestRunner {...await loadRun(id, "full")} />
 }
 
 export default function Page({ params }: PageProps<"/reading/[id]">) {
   return (
     <Suspense>
-      <Test params={params} />
+      <Run params={params} />
     </Suspense>
   )
 }

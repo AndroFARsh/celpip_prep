@@ -4,7 +4,7 @@
 
 ```
 CELPIP/
-  AGENT.md                     project instructions
+  AGENTS.md                    project instructions
   PLAN.md
   README.md
   data/reading/<test-id>/      meta.json, part1.json ... part4.json
@@ -46,12 +46,16 @@ Success: unit tests for acceptance, rejection, discovery of new folders, invalid
 - Per-part timer (11, 9, 10, 13 min) auto-advances.
 - Results: total and per-part score, table of your answer vs correct answer.
 - Unknown test id returns 404 page.
+- Single part: `/reading/[id]/[part]`; Next goes straight to that part's results.
+- Results: `/reading/[id]/results/[full|1-4]`, saved in localStorage per test and run; Start again, Clear result, Back to tests.
+- Home card: a row per run (full, parts 1-4) with Start, plus Results (score) and Clear when taken before.
+- Every Start begins fresh: the runner resets when its page is hidden (Next 16 keeps visited pages alive via Activity).
 
 Success: full flow, timer auto-advance, score matches answer key.
 
 ### Phase 4: Tests [done]
-- Vitest (23 tests): schemas, loader, scoring, countdown hook, full-flow integration of TestRunner (perfect run 38/38, all wrong 0/38 with answers shown, answers kept across parts, timer auto-advance through all parts).
-- Playwright (16 tests, desktop + Pixel 7): home, full run, skip run, theme toggle, dark mode, no horizontal scroll, mobile stacking, 404.
+- Vitest (31 tests, incl. single part, saved results, clear, fresh start after Activity hide/show): schemas, loader, scoring, countdown hook, full-flow integration of TestRunner (perfect run 38/38, all wrong 0/38 with answers shown, answers kept across parts, timer auto-advance through all parts).
+- Playwright (22 tests, incl. single part, results persistence, clear on home and results page, fresh start, desktop + Pixel 7): home, full run, skip run, theme toggle, dark mode, no horizontal scroll, mobile stacking, 404.
 
 Success: `npm test` green; `npm run test:e2e` green.
 
