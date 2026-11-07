@@ -81,7 +81,7 @@ test("start always begins a fresh run", async ({ page }) => {
   await row(page, "full").getByRole("link", { name: "Start" }).click()
   await expect(page.getByRole("heading", { name: /Reading Part 1/ })).toBeVisible()
   await expect(page.getByLabel("Time remaining")).toContainText("11:0")
-  await expect(page.getByRole("combobox", { name: "Question 1", exact: true })).toHaveText("Choose an answer")
+  await expect(page.getByRole("combobox", { name: "Question 1", exact: true })).toHaveText("(1)")
 })
 
 test("start again from results ignores the previous answers", async ({ page }) => {

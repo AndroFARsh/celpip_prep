@@ -25,16 +25,18 @@ export const part1Schema = z.object({
   reply: blankText(5),
 })
 
+/** File in the test folder: an image (png, jpg, webp, gif, svg) or a static HTML page. */
+export const diagramFile = z.string().regex(/\.(png|jpe?g|webp|gif|svg|html)$/i, "diagram must be an image or .html file")
+
 export const part2Schema = z.object({
   timeLimitSec,
-  diagram: z.object({
-    title: z.string(),
-    columns: z.array(z.string()).min(1),
-    rows: z.array(z.array(z.string())).min(1),
-  }),
+  diagram: diagramFile,
   email: blankText(5),
   questions: z.array(question).length(3),
 })
+
+/** Diagram resolved by the loader: an image as a data URL, or the HTML page source. */
+export type Diagram = { kind: "image"; src: string } | { kind: "html"; html: string }
 
 export const part3Schema = z.object({
   timeLimitSec,
@@ -52,7 +54,7 @@ export const part4Schema = z.object({
 export type Question = z.infer<typeof question>
 export type BlankText = z.infer<ReturnType<typeof blankText>>
 export type Part1 = z.infer<typeof part1Schema>
-export type Part2 = z.infer<typeof part2Schema>
+export type Part2 = Omit<z.infer<typeof part2Schema>, "diagram"> & { diagram: Diagram }
 export type Part3 = z.infer<typeof part3Schema>
 export type Part4 = z.infer<typeof part4Schema>
 

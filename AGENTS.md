@@ -4,7 +4,7 @@
 - An MVP of a CELPIP Reading practice test.
 - The Reading test has 4 parts and should mimic the real test UI (split pane: passage left, questions right; part header with countdown; Next button; no going back).
   1. Reading Correspondence: letter, 6 multiple-choice questions, then a reply with 5 fill-in-the-blank dropdowns. 11 min.
-  2. Reading to Apply a Diagram: diagram (a table defined in JSON) plus an email with 5 blanks, then 3 multiple-choice questions. 9 min.
+  2. Reading to Apply a Diagram: diagram (an image or static HTML page in the test folder) plus an email with 5 blanks, then 3 multiple-choice questions. 9 min.
   3. Reading for Information: passage split into paragraphs A-D; 9 statements, each matched to a paragraph or "E: not given". 10 min.
   4. Reading for Viewpoints: article, 5 multiple-choice questions, then a reader comment with 5 blanks. 13 min.
 - Per-part countdown timer; auto-advance when time runs out.

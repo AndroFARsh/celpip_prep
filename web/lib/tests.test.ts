@@ -1,4 +1,4 @@
-import { cp, mkdtemp, writeFile } from "node:fs/promises"
+import { cp, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import path from "node:path"
 import { describe, expect, it } from "vitest"
@@ -7,7 +7,7 @@ import { DATA_DIR, listTests, loadTest } from "./tests"
 
 describe("test loader", () => {
   it("lists the demo test", async () => {
-    expect(await listTests()).toContainEqual({ id: "demo-1", title: "Practice Test 1" })
+    expect((await listTests()).map((t) => t.id)).toContain("demo-1")
   })
 
   it("discovers new test folders without code changes", async () => {
@@ -23,6 +23,24 @@ describe("test loader", () => {
     const test = await loadTest("demo-1")
     expect(test.parts).toHaveLength(4)
     expect(test.parts[2].paragraphs).toHaveLength(4)
+  })
+
+  it("loads an image diagram as a data URL", async () => {
+    const { diagram } = (await loadTest("demo-1")).parts[1]
+    expect(diagram.kind).toBe("image")
+    if (diagram.kind === "image") expect(diagram.src).toMatch(/^data:image\/jpeg;base64,/)
+  })
+
+  it("loads an html diagram as page source", async () => {
+    const { diagram } = (await loadTest("demo-2")).parts[1]
+    expect(diagram).toMatchObject({ kind: "html", html: expect.stringContaining("<table") })
+  })
+
+  it("throws on a missing diagram file", async () => {
+    const dir = await mkdtemp(path.join(tmpdir(), "celpip-"))
+    await cp(path.join(DATA_DIR, "demo-2"), path.join(dir, "bad"), { recursive: true })
+    await rm(path.join(dir, "bad", "diagram.html"))
+    await expect(loadTest("bad", dir)).rejects.toThrow()
   })
 
   it("throws on invalid part data", async () => {

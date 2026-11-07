@@ -9,9 +9,15 @@ describe("schemas", () => {
   it("accept the demo test", async () => {
     const [p1, p2, p3, p4] = await valid()
     expect(part1Schema.safeParse(p1).success).toBe(true)
-    expect(part2Schema.safeParse(p2).success).toBe(true)
+    expect(part2Schema.safeParse({ ...p2, diagram: "diagram.png" }).success).toBe(true)
     expect(part3Schema.safeParse(p3).success).toBe(true)
     expect(part4Schema.safeParse(p4).success).toBe(true)
+  })
+
+  it("reject a diagram that is not an image or html file", async () => {
+    const [, p2] = await valid()
+    expect(part2Schema.safeParse({ ...p2, diagram: "diagram.html" }).success).toBe(true)
+    expect(part2Schema.safeParse({ ...p2, diagram: "diagram.pdf" }).success).toBe(false)
   })
 
   it("reject a wrong number of questions", async () => {
@@ -39,6 +45,6 @@ describe("schemas", () => {
 
   it("reject a missing time limit", async () => {
     const [, p2] = await valid()
-    expect(part2Schema.safeParse({ ...p2, timeLimitSec: undefined }).success).toBe(false)
+    expect(part2Schema.safeParse({ ...p2, diagram: "d.png", timeLimitSec: undefined }).success).toBe(false)
   })
 })

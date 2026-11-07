@@ -1,28 +1,86 @@
 {
   "timeLimitSec": 540,
-  "diagram": {
-    "title": "Riverside Community Centre: Summer Swimming Lessons",
-    "columns": ["Program", "Age", "Day and Time", "Length", "Fee"],
-    "rows": [
-      ["Little Splashers", "3-5", "Saturday 9:00-9:30 am", "8 weeks", "$60"],
-      ["Junior Swimmers", "6-9", "Tuesday and Thursday 4:00-4:45 pm", "6 weeks", "$95"],
-      ["Teen Stroke Clinic", "10-15", "Wednesday 6:00-7:00 pm", "6 weeks", "$80"],
-      ["Adult Beginner", "16+", "Monday 7:30-8:30 pm", "8 weeks", "$110"]
-    ]
-  },
+  "diagram": "diagram.html",
   "email": {
     "text": "Hi Karen,\n\nI have been looking at the summer swimming lessons at the Riverside Community Centre for our kids. Since your daughter Emma is seven, the best option for her would be {{1}}. The classes are twice a week right after school, so I could drive both girls together, because my Lily is in the same group.\n\nMy son Ben just turned twelve, so he would join the {{2}} on Wednesday evenings. It is a bit late, but it only runs for {{3}}, so it will be finished before our trip in August.\n\nI was also thinking of signing up for the {{4}} myself, since I never learned to swim properly. It is the most expensive program at {{5}}, but I think it is worth it.\n\nLet me know what you think.\nSarah",
     "blanks": [
-      { "options": ["Little Splashers", "Junior Swimmers", "Teen Stroke Clinic", "Adult Beginner"], "answer": 1 },
-      { "options": ["Junior Swimmers", "Teen Stroke Clinic", "Adult Beginner", "Little Splashers"], "answer": 1 },
-      { "options": ["six weeks", "eight weeks", "four weeks", "ten weeks"], "answer": 0 },
-      { "options": ["Teen Stroke Clinic", "Junior Swimmers", "Adult Beginner", "Little Splashers"], "answer": 2 },
-      { "options": ["$80", "$95", "$60", "$110"], "answer": 3 }
+      {
+        "options": [
+          "Little Splashers",
+          "Junior Swimmers",
+          "Teen Stroke Clinic",
+          "Adult Beginner"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "Junior Swimmers",
+          "Teen Stroke Clinic",
+          "Adult Beginner",
+          "Little Splashers"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "six weeks",
+          "eight weeks",
+          "four weeks",
+          "ten weeks"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "Teen Stroke Clinic",
+          "Junior Swimmers",
+          "Adult Beginner",
+          "Little Splashers"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "$80",
+          "$95",
+          "$60",
+          "$110"
+        ],
+        "answer": 3
+      }
     ]
   },
   "questions": [
-    { "prompt": "Why is Sarah writing to Karen?", "options": ["To ask Karen to teach swimming", "To suggest swimming lessons for their children", "To complain about lesson fees", "To cancel a summer trip"], "answer": 1 },
-    { "prompt": "What is true about Lily?", "options": ["She is in the same age group as Emma", "She is twelve years old", "She already swims well", "She will take lessons on Saturday"], "answer": 0 },
-    { "prompt": "Which program would suit a four-year-old?", "options": ["Junior Swimmers", "Adult Beginner", "Teen Stroke Clinic", "Little Splashers"], "answer": 3 }
+    {
+      "prompt": "Why is Sarah writing to Karen?",
+      "options": [
+        "To ask Karen to teach swimming",
+        "To suggest swimming lessons for their children",
+        "To complain about lesson fees",
+        "To cancel a summer trip"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is true about Lily?",
+      "options": [
+        "She is in the same age group as Emma",
+        "She is twelve years old",
+        "She already swims well",
+        "She will take lessons on Saturday"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Which program would suit a four-year-old?",
+      "options": [
+        "Junior Swimmers",
+        "Adult Beginner",
+        "Teen Stroke Clinic",
+        "Little Splashers"
+      ],
+      "answer": 3
+    }
   ]
 }

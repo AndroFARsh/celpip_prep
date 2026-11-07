@@ -1,28 +1,19 @@
 {
   "timeLimitSec": 540,
-  "diagram": {
-    "title": "Riverside Community Centre: Summer Swimming Lessons",
-    "columns": ["Program", "Age", "Day and Time", "Length", "Fee"],
-    "rows": [
-      ["Little Splashers", "3-5", "Saturday 9:00-9:30 am", "8 weeks", "$60"],
-      ["Junior Swimmers", "6-9", "Tuesday and Thursday 4:00-4:45 pm", "6 weeks", "$95"],
-      ["Teen Stroke Clinic", "10-15", "Wednesday 6:00-7:00 pm", "6 weeks", "$80"],
-      ["Adult Beginner", "16+", "Monday 7:30-8:30 pm", "8 weeks", "$110"]
-    ]
-  },
+  "diagram": "diagram.jpg",
   "email": {
-    "text": "Hi Karen,\n\nI have been looking at the summer swimming lessons at the Riverside Community Centre for our kids. Since your daughter Emma is seven, the best option for her would be {{1}}. The classes are twice a week right after school, so I could drive both girls together, because my Lily is in the same group.\n\nMy son Ben just turned twelve, so he would join the {{2}} on Wednesday evenings. It is a bit late, but it only runs for {{3}}, so it will be finished before our trip in August.\n\nI was also thinking of signing up for the {{4}} myself, since I never learned to swim properly. It is the most expensive program at {{5}}, but I think it is worth it.\n\nLet me know what you think.\nSarah",
+    "text": "To: Marcus@\nFrom: Elena@\n\nHi Marcus,\nI was thinking about our plans for the final weekend of October and found something that seems perfect for your love of local craftsmanship and my obsession with seasonal treats. Since we've been looking for a way to spruce up the living room, if we find a unique handmade piece that's a bit of an investment, we can actually {{1}} at the dessert station. It's a clever way they've linked the different sections of the grounds.\nIf we arrive right when the gates open at the park's southern entrance, we can catch the {{2}} before the crowds get too thick. I also know you've been wanting to refine your skills in the kitchen, so watching the professionals handle the crusts and fillings in the afternoon might be exactly the inspiration you need. Just a heads-up: if we decide to grab that specific tart we liked last year, {{3}} to upgrade our drinks to something warmer and larger.\nAlso, don't forget to bring that digital voucher I mentioned. Using it means our {{4}} will be significantly reduced, which is a nice bonus since we're planning to head out to the fields ourselves. I'm really looking forward to seeing the {{5}} later in the day; it'll be a great way to toast to the season before the sun starts to set.\nLet me know if this sounds like a plan!\nWarmly,\nElena",
     "blanks": [
-      { "options": ["Little Splashers", "Junior Swimmers", "Teen Stroke Clinic", "Adult Beginner"], "answer": 1 },
-      { "options": ["Junior Swimmers", "Teen Stroke Clinic", "Adult Beginner", "Little Splashers"], "answer": 1 },
-      { "options": ["six weeks", "eight weeks", "four weeks", "ten weeks"], "answer": 0 },
-      { "options": ["Teen Stroke Clinic", "Junior Swimmers", "Adult Beginner", "Little Splashers"], "answer": 2 },
-      { "options": ["$80", "$95", "$60", "$110"], "answer": 3 }
+      { "options": ["claim a complimentary treat", "secure a reserved seat", "obtain a souvenir mug", "receive a half-priced pastry"], "answer": 0 },
+      { "options": ["opening ceremony", "initial procession", "vendor setup", "morning livestock show"], "answer": 1 },
+      { "options": ["we must pay full price", "it requires a loyalty card", "a small surcharge applies", "the voucher must be used"], "answer": 2 },
+      { "options": ["equipment rental fee", "parking expenses", "harvest collection cost", "admission price"], "answer": 2 },
+      { "options": ["musical finale", "evening fireworks", "beverage competition results", "closing bonfire"], "answer": 2 }
     ]
   },
   "questions": [
-    { "prompt": "Why is Sarah writing to Karen?", "options": ["To ask Karen to teach swimming", "To suggest swimming lessons for their children", "To complain about lesson fees", "To cancel a summer trip"], "answer": 1 },
-    { "prompt": "What is true about Lily?", "options": ["She is in the same age group as Emma", "She is twelve years old", "She already swims well", "She will take lessons on Saturday"], "answer": 0 },
-    { "prompt": "Which program would suit a four-year-old?", "options": ["Junior Swimmers", "Adult Beginner", "Teen Stroke Clinic", "Little Splashers"], "answer": 3 }
+    { "prompt": "Based on the email, Elena seems to be", "options": ["a thoughtful planner", "mainly focused on drinks", "worried about the budget", "new to the festival"], "answer": 0 },
+    { "prompt": "Marcus most likely enjoys", "options": ["working with livestock", "baking pies himself", "live outdoor music", "handmade craft items"], "answer": 3 },
+    { "prompt": "Elena and Marcus seem to share an interest in", "options": ["enjoying the outdoors together", "supporting local vendors only", "trying every festival food", "arriving before the gates open"], "answer": 0 }
   ]
 }

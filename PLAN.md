@@ -17,11 +17,11 @@ All questions and blanks are dropdowns, as in the real test. `answer` is the zer
 
 - `meta.json`: `{ "title" }` (id = folder name)
 - `part1.json`: `{ timeLimitSec, passage, questions[6], reply: { text, blanks[5] } }`
-- `part2.json`: `{ timeLimitSec, diagram: { title, columns, rows }, email: { text, blanks[5] }, questions[3] }`
+- `part2.json`: `{ timeLimitSec, diagram: "<file>", email: { text, blanks[5] }, questions[3] }`; `diagram` names an image (png, jpg, webp, gif, svg) or a static `.html` page in the test folder
 - `part3.json`: `{ timeLimitSec, paragraphs[4], statements[9]: { text, answer: "A".."E" } }`
 - `part4.json`: `{ timeLimitSec, passage, questions[5], comment: { text, blanks[5] } }`
 
-Decision: part 2 diagram is a table in JSON (rendered with shadcn Table) instead of an image, so authoring needs no image files or asset route.
+Decision: part 2 diagram is a file in the test folder, like the real test. The loader inlines it (image as a data URL, HTML as page source rendered in a sandboxed iframe), so no asset route is needed.
 
 ## Phases
 

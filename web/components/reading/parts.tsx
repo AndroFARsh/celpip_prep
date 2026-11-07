@@ -2,7 +2,6 @@
 
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import type { Answers, Item } from "@/lib/scoring"
 import { splitBlanks } from "@/lib/scoring"
 import type { ReadingTest } from "@/lib/schema"
@@ -18,17 +17,15 @@ type PartProps = {
 type Pane = { left: React.ReactNode; right: React.ReactNode }
 
 function Instruction({ children }: { children: React.ReactNode }) {
-  return <p className="mb-3 text-sm font-medium text-muted-foreground">{children}</p>
+  return <p className="mb-2 text-sm font-medium text-muted-foreground">{children}</p>
 }
 
 function Questions({ items, answers, onAnswer }: Omit<PartProps, "test">) {
   return (
-    <ol className="space-y-4">
+    <ol className="space-y-1 leading-8">
       {items.map((it) => (
-        <li key={it.key} className="space-y-2">
-          <p>
-            {it.number}. {it.label}
-          </p>
+        <li key={it.key}>
+          {it.number}. {it.label}
           <ChoiceSelect item={it} value={answers[it.key]} onChange={(v) => onAnswer(it.key, v)} />
         </li>
       ))}
@@ -38,14 +35,13 @@ function Questions({ items, answers, onAnswer }: Omit<PartProps, "test">) {
 
 function BlankText({ text, items, answers, onAnswer }: Omit<PartProps, "test"> & { text: string }) {
   return (
-    <div className="leading-10 whitespace-pre-line">
+    <div className="leading-8 whitespace-pre-line">
       {splitBlanks(text).map((seg, i) =>
         "text" in seg ? (
           <span key={i}>{seg.text}</span>
         ) : (
           <ChoiceSelect
             key={i}
-            inline
             item={items[seg.blank]}
             value={answers[items[seg.blank].key]}
             onChange={(v) => onAnswer(items[seg.blank].key, v)}
@@ -72,7 +68,7 @@ function part1({ test, items, answers, onAnswer }: PartProps): Pane {
       <>
         <Instruction>{MCQ_HINT} in the message.</Instruction>
         <Questions items={items.slice(0, 6)} {...shared} />
-        <Separator className="my-6" />
+        <Separator className="my-3" />
         <Instruction>
           Here is a response to the message. Complete the response by filling in the blanks. Select the best choice
           for each blank from the drop-down menu.
@@ -90,27 +86,21 @@ function part2({ test, items, answers, onAnswer }: PartProps): Pane {
     left: (
       <>
         <Instruction>Read the following information.</Instruction>
-        <h3 className="mb-3 font-semibold">{p.diagram.title}</h3>
-        <Table>
-          <TableHeader>
-            <TableRow>
-              {p.diagram.columns.map((c) => (
-                <TableHead key={c}>{c}</TableHead>
-              ))}
-            </TableRow>
-          </TableHeader>
-          <TableBody>
-            {p.diagram.rows.map((r, i) => (
-              <TableRow key={i}>
-                {r.map((c, j) => (
-                  <TableCell key={j} className="whitespace-normal">
-                    {c}
-                  </TableCell>
-                ))}
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
+        {p.diagram.kind === "image" ? (
+          // eslint-disable-next-line @next/next/no-img-element -- data URL from the test folder
+          <img
+            src={p.diagram.src}
+            alt="Diagram"
+            className="mx-auto max-h-[calc(100dvh-15rem)] w-auto max-w-full rounded-md border object-contain"
+          />
+        ) : (
+          <iframe
+            srcDoc={p.diagram.html}
+            sandbox=""
+            title="Diagram"
+            className="h-[calc(100dvh-15rem)] w-full rounded-md border bg-white"
+          />
+        )}
       </>
     ),
     right: (
@@ -120,7 +110,7 @@ function part2({ test, items, answers, onAnswer }: PartProps): Pane {
           blanks. Select the best choice for each blank from the drop-down menu.
         </Instruction>
         <BlankText text={p.email.text} items={items.slice(0, 5)} {...shared} />
-        <Separator className="my-6" />
+        <Separator className="my-3" />
         <Instruction>{MCQ_HINT} in the diagram and the email.</Instruction>
         <Questions items={items.slice(5)} {...shared} />
       </>
@@ -172,7 +162,7 @@ function part4({ test, items, answers, onAnswer }: PartProps): Pane {
       <>
         <Instruction>{MCQ_HINT} in the article.</Instruction>
         <Questions items={items.slice(0, 5)} {...shared} />
-        <Separator className="my-6" />
+        <Separator className="my-3" />
         <Instruction>
           The following is a comment by a visitor to the website page. Complete the comment by choosing the best
           option to fill in each blank.

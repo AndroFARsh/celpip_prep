@@ -27,7 +27,7 @@ Copy `data/reading/demo-1` to `data/reading/<new-id>` and edit the JSON. It appe
 
 - `meta.json`: `title`
 - `part1.json`: letter, 6 questions, reply with 5 blanks
-- `part2.json`: diagram table, email with 5 blanks, 3 questions
+- `part2.json`: diagram file name, email with 5 blanks, 3 questions. The diagram is an image (png, jpg, webp, gif, svg) or a static `.html` page in the same folder
 - `part3.json`: 4 paragraphs (A-D), 9 statements answered A-E (E = not given)
 - `part4.json`: article, 5 questions, comment with 5 blanks
 

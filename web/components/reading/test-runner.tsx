@@ -12,6 +12,7 @@ import { saveResult } from "@/lib/results-store"
 import { resultsPath, runParts, type Run } from "@/lib/runs"
 import { formatTime, itemsForPart, PART_NAMES, score, type Answers } from "@/lib/scoring"
 import type { ReadingTest } from "@/lib/schema"
+import { cn } from "@/lib/utils"
 import { PANES } from "./parts"
 
 type PartScreenProps = {
@@ -38,7 +39,14 @@ function PartScreen({ test, part, answers, onAnswer, onNext }: PartScreenProps) 
           Reading Part {part}: {PART_NAMES[part - 1]}
         </h1>
         <div className="flex items-center gap-2">
-          <Badge variant="outline" aria-label="Time remaining">
+          <Badge
+            variant="outline"
+            aria-label="Time remaining"
+            className={cn(
+              "tabular-nums",
+              left < 60 ? "border-red-500 text-red-600" : left < 120 && "border-orange-500 text-orange-600",
+            )}
+          >
             Time remaining: {formatTime(left)}
           </Badge>
           <Button onClick={onNext}>Next</Button>
@@ -48,7 +56,7 @@ function PartScreen({ test, part, answers, onAnswer, onNext }: PartScreenProps) 
         {[leftPane, rightPane].map((pane, i) => (
           <Card key={i} className="py-0">
             <ScrollArea className="md:h-[calc(100dvh-9.5rem)]">
-              <CardContent className="py-6">{pane}</CardContent>
+              <CardContent className="py-4">{pane}</CardContent>
             </ScrollArea>
           </Card>
         ))}
