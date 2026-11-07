@@ -12,6 +12,10 @@ npm run dev
 
 Open http://localhost:3000. Start the full test or a single part. Finished results are saved in the browser; home shows Results and Clear for runs taken before.
 
+## Deploy
+
+Pushing to `main` publishes the site to GitHub Pages (`.github/workflows/deploy.yml`). One-time setup: repo Settings > Pages > Source: GitHub Actions.
+
 ## Test
 
 ```

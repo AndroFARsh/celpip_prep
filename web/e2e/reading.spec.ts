@@ -17,7 +17,8 @@ async function answerPart(page: Page, part: number) {
   }
 }
 
-const row = (page: Page, run: string) => page.getByTestId(`run-${run}`)
+// demo-1 is the first card on the home page.
+const row = (page: Page, run: string) => page.getByTestId(`run-${run}`).first()
 const next = (page: Page) => page.getByRole("button", { name: "Next" }).click()
 
 test("full test: Next moves through every part, then shows saved results", async ({ page }) => {
@@ -28,7 +29,7 @@ test("full test: Next moves through every part, then shows saved results", async
     await answerPart(page, part)
     await next(page)
   }
-  await expect(page).toHaveURL("/reading/demo-1/results/full")
+  await expect(page).toHaveURL("/reading/demo-1/results/full/")
   await expect(page.getByTestId("score")).toHaveText("Score: 38 / 38")
   await expect(page.getByText("Correct", { exact: true })).toHaveCount(38)
   await page.reload()
@@ -38,11 +39,11 @@ test("full test: Next moves through every part, then shows saved results", async
 test("single part: Next goes straight to that part's results", async ({ page }) => {
   await page.goto("/")
   await row(page, "3").getByRole("link", { name: "Start" }).click()
-  await expect(page).toHaveURL("/reading/demo-1/3")
+  await expect(page).toHaveURL("/reading/demo-1/3/")
   await expect(page.getByRole("heading", { name: "Reading Part 3: Reading for Information" })).toBeVisible()
   await answerPart(page, 3)
   await next(page)
-  await expect(page).toHaveURL("/reading/demo-1/results/3")
+  await expect(page).toHaveURL("/reading/demo-1/results/3/")
   await expect(page.getByTestId("score")).toHaveText("Score: 9 / 9")
   await expect(page.getByText("Part 1:")).toHaveCount(0)
 })
@@ -55,7 +56,7 @@ test("home shows results and clear for taken runs only", async ({ page }) => {
   await expect(row(page, "2").getByRole("link", { name: "Results 8/8" })).toBeVisible()
   await expect(row(page, "1").getByRole("link", { name: /Results/ })).toHaveCount(0)
   await row(page, "2").getByRole("link", { name: "Results 8/8" }).click()
-  await expect(page).toHaveURL("/reading/demo-1/results/2")
+  await expect(page).toHaveURL("/reading/demo-1/results/2/")
   await page.goBack()
   await row(page, "2").getByRole("button", { name: "Clear" }).click()
   await expect(row(page, "2").getByRole("link", { name: /Results/ })).toHaveCount(0)
@@ -81,7 +82,7 @@ test("start always begins a fresh run", async ({ page }) => {
   await row(page, "full").getByRole("link", { name: "Start" }).click()
   await expect(page.getByRole("heading", { name: /Reading Part 1/ })).toBeVisible()
   await expect(page.getByLabel("Time remaining")).toContainText("11:0")
-  await expect(page.getByRole("combobox", { name: "Question 1", exact: true })).toHaveText("(1)")
+  await expect(page.getByRole("combobox", { name: "Question 1", exact: true })).toHaveText("(1)", { useInnerText: true })
 })
 
 test("start again from results ignores the previous answers", async ({ page }) => {
@@ -89,7 +90,7 @@ test("start again from results ignores the previous answers", async ({ page }) =
   await answerPart(page, 1)
   await next(page)
   await page.getByRole("link", { name: "Start again" }).click()
-  await expect(page).toHaveURL("/reading/demo-1/1")
+  await expect(page).toHaveURL("/reading/demo-1/1/")
   await next(page)
   await expect(page.getByTestId("score")).toHaveText("Score: 0 / 11")
 })
