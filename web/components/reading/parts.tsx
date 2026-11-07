@@ -20,15 +20,20 @@ function Instruction({ children }: { children: React.ReactNode }) {
   return <p className="mb-2 text-sm font-medium text-muted-foreground">{children}</p>
 }
 
+/** A "______" in a question prompt marks where its dropdown goes; without one, the dropdown follows the prompt. */
 function Questions({ items, answers, onAnswer }: Omit<PartProps, "test">) {
   return (
     <ol className="space-y-1 leading-8">
-      {items.map((it) => (
-        <li key={it.key}>
-          {it.number}. {it.label}
-          <ChoiceSelect item={it} value={answers[it.key]} onChange={(v) => onAnswer(it.key, v)} />
-        </li>
-      ))}
+      {items.map((it) => {
+        const [before, after] = it.label.split(/_{3,}/, 2)
+        return (
+          <li key={it.key}>
+            {it.number}. {before}
+            <ChoiceSelect item={it} value={answers[it.key]} onChange={(v) => onAnswer(it.key, v)} />
+            {after}
+          </li>
+        )
+      })}
     </ol>
   )
 }

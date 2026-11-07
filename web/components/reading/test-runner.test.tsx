@@ -93,4 +93,13 @@ describe("TestRunner", () => {
     expect(screen.getByLabelText("Time remaining")).toHaveTextContent("11:00")
     expect(screen.getByRole("combobox", { name: "Question 1" })).toHaveTextContent("(1)")
   }, 30000)
+
+  it("puts the dropdown in place of a ______ blank in a question prompt", () => {
+    const [p1, ...rest] = test.parts
+    const questions = [{ ...p1.questions[0], prompt: "Pick ______ now." }, ...p1.questions.slice(1)]
+    render(<TestRunner test={{ ...test, parts: [{ ...p1, questions }, ...rest] }} run="full" />)
+    const li = screen.getByRole("combobox", { name: "Question 1" }).closest("li")!
+    expect(li.textContent).toMatch(/^1\. Pick \(1\).* now\.$/)
+    expect(li.textContent).not.toContain("___")
+  })
 })

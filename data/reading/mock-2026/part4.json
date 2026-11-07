@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "When e-readers first hit the market, tech analysts boldly predicted the complete extinction of traditional paper books and neighborhood bookstores. Yet, physical books have staged a remarkable comeback, frequently outselling their digital counterparts. Devoted fans of print argue that holding a physical book offers a tactile experience a digital screen simply cannot replicate, from the familiar scent of paper and the satisfying weight of the volume to the visual reward of a growing bookshelf. For many avid readers, turning physical pages provides a much-needed sanctuary away from glowing screens, offering relief from constant phone notifications and digital eye strain.\n\nConversely, digital reading enthusiasts champion the unmatched convenience of e-readers. A single lightweight device can house thousands of titles, making it an indispensable companion for commuters, frequent travelers, and students carrying heavy loads. For individuals with visual impairments, the ability to instantly adjust font sizes, background lighting, and text spacing is a revolutionary feature that opens up literature to a wider audience. Furthermore, e-books are typically less expensive and eliminate the heavy shipping, manufacturing, and storage costs associated with physical inventory.\n\nWhen examining environmental impacts, however, neither format emerges completely blameless. While e-readers spare countless trees, manufacturing the devices requires intensive mining for rare earth elements and generates hazardous electronic waste when they eventually break down. On the other side of the coin, the publishing industry consumes significant amounts of water and energy, with millions of unsold books ultimately recycled or discarded. Environmental experts emphasize that the greenest approach to reading relies on utilizing public libraries, which maximize resource sharing regardless of format.\n\nUltimately, we inhabit a hybrid reading ecosystem where individuals select their medium based on context, utilizing e-books for travel convenience and light fiction, while reserving physical books for deep study or meaningful gifting. This flexibility has sparked a vibrant renaissance for independent bookstores, transforming them into community anchors that host book clubs and live events. The enduring resilience of the print book proves that humans remain physical beings craving tangible connections to the material world. Whether consumed through pixels on a screen or ink on a page, the true magic persists in the stories themselves.",
+  "questions": [
+    {
+      "prompt": "Why do print books survive?",
+      "options": ["Screens hurt people's eyes", "People love tactile feelings", "E-readers break down fast", "Paper costs dropped low"],
+      "answer": 1
+    },
+    {
+      "prompt": "Why do commuters choose e-readers?",
+      "options": ["They hold thousands cheaply", "They save local bookstores", "They fit travel needs", "They stop eye strain"],
+      "answer": 2
+    },
+    {
+      "prompt": "What is a hidden green problem?",
+      "options": ["Print waste is zero", "Devices create tech trash", "Libraries waste too much", "Paper uses no water"],
+      "answer": 1
+    },
+    {
+      "prompt": "How do indie bookstores survive?",
+      "options": ["Selling cheap e-books online", "Becoming community event hubs", "Charging high entry fees", "Printing custom novels daily"],
+      "answer": 1
+    },
+    {
+      "prompt": "What drives the current era?",
+      "options": ["People picking formats wisely", "Paper completely replacing screens", "E-readers taking over schools", "Libraries shutting down forever"],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "I completely agree with this article because I can't imagine {{1}} physical books. After staring at a work computer screen all day, the last thing my eyes want is a glowing digital tablet in the evening. There is something {{2}} about turning real paper pages and building up a physical library on your shelves.\n\nAt the same time, I completely understand why travelers and commuters love e-readers. Packing a single lightweight device for a long trip instead of three heavy novels {{3}}. It is great that we don't have to choose just one format anymore. Using digital readers {{4}} on the go while saving print books {{5}} reading is the best of both worlds.",
+    "blanks": [
+      { "options": ["giving up", "throwing away", "sharing older", "buying new"], "answer": 0 },
+      { "options": ["quite boring now", "very confusing today", "rather stressful here", "deeply grounding"], "answer": 3 },
+      { "options": ["creates extra stress", "is a total game-changer", "causes heavy delays", "wastes precious time"], "answer": 1 },
+      { "options": ["works best", "feels too slow", "stays quite hard", "proves too costly"], "answer": 0 },
+      { "options": ["for busy travel", "for cozy weekend", "for fast browsing", "for daily work"], "answer": 1 }
+    ]
+  }
+}

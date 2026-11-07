@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "As Canada moves quickly toward a digital economy, the familiar sound of coins and paper money is becoming harder to find at store checkout counters. Because tap-and-go payments and online shopping are so fast and easy, many Canadian businesses, from small coffee shops in Montreal to parking lots in Calgary, now refuse to accept cash. While this change makes things faster for store owners and lowers business costs, it creates a big problem for everyday accessibility. For many people, losing physical money is not a helpful upgrade; it is a real barrier that stops them from buying basic goods and managing their own money independently.",
+    "This shift creates major difficulties for older citizens across Canada. Many seniors, especially those over 80, have spent their whole lives budgeting with physical cash or visiting local bank branches in person. Suddenly being forced to use digital screens and card machines can cause a lot of stress, often leaving them dependent on family members just to buy daily items. Also, as banks close physical branches in small towns to save money, seniors are left dealing with confusing phone apps that are hard to use for people with poor eyesight or shaky hands. This digital divide leaves behind a whole generation that trusts physical cash much more than digital numbers on a screen.",
+    "Besides older adults, the cashless trend hurts low-income and vulnerable people the most. For Canadians struggling with homelessness or tight budgets, keeping a traditional bank account is often impossible because they lack a permanent home address or cannot afford high monthly bank fees. These individuals rely on cash because it is free to use and keeps their purchases private. When a store stops accepting cash, it effectively locks out anyone without a credit card or a smartphone. This creates an unfair split in society where people with digital payment tools get easy service, while the poorest citizens are pushed out and lose their basic buying power.",
+    "Furthermore, getting rid of cash completely raises serious worries about personal privacy. Every digital payment leaves a permanent record that banks and advertising companies can track, which bothers anyone who values their personal freedom. While supporters of a cashless society say it helps stop tax cheating and petty crime, critics argue that giving up privacy is too high a price to pay. As we look ahead, the big challenge for lawmakers is making sure new technology does not leave people behind. Keeping a system where cash remains a legal and accepted choice is vital to protecting the rights of all citizens, no matter their age, income, or tech skills."
+  ],
+  "statements": [
+    { "text": "Going cashless affects businesses ranging from cafes to parking lots.", "answer": "A" },
+    { "text": "A standard bank account is unaffordable for some people.", "answer": "C" },
+    { "text": "Most small businesses report lower sales since dropping cash.", "answer": "E" },
+    { "text": "Losing cash access limits people's financial independence.", "answer": "A" },
+    { "text": "Lacking cards or smartphones shuts people out of purchases.", "answer": "C" },
+    { "text": "Poor eyesight or shaky hands complicate digital banking for seniors.", "answer": "B" },
+    { "text": "The government set a fixed date to phase out cash.", "answer": "E" },
+    { "text": "Critics say losing privacy isn't worth the trade-off.", "answer": "D" },
+    { "text": "Some seniors now depend on family for daily purchases.", "answer": "B" }
+  ]
+}

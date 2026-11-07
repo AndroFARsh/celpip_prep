@@ -5,6 +5,14 @@ import { describe, expect, it } from "vitest"
 
 import { DATA_DIR, listTests, loadTest } from "./tests"
 
+const testIds = (await listTests()).map((t) => t.id)
+
+describe("data/reading", () => {
+  it.each(testIds)("%s is a valid test", async (id) => {
+    await expect(loadTest(id)).resolves.toMatchObject({ id })
+  })
+})
+
 describe("test loader", () => {
   it("lists the demo test", async () => {
     expect((await listTests()).map((t) => t.id)).toContain("demo-1")

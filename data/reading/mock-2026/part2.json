@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI was thinking about our plans for the final weekend of October and found something that seems perfect for your love of local craftsmanship and my obsession with seasonal treats. Since we've been looking for a way to spruce up the living room, if we find a unique handmade piece that's a bit of an investment, we can actually {{1}} at the dessert station. It's a clever way they've linked the different sections of the grounds.\n\nIf we arrive right when the gates open at the park's southern entrance, we can catch the {{2}} before the crowds get too thick. I also know you've been wanting to refine your skills in the kitchen, so watching the professionals handle the crusts and fillings in the afternoon might be exactly the inspiration you need. Just a heads-up: if we decide to grab that specific tart we liked last year, {{3}} to upgrade our drinks to something warmer and larger.\n\nAlso, don't forget to bring that digital voucher I mentioned. Using it means our {{4}} will be significantly reduced, which is a nice bonus since we're planning to head out to the fields ourselves. I'm really looking forward to seeing the {{5}} later in the day; it'll be a great way to toast to the season before the sun starts to set.\n\nLet me know if this sounds like a plan!\n\nWarmly,\nElena",
+    "blanks": [
+      { "options": ["claim a complimentary treat", "secure a reserved seat", "obtain a souvenir mug", "receive a half-priced pastry"], "answer": 0 },
+      { "options": ["opening ceremony", "initial procession", "vendor setup", "morning livestock show"], "answer": 1 },
+      { "options": ["we must pay full price", "it requires a loyalty card", "a small surcharge applies", "the voucher must be used"], "answer": 2 },
+      { "options": ["equipment rental fee", "parking expenses", "harvest collection cost", "admission price"], "answer": 2 },
+      { "options": ["musical finale", "evening fireworks", "beverage competition results", "closing bonfire"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Based on the email, Elena seems to be ______.",
+      "options": ["a thoughtful planner", "mainly focused on drinks", "worried about the budget", "new to the festival"],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus most likely enjoys ______.",
+      "options": ["working with livestock", "baking pies himself", "live outdoor music", "handmade craft items"],
+      "answer": 3
+    },
+    {
+      "prompt": "Elena and Marcus seem to share an interest in ______.",
+      "options": ["enjoying the outdoors together", "supporting local vendors only", "trying every festival food", "arriving before the gates open"],
+      "answer": 0
+    }
+  ]
+}

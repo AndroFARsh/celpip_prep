@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Davis,\n\nWhen our kitchen remodeling project started on February 15th, I hired your company because of your great reputation for reliability. However, after I paid the $12,500 deposit, which is half of the total contract price, all work at my house on 42 Oakridge Lane completely stopped for no good reason. I am writing to send a final notice about your team's ongoing absence from the job site.\n\nAs of today, March 31st, none of your workers have shown up at my property for twenty-one business days in a row. My biggest concern is the dangerous condition in which the room was left. The main floor is still torn apart, with exposed electrical wires and open plumbing pipes that were supposed to be checked three weeks ago. Leaving a job half-finished like this has made my home unlivable for my family. It has also messed up the schedules of the flooring and cabinet installers I hired based on your original timeline.\n\nAlso, my phone calls and emails to you have been completely ignored. While I know that construction companies sometimes face supply delays, failing to communicate with a customer is completely unprofessional. According to Section 4 of our signed agreement, stopping work for more than ten days without a valid reason breaks our contract.\n\nI am asking you to restart the work and send me an updated project schedule by 9:00 AM this Friday, April 3rd. If your workers do not show up on-site or if you fail to give a clear explanation for this delay, I will have no choice but to cancel our contract. In that case, I will take legal steps to get back the unused portion of my deposit and report your business to the provincial licensing board.\n\nI expect to hear back from you immediately confirming when your crew will return to finish the job.\n\nSincerely,\nJulian Vance",
+  "questions": [
+    {
+      "prompt": "The project stalled due to crew ",
+      "options": ["total site absences", "sudden travel delays", "shifting work schedules", "unpaid wage disputes"],
+      "answer": 0
+    },
+    {
+      "prompt": "Incomplete work created serious safety ",
+      "options": ["architectural design styles", "room layout plans", "physical injury concerns", "financial cost estimates"],
+      "answer": 2
+    },
+    {
+      "prompt": "Ignored messages showed poor business ",
+      "options": ["corporate executive leadership", "daily operational practices", "manual technical skills", "worker site supervision"],
+      "answer": 1
+    },
+    {
+      "prompt": "Contracts permitted action after prolonged work ",
+      "options": ["financial account audits", "quality review meetings", "daily hour reductions", "unexpected work stoppages"],
+      "answer": 3
+    },
+    {
+      "prompt": "The homeowner demanded an updated project ",
+      "options": ["timeline schedule plan", "billing payment invoice", "worker name roster", "spending budget sheet"],
+      "answer": 0
+    },
+    {
+      "prompt": "Unresolved disputes threatened future legal ",
+      "options": ["law enforcement actions", "courtroom litigation proceedings", "formal binding arbitration", "neutral third-party mediation"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Julian,\n\nThank you for your email. I am very sorry for the long delay and the lack of communication regarding your kitchen remodel at 42 Oakridge Lane. You have every right to be upset about the stopped work and {{1}} of the site.\n\nWe faced an unexpected medical emergency with our lead builder, but {{2}} and emails was completely unprofessional on my part. That is not how we run our business.\n\nMy crew {{3}} at your house this Friday morning, April 3rd, at 8:30 AM to secure the electrical wires and plumbing pipes. We will also provide {{4}} to get your project {{5}}.\n\nThank you for your patience, and I apologize again for the major stress this has caused your family.\n\nSincerely,\nMr. Davis\nOakridge Construction",
+    "blanks": [
+      { "options": ["the completed remodeling", "the unsafe condition", "the clean environment", "the regular progress"], "answer": 1 },
+      { "options": ["visiting the home", "finishing the project", "calling you daily", "ignoring your calls"], "answer": 3 },
+      { "options": ["will be back", "will arrive late", "must stay away", "might cancel work"], "answer": 0 },
+      { "options": ["a final bill", "a complete updated schedule", "a worker list", "an empty report"], "answer": 1 },
+      { "options": ["temporarily paused", "permanently canceled", "back on track", "heavily delayed"], "answer": 2 }
+    ]
+  }
+}
