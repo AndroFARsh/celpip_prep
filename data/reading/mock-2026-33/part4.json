@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In the modern landscape, the pressure to maintain an outward veneer of success has become an omnipresent, albeit silent, burden. We live in an era where visibility is often equated with value, and the metrics of a \"good life\" are increasingly defined by external markers: high-prestige job titles, affluent lifestyles, and the curation of a perfect digital presence. Social media acts as a relentless amplifier in this regard, functioning as a highlight reel that prioritizes peak achievements while systematically filtering out the inevitable setbacks, doubts, and mundane struggles that define the human experience. This creates a distorted reality where individuals feel compelled to perform success rather than live it authentically.\n\nThis culture of performance fosters a profound sense of anxiety. When we measure our worth through the lens of constant comparison, we often find ourselves trapped in a cycle of \"status signaling.\" To protect this fragile image of control, many people shy away from vulnerability or the act of asking for help, fearing that any admission of struggle will be interpreted as a failure. Consequently, a widening chasm forms between our public personas and our private realities. This gap is the primary driver of emotional fatigue; it requires an immense amount of psychological energy to sustain a facade that does not align with one's internal state or personal values.\n\nThe toll of this \"success theater\" is significant, leading to burnout and a sense of isolation. However, the path to relief lies in shifting our internal definitions. When we decouple success from external validation and begin to view it through the lenses of stability, incremental growth, and emotional well-being, the need for a performance dissipates. Redefining success allows for a more honest self-evaluation, replacing the frantic pursuit of \"looking good\" with the grounded reality of \"being well.\"\n\nUltimately, letting go of the need to appear successful is an act of reclamation. It allows individuals to redirect the energy once spent on image maintenance toward genuine self-discovery and clearer personal direction. By prioritizing authenticity over optics, we foster a culture where it is safe to be a work in progress, leading to a more resilient and connected society.",
+  "questions": [
+    {
+      "prompt": "Public approval is implied to outweigh inner satisfaction, which encourages people to ______.",
+      "options": ["question social values", "abandon personal goals", "display achievement deliberately", "reduce self-expectations"],
+      "answer": 2
+    },
+    {
+      "prompt": "Online self-presentation increases pressure mainly because it shows ______.",
+      "options": ["frequent criticism", "incomplete life narratives", "exaggerated failures", "constant rivalry"],
+      "answer": 1
+    },
+    {
+      "prompt": "Reluctance to seek help reflects fear of ______.",
+      "options": ["exposure of weakness", "dependence", "social judgment", "emotional attachment"],
+      "answer": 0
+    },
+    {
+      "prompt": "Emotional exhaustion results primarily from ______.",
+      "options": ["workload pressure", "repetitive comparison", "maintaining a false identity", "lack of recognition"],
+      "answer": 2
+    },
+    {
+      "prompt": "\"Success theater\" criticizes success defined by ______.",
+      "options": ["effort", "consistency", "appearance", "growth"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "Reading this felt uncomfortably familiar, especially the pressure to appear successful rather than {{1}}. The way social media turns life into a performance explains why so many people {{2}} \"doing well\" on paper. I appreciated the emphasis {{3}} success as emotional balance and steady growth instead of constant validation. The idea that vulnerability is {{4}}, yet is exactly what could relieve the fatigue, really stood out. This passage is a strong reminder that authenticity matters more than optics, and that letting go of comparison {{5}} a healthier, more connected life.",
+    "blanks": [
+      { "options": ["being publicly admired", "meeting external expectations", "actually, feel fulfilled", "maintaining visible consistency"], "answer": 2 },
+      { "options": ["perform convincingly while", "feel exhausted despite", "are celebrated for", "strategically present themselves as"], "answer": 1 },
+      { "options": ["toward displaying", "on redefining", "in proving", "with measuring"], "answer": 1 },
+      { "options": ["misunderstood by society", "avoided out of fear", "criticized in public spaces", "associated with instability"], "answer": 1 },
+      { "options": ["symbolizes", "is assumed to create", "can lead to", "reflects the desire for"], "answer": 2 }
+    ]
+  }
+}

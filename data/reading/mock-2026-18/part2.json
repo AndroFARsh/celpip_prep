@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Laura,\n\nI've been thinking about how chaotic your kitchen has been lately and I found a local, family-run crew in BC that handles the heavy lifting of nutrition for you. Since you're always juggling a million things, this feels like a way to {{1}}. They don't just toss ingredients together; they have specialists ensuring every bite is both functional and high-end.\n\nWhat I love is that there's no pressure to commit long-term, so you can test the waters without feeling {{2}}. Whether you're staying strict with your current health phase or just need someone to manage the math of your macros, they've got a specific track for it. If we wanted to try this together, their middle-tier option seems designed to {{3}}, making our weeknights much smoother.\n\nIt's a step up from the usual frozen stuff, using {{4}} that haven't spent weeks in a warehouse. This could be the shift that finally lets your {{5}}. Let me know if you want the details to get our first box started.\n\nBest | Daniel",
+    "blanks": [
+      { "options": ["increase your daily workload", "reclaim your personal downtime", "learn how to cook professionally", "extend your grocery shopping trips"], "answer": 1 },
+      { "options": ["financially overwhelmed", "socially isolated", "nutritionally deficient", "legally bound"], "answer": 3 },
+      { "options": ["feed a solitary individual", "provide a month's worth of food", "bridge the gap for a small group", "minimize the cost of gourmet dining"], "answer": 2 },
+      { "options": ["synthetic supplements", "locally sourced earth-to-table goods", "imported exotic delicacies", "pre-packaged processed snacks"], "answer": 1 },
+      { "options": ["culinary skills improve", "wellness goals become reality", "household budget double", "refrigerator remain empty"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Daniel writes to Laura primarily to ______.",
+      "options": ["criticize her chaotic culinary skills", "suggest a solution for her busy lifestyle", "recruit her for a new business in BC", "recommend a long-term meal contract"],
+      "answer": 1
+    },
+    {
+      "prompt": "The service is beneficial for those who ______.",
+      "options": ["want to avoid rigid contracts", "need long-term warehouse storage", "prefer purchasing frozen products", "cook heavy meals on a tight budget"],
+      "answer": 0
+    },
+    {
+      "prompt": "Daniel suggests that they should ______.",
+      "options": ["order the most expensive package", "open a family-run kitchen in BC", "buy distinct dietary boxes separately", "share the meal service experience"],
+      "answer": 3
+    }
+  ]
+}

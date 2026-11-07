@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Fast fashion has revolutionized the retail industry by shortening the cycle from catwalk to consumer to just a few weeks. Brands produce thousands of new styles annually at extremely low prices, encouraging a \"disposable\" culture where garments are worn only a few times before being discarded. This model relies on massive production volumes, primarily using synthetic fibers like polyester derived from fossil fuels. Because the clothing is so inexpensive, many consumers view these items as temporary rather than long-term investments. Consequently, the rapid turnover of inventory ensures that retail spaces are constantly refreshed, driving a cycle of incessant consumption.",
+    "The environmental toll of this industry is staggering. It is estimated that textile production generates more greenhouse gas emissions than all international flights and maritime shipping combined. Furthermore, the dyeing process is the second largest polluter of water globally, as toxic chemicals are often released into rivers in manufacturing hubs, destroying local ecosystems and contaminating drinking water for millions. This massive influx of wastewater often contains heavy metals that are impossible for local communities to filter out effectively. Moreover, the microplastics shed from synthetic fabrics during washing eventually find their way into the global food chain.",
+    "Socially, the demand for low-cost clothing often leads to poor labor conditions. In many developing nations, garment workers face low wages, long hours, and unsafe environments to meet the rigorous deadlines of Western retailers. While some brands have introduced \"conscious\" collections, critics argue that these are often examples of \"greenwashing\" that fail to address the core issue of overproduction. These marketing tactics often obscure the reality that high-speed production is fundamentally incompatible with ethical labor practices. Without strict international oversight, the race to the bottom for prices continues to exploit vulnerable populations.",
+    "Change is beginning to emerge through the \"slow fashion\" movement and the rise of the resale market. Apps dedicated to second-hand clothing have gained massive popularity among younger generations, who prioritize sustainability over novelty. To truly mitigate the crisis, experts suggest that manufacturers must transition to a circular model where clothes are designed to be recycled, and consumers must shift their habits toward quality over quantity. This shift requires a fundamental reimagining of the value of clothing in a modern society. Ultimately, the industry must move away from the linear \"take-make-waste\" approach toward a more regenerative system."
+  ],
+  "statements": [
+    {
+      "text": "Accelerated manufacturing schedules negate moral workplace standards.",
+      "answer": "C"
+    },
+    {
+      "text": "Textile waste outpaces aggregate global logistics exhaust.",
+      "answer": "B"
+    },
+    {
+      "text": "Nominal costs trigger a perception of transient ownership.",
+      "answer": "A"
+    },
+    {
+      "text": "Synthetic runoff ultimately penetrates human biological sustenance.",
+      "answer": "B"
+    },
+    {
+      "text": "Tax incentives for organic cotton have doubled recently.",
+      "answer": "E"
+    },
+    {
+      "text": "Deceptive ecological branding masks systemic manufacturing excesses.",
+      "answer": "C"
+    },
+    {
+      "text": "Carbon-heavy polymers dominate current mass-market textile composition.",
+      "answer": "A"
+    },
+    {
+      "text": "Industry survival necessitates abandoning unidirectional resource depletion.",
+      "answer": "D"
+    },
+    {
+      "text": "Emerging cohorts favor circular acquisition over fresh inventory.",
+      "answer": "D"
+    }
+  ]
+}

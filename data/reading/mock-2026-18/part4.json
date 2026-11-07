@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "A recent study of 500 Canadian companies found that businesses allowing employees to work completely from home save 30% on office rent and have much happier staff. Yet, overall, only 20% of Canadian employers allow permanent remote work in 2026. The study's author, Taylor Vance, says this shows a big gap between what workers want and what companies do. \"It is interesting,\" says Vance, \"because in 2026, our digital tools are perfect. People expect to be judged on their actual results, not on whether they are sitting in an office chair.\"\n\nMorgan Kross, who teaches workplace behavior at the University of Toronto, believes the push to return to the office is about company culture. While employees love saving time on commuting, says Kross, they lose important human connections when they only look at screens. \"Working alone at home can make people feel isolated and disconnected,\" Kross argues. \"Being in the same room creates spontaneous ideas and trust. Ironically, this personal trust is exactly what teams need to solve difficult corporate problems quickly.\"\n\nMcGill University business professor Skyler Finch believes that earning the right to work from home is entirely up to the employees, who must prove they are responsible. \"Workers want total freedom,\" Finch says, \"yet they easily get distracted by chores, family, or television when unsupervised. Historically, professional success required a clear separation between home and work. It is up to employees to show extreme self-discipline and hit their targets without a boss watching them.\"\n\nNevertheless, Dana Reese, a human resources director at consulting firm Apex Group, thinks that successful remote work is the responsibility of the company, not the employee. \"Workers have the desire to do well, but companies often fail to give them clear goals. Senior managers must actively create a strong digital workspace.\" For Reese, flexibility is a smart financial strategy. \"Companies must design a system that protects staff from stress, because happy workers stay with their companies longer. Ultimately, what is good for a worker's life balance is good for the company's profits. Talent does not need a commute.\"",
+  "questions": [
+    {
+      "prompt": "Skyler Finch says remote workers need more ______.",
+      "options": ["holiday time off", "help with daily chores", "personal self-discipline", "better computer screens"],
+      "answer": 2
+    },
+    {
+      "prompt": "Which two experts have opposing views about who is responsible for making remote work successful?",
+      "options": ["Vance and Kross", "Kross and Finch", "Finch and Reese", "Vance and Reese"],
+      "answer": 2
+    },
+    {
+      "prompt": "Finch and Reese would likely agree that companies should ______.",
+      "options": ["measure employee work output clearly", "buy bigger office buildings downtown", "eliminate all digital communication tools", "increase the daily commuting time"],
+      "answer": 0
+    },
+    {
+      "prompt": "What would Dana Reese most likely support?",
+      "options": ["Cutting the salaries of employees who work from home", "Funding home-office setups to improve worker well-being", "Providing managers with software to spy on workers at home", "Forcing all staff members back to physical offices"],
+      "answer": 1
+    },
+    {
+      "prompt": "A good title for this article would be \"The Remote Work Debate: ______\".",
+      "options": ["Why Canadian Offices Are Completely Empty", "Different Viewpoints on Where Employees Should Work", "How Technology Damaged Modern Team Cooperation", "The High Cost of Office Rent in Big Cities"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "I own a highly successful real estate company in downtown Vancouver. My employees must meet home buyers face-to-face every single day to build deep community connections. So it's understandable that I {{1}} the study's praise for working from home. Nonetheless, as Reese acknowledges at the end, {{2}}. Our industry depends on instant, personal trust, so surely the home distractions that cause people to lose focus are a sufficient reason to {{3}}. Hence, I am not convinced by Kross's suggestion that remote work always makes people feel {{4}}. However, I agree with what Kross says about the value of in-person trust and, in fact, think companies should give workers {{5}}.",
+    "blanks": [
+      { "options": ["welcome", "doubt", "ignore", "expand"], "answer": 1 },
+      { "options": ["technology always fails", "offices are too expensive", "flexibility protects staff", "rent remains constant"], "answer": 2 },
+      { "options": ["require office attendance", "lower employee salaries", "close down local offices", "purchase newer computers"], "answer": 0 },
+      { "options": ["isolated", "excited", "successful", "creative"], "answer": 0 },
+      { "options": ["more television time", "complete regular freedom", "strict office schedules", "higher rent allowances"], "answer": 2 }
+    ]
+  }
+}

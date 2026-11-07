@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Davis,\n\nI am writing to share my major disappointment with the $500 \"VIP Fan Package\" I bought for the Neon Horizon concert last Friday. Your ads promised an \"exclusive, behind-the-scenes experience\" and a \"personal meet-and-greet\" with the band. As a huge fan of the group for over ten years, I thought this was a great chance to meet the artists I love. Sadly, the actual evening was completely different from what your company advertised.\n\nMy main complaint is about how poorly the meet-and-greet was handled. After waiting in a crowded hallway for nearly two hours, our \"session\" turned out to be a rushed five-second photo where security guards immediately pushed us toward the exit. We were not even allowed to say hello to the band members, let alone take part in the question-and-answer session listed in the schedule you emailed us last month. It felt more like a busy factory line than a special event for loyal fans.\n\nIn addition, the \"Exclusive Merchandise Bundle\" that came with the $500 ticket was a letdown. Instead of the signed vinyl record and custom jacket promised in the package details, we were given a plain cloth bag with a cheap plastic keychain and a normal poster. For a price that is five times higher than a regular ticket, getting cheap items and false advertising is totally unacceptable.\n\nI know that concert tours can be very busy, but it is wrong to sell a high-priced ticket based on promises you do not plan to keep. This careless way of treating fans hurts the band's image and ruins your reputation as an event promoter.\n\nI am not asking for a full refund because the music concert itself was fantastic. However, I am requesting a $300 refund to make up for the VIP features that were not delivered. Alternatively, you can mail me the correct signed merchandise that was originally promised in the advertisement.\n\nI look forward to hearing from you soon with a fair solution before I decide to contact my credit card company to dispute the charge.\n\nSincerely,\nSarah Jenkins",
+  "questions": [
+    {
+      "prompt": "Sarah wrote to report VIP event ______.",
+      "options": ["ticket cancellations", "scheduling conflicts", "advertising fraud", "service failures"],
+      "answer": 2
+    },
+    {
+      "prompt": "The meet-and-greet felt ruined due to ______.",
+      "options": ["rushed security", "artist illness", "technical delays", "weather problems"],
+      "answer": 0
+    },
+    {
+      "prompt": "The merchandise bundle lacked items like ______.",
+      "options": ["signed vinyls", "plastic keychains", "cloth bags", "normal posters"],
+      "answer": 0
+    },
+    {
+      "prompt": "Sarah's compensation demand involves partial ______.",
+      "options": ["store credits", "concert tickets", "cash refunds", "digital downloads"],
+      "answer": 2
+    },
+    {
+      "prompt": "The main driver of Sarah's frustration stems from ______.",
+      "options": ["missed musical performances", "broken promotional promises", "rude band members", "overpriced standard seats"],
+      "answer": 1
+    },
+    {
+      "prompt": "Sarah's ultimate backup plan relies on ______.",
+      "options": ["legal lawsuits", "police reports", "social boycotts", "credit disputes"],
+      "answer": 3
+    }
+  ],
+  "reply": {
+    "text": "Dear Sarah,\n\nThank you for your email. I am very sorry to hear about your bad experience with the VIP package at the Neon Horizon concert last Friday. You had {{1}} a great meet-and-greet and proper merchandise for that price.\n\nOur security team made the photo line much {{2}}, and that is not how we want our loyal fans {{3}}. Also, there was a mix-up with the supply delivery, which is why you received the wrong items in your merch bag. That is our mistake, and we take full responsibility for it.\n\n{{4}}, I have processed a $300 refund back to your credit card. I {{5}} the correct signed vinyl record and custom tour jacket to your address today.\n\nThank you for bringing this to our attention. We hope to give you a much better experience at future shows.\n\nSincerely,\nMr. Davis\nEvent Promoter",
+    "blanks": [
+      { "options": ["no reason to expect", "every right to expect", "a small chance for", "very little right to demand"], "answer": 1 },
+      { "options": ["too rushed", "remarkably well organized", "friendly and slow", "calm and spacious"], "answer": 0 },
+      { "options": ["to feel valued", "to be treated", "to enjoy shows", "to relax backstage"], "answer": 1 },
+      { "options": ["To help cover parking", "To make things right", "As a delayed penalty", "For your future tickets"], "answer": 1 },
+      { "options": ["am mailing out", "will never ship", "might pick up", "have cancelled sending"], "answer": 0 }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Across the Canadian Prairies, many farmers are now using small flying drones to help manage their crops everyday. Instead of walking through huge fields or driving heavy tractors just to inspect their crops, farmers can simply send a drone into the air from their phone to get a clear view of their land. These drones come with special cameras that can easily spot problem areas from high above. For example, they can show if a specific section of a field needs more water, lacks nutrients, or is being damaged by bugs. This allows farmers to fix small problems quickly instead of wasting time treating an entire field at once.",
+    "Using drones is also great news for the local environment and wild habitats. In the past, farmers often sprayed large amounts of fertilizers and weed killers over their whole land to be safe. Rainwater would then wash these extra chemicals into nearby rivers and lakes, harming fish and drinking water quality. Today, information from drones lets farmers apply chemicals only to the exact spots where they are actually needed. Using fewer chemicals keeps rural lakes cleaner and means heavy tractors spend less time driving around, which cuts down on expensive diesel fuel use and air pollution.",
+    "Drones are also saving family farms a lot of money on fuel, labor, and crop loss during difficult market conditions. A single drone can check thousands of acres in just a few hours—a massive job that used to take farm workers several days to complete on foot. By finding plant diseases, dry soil, or invasive weeds early, farmers can deal with them before whole harvests are completely ruined. For family-owned farms struggling with rising costs, catching these issues early can easily save tens of thousands of dollars each year and keep their businesses profitable.",
+    "Even with these clear benefits, some common challenges remain for local farm owners trying out this technology. Drones gather a huge amount of personal information about farm soil and crop yields, and many farmers worry about who really owns that digital data. They do not want private information shared with big corporations or competitors. There are also ongoing internet connection issues in remote rural areas, where weak cellular signals make it hard to upload and process drone images quickly. Over the coming years, Canada will need better internet in farming regions and clearer privacy rules to make sure farmers can use this technology safely and easily."
+  ],
+  "statements": [
+    {
+      "text": "Targeted treatments help lower overall farm operating costs.",
+      "answer": "B"
+    },
+    {
+      "text": "Unreliable internet speed creates operational delay in rural areas.",
+      "answer": "D"
+    },
+    {
+      "text": "Precision farming helps protect surrounding natural water sources.",
+      "answer": "B"
+    },
+    {
+      "text": "Financial grants are available for farmers purchasing new technology.",
+      "answer": "E"
+    },
+    {
+      "text": "Visual monitoring tools eliminate the need for manual field inspections.",
+      "answer": "A"
+    },
+    {
+      "text": "Crop loss prevention helps maintain the profitability of smaller operations.",
+      "answer": "C"
+    },
+    {
+      "text": "Drone manufacturers are legally required to protect farmer data.",
+      "answer": "E"
+    },
+    {
+      "text": "Aerial views make early detection of land damage possible.",
+      "answer": "A"
+    },
+    {
+      "text": "Drones allow workers to spend less physical time in fields.",
+      "answer": "C"
+    }
+  ]
+}

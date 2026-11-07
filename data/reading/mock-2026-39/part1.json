@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Ms. Alvarez,\n\nI am writing to take full responsibility for the data entry error that occurred in last week's financial report. After reviewing the situation carefully, I want to acknowledge my mistake and explain the steps I have taken to ensure it does not happen again.\n\nThe error occurred when I failed to double-check figures before submitting the final version of the report. At the time, I was confident that the information was accurate; however, I later discovered inconsistencies that affected the overall analysis. I understand that this mistake caused confusion and required additional time for correction, and I sincerely apologize for the inconvenience it created for the team.\n\nRather than making excuses, I believe it is important to focus on accountability and improvement. Immediately after identifying the issue, I notified the relevant team members and worked overtime to correct the data. I also reviewed our internal procedures to better understand where my process fell short.\n\nAs a result, I have implemented several changes to my workflow. I now use a verification checklist before submitting any reports and schedule additional time for peer review when possible. I have also requested access to further training to strengthen my attention to detail and improve my understanding of financial compliance standards.\n\nThis experience has reinforced an important lesson about professionalism. Mistakes are sometimes unavoidable, but how they are handled defines one's reliability and integrity. By addressing the issue promptly and transparently, I hope to rebuild trust and demonstrate my commitment to high-quality work.\n\nThank you for your understanding and for giving me the opportunity to correct this mistake. I value my role within the organization and remain dedicated to contributing positively moving forward.\n\nRespectfully,\nSophia Nguyen",
+  "questions": [
+    {
+      "prompt": "Sophia explains the cause mainly to ______.",
+      "options": ["justify the reporting delay", "clarify how error arose", "shift focus from impact", "question system reliability"],
+      "answer": 1
+    },
+    {
+      "prompt": "Mentioning her initial confidence implies Sophia ______.",
+      "options": ["misjudged the report accuracy", "trusted organizational systems", "ignored warning indicators", "relied on peer validation"],
+      "answer": 0
+    },
+    {
+      "prompt": "Sophia discusses inconvenience to the team to show ______.",
+      "options": ["awareness of broader consequences", "concern about personal image", "fear of disciplinary action", "emphasis on time pressure"],
+      "answer": 0
+    },
+    {
+      "prompt": "The order of actions described suggests Sophia ______.",
+      "options": ["prioritized correction before reflection", "addressed impact before prevention", "acted promptly, then improved systems", "waited for guidance before acting"],
+      "answer": 2
+    },
+    {
+      "prompt": "Requesting training indicates Sophia values ______.",
+      "options": ["long-term professional growth", "external validation of skills", "procedural compliance only", "management reassurance"],
+      "answer": 0
+    },
+    {
+      "prompt": "Ending the email this way suggests Sophia wants to ______.",
+      "options": ["reaffirm commitment after mistake", "close the issue formally", "reduce future accountability", "seek emotional reassurance"],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Sophia,\n\nIt goes without saying that I appreciate you {{1}} regarding the report. Given the impact on our analysis, I'm not so sure that {{2}}, but since you've already corrected the figures, we can move forward. Regarding the extra resources you mentioned, there's no need to {{3}}; the company will cover those costs as part of your professional development. I was particularly interested in your mention of the new workflow. Did you include {{4}} in your updated process? I'm {{5}}, as it would have prevented the initial confusion.\n\nAnyway, let's discuss the new verification steps during our one-on-one meeting tomorrow.\n\nMs. Alvarez",
+    "blanks": [
+      { "options": ["acknowledging the technical glitch", "owning up to the oversight", "blaming the software for the error", "submitting the report on time"], "answer": 1 },
+      { "options": ["a simple apology is enough", "the situation was a minor one", "your workflow was effective", "the team noticed the error immediately"], "answer": 1 },
+      { "options": ["pay for the additional workshops yourself", "worry about the overtime you worked", "re-submit the same financial report", "ask for a peer review next time"], "answer": 0 },
+      { "options": ["the previous year's audit", "the manual entry log", "the validation list you mentioned", "the signature of the department head"], "answer": 2 },
+      { "options": ["glad you didn't see the inconsistencies", "unhappy you contacted the team", "surprised you finished the report so fast", "sorry you missed that step earlier"], "answer": 3 }
+    ]
+  }
+}

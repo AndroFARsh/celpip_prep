@@ -1,6 +1,6 @@
 ---
 name: youtube-reading-test
-description: Turn a YouTube CELPIP Reading mock-test video into a new test folder in data/reading/ (meta.json, part1-4.json, diagram). Use when the user gives a YouTube link and asks to create, import or generate a practice test from it.
+description: Turn YouTube CELPIP Reading mock-test videos (one video or a whole playlist) into test folders in data/reading/ (meta.json, part1-4.json, diagram). Use when the user gives a YouTube video or playlist link and asks to create, import or generate practice tests from it.
 ---
 
 # YouTube video to CELPIP Reading test
@@ -10,6 +10,9 @@ Mock-test videos usually have no captions: the passages, questions and options a
 Scripts live in `.claude/skills/youtube-reading-test/scripts/`. Use the session scratchpad directory as the work dir (call it `$W`), never the repo.
 
 ## Steps
+
+0. **Skip videos that are already done.** Run `bash .claude/skills/youtube-reading-test/scripts/pending.sh "<video or playlist url>" "$W"`. It lists only the videos with no test yet (a test is linked to its video by `source` in `meta.json`). Work through them in playlist order, one at a time, using steps 1-5 for each and a fresh work dir per video (`$W/<video id>`). Run `pending.sh` again whenever you resume.
+   For a batch of several videos, run them through the `reading-test-transcriber` agent (Sonnet), not `general-purpose`.
 
 1. **Download and extract frames.**
    `bash .claude/skills/youtube-reading-test/scripts/fetch.sh "<url>" "$W"`
@@ -26,7 +29,7 @@ Scripts live in `.claude/skills/youtube-reading-test/scripts/`. Use the session 
    `bash .claude/skills/youtube-reading-test/scripts/frame.sh "$W" <mm:ss> data/reading/<id>/diagram.jpg <w:h:x:y>`.
    Look at the result: no UI chrome, nothing cut off, text readable.
 
-4. **Write the files** in `data/reading/<id>/` (kebab-case id). Match the schemas in `web/lib/schema.ts`, and use `data/reading/mock-2026/` as the reference example.
+4. **Write the files** in `data/reading/<id>/`. Name new tests to continue the existing ones: `mock-2026-<N>`, where N is the next free number. Match the schemas in `web/lib/schema.ts`, and use `data/reading/mock-2026-2/` as the reference example.
 
 5. **Validate:** `bash .claude/skills/youtube-reading-test/scripts/validate.sh`. Fix the files until it passes, then check that the test shows up on the home page of the dev server.
 
@@ -39,11 +42,13 @@ Scripts live in `.claude/skills/youtube-reading-test/scripts/`. Use the session 
 - **Option order:** keep the video's order. The video shows options in a table with one column per question; `Option 1st..4th` in the answer key is the row. So `answer` = row - 1. Check each key answer against the option text, not just the row number.
 - **Part 3:** `answer` is the letter from the key. Ignore extra labels such as "Not Given" printed next to an answer letter that is not E.
 - **Time limits** (ignore the video's timer): part1 660, part2 540, part3 600, part4 780.
-- **`meta.json`:** `{ "title": "<short name> (<channel>)" }`.
+- **`meta.json`:** `{ "title": "Mock Test 2026 #<N> (CareerAxis video)", "source": "https://www.youtube.com/watch?v=<video id>" }`. For another channel, use its name. `source` is always the plain watch URL with no playlist parameters, because `pending.sh` uses it to tell which videos are done and the test card links to it.
+- **Duplicate videos:** if a video's test is identical to one already in `data/reading/`, don't create a copy. Tell the user which tests match.
 
 ## Done when
 
-- `validate.sh` passes, and `npm test` passes in `web/` (Node 20+).
+- `validate.sh` passes, and `npm test` passes in `web/` (Node 20+). Unit and e2e tests use the fixtures in `web/test/fixtures/reading/`, never `data/reading/`.
+- `meta.json` has `source`, and `pending.sh` no longer lists the video.
 - Counts match: Part 1 has 6 questions and 5 blanks; Part 2 has 5 blanks and 3 questions; Part 3 has 4 paragraphs and 9 statements; Part 4 has 5 questions and 5 blanks.
 - Each answer was checked against the video's answer key.
 - The new test appears on the home page and its diagram is readable.

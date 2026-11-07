@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Reynolds,\n\nI am writing to sincerely apologize for my behavior during last Friday's team meeting. After reflecting on the situation, I realize that my actions were unprofessional and did not align with the standards expected in our workplace.\n\nAt the time, I was feeling overwhelmed by multiple deadlines and underestimated how stressed I had become. When my proposal was questioned, I reacted defensively and spoke out of turn. Raising my voice and interrupting colleagues was inappropriate, regardless of the pressure I was under. I understand now that this disrupted the meeting and made others uncomfortable.\n\nOver the weekend, I took time to reflect on the incident and review our company's code of conduct. It became clear that professionalism involves managing emotions, especially during disagreements. While constructive debate is encouraged, it must always remain respectful and solution-focused. I regret allowing my frustration to overshadow these principles.\n\nI have already taken steps to ensure this does not happen again. I have enrolled in a workplace communication workshop offered by the company and have started using stress-management strategies to better handle demanding situations. Additionally, I reached out individually to the team members involved to apologize and listen to their perspectives.\n\nI value my role within the organization and the trust placed in me. This incident has been a wake-up call, reminding me that technical skills alone are not enough; professionalism and emotional intelligence are equally important. I am committed to rebuilding confidence through consistent, respectful behavior moving forward.\n\nThank you for taking the time to read this message. I appreciate your understanding and the opportunity to learn from this mistake.\n\nSincerely,\nMarcus Lee",
+  "questions": [
+    {
+      "prompt": "Marcus's primary intention in writing is to ______.",
+      "options": ["justify emotional response", "report workplace conflict", "demonstrate accountability", "explain project pressure"],
+      "answer": 2
+    },
+    {
+      "prompt": "The immediate cause of Marcus's behavior was ______.",
+      "options": ["excessive project demands", "personal emotional fatigue", "unmanaged stress response", "lack of managerial guidance"],
+      "answer": 2
+    },
+    {
+      "prompt": "Marcus's reflection led him to redefine professionalism as ______.",
+      "options": ["strict rule compliance", "emotional self-regulation", "avoiding workplace disagreement", "maintaining technical accuracy"],
+      "answer": 1
+    },
+    {
+      "prompt": "The steps Marcus has taken suggest ______.",
+      "options": ["proactive behavioral correction", "external pressure to improve", "fear of formal discipline", "temporary damage control"],
+      "answer": 0
+    },
+    {
+      "prompt": "The apology implies that Marcus believes ______.",
+      "options": ["stress excuses misconduct", "intentions outweigh impact", "impact overrides intention", "conflict is unavoidable"],
+      "answer": 2
+    },
+    {
+      "prompt": "Marcus expects to rebuild trust through ______.",
+      "options": ["improved technical output", "visible emotional restraint", "formal communication training", "consistent respectful conduct"],
+      "answer": 3
+    }
+  ],
+  "reply": {
+    "text": "Dear Marcus,\n\nThank you for your message. It takes a great deal of maturity to {{1}} and I appreciate the sincerity of your apology. While I was {{2}}, I understand that everyone has days where the pressure becomes difficult to manage. However, it is vital that our team remains a space where {{3}}. I was particularly pleased to hear that you have {{4}}. Taking that kind of initiative shows me that you are serious about your professional growth. I believe that if you {{5}}, we can certainly put this incident behind us and continue working effectively together.\n\nBest regards,\nMr. Reynolds",
+    "blanks": [
+      { "options": ["acknowledge your recent lapse in judgment", "admit that your proposal was flawed", "explain why you were so stressed", "defend your actions during the meeting"], "answer": 0 },
+      { "options": ["surprised by your sudden outburst", "disappointed by your lack of technical skills", "concerned by your conduct on Friday", "aware that the deadlines were too tight"], "answer": 2 },
+      { "options": ["deadlines are always met on time", "everyone agrees with the manager", "dialogue stays courteous and productive", "interruptions are kept to a minimum"], "answer": 2 },
+      { "options": ["finished the project ahead of schedule", "signed up for a professional development course", "decided to work from home to reduce stress", "apologized to the clients for the delay"], "answer": 1 },
+      { "options": ["focus more on your technical output", "maintain this commitment to self-improvement", "avoid speaking during future team meetings", "try to ignore your colleagues' criticisms"], "answer": 1 }
+    ]
+  }
+}

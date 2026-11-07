@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Fitness apps have changed a lot, turning simple step-counting into fun role-playing games. These apps use clever design tricks to turn boring workouts into exciting digital adventures. For example, a morning jog in a local park can feel like a mission to run away from zombies or deliver supplies to a fantasy kingdom. By adding points, reward levels, and digital prizes, creators try to make exercising feel like a fun hobby instead of a hard chore. This style is especially popular with younger people who grew up playing video games.",
+    "The biggest benefit of these apps is how they help people stick to a regular workout routine. Many users find that a story-based game gives them a great reason to exercise on days when they feel lazy. Features like daily activity streaks and friends' lists create a fun sense of teamwork and friendly competition. During cold winter months when people usually stay indoors, these apps give a helpful push, letting users feel a sense of achievement by unlocking new gear for their digital characters. For many, finishing a virtual story is a much stronger daily push than thinking about long-term health.",
+    "However, mixing video games and exercise also has some downsides. Critics point out that chasing digital badges and high scores can sometimes take away the simple joy of moving your body. There is a risk that if the game gets too demanding, users might focus too much on hitting numbers—like a high step count—instead of listening to their own bodies. This can lead to injuries because people push through pain just to keep a daily streak alive or stay ahead of a rival. Also, constant pop-up notifications from the apps can cause screen fatigue, turning what should be a relaxing workout break into more digital stress.",
+    "Furthermore, the competitive side of these apps can sometimes make people feel discouraged instead of inspired. When users compare their scores against professional athletes or people with much more free time, it can hurt their self-confidence. There are also worries about how much personal location data these apps track and save. The main challenge for the fitness industry is finding a healthy balance: using game features to get people started, but making sure the real focus stays on safe, healthy physical movement. Whether these apps are here to stay or just a passing fad will depend on how well they can focus on true health rather than just game entertainment."
+  ],
+  "statements": [
+    {
+      "text": "A narrative format can encourage consistency even when motivation is low.",
+      "answer": "B"
+    },
+    {
+      "text": "Prioritizing performance metrics may cause people to override natural bodily cues.",
+      "answer": "C"
+    },
+    {
+      "text": "There is unease surrounding the amount of user data these platforms gather.",
+      "answer": "D"
+    },
+    {
+      "text": "Ordinary physical activity can be reframed as an imaginative quest.",
+      "answer": "A"
+    },
+    {
+      "text": "Measuring oneself against those with greater time or skill can be demotivating.",
+      "answer": "D"
+    },
+    {
+      "text": "Game-like incentives are designed to shift how exercise feels emotionally.",
+      "answer": "A"
+    },
+    {
+      "text": "The lasting success of this trend hinges on prioritizing wellness over entertainment value.",
+      "answer": "D"
+    },
+    {
+      "text": "Frequent alerts from these apps can undermine the calming purpose of exercise.",
+      "answer": "C"
+    },
+    {
+      "text": "Doctors have recommended these apps as a treatment for chronic illness.",
+      "answer": "E"
+    }
+  ]
+}

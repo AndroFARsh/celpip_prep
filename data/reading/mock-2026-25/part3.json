@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "\"Repair Culture,\" also known as the Right to Repair movement, is a socio-political response to the modern industry practice of \"planned obsolescence.\" Many consumer electronics are intentionally designed to be difficult to fix, with glued-in batteries and proprietary screws. This forces consumers to discard semi-functional devices and buy new ones, fueling a global e-waste crisis. Repair advocates argue that true ownership of a product includes the right to open it, understand it, and mend it. This movement is not just about saving money; it's about reclaiming autonomy from large corporations.",
+    "\"Repair Cafes\" have emerged as the heart of this movement. These are free community meeting spaces where people bring broken household items—toasters, bicycles, clothing—and fix them alongside volunteer experts. These events foster \"intergenerational knowledge transfer,\" as older generations share mechanical skills that have been lost in the digital age. Research shows that participating in repair activities increases a person's \"self-efficacy\"—the belief in one's ability to influence the physical world. It transforms a passive consumer into an active \"maker.\"",
+    "Legally, the movement is making significant strides in the European Union and parts of North America. New laws are being drafted that require manufacturers to provide spare parts and repair manuals to independent shops and the general public for at least ten years after a product is released. Tech companies have lobbied against these laws, citing concerns over \"intellectual property\" and \"consumer safety.\" However, supporters point out that these arguments are often a facade for protecting profit margins and preventing the growth of a secondary market for used goods.",
+    "Environmentally, the \"repair first\" mindset is the most effective way to reduce the carbon footprint of the tech sector. The majority of a smartphone's emissions are generated during the manufacturing and shipping phases, not during its actual use. Extending the life of a phone from two years to four years would nearly halve its total environmental impact. As the global economy faces resource scarcity, \"maintenance\" is becoming a more radical and necessary act than \"innovation.\" The future may belong not to those who can build the newest thing, but to those who can keep the old things running."
+  ],
+  "statements": [
+    {
+      "text": "Engaging in manual restoration shifts an individual's identity from a helpless buyer to an empowered creator.",
+      "answer": "B"
+    },
+    {
+      "text": "Emerging statutes mandate that producers supply long-term access to essential components and instructional documentation.",
+      "answer": "C"
+    },
+    {
+      "text": "Deliberate manufacturing obstacles compel frequent replacements, aggravating the worldwide accumulation of electronic refuse.",
+      "answer": "A"
+    },
+    {
+      "text": "Prolonging the functional duration of existing hardware significantly mitigates its overall atmospheric contribution.",
+      "answer": "D"
+    },
+    {
+      "text": "Tax incentives are currently offered to businesses that promote internal device recycling.",
+      "answer": "E"
+    },
+    {
+      "text": "Legal possession of an item should inherently permit the modification and restoration of its internal components.",
+      "answer": "A"
+    },
+    {
+      "text": "Communal workshops facilitate the transmission of technical expertise across different age demographics.",
+      "answer": "B"
+    },
+    {
+      "text": "The ecological burden of mobile technology is primarily concentrated in the initial production stages.",
+      "answer": "D"
+    },
+    {
+      "text": "Corporate warnings regarding user security are frequently interpreted as strategic maneuvers to maintain financial monopolies.",
+      "answer": "C"
+    }
+  ]
+}

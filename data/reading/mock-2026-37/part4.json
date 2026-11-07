@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The \"medicalization\" of urban planning represents a paradigm shift where the layout of our cities is no longer dictated solely by transit or economics, but by clinical health outcomes. By utilizing \"spatial policies\" as a form of preventative medicine, urban designers are attempting to engineer the physical environment to combat systemic crises like obesity and cardiovascular disease. Examples of this are increasingly common: many municipalities now implement zoning bans that prevent new fast-food outlets from opening within a 500-meter radius of schools or parks. Simultaneously, cities are mandating \"cooling corridors\"—green pathways designed to mitigate the urban heat island effect—to reduce heat-related stress and heart-rate-inducing temperatures.\n\nWhile these interventions are statistically supported by health data, they have sparked a heated debate regarding the limits of state intervention. Critics argue that this approach suffers from \"tunnel vision medicalization,\" a narrow focus that prioritizes the negation of disease over the complexities of human life. From this perspective, when planners treat a neighborhood like a controlled clinical environment, they risk infringing on personal autonomy. If a city dictates where a citizen can buy a burger or how they must walk to avoid heat, it arguably treats the resident as a patient to be managed rather than a citizen with the right to choose.\n\nFurthermore, opponents of medicalized planning contend that these policies often ignore the cultural and social conditions that define why people live and eat the way they do. A fast-food ban, for instance, may address the availability of calories but fails to address the \"food deserts\" or economic pressures that make cheap, fast meals a necessity for working-class families. Similarly, cooling corridors are vital, but they do not solve the underlying social inequities of energy poverty. By reducing urban life to a set of biological metrics, planners may overlook the vital \"social fabric\" of a city—the community hubs, cultural traditions, and economic realities that cannot be solved by a simple zoning change. The challenge for future planners lies in balancing these proven health benefits with a holistic respect for the social and personal freedoms that make urban living meaningful.",
+  "questions": [
+    {
+      "prompt": "Restrictions on fast-food shops near communal spaces reflect an attempt to ______.",
+      "options": [
+        "regulate citizens' spending patterns",
+        "encourage long-term health outcomes",
+        "eliminate all unhealthy foods from the market",
+        "promote corporate compliance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics warn that planning cities purely for health purposes could ______.",
+      "options": [
+        "fully eradicate chronic illnesses",
+        "reduce the need for public parks",
+        "strengthen cultural cohesion",
+        "limit personal decision-making freedoms"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "By emphasizing measurable wellness indicators, planners risk ______.",
+      "options": [
+        "improving cultural events in neighborhoods",
+        "increasing urban vegetation coverage",
+        "enhancing citizens' autonomy in daily decisions",
+        "ignoring intangible aspects of social cohesion"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Fast-food bans alone cannot ______.",
+      "options": [
+        "fix poverty",
+        "stop calorie intake",
+        "create parks",
+        "reduce traffic"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The central tension in the debate over medicalized planning is between ______.",
+      "options": [
+        "costs vs. parks",
+        "zoning vs. transit",
+        "health benefits vs. autonomy",
+        "culture vs. climate"
+      ],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "This article offers a compelling perspective on how urban planning is {{1}} public health goals. While the intention to create healthier cities is admirable, the discussion rightly questions where the line should be drawn between {{2}}. Treating neighborhoods as clinical spaces may improve statistics, but it can also limit personal choice and {{3}}. I particularly liked the emphasis on social and economic realities, such as food access and energy inequality, {{4}} through zoning alone. The piece effectively highlights the need for planners to {{5}} health benefits with community identity, autonomy, and the everyday freedoms that define meaningful urban life.",
+    "blanks": [
+      {
+        "options": [
+          "systemically representative of",
+          "incrementally reflective of",
+          "progressively accountable to",
+          "increasingly shaped by"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "guidance and control",
+          "intervention and encouragement",
+          "oversight and facilitation",
+          "policy intent and execution"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "ignore cultural habits",
+          "displace inherited routines",
+          "dilute lifestyle continuity",
+          "override informal practices"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "frequently oversimplified",
+          "whose complexity remains debated",
+          "which cannot be solved",
+          "insufficiently addressed"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "reconcile quantifiable",
+          "balance measurable",
+          "align observable",
+          "coordinate documented"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

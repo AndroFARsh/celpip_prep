@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Across Canadian cities today, people are changing the way they think about their clothes. Instead of quickly throwing away old items, a trend called \"circular fashion\"—which focuses on making clothes last longer, fixing them, and recycling them—is becoming very popular. This shift is happening because cheap, fast-fashion clothes were causing tons of synthetic waste to pile up in landfills every year. Now, if someone has a broken zipper or ripped jeans, they often take them to local \"Repair Cafés.\" These are friendly community events where volunteers bring sewing machines and tools to help people fix their clothes for free, making mending feel like a fun and creative hobby.",
+    "Taking better care of our clothes has a massive positive impact on the environment. Making new clothes uses huge amounts of water and creates lots of pollution. However, if you keep using an item of clothing for just nine more months, you can cut down its total waste and water footprint by about a third. Many Canadian clothing brands are now adding QR codes onto their tags. Scanning the code shows you where the fabric came from and how to recycle it properly. This makes it easy for shoppers to pick high-quality, natural materials instead of cheap polyester that pollutes local lakes and rivers when washed.",
+    "This movement is also bringing people closer together and teaching them practical skills. Young people are especially excited about \"visible mending\"—fixing torn clothes with bright, colorful stitches to make a bold fashion statement. At Repair Cafés, older adults and retired tailors teach younger people traditional skills like embroidery and darning. This helps keep classic crafting techniques alive while building strong local connections. Instead of constantly buying new outfits, more people are learning to appreciate the hard work that goes into making clothes and enjoying taking care of the unique items they already own.",
+    "Even though many people love this idea, making the entire fashion industry eco-friendly is still tough. Most city recycling plants are not built to sort and recycle mixed fabrics easily. On top of that, ethically made local clothing is usually much more expensive than cheap imported brands. Some big stores also trick customers by calling their products \"green\" without actually making fewer clothes. To make a real difference going forward, Canada needs to build better recycling facilities and make professional repair services easier to find. True style isn't about buying new things—it's about the stories behind the clothes we already have."
+  ],
+  "statements": [
+    {
+      "text": "Experienced elders are teaching traditional sewing craft techniques to teenagers.",
+      "answer": "C"
+    },
+    {
+      "text": "People are finding social ways to fix damaged outfits instead of throwing them out.",
+      "answer": "A"
+    },
+    {
+      "text": "Technology helps shoppers check if an item was made responsibly.",
+      "answer": "B"
+    },
+    {
+      "text": "Local government funds are currently paying residents to mend garments.",
+      "answer": "E"
+    },
+    {
+      "text": "High prices for sustainable apparel create challenges for budget shoppers.",
+      "answer": "D"
+    },
+    {
+      "text": "School programs now require students to design eco-friendly uniforms.",
+      "answer": "E"
+    },
+    {
+      "text": "Wearing an item slightly longer significantly reduces environmental harm.",
+      "answer": "B"
+    },
+    {
+      "text": "Young adults use bright, visible repairs to express their values.",
+      "answer": "C"
+    },
+    {
+      "text": "Most Canadian cities recently banned the sale of fast-fashion items.",
+      "answer": "E"
+    }
+  ]
+}

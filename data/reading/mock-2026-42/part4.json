@@ -1,0 +1,105 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The transition from certified librarians to \"Media Support Specialists\" in a suburban school district highlights a growing national debate over the evolution of educational spaces. By removing staff with teaching credentials, the district is prioritizing technical troubleshooting and hardware maintenance over traditional literary guidance. Their argument rests on the belief that the modern \"resource center\" is primarily a digital hub where students require IT support to navigate hardware and software. From this perspective, the traditional librarian is a relic of an era dominated by print, and the \"modernization\" of these spaces requires a shift toward functional technology management.\n\nHowever, this narrow focus on \"fixing tablets\" overlooks the profound pedagogical expertise that certified librarians bring to a school environment. The American Library Association (ALA) and various educational advocates argue that technical proficiency is not a substitute for information literacy. While a media specialist might ensure a device is connected to the internet, a librarian is trained to teach students what to do once they arrive there. In an era of rampant misinformation and algorithmic bias, the ability to critically evaluate a source's credibility is a vital academic skill. Librarians serve as instructors who guide students through the complexities of research, helping them distinguish between objective reporting, sponsored content, and ideological propaganda.\n\nFurthermore, the loss of certified librarians impacts the curation of diverse and age-appropriate literature. Librarians are trained in collection development, ensuring that a school's library reflects a wide range of perspectives and supports the specific curriculum of the teaching staff. Without this instructional background, resource centers risk becoming mere computer labs where the love of reading and deep inquiry are secondary to screen time. The move effectively de-professionalizes a role that has historically bridged the gap between technology and literacy.\n\nUltimately, the district's decision raises questions about the value placed on \"soft skills\" like critical thinking versus \"hard skills\" like technical support. If schools prioritize the maintenance of machines over the cultivation of the mind, they may produce students who are technologically fluent but intellectually vulnerable. The debate is not merely about job titles, but about the fundamental definition of what it means to be a literate student in the 21st century.",
+  "questions": [
+    {
+      "prompt": "The district's policy shift implies that navigating devices is considered more urgent than cultivating interpretive judgment, suggesting an institutional belief that ______.",
+      "options": [
+        "access guarantees understanding",
+        "efficiency equals education",
+        "tools replace mentorship",
+        "screens ensure engagement"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Advocates opposing the staffing change indirectly argue that technical competence, when isolated, risks producing learners who are ______.",
+      "options": [
+        "digitally fluent but discerning",
+        "informed yet dependent",
+        "connected but uncritical",
+        "skilled yet autonomous"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The author's comparison between device maintenance and instructional guidance implies that the district conflates operational support with ______.",
+      "options": [
+        "academic rigor",
+        "educational purpose",
+        "student independence",
+        "curricular relevance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "By describing the traditional role as “outdated,” the district implicitly assumes that print-based learning is ______.",
+      "options": [
+        "incompatible with progress",
+        "resistant to innovation",
+        "inferior to visuals"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The discussion of misinformation and biased systems suggests that the most endangered skill in the absence of trained educators is ______.",
+      "options": [
+        "speed of retrieval",
+        "content exposure",
+        "judgment formation",
+        "platform navigation"
+      ],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "As a parent and frequent visitor to the school library, I'm {{1}} this shift from certified librarians to media support specialists. While technology is undeniably important, replacing trained educators with IT-focused staff {{2}}. Librarians do far more than check out books—they teach critical thinking, information literacy, and help students {{3}} digital world responsibly. Without their guidance, libraries risk becoming glorified computer labs rather than vibrant learning spaces. Prioritizing technical troubleshooting over intellectual development {{4}} tech-savvy students, but at the cost of {{5}} information and engage deeply with diverse perspectives.",
+    "blanks": [
+      {
+        "options": [
+          "cautiously monitoring",
+          "concerned about",
+          "intellectually intrigued by",
+          "conditionally supportive of"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "reflects an inevitable evolution",
+          "appears administratively efficient",
+          "seems shortsighted",
+          "signals progressive modernization"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "navigate the overwhelming",
+          "simplify the complex",
+          "dominate the expanding",
+          "regulate the unrestricted"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "guarantees the emergence of",
+          "accelerates the dominance of",
+          "conclusively establishes",
+          "may produce"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "their motivation to consume",
+          "students' exposure to filtered",
+          "their ability to evaluate",
+          "collective access to curated"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

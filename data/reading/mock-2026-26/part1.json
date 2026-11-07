@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Sarah and David,\n\nI'm reaching out with some unexpected news regarding your wedding at the \"Lakeside Pavilion\" next month. I received a call this morning from the Parks Department informing me that due to a major water main break and subsequent soil erosion, the Pavilion and the surrounding lawn area have been deemed unsafe for public events and will be closed for emergency repairs until October.\n\nI know this is incredibly stressful, especially with only four weeks to go, but please don't panic! My team and I have spent the last six hours on the phone, and I have secured a fantastic alternative for you: The \"Glass Conservatory\" at the Botanical Gardens. The best part is that they have your exact date (September 15) available due to a recent cancellation.\n\nThe Conservatory is actually a slight upgrade—it's fully climate-controlled, so we don't have to worry about the September heat, and the indoor floral displays are stunning, which will save us money on your additional flower arrangements. I've already spoken to your caterer and the florist, and both have confirmed they can move their setup to the new location without any extra fees.\n\nI have already drafted a revised floor plan for the Conservatory that keeps your \"circular seating\" vision for the ceremony. The only minor change is that the parking lot is a bit further from the entrance, so I'm going to hire two additional golf-cart shuttles to transport your older guests from the gate to the front doors. I'll cover the cost of these shuttles myself as a gesture of goodwill for the late-night stress!\n\nCould you please take a look at the photos of the Conservatory I've attached and let me know if you're okay with this switch? Once you give me the green light, I'll handle all the logistics of notifying your guests via a digital \"Change of Venue\" card.\n\nWe're going to make sure your day is still absolutely perfect!\n\nBest,\nClara, Clara Simmons Events",
+  "questions": [
+    {
+      "prompt": "The primary catalyst for the relocation is ______.",
+      "options": [
+        "A scheduled maintenance conflict",
+        "Structural ground instability",
+        "Unexpected seasonal weather",
+        "A municipal funding shortage"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The timeline for the original venue's restoration is ______.",
+      "options": [
+        "Within the current month",
+        "Indefinite and permanent",
+        "Through the coming season",
+        "Completed before September 15"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The availability of the Glass Conservatory was ______.",
+      "options": [
+        "Pre-booked as a backup",
+        "Resultant of a vacancy",
+        "Secured through a bribe",
+        "Part of a seasonal promotion"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Transitioning to the new venue offers a(n) ______.",
+      "options": [
+        "Aesthetic and thermal advantage",
+        "Significant reduction in guest count",
+        "Increase in outdoor floral costs",
+        "Exemption from catering contracts"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The financial impact of the venue change on existing vendors is ______.",
+      "options": [
+        "Borne entirely by the couple",
+        "Subject to significant surcharges",
+        "Neutrally maintained",
+        "Offset by the Parks Department"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Clara's proposed seating arrangement aims to ______.",
+      "options": [
+        "Maximize venue capacity",
+        "Mimic the original layout",
+        "Standardize the aisle width",
+        "Prioritize the wedding party"
+      ],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Clara,\n\nThank you for the quick thinking and for securing the \"Glass Conservatory\" on such short notice. While the news about the Lakeside Pavilion is stressful, the Botanical Gardens sounds {{1}}. We {{2}} of a climate-controlled space for our September date!\n\nThe \"circular seating\" was very important to us, so we {{3}} that the floor plan {{4}}. We also truly appreciate you {{5}} for our older guests.\n\nPlease consider this our official green light. We look forward to the digital \"Change of Venue\" cards.\n\nBest,\nSarah and David",
+    "blanks": [
+      {
+        "options": [
+          "like a gorgeous substitute",
+          "as a pretty replacement",
+          "like a stunning alternative",
+          "about a lovely choice"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "truly like the thought",
+          "actually, prefer the idea",
+          "certainly, want the plan",
+          "surely choose the view"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "are relieved",
+          "feel comforted",
+          "stay reassured",
+          "become calmed"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "stays untouched",
+          "remains intact",
+          "keeps unchanged",
+          "continues whole"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "paying for the bus fees",
+          "covering the shuttle costs",
+          "handling the transport prices",
+          "meeting the travel bills"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

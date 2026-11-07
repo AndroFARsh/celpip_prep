@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Julian,\n\nI’ve been thinking about how much we’ve both been grinding lately, and I found something that might finally stop us from {{1}}. It’s not just about hitting the treadmill; it’s a way to ensure our professional output actually {{2}} because we aren't running on empty. I know how much you value being the top choice for your clients, and this approach is exactly what those high-level hunters look for to ensure their {{3}}.\n\nThey focus on things we usually ignore, like how our desks are literally {{4}}, and even offer a way to get your subconscious back on track while you're out cold. It feels like a chance to {{5}} without it feeling like another chore on our to-do list. Let’s look into this before we both hit a wall.\n\nBest,\nElena",
+    "blanks": [
+      {
+        "options": [
+          "wasting our financial resources",
+          "burning the candle at both ends",
+          "failing our annual physicals",
+          "losing our competitive edge"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "yields a triple gain",
+          "meets the minimum quota",
+          "justifies the healthcare costs",
+          "attracts new investors"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "recruitment targets are met",
+          "most prized people stay put",
+          "insurance premiums stay low",
+          "office culture is trendy"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "cluttered with paperwork",
+          "slowing down our workflow",
+          "shaping our physical alignment",
+          "outdated for modern tech"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "upgrade our office furniture",
+          "optimize our human capital",
+          "join a local sports league",
+          "audit our medical expenses"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Elena feels this program stops ______.",
+      "options": [
+        "wasting their company money",
+        "working past exhaustion",
+        "failing yearly medical checks",
+        "losing their market advantage"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Julian appreciates this approach because ______.",
+      "options": [
+        "triples their overall gains",
+        "hits the required limits",
+        "covers medical expenses",
+        "draws in new backers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Elena wants to ensure that ______.",
+      "options": [
+        "hiring goals get reached",
+        "top staff stay loyal",
+        "insurance costs stay cheap",
+        "workplace vibes are cool"
+      ],
+      "answer": 1
+    }
+  ]
+}

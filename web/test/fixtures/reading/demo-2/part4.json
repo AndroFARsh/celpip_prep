@@ -1,0 +1,21 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Is the Four-Day Work Week Ready for Canada?\n\nLast year, a mid-sized software company in Halifax made headlines when it moved its 120 employees to a four-day week with no reduction in pay. Twelve months later, the company reports that productivity has stayed the same, while sick days have fallen by nearly a third. Its chief executive, Maria Chen, says the change has also made hiring easier. “We used to lose candidates to bigger firms in Toronto,” she explains. “Now people apply to us because of the schedule.”\n\nSupporters argue that a shorter week allows employees to rest, spend time with their families, and return to work more focused. They point to trials in the United Kingdom and Iceland, where most participating companies chose to keep the shorter schedule after the experiment ended. Some economists also believe a four-day week could reduce traffic and lower energy use in office buildings.\n\nCritics, however, warn that the model does not suit every industry. Hospitals, schools, and retail stores need staff to be present every day, and moving to four days often means hiring more workers or asking current staff to work longer shifts. Small business owners worry about the cost. “For a restaurant like mine, a fifth day of wages has to come from somewhere,” says Tom Bergeron, who owns a bistro in Quebec City. “Usually it comes from customers through higher prices.”\n\nOthers suggest a middle path. Instead of a strict four-day schedule, they recommend giving employees more control over when they work, such as compressed hours or flexible start times. According to labour researcher Dr. Aisha Rahman, flexibility matters more to workers than the number of days. “What people really want,” she says, “is the ability to plan their work around their lives, not the other way around.”",
+  "questions": [
+    { "prompt": "After one year, the Halifax company found that", "options": ["productivity dropped", "employees took fewer sick days", "it had to cut salaries", "it lost staff to Toronto"], "answer": 1 },
+    { "prompt": "According to Maria Chen, the four-day week has helped the company", "options": ["reduce traffic", "attract new employees", "open an office in Toronto", "lower energy costs"], "answer": 1 },
+    { "prompt": "Supporters mention trials in other countries to show that", "options": ["most companies kept the shorter week", "workers preferred longer days", "the idea failed abroad", "pay was reduced"], "answer": 0 },
+    { "prompt": "Tom Bergeron believes a four-day week in restaurants could lead to", "options": ["better food", "fewer customers", "higher prices", "longer holidays"], "answer": 2 },
+    { "prompt": "Dr. Rahman thinks that workers mostly want", "options": ["higher salaries", "a three-day week", "flexible schedules", "more vacation days"], "answer": 2 }
+  ],
+  "comment": {
+    "text": "I have worked in a hospital for fifteen years, and I agree with the critics in this article. In my job, patients need care every day, so a four-day week would only mean {{1}} for the rest of the staff. That said, I understand why the Halifax company's results are attractive, especially the drop in {{2}}. I think the best solution is the one suggested by {{3}}: give people more {{4}} over their hours. If my hospital let me choose my start time, I would be much {{5}}, even without an extra day off.",
+    "blanks": [
+      { "options": ["longer shifts", "higher pay", "fewer patients", "more holidays"], "answer": 0 },
+      { "options": ["productivity", "sick days", "salaries", "traffic"], "answer": 1 },
+      { "options": ["Maria Chen", "Tom Bergeron", "Dr. Aisha Rahman", "the economists"], "answer": 2 },
+      { "options": ["money", "training", "days", "control"], "answer": 3 },
+      { "options": ["happier", "busier", "angrier", "poorer"], "answer": 0 }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "A strong sense of national pride is growing across Canada as the country prepares for its biggest space adventure yet: the Artemis II mission. This historic flight will send a Canadian astronaut to travel around the moon for the first time, making Canada only the second nation in history to send a person into deep space. This mission is much more than a science project; it is a major cultural event that has captured the attention of millions of people from coast to coast. Schools, community centers, and local science clubs are hosting special space workshops and watch parties, turning a high-tech lunar trip into a fun moment of national excitement.",
+    "The technical impact of Artemis II highlights Canada's leading role in modern space technology. A key part of this success is the creation of advanced robotic tools and smart computer systems built to work in the harsh conditions of space. Canadian engineers have played a huge role in building new satellite communication and health-monitoring tools to keep the four astronauts safe during the trip. This mission is helping the local aerospace industry grow, building strong partnerships between the Canadian Space Agency and private tech companies. A \"made-in-Canada\" label on space equipment is now a trusted sign of high quality.",
+    "In society, the mission is sparking a big interest in science and math among younger students who see a bright future for themselves in space industries. Having a Canadian on the Artemis II crew provides a powerful role model effect, inspiring kids from all backgrounds to study science, technology, and engineering. Across the country, special school events and live question-and-answer sessions with space experts are becoming very popular. This momentum is helping make complex science fun and easy to understand, encouraging young people to stay curious and learn about the world around them.",
+    "Even with all the excitement, the mission faces questions about the heavy costs of space travel compared to immediate needs on Earth, such as housing and healthcare. In response, space agency leaders emphasize how space inventions can help people right here on Earth. For example, special water cleaning systems and remote medical tools built for the moon can also be used to help remote northern communities. As the final countdown to launch begins, the main goal for Canada is to show that exploring space is not a waste of time, but a great way to find smart solutions for our problems at home."
+  ],
+  "statements": [
+    { "text": "Students realize that technical subjects can actually be pretty cool.", "answer": "C" },
+    { "text": "Local tech teams created smart gear to keep crew members safe.", "answer": "B" },
+    { "text": "Taxpayers voted to redirect public funds toward domestic housing projects.", "answer": "E" },
+    { "text": "Having a national hero in space inspires kids to study math and tech.", "answer": "C" },
+    { "text": "Astronauts frequently visit elementary classrooms to teach physics lessons.", "answer": "E" },
+    { "text": "Regular citizens wonder why billions go to rockets instead of fixing local troubles.", "answer": "D" },
+    { "text": "Tools designed for space exploration help improve living conditions in isolated towns.", "answer": "D" },
+    { "text": "Domestic manufacturing standards for high-tech components have earned international respect.", "answer": "B" },
+    { "text": "Folks across the country are throwing parties to celebrate this major lunar launch.", "answer": "A" }
+  ]
+}

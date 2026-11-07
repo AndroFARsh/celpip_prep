@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Julian,\n\nI was just thinking about how much we need a break from the usual routine, and I came across something that feels like the perfect escape into a world of gravity-defying feats and pyrotechnics. It isn't just your typical stage act; there's a certain chaotic energy and rhythm to it that I think you'd find captivating.\n\nI know how much you value being right in the thick of the action, and there is a specific way for us to ensure we are {{1}} during the performance. Since our schedules are usually packed, we might want to aim for a visit during the {{2}} to take advantage of the more modest pricing. If we decide to bring your brother and his wife along, it actually becomes {{3}} for all of us to attend together.\n\nOne thing to keep in mind is that we should probably finalize our plans before the {{4}} if we want to secure the best possible value. It feels like the kind of atmosphere where we can just lose ourselves in the music and the mystery. I'm really leaning towards the {{5}} seating tier—it seems like the best middle ground between luxury and value without breaking the bank.\n\nLet me know what you think!\n\nBest,\nClara",
+    "blanks": [
+      { "options": ["safely distanced", "positioned at the threshold", "fully immersed in the front", "elevated above the crowd"], "answer": 2 },
+      { "options": ["standard weekend slots", "mid-week sessions", "late-night encores", "opening holiday gala"], "answer": 1 },
+      { "options": ["more exclusive", "financially advantageous", "strictly mandatory", "logically complicated"], "answer": 1 },
+      { "options": ["arrival of winter", "middle of November", "end of the month", "start of the new year"], "answer": 1 },
+      { "options": ["premier entry", "economy selection", "mid-level luxury", "ultimate elite"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Clara perceives Julian as someone who ______.",
+      "options": ["avoids sensory overload", "prefers physical detachment", "thrives near the action", "seeks quiet observation"],
+      "answer": 2
+    },
+    {
+      "prompt": "Clara evaluates the pricing structure as ______.",
+      "options": ["prohibitively costly overall", "optimized through timing", "fixed across all sessions", "dependent on group size"],
+      "answer": 1
+    },
+    {
+      "prompt": "Clara regards the mid-level seating tier as ______.",
+      "options": ["an extravagant splurge", "a balanced compromise", "an inferior compromise", "a restrictive layout"],
+      "answer": 1
+    }
+  ]
+}

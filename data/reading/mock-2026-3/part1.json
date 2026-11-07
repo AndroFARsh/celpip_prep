@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Beaumont,\n\nI bought a new car from your dealership six months ago. I really like the car, but I am having a serious problem with the touch screen, and I am worried about my safety and the safety of my family.\n\nWhile I am driving, the screen sometimes goes black and then restarts by itself. When this happens, the blind-spot warning and the back-up sensors stop working. The cruise control also turns off without any sound or message. Last week, this happened twice while I was changing lanes. I did not get any warning, and I almost hit another car.\n\nI have taken the car to your service department three times. Each time, the technician, David, told me it was a small problem with my phone connection and said the car was fine. On March 12, he also told me that there were no error messages in the system. However, I have a video from my dashboard camera that shows the problem clearly, and I gave a copy to your staff at that visit.\n\nI do not want another reset or a quick software update, because those fixes have not worked before. I would like a senior technician to look at the car and fix the problem for good, even if that means replacing a part. I also hope someone can explain to me why this keeps happening.\n\nCould you please call me by Friday to set up an appointment? I can bring the car in any morning next week. I would like to solve this with your dealership, but I may need to contact the car company directly if the problem continues.\n\nThank you for taking my concern seriously. I look forward to hearing from you soon.\n\nSincerely,\nLawrence Thorne",
+  "questions": [
+    {
+      "prompt": "Lawrence's primary goal is ______.",
+      "options": ["demanding full refunds", "securing permanent repairs", "scheduling routine maintenance", "updating vehicle software"],
+      "answer": 1
+    },
+    {
+      "prompt": "Lawrence's main worry is ______.",
+      "options": ["lost phone connectivity", "sudden system blackouts", "potential physical harm", "high service fees"],
+      "answer": 2
+    },
+    {
+      "prompt": "David blamed the issue on ______.",
+      "options": ["faulty hardware parts", "external device linking", "poor driving habits", "outdated operating systems"],
+      "answer": 1
+    },
+    {
+      "prompt": "Lawrence refused updates because ______.",
+      "options": ["past attempts failed", "updates take time", "technicians lack training", "parts are unavailable"],
+      "answer": 0
+    },
+    {
+      "prompt": "Lawrence provided proof via ______.",
+      "options": ["a dashboard video", "printed maintenance receipts", "system error logs", "phone connection logs"],
+      "answer": 0
+    },
+    {
+      "prompt": "Lawrence will next contact ______.",
+      "options": ["local police stations", "the corporate headquarters", "consumer protection bureaus", "independent car mechanics"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Thorne,\n\nThank you for your email, and I am sorry for the trouble with your new car. {{1}} why you are worried about your safety and your family's safety. I watched your dashcam video, and it clearly shows the screen restarting and {{2}} turning off, so I agree this needs more than another reset. I have booked an appointment for you with Ms. Patel, our senior technician, on Tuesday, November 3, at 9:00 a.m. at the main service desk. She {{3}} the screen and the safety sensors for the whole morning. If she finds {{4}}, we will replace it at no cost to you, and we will also give you a free rental car for the day. {{5}}, please check your mirrors and look over your shoulder when you change lanes.\n\nSincerely,\nRobert Beaumont\nBeaumont Motors",
+    "blanks": [
+      { "options": ["I fully deny", "I understand", "Buying a car", "Ignoring your email"], "answer": 1 },
+      { "options": ["the warning systems", "your phone connecting", "all sensors working", "normal driving speeds"], "answer": 0 },
+      { "options": ["will test", "will ignore", "wash the windows", "wash the car"], "answer": 0 },
+      { "options": ["a full refund", "extra monthly payments", "a six-month warranty", "a faulty part"], "answer": 3 },
+      { "options": ["Buy a new car", "Never drive again", "Until then", "Avoid driving fast"], "answer": 2 }
+    ]
+  }
+}

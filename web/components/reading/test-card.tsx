@@ -3,7 +3,7 @@
 import Link from "next/link"
 
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardAction, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Separator } from "@/components/ui/separator"
 import { clearResult, useResult } from "@/lib/results-store"
 import { resultsPath, RUNS, runLabel, runPath, type Run } from "@/lib/runs"
@@ -34,12 +34,21 @@ function RunRow({ testId, run }: { testId: string; run: Run }) {
   )
 }
 
-export function TestCard({ id, title }: { id: string; title: string }) {
+export function TestCard({ id, title, source }: { id: string; title: string; source?: string }) {
   return (
     <Card>
       <CardHeader>
         <CardTitle>{title}</CardTitle>
         <CardDescription>4 parts, 38 questions, 55-60 minutes</CardDescription>
+        {source && (
+          <CardAction>
+            <Button variant="link" size="sm" asChild>
+              <a href={source} target="_blank" rel="noreferrer">
+                Source
+              </a>
+            </Button>
+          </CardAction>
+        )}
       </CardHeader>
       <CardContent className="flex flex-col gap-3">
         {RUNS.map((run, i) => (

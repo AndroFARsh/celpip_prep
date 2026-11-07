@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Emily,\n\nI've been reflecting on our long-term goals and recently came across a group that seems to offer the {{1}} we've been looking for. It isn't just about the technical side of the journey; they appear to prioritize a {{2}} that looks at our daily habits and mental state to ensure everything is aligned. I was particularly struck by the idea that we wouldn't have to navigate the {{3}} alone, as they provide constant digital touchpoints to keep us on track even from a distance.\n\nWhat really caught my eye was their {{4}} approach, which allows for a more manageable start without those unexpected financial hurdles that usually pop up in these situations. Plus, if we decide to {{5}} various parts of the process, there's a significant benefit to our resources. It feels like a very grounded way to begin this chapter of our lives together.\n\nBest,\nMarcus",
+    "blanks": [
+      { "options": ["scientific breakthrough", "specialized expertise", "temporary solution", "legal guidance"], "answer": 1 },
+      { "options": ["strict medical regimen", "comprehensive lifestyle integration", "rigid surgical schedule", "physical fitness program"], "answer": 1 },
+      { "options": ["treatment journey", "biological hurdles", "financial planning", "physical fitness"], "answer": 0 },
+      { "options": ["transparent pricing", "aggressive marketing", "low-cost discount", "premium luxury"], "answer": 0 },
+      { "options": ["accelerate", "consolidate", "postpone", "outsource"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Marcus picks this group for its ______.",
+      "options": ["all-around approach", "low fixed prices", "remote convenience", "expert doctors"],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus feels that support ______.",
+      "options": ["needs to be in-person", "reduces feeling alone", "is not really needed", "replaces daily habits"],
+      "answer": 1
+    },
+    {
+      "prompt": "Bundling services mainly helps them ______.",
+      "options": ["start sooner", "save resources", "avoid all costs", "feel calmer"],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The integration of Brain-Computer Interfaces (BCI) into the industrial sector represents a transformative, yet highly contentious, shift in workplace management. At a high-tech logistics firm, the deployment of non-invasive, attention-monitoring headbands for heavy machinery operators highlights the potential of neurotechnology to revolutionize safety protocols. By utilizing electroencephalography (EEG) sensors to measure neural oscillations, these devices can identify the physiological signatures of fatigue or \"microsleeps\" before they manifest as physical errors. In high-stakes environments where operating heavy equipment carries life-or-death consequences, the company's assertion that this is a \"safety tool for the modern age\" carries significant weight. Proponents argue that just as heart-rate monitors protect athletes, neural monitoring protects workers from the cognitive exhaustion inherent in long-shift logistics.\n\nHowever, the transition from physical to cognitive monitoring has sparked a fierce debate regarding the boundaries of corporate oversight. Labor rights groups view the trial not as a safety initiative, but as the dawn of \"cognitive privacy\" infringement. Unlike physical activity, which is visible and outward, brainwaves represent the final frontier of personal autonomy. The concern is that the data harvested will not remain restricted to safety alerts. Critics argue that employers will inevitably repurpose this neural data as a metric for productivity. In such a scenario, a worker who is naturally more prone to daydreaming or who processes information differently could be flagged as \"low-focus,\" leading to disciplinary action based on internal mental states rather than external performance.\n\nThis creates a precarious environment of \"mental surveillance.\" When employees are aware that their very thoughts and levels of engagement are being quantified, the result is often extreme psychological pressure. This \"panopticon of the mind\" may lead to increased stress, ironically inducing the very fatigue the technology aims to prevent. As the trial progresses, the central challenge lies in the lack of legal frameworks governing \"neuro-rights.\" Without strict regulations to prevent the commodification of brain data, the line between a life-saving safety tool and an invasive disciplinary instrument remains dangerously thin. The logistics firm's trial serves as a landmark case in determining whether the future of work will prioritize human well-being or total cognitive optimization.",
+  "questions": [
+    {
+      "prompt": "The primary function of neural headgear in industrial operations is to ______.",
+      "options": [
+        "track employees' physical performance over time",
+        "quantify productivity for managerial assessment",
+        "foresee mental lapses before mistakes occur",
+        "eliminate the need for standard safety inspections"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Labor organizations are most concerned that the new technology could ______.",
+      "options": [
+        "objectively improve task execution",
+        "intrude on personal thought processes",
+        "only provide alerts for observable mistakes",
+        "alleviate stress during long shifts"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Awareness of ongoing brain monitoring in employees is likely to ______.",
+      "options": [
+        "encourage better time management",
+        "have minimal impact on overall well-being",
+        "prevent micro-errors effectively",
+        "unintentionally create additional mental strain"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Without proper safeguards, data collected from workers' neural activity may be ______.",
+      "options": [
+        "strictly confined to safety warnings",
+        "exploited for evaluating performance unfairly",
+        "destroyed after immediate alerts",
+        "irrelevant to discussions on workplace ethics"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The trial is crucial in examining whether future workplaces will ______.",
+      "options": [
+        "maximize efficiency at the expense of mental health",
+        "rely solely on automated safety measures",
+        "prove the superiority of neurotech over conventional tools",
+        "ignore individual cognitive differences"
+      ],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "The concept of using BCIs to monitor operator fatigue is fascinating and could genuinely improve safety in {{1}}. At the same time, it raises {{2}}. Brain data is deeply personal, and tracking it opens the door to intrusive \"mental surveillance.\" What begins as a tool to prevent accidents {{3}} a method for judging productivity or focus, placing undue psychological pressure on employees. Without clear neuro-rights protections, the line between safeguarding workers and {{4}} is dangerously thin. This trial could set {{5}} for the future of workplace ethics.",
+    "blanks": [
+      {
+        "options": [
+          "technologically advanced corporate environments",
+          "cognitively demanding professional settings",
+          "high-risk workplaces",
+          "efficiency-focused operational sectors"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "unavoidable moral discomfort",
+          "serious ethical questions",
+          "complex regulatory considerations",
+          "widespread professional debate"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "gradually develops into",
+          "is frequently misunderstood as",
+          "could occasionally resemble",
+          "might easily turn into"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "exceeding managerial authority",
+          "compromising workplace autonomy",
+          "invading their privacy",
+          "enforcing behavioral compliance"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "a controversial benchmark",
+          "a regulatory framework",
+          "an important precedent",
+          "a global compliance model"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

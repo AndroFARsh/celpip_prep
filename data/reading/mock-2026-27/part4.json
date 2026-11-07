@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In the hushed halls of genomic laboratories, scientists are working on a project that sounds like the plot of a science-fiction novel: de-extinction. Using advanced gene-editing tools like CRISPR, researchers believe they are close to \"resurrecting\" species that have been extinct for thousands of years, such as the woolly mammoth or the passenger pigeon. While the scientific achievement would be unparalleled, the prospect has ignited a fierce ethical debate about the limits of human intervention in the natural world.\n\nProponents of de-extinction argue that we have a moral obligation to bring back species that were driven to extinction by human activity. Beyond mere sentimentality, they point to the ecological benefits of \"rewilding.\" For instance, scientists working on the mammoth project argue that reintroduced mammoths could help restore the Arctic grasslands. By trampling snow and knocking down trees, these massive herbivores could prevent the permafrost from melting, thereby sequestering vast amounts of methane and carbon dioxide. In this view, de-extinction is not just a vanity project; it is a vital tool for combatting climate change and restoring lost ecosystems.\n\nFurthermore, the technology developed through de-extinction research has immediate applications for living species. The same genetic techniques used to \"edit\" a mammoth's DNA can be used to increase the genetic diversity of currently endangered animals, making them more resilient to disease or changing climates. From this perspective, de-extinction is the ultimate \"undo button\" for the biodiversity crisis we have caused.\n\nHowever, many conservationists and ethicists are deeply concerned. They argue that de-extinction is a dangerous distraction from the urgent task of protecting the species that are still alive. If the public believes that we can simply \"bring back\" an animal later, the political will to protect current habitats might erode. Conservation is often a zero-sum game; the millions of dollars poured into resurrecting a single mammoth could arguably save dozens of currently endangered species from vanishing in the first place.\n\nThere are also profound animal welfare concerns. A resurrected mammoth would be a \"social orphan,\" born to a surrogate elephant mother and raised without a herd to teach it natural behaviors. Would it be ethical to bring a sentient creature into a world where its natural habitat no longer exists in its original form? Critics also warn of the \"Frankenstein effect\"—the unpredictable consequences of introducing a long-extinct species into a modern ecosystem. A resurrected bird might carry ancient pathogens to which modern birds have no immunity, potentially triggering a new biological catastrophe.",
+  "questions": [
+    {
+      "prompt": "The pursuit of de-extinction is technically categorized as ______.",
+      "options": ["Purely speculative fiction", "Synthetic genomic restoration", "Conventional captive breeding", "Primitive fossil cloning"],
+      "answer": 1
+    },
+    {
+      "prompt": "Supporters view the revival of ancient megafauna as a(n) ______.",
+      "options": ["Aesthetic historical tribute", "Scientific vanity exercise", "Commercial tourism venture", "Environmental stabilization tactic"],
+      "answer": 3
+    },
+    {
+      "prompt": "The \"rewilding\" of the Arctic is predicated on the mammoth's ______.",
+      "options": ["Ability to produce methane", "Physical impact on terrain", "Resistance to modern disease", "Migratory patterns toward trees"],
+      "answer": 1
+    },
+    {
+      "prompt": "A secondary benefit of this research is the ______.",
+      "options": ["Creation of new species", "Eradication of ancient pathogens", "Fortification of extant wildlife", "Complete reversal of evolution"],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics fear that de-extinction technology might lead to ______.",
+      "options": ["Increased funding for habitats", "Reduced urgency for conservation", "Immediate cooling of permafrost", "Growth in political willpower"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "While the prospect of \"rewilding\" the Arctic {{1}} climate change is scientifically thrilling, I find the ethical concerns surrounding \"de-extinction\" {{2}}. The idea that we can simply use an \"undo button\" for biodiversity loss feels {{3}} from protecting species currently {{4}}. Furthermore, the animal welfare issues regarding \"social orphans\" are deeply troubling; bringing a sentient creature like a mammoth into a world without its natural herd {{5}}. We should prioritize the \"zero-sum game\" of conservation by funding the survival of living species rather than chasing the \"Frankenstein effect\" of resurrected ones.",
+    "blanks": [
+      { "options": ["for battling", "to combat", "to struggle against", "in resisting"], "answer": 1 },
+      { "options": ["vastly more interesting", "far more compelling", "much too intriguing", "significantly quite alarming"], "answer": 1 },
+      { "options": ["like a dangerous distraction", "as a harmful diversion", "such a risky disturbance", "like an unsafe interruption"], "answer": 1 },
+      { "options": ["near to dying out", "on the brink of extinction", "within the edge of peril", "almost at vanishing point"], "answer": 1 },
+      { "options": ["feels naturally mean", "appears somewhat heartless", "seems inherently cruel", "stays fundamentally unkind"], "answer": 2 }
+    ]
+  }
+}

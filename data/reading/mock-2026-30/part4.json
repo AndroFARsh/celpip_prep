@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In a world obsessed with \"hustle culture\" and instantaneous gratification, a counter-cultural phenomenon known as the Slow Movement is gaining momentum. Originating from the \"Slow Food\" protest in Italy during the 1980s, the philosophy has expanded into \"Slow Travel,\" \"Slow Fashion,\" and even \"Slow Living.\" At its core, the movement is a rejection of the notion that faster is always better and an invitation to prioritize quality over quantity.\n\nThe primary driver of the Slow Movement is the growing realization that our fast-paced lifestyles are unsustainable for both human health and the planet. In the realm of fashion, the \"fast fashion\" industry produces inexpensive clothing at a dizzying rate, leading to immense environmental waste and poor labor conditions. Proponents of Slow Fashion advocate for buying fewer, high-quality items that are ethically made and designed to last. They argue that by slowing down our consumption, we can reduce our ecological footprint and develop a deeper appreciation for the craftsmanship behind our possessions.\n\nSimilarly, in the workplace, the \"Slow Work\" philosophy challenges the glorification of business. Critics of modern corporate culture point out that constant multitasking and the pressure to respond to emails instantly lead to chronic stress and \"burnout.\" By advocating for deep work—periods of focused, uninterrupted concentration—proponents argue that we can actually achieve more significant results than by rushing through a checklist of shallow tasks.\n\nHowever, critics of the Slow Movement argue that it is a luxury available only to the affluent. For many people working multiple jobs or living in poverty, the \"choice\" to slow down does not exist. Speed is often a survival mechanism in a competitive global economy. From this perspective, the movement can seem elitist, ignoring the economic realities of those who cannot afford to wait for a hand-crafted meal or spend weeks on a slow-travel journey.\n\nDespite these criticisms, the Slow Movement offers a vital critique of modern life. It forces us to ask: what are we rushing toward? While we may not be able to slow down every aspect of our lives, incorporating \"slowness\" into our daily routines—whether through mindful eating or intentional disconnection from devices—may be the key to reclaiming our mental well-being in an increasingly frenetic world.",
+  "questions": [
+    {
+      "prompt": "\"Fast Fashion\" drawback identified is ______.",
+      "options": ["High-cost luxury branding", "Artisanal labor exploitation", "Excessive garment durability", "Ethical and ecological degradation"],
+      "answer": 3
+    },
+    {
+      "prompt": "Opponents label the movement as \"elitist\" because ______.",
+      "options": ["It requires specialized education", "Slowness is a financial privilege", "It bans low-income participation", "Technology is strictly forbidden"],
+      "answer": 1
+    },
+    {
+      "prompt": "For the marginalized, \"speed\" is described as ______.",
+      "options": ["A prerequisite for endurance", "A lifestyle preference", "A sign of modern success", "An avoidable corporate trap"],
+      "answer": 0
+    },
+    {
+      "prompt": "\"Deep work\" is conceptually linked to ______.",
+      "options": ["Continuous digital connectivity", "Sustained cognitive immersion", "Rapid task-switching efficiency", "Collective office brainstorming"],
+      "answer": 1
+    },
+    {
+      "prompt": "The environmental argument for \"Slow Fashion\" emphasizes ______.",
+      "options": ["Frequent wardrobe updates", "Low-quality mass production", "Intentional consumption reduction", "Global shipping speed"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "While I find the \"Slow Movement\" an inspiring response to our {{1}} \"hustle culture,\" I believe the article's critique regarding elitism is its most valid point. For many, choosing \"Slow Fashion\" or \"Slow Travel\" is a luxury that their economic reality simply {{2}}; speed is often {{3}}, not a lifestyle choice. However, the concept of \"Slow Work\" is a refreshing take on {{4}}. Even if we cannot afford hand-crafted goods, we can all benefit from \"deep work\" and {{5}} from our devices to protect our mental well-being in this frenetic world.",
+    "blanks": [
+      { "options": ["unmanageable", "unsustainable", "non-viable", "exhausting"], "answer": 1 },
+      { "options": ["doesn't allow", "can't permit", "won't authorize", "shouldn't enable"], "answer": 0 },
+      { "options": ["a forced urgency", "a time-bound need", "a pragmatic necessity", "a deliberate pace"], "answer": 2 },
+      { "options": ["avoiding exhaustion", "preventing burnout", "stopping fatigue", "reducing stress"], "answer": 1 },
+      { "options": ["deliberate separation", "intentional disconnection", "conscious withdrawal", "purposeful detachment"], "answer": 1 }
+    ]
+  }
+}

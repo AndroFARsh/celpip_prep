@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Laura,\n\nI finally found a way for us to {{1}} without ever leaving our zip code. I know how much you miss the quiet of the countryside, and it turns out we can actually invite that tranquility onto our own balcony. It's not just about the aesthetics; it's about a {{2}} that treats our small corner of the city as a living, breathing ecosystem.\n\nThey even offer a way for us to {{3}} rather than just paying for a one-time fix, which I thought you'd love. If we decide to commit to a more {{4}} the cost actually becomes quite manageable compared to those sporadic, expensive clean-ups we talked about. Plus, I've heard that if we bring a few neighbors into the fold, we can {{5}}. Let's chat about this over dinner; I think it's the perfect time for a fresh start.\n\nBest,\nDaniel",
+    "blanks": [
+      { "options": ["escape the city noise", "reclaim our outdoor space", "bypass local regulations", "expand our apartment"], "answer": 1 },
+      { "options": ["high-maintenance luxury", "sustainable philosophy", "modern architecture", "chemical-free solution"], "answer": 1 },
+      { "options": ["hire a full-time servant", "acquire new gardening skills", "borrow professional tools", "volunteer in the community"], "answer": 1 },
+      { "options": ["seasonal cleanup", "consistent maintenance schedule", "elaborate landscaping design", "expensive fertilization plan"], "answer": 1 },
+      { "options": ["lower our individual rates", "win a free consultation", "start a community garden", "get free seeds"], "answer": 0 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "What is Daniel's main motivation?",
+      "options": ["Moving to the countryside", "Learning to garden alone", "Bringing nature to their balcony", "Finding the cheapest contractor"],
+      "answer": 2
+    },
+    {
+      "prompt": "How do Daniel and Laura currently maintain their balcony?",
+      "options": ["They are doing a complete renovation", "They pay for occasional, pricey cleanups", "They strictly follow local balcony rules", "They hire full-time gardening staff"],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Daniel want to involve their neighbors?",
+      "options": ["To start a shared community garden", "To split the physical yard work", "To reduce his and Laura's costs", "To avoid paying for professional advice"],
+      "answer": 2
+    }
+  ]
+}

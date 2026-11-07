@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Community Centre Manager,\n\nI am writing to share my frustration with the \"Advanced Fitness Boot Camp\" that I signed up for last week. I paid the $250 registration fee because I was looking for a challenging workout program, as advertised in the community brochure.\n\nUnfortunately, the classes were not what I expected. The instructor focused almost entirely on basic stretching and very simple exercises. We spent nearly all of the time doing movements that are meant for beginners, not the \"advanced\" workout promised. For a class marketed as intense, the lack of real physical challenge was a big disappointment.\n\nFurthermore, the facilities were not managed well. The equipment we were supposed to use was either broken or missing, and there were no staff members around to help us find what we needed. When I asked the instructor about using the heart-rate monitors mentioned in the course description, he could not give me a clear answer and just told me to keep doing basic jumps.\n\nThe locker room area was also constantly overcrowded and lacked proper ventilation, making the experience even more uncomfortable. I had hoped for a professional environment, but the lack of organization made it difficult to even complete a standard workout. It is discouraging to see that the facility's standards have dropped so significantly over the past few months.\n\nMy time is very valuable, and I feel I paid a high price for a class that did not match the description. I am disappointed that the quality of the sessions did not match the \"Advanced\" branding you advertised.\n\nTo resolve this issue, I am requesting a 40% refund of my registration fee. Alternatively, I would accept a credit for a different, more appropriate class next month, provided the equipment and intensity are truly as advertised.\n\nI look forward to hearing your thoughts on how we can fix this.\n\nSincerely,\nDavid Miller",
+  "questions": [
+    {
+      "prompt": "The training program was ______.",
+      "options": ["not as promised", "much too difficult", "extremely overpriced", "lacking proper tools"],
+      "answer": 0
+    },
+    {
+      "prompt": "The instructor seemed ______.",
+      "options": ["helpful to everyone", "lacking needed knowledge", "very skilled at teaching", "tired of the class"],
+      "answer": 1
+    },
+    {
+      "prompt": "The gym's quality has ______.",
+      "options": ["improved recently", "stayed exactly the same", "become much worse", "grown very popular"],
+      "answer": 2
+    },
+    {
+      "prompt": "David's goal is ______.",
+      "options": ["a full refund", "a fair compromise", "to fire staff", "a free membership"],
+      "answer": 1
+    },
+    {
+      "prompt": "The facility issues are ______.",
+      "options": ["limited to equipment", "happening everywhere", "only in locker rooms", "easy to fix"],
+      "answer": 1
+    },
+    {
+      "prompt": "The branding was ______.",
+      "options": ["very honest", "misleading to him", "only for beginners", "meant for everyone"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear David Miller,\n\nThank you for your email regarding our \"Advanced Fitness Boot Camp.\" We sincerely apologize that our program did not meet your expectations. We {{1}} provide professional and challenging sessions, and {{2}} we failed this time. Your feedback regarding the instructor and {{3}}. We are currently reviewing our training procedures to ensure this does not happen again. {{4}} our commitment, we have processed a 40% refund. We hope you will accept {{5}}. We appreciate your patience while we upgrade our equipment. We welcome your feedback.\n\nSincerely,\nManagement",
+    "blanks": [
+      { "options": ["intend to", "strive to", "refuse to", "wait to"], "answer": 1 },
+      { "options": ["fortunately", "naturally", "it is clear", "possibly"], "answer": 2 },
+      { "options": ["facility is vital", "staff is busy", "rules are strict", "class is cheap"], "answer": 0 },
+      { "options": ["Instead of", "Because of", "In spite of", "As a sign of"], "answer": 3 },
+      { "options": ["our efforts to improve", "our plans to cancel", "our lack of interest", "our refusal to pay"], "answer": 0 }
+    ]
+  }
+}

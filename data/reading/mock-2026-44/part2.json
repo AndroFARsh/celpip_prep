@@ -1,0 +1,85 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Sophie,\n\nWhen little things around the house stretch your patience—squeaky doors, that leaky tap, or the shelf that's never quite straight—there's a team nearby who seems to quietly {{1}} making life click back into place. They're not just about tools: those who've never called before find a pleasant surprise on the bill, and anyone wise enough to bundle their needs sees the bottom line shrink a bit further. Seasoned folks get respect here, with {{2}} just for the years behind them. Even the friendliest neighbor can pocket a bonus for bringing someone else into the fold. And if you're ever caught out after hours by {{3}}, you won't be left waiting—extra hands show up on short notice, no matter what the clock says. What really caught my eye was {{4}} and steady their pricing is—no guesswork, no surprises, and your satisfaction seems to be a promise, not a gamble. If you ever want a home that just works, {{5}} and more peace of mind, let me know. I can tell you more about this support system if you're interested.\n\nTake care,\nEthan",
+    "blanks": [
+      {
+        "options": [
+          "complain about",
+          "ignore",
+          "thrive on",
+          "struggle with"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "polite reminder",
+          "an extra gesture",
+          "strict policy",
+          "quick apology"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "minor delay",
+          "casual errand",
+          "A sudden mishap"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "how extravagant",
+          "how secretive",
+          "how uncertain",
+          "how transparent"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "under more stress",
+          "without support",
+          "with less hassle",
+          "after more expense"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Ethan's message to Sophie subtly shows that he values practical reliability over flashy services, hinting that he finds comfort in things that ______.",
+      "options": [
+        "demand constant upgrades",
+        "quietly work without fuss",
+        "impress visitors with style",
+        "cost more for exclusivity"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "From Ethan's tone, it's clear he isn't simply sharing information—he's trying to ______.",
+      "options": [
+        "promote a business he runs",
+        "subtly help Sophie without sounding pushy",
+        "criticize Sophie's home maintenance",
+        "show off his knowledge about repairs"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "By describing the neighbor bonus and after-hours help, Ethan indirectly highlights that this service ______.",
+      "options": [
+        "thrives on community and responsiveness",
+        "overcharges during emergencies",
+        "avoids taking new clients",
+        "discourages late-night requests"
+      ],
+      "answer": 0
+    }
+  ]
+}

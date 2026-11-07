@@ -1,0 +1,19 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Emily,\n\nI've been looking for a way to ensure our furry companion doesn't feel isolated while we're tied up at the office, and I finally found a group that prioritizes specialized attention. Since he's always been a bit of a solo explorer, I'm leaning toward a plan where he can {{1}} without the distraction of a pack. It's a bit more of an investment than the social alternative, but given his temperament, it's worth the extra few dollars to have a guide who knows exactly how to handle his quirks. I was also quite relieved to see that if we ever need to get him to his medical checkups or that grooming session we postponed, there is a dedicated {{2}} available. It's much safer than a standard ride-share, especially since the staff is prepared for {{3}} should any minor accidents or health scares occur on the road. They even offer a way to {{4}} during their routine outings, which might finally help him master those boundaries we've been struggling with at home. Everything they do is backed by {{5}}, so we won't have to worry about the \"what ifs\" while we're away. Let me know what you think, and maybe we can schedule a trial run for next Tuesday.\n\nBest,\nMarcus",
+    "blanks": [
+      { "options": ["mingle with peers", "follow a unique path", "navigate public hubs", "endure shared transit"], "answer": 1 },
+      { "options": ["logistical support", "neighborhood patrol", "domestic caretaker", "social coordinator"], "answer": 0 },
+      { "options": ["legal disputes", "behavioral assessment", "immediate clinical aid", "nutritional guidance"], "answer": 2 },
+      { "options": ["expand his social circle", "refine his discipline", "track his movements", "monitor his diet"], "answer": 1 },
+      { "options": ["financial transparency", "professional certification", "liability protection", "flexible scheduling"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    { "prompt": "Marcus prefers private walks because Buster ______.", "options": ["needs command reinforcement training", "gets nervous around dogs", "requires in-home potty breaks", "wants group play exercise"], "answer": 1 },
+    { "prompt": "Marcus wants the pet taxi to ______.", "options": ["book weekend park visits", "get cheap $15 add-ons", "receive transparent rate details", "save driving travel time"], "answer": 3 },
+    { "prompt": "Marcus suggests booking now because ______.", "options": ["weekend spots fill quickly", "pet sitting fills early", "vet appointments book fast", "transparent rates end soon"], "answer": 0 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The implementation of smart helmets in youth football represents a significant intersection of athletic safety and wearable technology. By integrating sensors designed to measure the magnitude, location, and frequency of head impacts, the league aims to quantify a risk that has historically been managed through subjective observation. Proponents of this mandate argue that real-time data serves as a critical \"early warning system.\" Since the symptoms of a concussion may not manifest immediately, having an objective metric allows coaches and medical staff to identify sub-concussive hits that might otherwise go unnoticed. This data-driven approach shifts the responsibility of safety from the intuitive judgment of a coach to a quantifiable digital record, theoretically catching injuries before they escalate into long-term neurological damage.\n\nHowever, the transition to high-tech protection is met with significant skepticism regarding the \"risk compensation\" phenomenon. Critics argue that these helmets may create a false sense of invincibility among young athletes. If a player believes a sensor will alert them to danger, they may be more inclined to use their head as a point of contact or engage in riskier tackling techniques, assuming the technology acts as a literal safety net. This psychological shift can inadvertently increase the very danger the league is trying to mitigate. Furthermore, the reliance on hardware can lead to \"sensor complacency,\" where parents and officials might ignore physical signs of distress simply because the helmet's dashboard didn't trigger a red alert.\n\nBeyond the psychological concerns, there is a fundamental debate over whether technology is a distraction from necessary systemic changes. Many parents and safety advocates suggest that hardware cannot solve a problem inherent to the game's current structure. They argue that instead of monitoring how hard a child is hit, the focus should be on rule changes—such as eliminating kickoffs or banning certain types of blocking—that prevent the hits from occurring in the first place. Relying on smart helmets may treat the symptoms of football's violence rather than the cause. Ultimately, while smart helmets offer a powerful tool for data collection, their success depends on whether they are used as a supplement to, rather than a replacement for, fundamental coaching and rigorous safety regulations.",
+  "questions": [
+    {
+      "prompt": "Supporters believe the technology is most valuable because it identifies harm that is ______.",
+      "options": ["immediately painful", "visually apparent", "delayed in expression", "already diagnosed"],
+      "answer": 2
+    },
+    {
+      "prompt": "Opponents worry the equipment may unintentionally encourage danger by altering players' ______.",
+      "options": ["physical limits", "emotional resilience", "perception of safety", "tactical awareness"],
+      "answer": 2
+    },
+    {
+      "prompt": "The concern about over-reliance on digital alerts implies that absence of warnings could be misread as ______.",
+      "options": ["technical failure", "complete safety", "delayed processing", "improved accuracy"],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics who oppose a technology-focused approach believe it addresses consequences rather than ______.",
+      "options": ["enforcement gaps", "training methods", "structural causes", "performance pressure"],
+      "answer": 2
+    },
+    {
+      "prompt": "The argument against exclusive dependence on helmets assumes that injury prevention is more effective when ______.",
+      "options": ["impacts are measured", "behaviors are restricted", "data is centralized", "responses are delayed"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "It's eye-opening to see how smart helmets are changing youth football. The article clearly shows that while sensors can track head impacts and provide {{1}}, there are real concerns about {{2}} on technology. The points about players {{3}} and adults assuming the helmet will catch everything are particularly striking. I agree that {{4}} the underlying dangers of the sport. To truly protect kids, smart helmets should complement, not replace, rule changes, careful coaching, and attentive supervision. Technology is helpful, but it's only one piece of {{5}} safety puzzle.",
+    "blanks": [
+      { "options": ["immediate diagnostic certainty", "crucial early warnings", "long-term neurological predictions", "complete injury prevention"], "answer": 1 },
+      { "options": ["increased confidence in", "unquestioned faith placed in", "strategic dependence balanced by caution", "over-reliance"], "answer": 3 },
+      { "options": ["feeling psychologically reassured", "becoming technically informed", "taking more risks", "adapting their playing strategies"], "answer": 2 },
+      { "options": ["advanced equipment reduces", "data alone cannot fix", "research evidence gradually explains", "modern monitoring reshapes"], "answer": 1 },
+      { "options": ["a much bigger", "a carefully designed", "an increasingly complex", "a technologically driven"], "answer": 0 }
+    ]
+  }
+}

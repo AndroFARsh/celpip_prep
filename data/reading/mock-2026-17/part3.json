@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Food delivery apps have become a standard part of everyday life for many Canadians. Rather than calling a local restaurant directly, users can now browse hundreds of menus through a single app on their smartphones. These platforms act as a middleman, connecting hungry customers with nearby eateries and independent couriers. While the convenience is undeniable, the rise of these apps has changed how we eat, with many people choosing to order in several times a week instead of cooking or dining out. Many users appreciate the variety of cuisines available at their fingertips, turning a mundane Tuesday night dinner into a culinary exploration. This ease of access has also influenced social gatherings, making it common to host friends without ever turning on the oven.",
+    "The logistics behind these apps are complex. When an order is placed, it is sent to the restaurant, which then notifies a driver. The driver's route is calculated by a GPS system to ensure the food arrives as quickly as possible. However, the system is not perfect. Traffic jams, poor weather, and busy restaurant kitchens can cause significant delays. Because drivers are often paid by the delivery rather than by the hour, they are under a lot of pressure to complete as many trips as possible, which can sometimes lead to rushed handling of orders. This competitive pace can sometimes result in spills or temperature issues if the driver takes unnecessary risks to beat the clock. Furthermore, the reliance on digital mapping sometimes fails when drivers encounter newer housing developments or obscured building numbers.",
+    "There is also a financial side to this convenience that many users don't see. Restaurants often have to pay a commission—sometimes as high as 30%—to the delivery platform for every order processed. To cover these costs, some restaurants increase their menu prices on the app compared to what you would pay if you walked into the shop. Customers also face service fees, delivery charges, and the expectation of tipping the driver, which can turn an affordable quick meal into a much more expensive experience. Owners are often caught in a difficult position where they must participate to gain visibility, even if it slashes their profit margins significantly. Small, family-run establishments particularly struggle to maintain financial stability while navigating these third-party demands.",
+    "Despite the extra cost, many people continue to use these apps because they save time. Parents busy with sports practice, professionals working late, or individuals who simply don't want to drive in bad weather find them essential. Some apps are now expanding their services to include groceries and pharmacy items. It remains to be seen if this level of convenience is sustainable, or if people will eventually return to traditional ways of getting their meals as living costs continue to rise. Future trends may shift toward autonomous delivery methods or subscription-based models to try and lower the end price for the consumer. Ultimately, the industry must balance its rapid growth with the reality of increasing urban traffic and labor regulations."
+  ],
+  "statements": [
+    { "text": "Drivers often feel rushed, which can affect your food.", "answer": "B" },
+    { "text": "Apps have changed how people handle home cooking.", "answer": "A" },
+    { "text": "Restaurants raise app prices to cover extra fees.", "answer": "C" },
+    { "text": "GPS technology is the main reason apps became popular.", "answer": "E" },
+    { "text": "The industry is looking at new ways to deliver items.", "answer": "D" },
+    { "text": "Most small restaurants are happy to use these apps.", "answer": "E" },
+    { "text": "External problems often slow down the delivery process.", "answer": "B" },
+    { "text": "You can now get more than just hot meals delivered.", "answer": "D" },
+    { "text": "Customers are starting to stop using these apps due to high prices.", "answer": "E" }
+  ]
+}

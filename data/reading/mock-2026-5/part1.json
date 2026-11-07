@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Davis,\n\nEasy access to airport transit is supposed to be a top priority for your company, but my experience at Terminal 3 last Tuesday shows that your promises are not being met with proper service. I am writing to report a very stressful and unsafe breakdown in your special assistance service, which caused a two-hour delay and made me miss my connecting international flight.\n\nMy problems started the moment I got off Flight AC442 at 2:15 PM. Even though I booked a wheelchair transfer three days in advance and reminded the cabin crew before landing, no one was waiting at the gate to help me. A ground staff member told me that a system backup meant all wheelchairs were busy. While I know that busy travel times can be hard to manage, leaving me to wait in a crowded walkway for forty minutes without a chair was very painful and exhausting for someone with my walking difficulties.\n\nIn addition, communication from your customer care team was terrible. When a worker named Sarah finally arrived at 3:10 PM, she told me I had to wait in another area because the elevator for accessible transfers was broken. I sat in that waiting spot for nearly an hour without water or a restroom, watching hundreds of other passengers walk easily through the terminal. By the time I finally reached my departure gate for Zurich, the boarding door had been closed for fifteen minutes.\n\nThe extra $1,400 cost to rebook my flight and the physical tiredness caused by this bad experience are terrible, but being treated so poorly is what upset me most. A major international airport should not treat travelers with disabilities as an afterthought. This was not a small mistake; it was a total failure to provide the basic equipment and staff needed to move a passenger safely through your building.\n\nI am requesting a full explanation of why there was a shortage of staff that led to this long delay. I also expect a full refund for my $220 hotel room and the ticket change fees caused by the missed connection. I have attached my booking confirmation and my expense receipts for your review.\n\nI look forward to hearing from you soon with a clear explanation of how you plan to fix these issues so other passengers do not go through this.\n\nSincerely,\nEleanor Vance",
+  "questions": [
+    {
+      "prompt": "Transit breakdowns caused missed ______.",
+      "options": ["hotel booking reservations", "international flight connections", "airport terminal tours", "baggage pickup sessions"],
+      "answer": 1
+    },
+    {
+      "prompt": "Delayed arrivals created physical ______.",
+      "options": ["severe exhaustion pains", "unexpected financial losses", "deep mental confusion", "sudden medical illnesses"],
+      "answer": 0
+    },
+    {
+      "prompt": "Broken elevators forced passengers into ______.",
+      "options": ["airport security lines", "foreign customs queues", "separate waiting zones", "closed boarding gates"],
+      "answer": 2
+    },
+    {
+      "prompt": "Poor service caused heavy financial ______.",
+      "options": ["employee salary cuts", "expensive rebooking costs", "public parking penalties", "extra baggage fees"],
+      "answer": 1
+    },
+    {
+      "prompt": "The traveler demanded explanations for staffing ______.",
+      "options": ["worker shortages", "union strikes", "training sessions", "shift schedules"],
+      "answer": 0
+    },
+    {
+      "prompt": "Expense receipts accompanied reimbursement ______.",
+      "options": ["formal letters", "financial demands", "digital vouchers", "job applications"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Eleanor,\n\nThank you for contacting us. I am very sorry for the stressful and unacceptable experience you had at Terminal 3 last Tuesday. You had every right {{1}} wheelchair assistance and clear communication, and we failed to meet those basic standards.\n\nLeaving you waiting without a proper chair or {{2}} while dealing with mobility difficulties {{3}}. We are looking into the staff shortages and the broken elevator to make sure this never happens again to any traveler.\n\nTo make things right, I have approved a full refund for your $220 hotel room and {{4}}. The money {{5}} sent back to your original payment method.\n\nThank you for bringing this serious issue to our attention. We truly value all passengers and want to ensure safe travel for everyone.\n\nSincerely,\nMr. Davis\nTerminal 3 Customer Service",
+    "blanks": [
+      { "options": ["to expect reliable", "to ignore scheduled", "to refuse standard", "to cancel upcoming"], "answer": 0 },
+      { "options": ["regular boarding passes", "flight status updates", "access to facilities", "luggage collection tags"], "answer": 2 },
+      { "options": ["is completely wrong", "is entirely acceptable", "was totally normal", "felt quite helpful"], "answer": 0 },
+      { "options": ["future parking vouchers", "the ticket change fees", "heavy baggage penalties", "standard meal allowances"], "answer": 1 },
+      { "options": ["will remain delayed", "was permanently cancelled", "has been", "might stay pending"], "answer": 2 }
+    ]
+  }
+}

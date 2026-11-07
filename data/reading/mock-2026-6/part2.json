@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Elena,\n\nI was looking at some upcoming possibilities for us, and one particular \"paradise\" caught my eye because it isn't just about the scenery—it actually includes a way to {{1}}. It's rare to find a package where the relaxation isn't an extra cost but a built-in gift.\n\nI also noticed a sophisticated European option where we wouldn't have to {{2}} to see the art, which sounds like a dream given how busy those galleries get. If you're feeling more adventurous and want to head East, there's a chance to {{3}} rather than just eating it, which would be a fun skill to bring home.\n\nThe most surprising part, though, was a mountain retreat that seems to include a {{4}} as part of the commute; it's a bit more expensive than the tropical beach, but the elevation makes it feel much more exclusive. Since they are offering {{5}} right now, we should probably decide quickly before these rates vanish back to their original heights.\n\nLet me know which \"discovery\" sounds most like you.\n\nWarmly,\nMarcus",
+    "blanks": [
+      { "options": ["purchase luxury goods", "heal without a bill", "swim with dolphins", "skip the resort fees"], "answer": 1 },
+      { "options": ["pay for a ticket", "stand in the heat", "endure the queue", "visit the Louvre"], "answer": 2 },
+      { "options": ["master the craft", "photograph the dish", "serve the locals", "farm the ingredients"], "answer": 0 },
+      { "options": ["private chauffeur", "high-altitude trek", "scenic rail journey", "flight over the Alps"], "answer": 2 },
+      { "options": ["early bird access", "temporary price drops", "seasonal vouchers", "group-only rates"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Marcus is drawn to ______.",
+      "options": ["free extras", "luxury hotels", "longer trips", "cheaper flights"],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus wants Elena's pick based on ______.",
+      "options": ["her personality", "the trip cost", "his own taste", "the trip length"],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus feels time pressure due to ______.",
+      "options": ["flight delays", "limited seats", "visa deadlines", "rising prices"],
+      "answer": 3
+    }
+  ]
+}

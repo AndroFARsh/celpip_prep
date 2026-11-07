@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Sandra and Tom,\n\nI just heard from Marcus that you are both moving to Calgary next month for Sandra's new position at Evergreen Environmental Services. I have to say, I wasn't completely surprised — I know how long you've been hoping for an opportunity like this, Sandra — but it still feels a little strange to think that you won't be just a short drive away anymore. Calgary is a big move from here in Kelowna, and I imagine you're both feeling a mix of excitement and nerves right now.\n\nI completely understand why you have to go, though. A senior project manager role at a firm like that doesn't come along every day, and from what Marcus told me, the salary and benefits package they've offered you is really quite generous. Tom, I know it wasn't the easiest decision for you either, especially with your landscaping business still going strong here. Closing up something you've spent years building takes real courage, and I respect that you're supporting Sandra through this. Hopefully the Calgary market will be welcoming to a new venture, whenever you're ready to start something up again.\n\nKevin and I want you to know that we'd like to help in any way we can before you leave. We have a fairly large van that we've lent out to friends before, so if you need extra space for moving boxes or furniture, please just say the word. We're also happy to take care of your cat, Pumpkin, while you're getting settled in those first few weeks — we know how stressful it can be to move a pet across provinces, and she's always welcome here. Our kids absolutely adore her, so it wouldn't be any trouble at all.\n\nOn a more personal note, the four of us have been friends since our university days, and that's not something that changes with distance. We're already thinking about planning a visit to Calgary sometime in the late spring. Kevin has never seen the Rockies up close, and honestly, neither have I. It would be wonderful to see your new home and explore a little of the city together.\n\nPlease don't feel like you have to handle everything on your own in the weeks ahead. Moving is overwhelming even under the best circumstances, and we're here if you need anything — whether it's help packing, someone to talk to, or even just a home-cooked meal before the big day. Reach out whenever you like.\n\nWishing you both all the best as you start this new chapter.\n\nWarmly,\nLinda",
+  "questions": [
+    {
+      "prompt": "Sandra's upcoming relocation is ______.",
+      "options": ["a spontaneous lifestyle change", "a career advancement opportunity", "a sudden Kelowna requirement", "her husband's business decision"],
+      "answer": 1
+    },
+    {
+      "prompt": "Linda is willing to ______.",
+      "options": ["assist with moving help", "manage Tom's landscaping business", "visit Calgary next month", "adopt their cat permanently"],
+      "answer": 0
+    },
+    {
+      "prompt": "The couple will likely ______.",
+      "options": ["hire professional movers immediately", "accept help with the relocation process", "decline offers to ensure independence", "delay their trip to settle the business"],
+      "answer": 1
+    },
+    {
+      "prompt": "Linda suggests the couple ______.",
+      "options": ["finalize house sales early", "reach out for support", "prioritize visiting the Rockies", "avoid moving their pet"],
+      "answer": 1
+    },
+    {
+      "prompt": "The firm Sandra joined is ______.",
+      "options": ["a small, local startup", "a large, established business", "run by their friend", "a temporary project firm"],
+      "answer": 1
+    },
+    {
+      "prompt": "The main purpose is to ______.",
+      "options": ["coordinate moving day logistics", "offer emotional, practical support", "discuss Tom's future business", "plan a vacation trip"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Hi Linda,\n\nWe were so happy to get your message — it honestly made our week. You are right that all of this has happened quite fast, and there are definitely moments when it feels {{1}}, but we are keeping our spirits up. Please do count us in for the van. We have been {{2}} about a couple of the heavier pieces, so knowing we have that sorted is a real weight off our minds. As for Pumpkin, we are so relieved you offered. She gets a little {{3}} around strangers, but with your kids around, we have a feeling she will settle in just fine.\n\nA spring visit sounds like something to really look forward to. By then we should have {{4}} and will be ready to show you both around properly. Thank you for reminding us that we don't have to do this alone. Having friends like you makes the whole thing feel {{5}}.\n\nWith love,\nSandra and Tom",
+    "blanks": [
+      { "options": ["a little overwhelming", "surprisingly easy", "rather disappointing", "completely unexpected"], "answer": 0 },
+      { "options": ["quite excited", "a bit worried", "already asking around", "not really thinking"], "answer": 1 },
+      { "options": ["playful and noisy", "attached to her food", "anxious and clingy", "hard to manage"], "answer": 2 },
+      { "options": ["unpacked and found our feet", "started looking for a bigger place", "figured out the best sightseeing spots", "got Tom's new business off the ground"], "answer": 0 },
+      { "options": ["a lot more manageable", "quite bittersweet", "harder than expected", "like a fresh start"], "answer": 0 }
+    ]
+  }
+}

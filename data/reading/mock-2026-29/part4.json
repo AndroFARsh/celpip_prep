@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Gentrification—the process whereby a poor urban area is changed by wealthier people moving in, improving housing, and attracting new businesses—is one of the most contentious issues in modern urban planning. To some, it represents the \"renaissance\" of neglected neighborhoods; to others, it is a polite term for the forced displacement of long-term, lower-income residents.\n\nThose who view gentrification positively often point to the physical and economic improvements it brings. Dilapidated buildings are renovated, crime rates often drop, and the local tax base increases, allowing for better public services like parks and schools. New businesses, such as high-end grocery stores and trendy cafes, create jobs and stimulate the local economy. From an aesthetic and safety standpoint, a \"gentrified\" neighborhood is often more appealing to young professionals and families looking for an urban lifestyle.\n\nHowever, the human cost of this transformation is often staggering. As property values and rents skyrocket, original residents—who may have lived in the neighborhood for generations—are priced out of their homes. This displacement often destroys the social fabric and cultural history of a community. Small, family-owned businesses that served the local population are replaced by corporate chains or expensive boutiques that the original residents cannot afford. Critics argue that gentrification doesn't solve poverty; it simply pushes it to the outskirts of the city, away from public view and accessible transit.\n\nThe debate often centers on the concept of \"equitable development.\" Is it possible to improve a neighborhood without alienating its existing population? Some cities are experimenting with rent control, community land trusts, and inclusionary zoning—policies that require developers to include affordable housing units in new projects.\n\nThe gentrification dilemma highlights the tension between economic progress and social justice. While everyone wants safer, cleaner, and more vibrant cities, we must ask: for whom are these improvements being made? A city that is only accessible to the wealthy risks losing the diversity and soul that made it attractive in the first place.",
+  "questions": [
+    {
+      "prompt": "Gentrification's \"renaissance\" primarily manifests as ______.",
+      "options": ["Demographic wealth preservation", "Subsidized housing expansion", "Structural and fiscal revitalization", "Grassroots cultural movements"],
+      "answer": 2
+    },
+    {
+      "prompt": "From an economic perspective, critics argue that gentrification ______.",
+      "options": ["Eradicates urban poverty", "Redistributes systemic disadvantage", "Minimizes corporate influence", "Lowers the cost of living"],
+      "answer": 1
+    },
+    {
+      "prompt": "Long-term cultural history is threatened by ______.",
+      "options": ["Increased public park funding", "Erosion of social cohesion", "New inclusionary zoning laws", "Improved school systems"],
+      "answer": 1
+    },
+    {
+      "prompt": "For original residents, new high-end businesses are ______.",
+      "options": ["Convenient local upgrades", "Drivers of lower rents", "Sources of long-term employment", "Economically inaccessible entities"],
+      "answer": 3
+    },
+    {
+      "prompt": "A city accessible only to the wealthy is described as ______.",
+      "options": ["Culturally hollowed out", "Economically invincible", "Architecturally superior", "Highly diverse"],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "While I recognize that gentrification can lead to a \"renaissance\" of neglected areas by lowering crime and {{1}}, I am deeply concerned about the \"staggering human cost\" involved. It {{2}} long-term residents and family-owned businesses {{3}} of the very communities they built over generations. Simply pushing poverty to the city's outskirts {{4}} to urban decay; it is a displacement of the problem. I believe the focus must shift toward \"equitable development\" through policies like rent control and {{5}} to ensure that urban improvements benefit everyone, not just the wealthy.",
+    "blanks": [
+      { "options": ["advancing social welfare", "improving public services", "to upgrade local facilities", "bettering communal aids"], "answer": 1 },
+      { "options": ["feels like watching", "is heartbreaking to see", "results in seeing", "seems devastating for"], "answer": 1 },
+      { "options": ["costed out", "excluded from", "forced away", "priced out"], "answer": 3 },
+      { "options": ["is not a solution", "doesn't provide an answer", "fails at resolving", "lacks a remedy"], "answer": 0 },
+      { "options": ["diverse housing", "inclusionary zoning", "integrated planning", "supportive districts"], "answer": 1 }
+    ]
+  }
+}

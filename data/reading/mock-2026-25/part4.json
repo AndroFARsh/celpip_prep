@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Over the next two decades, trillions of dollars are expected to pass from the \"Baby Boomer\" generation to their millennial and Gen Z heirs. Economists have dubbed this \"The Great Wealth Transfer.\" While this windfall promises to provide a financial lifeline to a generation struggling with student debt and housing costs, it also threatens to permanently solidify social stratification. The debate over inheritance taxes and \"merit\" has become a central flashpoint in the discussion of economic justice.\n\nFrom one perspective, the right to pass down wealth is a fundamental component of the \"American Dream\" and family autonomy. Proponents of minimal inheritance taxes argue that individuals work hard and save specifically to provide a better life for their children. To tax this wealth heavily at the time of death is seen by many as \"double taxation\"—the money was already taxed when it was earned. Furthermore, they argue that inherited wealth provides the stability necessary for the next generation to take entrepreneurial risks, pursue higher education, and contribute to the economy without the crushing weight of poverty. In this view, family wealth is a private safety net that reduces the burden on the state.\n\nHowever, social critics argue that the sheer scale of this transfer is fundamentally anti-meritocratic. If the primary predictor of a person's financial success is the zip code they were born in or the size of their parents' bank account, the idea of a \"level playing field\" becomes a myth. This concentration of wealth creates a \"landed gentry\" class that has access to elite networks, better healthcare, and debt-free education, while those without such safety nets fall further behind. Critics advocate for a robust \"Estate Tax\" or \"Inheritance Tax,\" suggesting that these funds should be redistributed to fund public education and infrastructure, thereby \"recycling\" wealth to create opportunities for everyone, not just a lucky few.\n\nEconomists also point to the \"velocity of money\" problem. Inherited wealth is often tied up in real estate or long-term investments, where it sits dormant. If that same wealth were distributed more broadly through social programs or higher wages, it would likely be spent on goods and services, stimulating broader economic growth.",
+  "questions": [
+    {
+      "prompt": "\"The Great Wealth Transfer\" is primarily defined by ______.",
+      "options": [
+        "Intergenerational asset migration",
+        "Immediate government stimulus",
+        "Radical stock market volatility",
+        "Global debt cancellation"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"double taxation\" argument is based on ______.",
+      "options": [
+        "Recurring annual property fees",
+        "Prior levies on earnings",
+        "Inflationary value decreases",
+        "Mandatory philanthropic donations"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics of unregulated inheritance argue it compromises ______.",
+      "options": [
+        "Corporate profit margins",
+        "The availability of real estate",
+        "The privacy of high-net-worth families",
+        "Achievement-based social advancement"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The emergence of a \"landed gentry\" refers to ______.",
+      "options": [
+        "A rise in agricultural labor",
+        "Entrenched systemic privilege",
+        "Increased urban migration",
+        "A surge in homeowner associations"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Broader distribution of wealth is theorized to ______.",
+      "options": [
+        "Decrease the need for infrastructure",
+        "Freeze the housing market",
+        "Catalyze macroeconomic activity",
+        "Encourage long-term hoarding"
+      ],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "The concept of \"The Great Wealth Transfer\" highlights {{1}} between individual family autonomy and collective economic equity. On one hand, the ability {{2}} is a cornerstone of the American Dream, rewarding lifelong labor and providing heirs with the stability to {{3}}. Conversely, an unchecked concentration of inherited wealth risks creating a permanent social hierarchy, where success is determined by birthright rather than merit. If access to elite education and debt-free living {{4}} for a \"landed gentry,\" the ideal of a level playing field collapses. Balancing these interests requires {{5}} on how to honor family legacies while ensuring wealth facilitates broad-based opportunity.",
+    "blanks": [
+      {
+        "options": [
+          "a deep-seated stress",
+          "a profound tension",
+          "an extreme friction",
+          "a serious struggle"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "to give away items",
+          "to pass down assets",
+          "to hand over holdings",
+          "to move along estates"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "innovate and take risks",
+          "invent and make bets",
+          "create and try chances",
+          "develop and face hazards"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "stays kept exclusively",
+          "is reserved",
+          "remains saved only",
+          "acts strictly held"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "a subtle conversation",
+          "a complex chat",
+          "a detailed debate",
+          "a nuanced discussion"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

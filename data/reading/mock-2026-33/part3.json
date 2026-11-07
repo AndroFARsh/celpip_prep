@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "The \"Right to Repair\" movement has evolved from a consumer electronics issue into a critical debate over life-saving medical technology. The 2020 pandemic highlighted a dangerous bottleneck where essential equipment like ventilators sat idle due to restrictive \"authorized-only\" repair policies. This crisis forced a global conversation regarding whether intellectual property protections should be allowed to obstruct emergency medical care. Advocates argue that in life-or-death situations, the ability to restore a machine to functionality must take precedence over proprietary software locks.",
+    "Biomedical technicians, or \"biomeds,\" are frequently blocked from repairing the very machines they are hired to maintain because of digital locks. Manufacturers justify these restrictions by citing patient safety and liability concerns, claiming only their certified staff can guarantee a machine's integrity. Conversely, biomeds point out that waiting days for a manufacturer's \"digital permission\" to fix a $100,000 MRI machine creates unnecessary delays in patient diagnosis and treatment. This artificial barrier often results in skyrocketing healthcare costs and significant downtime for vital hospital infrastructure.",
+    "The legislative environment is beginning to favor a \"service-right\" model that empowers hospital maintenance departments over original manufacturers. Proposed laws aim to mandate that manufacturers provide diagnostic software, service manuals, and spare parts to independent repairers and hospitals. Such transparency is designed to build a more resilient healthcare system, particularly in rural or underserved regions where authorized technicians are rarely available. By decentralizing repair capabilities, hospitals can respond more quickly to equipment failures without being tethered to a single corporation.",
+    "The core challenge of the movement is finding a compromise between the high costs of research and development and the public's need for accessible repair. Manufacturers often rely on lucrative service contracts to fund future innovations, and they warn that losing this revenue could slow the pace of medical breakthroughs. However, critics argue that a \"monopoly on maintenance\" is an unethical way to sustain a business model when it impacts patient outcomes. The future of the industry likely depends on a rigorous certification process that ensures safety while finally opening the door to independent repair."
+  ],
+  "statements": [
+    { "text": "A worldwide virus changed how we view tech rules.", "answer": "A" },
+    { "text": "Companies use repair fees to pay for new inventions.", "answer": "D" },
+    { "text": "Internal hospital staff are blocked by digital padlocks.", "answer": "B" },
+    { "text": "New laws want to share secrets with local shops.", "answer": "C" },
+    { "text": "Waiting for a fix can be a death sentence.", "answer": "A" },
+    { "text": "Remote clinics struggle because help is too far away.", "answer": "C" },
+    { "text": "Insurance companies are refusing to pay for broken tools.", "answer": "E" },
+    { "text": "Machines sit broken while waiting for a software code.", "answer": "B" },
+    { "text": "Saving lives is more important than corporate profit.", "answer": "D" }
+  ]
+}

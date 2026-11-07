@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Oliver,\n\nI found a charming spot for our weekend catch-up that seems to reward consistency; if we frequent this place, our {{1}} will eventually be on the house. Since you're still carrying your university credentials, you can actually secure a {{2}} compared to the menu prices.\n\nWe should aim for a late lunch, though we have to be precise; if we arrive at 2:30 PM, we'll miss the chance to get a {{3}}. However, if we linger until the late afternoon, your second blended iced beverage would only cost {{4}}. Just a heads-up for your Monday morning routine: you can only snag that complimentary baked treat if you opt for the {{5}}, as the smaller sizes don't qualify for the perk.\n\nCan't wait to see you there!\n\nBest,\nSophie",
+    "blanks": [
+      { "options": ["fifth latte", "eleventh refreshment", "tenth beverage", "ninth espresso"], "answer": 2 },
+      { "options": ["$1.10 reduction on avocado toast", "$5.50 flat discount", "$1.35 surcharge", "$0.55 discount on a latte"], "answer": 0 },
+      { "options": ["table in the cozy ambiance", "three-item bundled price", "caffeine-free alternative", "half-price frappe"], "answer": 1 },
+      { "options": ["$6.00", "$4.00", "$3.00", "$1.50"], "answer": 2 },
+      { "options": ["morning decaf", "12oz cup", "most substantial volume", "weekend special"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Sophie's primary motivation for the timing of their meeting is to ______.",
+      "options": ["Prioritize financial efficiency.", "Ensure logistical precision.", "Guarantee promotional eligibility.", "Optimize their social duration."],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"complimentary baked treat\" is uniquely contingent upon ______.",
+      "options": ["A specific time-bound routine.", "The avoidance of diminutive portions.", "The selection of a premier volume.", "A recurring morning visitation."],
+      "answer": 2
+    },
+    {
+      "prompt": "Oliver's university credentials are ______.",
+      "options": ["Sufficient for a tiered reduction.", "Necessary for menu-wide savings.", "Validated by consistent frequency.", "Subject to impending expiration."],
+      "answer": 0
+    }
+  ]
+}

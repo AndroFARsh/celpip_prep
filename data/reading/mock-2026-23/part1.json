@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Derek,\n\nI'm reaching out to you personally because we've encountered a significant scheduling overlap that affects your booking for the weekend of October 12th. Due to a synchronization error between our third-party booking platform and our internal management software, the \"Evergreen Suite\" you reserved was inadvertently double-booked for a wedding party that finalized their contract several months ago.\n\nWe understand that you chose our boutique hotel specifically for your tenth anniversary because of the suite's private balcony and view of the lighthouse. Unfortunately, as we are a small heritage property, we do not have an identical room available during that timeframe. To rectify this situation, we would like to offer you a complimentary \"lateral transfer\" to our sister property, The Obsidian Pier, which is located just three blocks away.\n\nWhile The Obsidian is a more modern, industrial-style hotel, we have set aside their \"Penthouse Studio\" for you. This room actually features a larger outdoor space than the Evergreen Suite, though the view is of the harbor rather than the lighthouse. To compensate for the frustration this change surely causes, we will not only honor your original, lower rate at the Obsidian but will also include a $150 credit for their Michelin-starred dining room, The Anchor.\n\nAlternatively, if your heart was set on the heritage atmosphere of our hotel, we can move your reservation to the following weekend (October 19th–21st). If you choose this route, the entire three-night stay will be on the house, and we will arrange for a private champagne breakfast to be delivered to your door each morning. Please let us know by Thursday at noon which of these options best suits your plans so we can release the hold on the other rooms. We value your patronage and are committed to making this anniversary memorable despite this technical hiccup.\n\nSincerely,\nMarcus Thorne\nGeneral Manager, The Stonebridge Inn",
+  "questions": [
+    {
+      "prompt": "The Stonebridge Inn is ______.",
+      "options": ["large and corporate", "small and historic", "under renovation", "new and modern"],
+      "answer": 1
+    },
+    {
+      "prompt": "The Obsidian offers a ______.",
+      "options": ["different view", "smaller balcony", "higher price", "worse room"],
+      "answer": 0
+    },
+    {
+      "prompt": "To stay, Derek may ______.",
+      "options": ["pay more", "skip breakfast", "switch hotels or dates", "cancel the trip"],
+      "answer": 2
+    },
+    {
+      "prompt": "Rescheduling is ______.",
+      "options": ["half price", "completely free", "one night", "non-refundable"],
+      "answer": 1
+    },
+    {
+      "prompt": "Thursday's deadline helps ______.",
+      "options": ["the wedding", "manage rooms", "book dining", "fix computers"],
+      "answer": 1
+    },
+    {
+      "prompt": "The manager sounds ______.",
+      "options": ["rude and uncaring", "defensive and scared", "helpful and apologetic", "strict and stubborn"],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Marcus,\n\nThank you for your email and for the transparency regarding {{1}} for my anniversary stay. While it is disappointing to hear the \"Evergreen Suite\" is unavailable, I appreciate the {{2}} you've provided to rectify the situation.\n\nAfter discussing it with my wife, we have decided to accept the second option. We {{3}} The Stonebridge Inn for its heritage atmosphere, so we are happy to move our trip to the weekend of October 19th–21st to stay at your property. The offer {{4}} and the private champagne breakfasts {{5}} and more than compensates for the change in plans.\n\nPlease confirm that our reservation has been successfully moved to the new dates.\n\nBest regards,\nDerek",
+    "blanks": [
+      { "options": ["the timing conflict", "the scheduling overlap", "some calendar issues", "a date coincidence"], "answer": 1 },
+      { "options": ["kind substitutes", "ample choices", "generous alternatives", "open options"], "answer": 2 },
+      { "options": ["specifically chose", "explicitly liked", "precisely wanted", "definitively picked"], "answer": 0 },
+      { "options": ["for a free visit", "with a gifted trip", "of a complimentary stay", "as a costless night"], "answer": 2 },
+      { "options": ["is incredibly kind", "stays truly nice", "feels greatly sweet", "acts very pleasant"], "answer": 0 }
+    ]
+  }
+}

@@ -8,7 +8,7 @@ async function TestList() {
   return (
     <div className="grid gap-4 lg:grid-cols-2">
       {tests.map((t) => (
-        <TestCard key={t.id} id={t.id} title={t.title} />
+        <TestCard key={t.id} id={t.id} title={t.title} source={t.source} />
       ))}
     </div>
   )

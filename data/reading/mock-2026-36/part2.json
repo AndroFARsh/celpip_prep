@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Clara,\n\nI know things have been incredibly hectic with your startup lately, and it seems like you've been neglecting yourself and your tech infrastructure. I found a group that can handle those {{1}} to ensure your business doesn't crash during the next push. They even offer a complimentary diagnostic for newcomers just to ensure everything is running smooth. Since your wedding is approaching, you really should grab one of their {{2}} before they are all gone for the day. It would be a great way to handle your prep and maybe even get that extra treatment for your hair without paying a cent. Also, since you've been so tense, I think having someone come over for a {{3}} would be much better than you trying to find time to travel to a clinic. If we book a few sessions together, the {{4}} effectively makes the third visit a gift. It seems like the best way to maintain your {{5}} without adding more travel to your plate.\n\nLove,\nOliver",
+    "blanks": [
+      { "options": ["digital foundations", "manual overrides", "hardware upgrades", "cloud migrations"], "answer": 0 },
+      { "options": ["open-ended consultations", "scarce aesthetic opportunities", "unlimited makeover windows", "walk-in grooming permits"], "answer": 1 },
+      { "options": ["stationary recovery", "clinical intervention", "residential reprieve", "remote consultation"], "answer": 2 },
+      { "options": ["bulk-buy bonus", "half-price incentive", "loyalty surcharge", "introductory waiver"], "answer": 0 },
+      { "options": ["yearly subscription", "long-term stability", "initial investment", "seasonal peak"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Oliver is ______.",
+      "options": ["worried about Clara's work-life balance", "annoyed by Clara's business expenses", "trying to sell Clara a subscription", "critical of Clara's wedding planning"],
+      "answer": 0
+    },
+    {
+      "prompt": "Oliver seems to prefer a service that ______.",
+      "options": ["requires Clara to leave the office", "minimizes Clara's transit time", "is the most expensive option available", "focuses only on tech and ignores health"],
+      "answer": 1
+    },
+    {
+      "prompt": "Oliver's mention of \"not paying a cent\" for a hair treatment implies he is ______.",
+      "options": ["being cheap about the wedding", "highlighting the value of a specific incentive", "unsure if the company is actually professional", "confused about the pricing list"],
+      "answer": 1
+    }
+  ]
+}

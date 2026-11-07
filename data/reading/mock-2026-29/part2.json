@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Laura,\n\nI was just thinking about our conversation regarding that creative rut you've been feeling lately. I happened to pass by the local hub today and noticed they are opening their doors for the upcoming autumn cycle. It reminded me of your interest in shifting toward a more {{1}} career path, especially since they have some specialized tracks for organizing digital workflows and mastering those complex financial spreadsheets you mentioned. The timing is actually quite perfect because if you commit to a new path within the next few weeks, the initial financial barrier is {{2}}. It's a great way to dive back into a structured environment without feeling like you're overextending your budget. I also noticed they have a unique perk where you can attend a one-off {{3}} at no extra cost, which might be the low-pressure spark you need to get back into your photography or writing. If you're worried about the logistics, their doors stay open well into the evening, so we could even grab dinner after you finish your sessions. They also seem to have a very {{4}} approach for those who have been out of the academic loop for a while, offering dedicated guidance to help map out your professional future. Let me know if you want to swing by and check it out together. Taking that first step is usually the hardest part, but this seems like a {{5}} way to transition into a more fulfilling routine before the year ends.\n\nLove,\nDaniel",
+    "blanks": [
+      { "options": ["artistic", "administrative", "physical", "academic"], "answer": 1 },
+      { "options": ["completely waived", "significantly lowered", "doubled for latecomers", "strictly fixed"], "answer": 1 },
+      { "options": ["certification exam", "counseling session", "skill-building seminar", "enrollment interview"], "answer": 2 },
+      { "options": ["aggressive", "supportive", "automated", "competitive"], "answer": 1 },
+      { "options": ["high-risk", "cost-effective", "solitary", "permanent"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Laura's current professional state suggests she is ______.",
+      "options": ["Financially unstable", "Seeking technical rigor", "Under-stimulated", "Academically unqualified"],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"initial financial barrier\" mentioned is most likely ______.",
+      "options": ["Waived entirely", "Adjusted downward", "Deferred temporarily", "Subsidized by Daniel"],
+      "answer": 1
+    },
+    {
+      "prompt": "Daniel's description of the hub's \"approach\" implies the institution is ______.",
+      "options": ["Highly exclusionary", "Purely vocational", "Re-entry focused", "Informally structured"],
+      "answer": 2
+    }
+  ]
+}

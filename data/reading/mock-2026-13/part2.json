@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Elena,\n\nI was looking into some logistics for that visual portfolio you're finalizing and found a group that handles the transition from pixels to tangibles with incredible precision. Since you’re usually racing against the clock, their ability to bypass the standard wait time without sacrificing the integrity of the color or the weight of the stock is exactly what you need. They have a specific way of {{1}} that ensures your work doesn't just sit in a digital folder but feels substantial.\n\nI noticed that if you commit to a long-term collaboration rather than a one-off task, the overhead drops significantly, which might help us stay under that strict budget we discussed. They also have a unique {{2}} for those moments when our planning fails and we need a miracle produced before the sun comes up. It’s comforting to know there’s a safety net that treats every file with a {{3}} before it ever hits the machinery.\n\nActually, if you’re ready to {{4}} today, the initial entry costs are lowered, and there’s an even steeper reduction if we decide to move in high volumes. It’s a rare chance to {{5}} while ensuring the end result looks like it cost five times what we actually spent. Let me know if you want the specifics.\n\nBest,\nMarcus",
+    "blanks": [
+      {
+        "options": [
+          "digitizing your archives",
+          "solidifying your concepts",
+          "framing your photography",
+          "organizing your schedule"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "emergency protocol",
+          "delivery vehicle",
+          "creative department",
+          "membership club"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "digital watermark",
+          "technical audit",
+          "physical coating",
+          "security encryption"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "finalize the design",
+          "sign the lease",
+          "formalize the partnership",
+          "submit the request"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "maximize your influence",
+          "optimize your resources",
+          "expand your audience",
+          "upgrade your hardware"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Marcus contacts Elena to ______.",
+      "options": [
+        "complain about high expenses",
+        "cancel her visual portfolio",
+        "hire a digital designer",
+        "recommend a printing company"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The printing vendor offers ______.",
+      "options": [
+        "overnight production and delivery",
+        "free poster printing services",
+        "extra fees for large orders",
+        "mandatory yearly contracts only"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Elena can save money if she ______.",
+      "options": [
+        "pays using credit cards",
+        "buys a new computer",
+        "prints fewer physical pages",
+        "opens a new account"
+      ],
+      "answer": 3
+    }
+  ]
+}

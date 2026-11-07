@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In the modern consumer landscape, the lifespan of our electronics seems to be shrinking. A decade ago, a malfunctioning toaster or a cracked smartphone screen was a minor inconvenience that could be fixed at a local repair shop or even at the kitchen table. Today, however, many manufacturers have designed their products to be virtually unfixable by the average consumer. This has sparked a global \"Right to Repair\" movement, pitting consumer advocates and environmentalists against some of the world's most powerful tech giants.\n\nThe core of the \"Right to Repair\" argument is centered on ownership and sustainability. Advocates argue that if you purchase a product, you should have the right to modify or fix it however you see fit. Currently, many companies use proprietary screws, glue components together, or use software locks that prevent third-party parts from functioning. This \"planned obsolescence\" forces consumers to discard devices that are only slightly damaged, leading to a staggering increase in global e-waste. By providing access to original spare parts, specialized tools, and diagnostic manuals, manufacturers could significantly extend the life of their products, saving consumers money and reducing the environmental footprint of the tech industry.\n\nFurthermore, proponents argue that the current system creates a monopoly on repair services. When only the \"authorized\" manufacturer can perform a fix, they can charge exorbitant prices, often making the repair cost nearly as much as a brand-new device. This practice effectively kills the local repair economy—the small, independent shops that once thrived in every neighborhood. Democratizing repair information would stimulate local businesses and provide vocational opportunities for technicians.\n\nOn the other side of the debate, manufacturers and trade groups raise serious concerns regarding intellectual property (IP) and safety. They argue that forcing companies to release detailed schematics and software code would expose trade secrets to competitors, undermining the billions of dollars spent on research and development. From their perspective, the complexity of modern micro-electronics—which often involve high-voltage batteries and intricate circuitry—poses a physical risk to untrained hobbyists. A poorly executed DIY repair on a lithium-ion battery, for instance, could result in a fire or explosion, leading to liability issues for the original brand.\n\nThere is also the matter of cybersecurity. Tech companies argue that opening up their software ecosystems to third-party repair tools could create vulnerabilities that hackers might exploit to steal user data. They maintain that \"authorized\" repair centers ensure a level of quality control and security that independent shops cannot guarantee.",
+  "questions": [
+    {
+      "prompt": "The shift in product longevity is attributed to ______.",
+      "options": ["Spontaneous mechanical failure", "Local repair shop negligence", "Rapid consumer boredom", "Deliberate engineering strategies"],
+      "answer": 3
+    },
+    {
+      "prompt": "The \"Right to Repair\" core tenet involves ______.",
+      "options": ["Mandatory manufacturer subsidies", "Absolute post-purchase autonomy", "Universal hardware standardization", "Free diagnostic services"],
+      "answer": 1
+    },
+    {
+      "prompt": "Software locks primarily serve to ______.",
+      "options": ["Obstruct non-certified components", "Enhance user interface", "Stabilize battery performance", "Encrypt personal communications"],
+      "answer": 0
+    },
+    {
+      "prompt": "The environmental consequence of current trends is ______.",
+      "options": ["Decreased resource extraction", "Accelerated hardware disposal", "Improved recycling efficiency", "Reduced carbon emissions"],
+      "answer": 1
+    },
+    {
+      "prompt": "Manufacturer-only repair ecosystems often result in ______.",
+      "options": ["Competitive market pricing", "Artificially inflated costs", "Faster service turnaround", "Superior product innovation"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "While I understand the manufacturers' concerns regarding \"intellectual property\" and {{1}} of DIY lithium-ion battery repairs, the current trend of \"planned obsolescence\" {{2}} disastrous. It {{3}} that proprietary screws and software locks essentially create a monopoly, forcing us {{4}} and fueling the global e-waste crisis. Democratizing repair information would not only save consumers money but also revitalize the local repair economy. We need a middle ground where \"authorized\" quality {{5}} stripping owners of the fundamental right to maintain the products they purchased.",
+    "blanks": [
+      { "options": ["the possible harm", "some likely danger zones", "the potential safety risks", "a probable hazard"], "answer": 2 },
+      { "options": ["has become ecologically", "is environmentally", "seems naturally", "feels biologically"], "answer": 1 },
+      { "options": ["is often claimed", "could be argued", "might be mentioned", "has been told"], "answer": 0 },
+      { "options": ["into throwing away", "toward wasting machines", "for dumping used items", "to discard repairable devices"], "answer": 3 },
+      { "options": ["can happen besides", "is maintained without", "stays through", "exists despite"], "answer": 1 }
+    ]
+  }
+}

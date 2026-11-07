@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "In 2011, a study by the city's social services department revealed that local restaurants were throwing away tons of unsold, high-quality food every night, while many families in the area could not afford healthy meals. To address this issue, a charity group established the Central Community Kitchen in 2013. The program was designed to gather surplus ingredients from businesses and turn them into nutritious public meals. Five years later, the organization grew so large that the city took over management, dividing it into two independent departments: one focused on hot meal delivery and another dedicated entirely to teaching free cooking classes.",
+    "Operating under the official name FeedTheNeighborhood, the organization provides various food programs for residents, including daily lunch drop-ins, school breakfast clubs, and emergency grocery hampers. The group also delivers free hot meals to senior citizens who cannot leave their homes. Residents can sign up online to volunteer for a afternoon shift or request a meal package for their family. FeedTheNeighborhood also gives out annual awards to recognize outstanding volunteers. Juries made up of local chefs and community leaders decide who receives these honors, with about 40 citizens serving on the selection panels each year.",
+    "In 2019, the organization created the Local Farmer Reimbursement Program. This initiative ensures that small-scale local farmers receive financial payment when they donate their extra seasonal crops to the kitchen. The program is meant to cover the farmers' harvesting costs so they do not lose money by being generous. Close to $40,000 is now distributed annually to around 80 neighborhood growers. While similar food rescue groups operate across the country, this specific financial reimbursement system is unique because it only supports farmers operating within a 50-kilometer radius of the city.",
+    "The organization also selectively collects and preserves traditional family recipes from the diverse cultural groups living in the area. Currently, they have archived over 1,200 unique recipes in their digital Heritage Cookbook. More than half of these cooking methods, stories, and historical food photos are featured on posters in community centers and public libraries. The complete collection can also be viewed on the FeedTheNeighborhood website and the city museum's online archive project."
+  ],
+  "statements": [
+    { "text": "A group of local people works together to decide who wins the awards.", "answer": "B" },
+    { "text": "People who take the free cooking classes must share their family recipes.", "answer": "E" },
+    { "text": "The city took control of this food program less than ten years ago.", "answer": "A" },
+    { "text": "The kitchen network gives out low-interest loans to help small farms grow.", "answer": "E" },
+    { "text": "The program gives farmers basic financial help while they gather their crops.", "answer": "C" },
+    { "text": "A lot of perfectly good food was wasted during the early 2010s.", "answer": "A" },
+    { "text": "Volunteers who win the annual rewards get free meals from local restaurants.", "answer": "E" },
+    { "text": "Farmers who live too far away from the city cannot get paid.", "answer": "C" },
+    { "text": "The charity website allows people to register for the upcoming cooking classes.", "answer": "E" }
+  ]
+}

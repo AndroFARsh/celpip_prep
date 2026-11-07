@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In several nations, the concept of a \"Social Credit System\" is transitioning from a theoretical idea to a daily reality. These systems use big data and surveillance technology to monitor and \"rate\" the behavior of citizens. High scores—earned by paying taxes on time, volunteering, or even buying healthy food—can lead to perks like lower interest rates or faster internet speeds. Low scores—resulting from traffic violations, late payments, or \"antisocial\" online behavior—can lead to restrictions on travel or employment. This intersection of technology and social engineering has created a stark divide in global opinion.\n\nSupporters of social credit systems argue that they foster a \"culture of trust\" and civic responsibility. In large, anonymous societies where traditional community ties have weakened, a formalized rating system provides a transparent way to reward good behavior. They argue that the system is merely a digital extension of the credit scores already used by banks, but applied to a broader range of social interactions. For the average law-abiding citizen, the system promises a safer, more predictable environment where \"bad actors\" are held accountable for their actions in real-time. It incentivizes people to be better neighbors, more honest business partners, and more diligent citizens.\n\nFrom an administrative standpoint, governments argue that these systems allow for more efficient governance. By using algorithms to identify social trends and individual needs, the state can allocate resources more effectively and intervene before a minor social issue becomes a major crisis. In this view, the social credit system is a tool for harmony and modernization.\n\nHowever, human rights advocates and privacy experts view these systems as the ultimate tool of authoritarian control. They warn that \"good behavior\" is often defined by whoever happens to be in power, making the system a weapon for suppressing dissent. If criticizing the government or associating with \"low-score\" individuals results in a lower rating, the system effectively enforces social and political conformity. The \"chilling effect\" on free speech is profound; when every action is tracked and scored, the spontaneity and messiness that characterize a free society are stifled.\n\nThere is also the problem of \"algorithmic opacity.\" If a person's score drops, they may not know why, or they may find it nearly impossible to appeal the decision. Inaccuracies in data—caused by a technical glitch or a case of mistaken identity—could ruin a person's life with no clear path to recourse. Critics argue that these systems create a new form of digital \"caste system,\" where those at the bottom are permanently marginalized with no hope of upward mobility.\n\nAs we move further into the era of the \"Internet of Things,\" the ability to monitor human behavior will only increase. The question for the future is whether we want our technology to be a mirror that reflects our best selves through rewards, or a panopticon that enforces obedience through fear.",
+  "questions": [
+    {
+      "prompt": "The \"Social Credit System\" is evolving from a ______.",
+      "options": [
+        "Proven historical precedent",
+        "Voluntary community initiative",
+        "Temporary wartime measure",
+        "Purely conceptual framework"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Citizens with high ratings are granted ______.",
+      "options": [
+        "Total legal immunity",
+        "Enhanced digital accessibility",
+        "Guaranteed public office",
+        "Direct tax exemptions"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Proponents suggest the system compensates for ______.",
+      "options": [
+        "Rising global inflation",
+        "Eroding communal bonds",
+        "Lack of digital literacy",
+        "Excessive government spending"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "From a state perspective, the system is a mechanism for ______.",
+      "options": [
+        "Suppressing economic growth",
+        "Encouraging online anonymity",
+        "Abolishing the banking sector",
+        "Optimized resource distribution"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Human rights experts argue that \"acceptable conduct\" is ______.",
+      "options": [
+        "Universally agreed upon",
+        "Biologically predetermined",
+        "Subjectively politically defined",
+        "Managed by independent NGOs"
+      ],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "While some argue that a formalized rating system could foster a \"culture of trust\" and {{1}} citizenship, I {{2}} such pervasive surveillance deeply unsettling. The article's point about \"algorithmic opacity\" is especially concerning; the idea that a technical glitch could ruin someone's life {{3}} is a nightmare scenario. Furthermore, I worry about the \"chilling effect\" this has on personal freedom. If \"good behavior\" {{4}} by those in power, it becomes {{5}} political conformity rather than social harmony. We must be careful not to trade our spontaneity and privacy for a digital \"caste system.\"",
+    "blanks": [
+      {
+        "options": [
+          "prize hardworking",
+          "gift serious",
+          "pay for active",
+          "reward diligent"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "look at the idea as",
+          "find the prospect of",
+          "see the future being",
+          "think the thought of"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "with no way to fix it",
+          "without any clear path to recourse",
+          "lacking a route for help",
+          "barring any chance of aid"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "is defined solely",
+          "stays decided purely",
+          "acts limited only",
+          "remains explained just"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "a method of making",
+          "a tool for enforcing",
+          "an instrument into doing",
+          "a device about pushing"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

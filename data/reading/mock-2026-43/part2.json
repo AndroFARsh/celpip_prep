@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Rachel,\n\nThinking about your passion for balance and new experiences, I wanted to share something I found at ZenFlow Wellness Studio. They specialize in yoga and meditation—perfect for anyone {{1}} mindful movement with moments of reflection. There's a sanctuary close by where those craving a deeper connection—whether with breath, movement, or simply an hour of peace—are welcome {{2}} of their journey. It's not just about stretching or stillness; early birds and curious newcomers both find special invitations waiting for them, while those who invite a friend to share the experience {{3}} more benefits. You'll find it easy to return as often as you like, with options for single visits or bundles that reward your commitment to regular practice. Unique combinations are available for those who want {{4}} physical flow with mental clarity sessions. And for the truly dedicated, there's a toolkit quietly waiting, alongside access to expert guidance and even virtual ways to join from home when life gets busy.\n\nShould you want {{5}} into your wellness routine, I can pass along everything you need to know.\n\nSending you peaceful thoughts,\nNathan",
+    "blanks": [
+      {
+        "options": [
+          "ignoring",
+          "rushing through",
+          "seeking to blend",
+          "separating"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "after the start",
+          "only at the beginning",
+          "at every stage",
+          "once they master it"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "lose",
+          "ignore",
+          "limit",
+          "reap even"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "to compare",
+          "to mix up",
+          "to replace",
+          "To blend"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "to step back",
+          "to dive deeper",
+          "to take a break",
+          "To skip ahead"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Nathan's message quietly suggests he ______ Rachel's wellbeing.",
+      "options": [
+        "ignores",
+        "worries about",
+        "celebrates",
+        "doubts"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "His mention of “a sanctuary close by” hints at ______.",
+      "options": [
+        "A shared memory",
+        "A recent argument",
+        "A secret project",
+        "A professional referral"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Nathan's sign-off suggests feelings that are ______.",
+      "options": [
+        "casual",
+        "indifferent",
+        "affectionate",
+        "impatient"
+      ],
+      "answer": 2
+    }
+  ]
+}

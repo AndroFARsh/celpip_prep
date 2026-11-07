@@ -10,7 +10,9 @@ import {
   type ReadingTest,
 } from "./schema"
 
-export const DATA_DIR = path.join(/* turbopackIgnore: true */ process.cwd(), "..", "data", "reading")
+/** The repo's test data. Unit and e2e tests set READING_DATA_DIR to their fixtures instead. */
+export const REPO_DATA_DIR = path.join(/* turbopackIgnore: true */ process.cwd(), "..", "data", "reading")
+export const DATA_DIR = process.env.READING_DATA_DIR ?? REPO_DATA_DIR
 
 async function readJson(file: string) {
   return JSON.parse(await readFile(file, "utf8"))

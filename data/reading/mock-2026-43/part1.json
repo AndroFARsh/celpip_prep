@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Ms. Wang,\n\nWe are writing to remind you that your EliteCare Health Insurance policy is scheduled for annual review and renewal on December 1, 2025. Over the past year, your consistent participation in wellness initiatives and prompt premium payments have strengthened our partnership and contributed to your continued health and security.\n\nIn recognition of your outstanding membership, we are pleased to confirm uninterrupted coverage for the upcoming year. Your current benefits will remain intact, and your premium rate will stay fixed at $440 per month.\n\nAttached to this message is the updated policy agreement, outlining complete coverage details, exclusions, and renewal procedures. Please review the document carefully and send your signed acknowledgement by November 12, 2025. Doing so will help us ensure smooth processing and prevent any interruption in your coverage.\n\nIf you wish to make changes to your plan—such as adding dependents, adjusting your deductible, or upgrading to a different coverage tier—our advisory team is readily available to assist you with personalized recommendations.\n\nAt EliteCare, we take pride in offering dependable service rooted in trust and long-term commitment. Your continued confidence in us embodies these values and strengthens our community of members.\n\nFor any questions regarding renewal, documentation, or service options, please reach out to our customer support team at your convenience.\n\nWarm regards,\nDavid Turner\nRenewals Manager\nEliteCare Health Insurance",
+  "questions": [
+    {
+      "prompt": "The renewal notice most strongly implies EliteCare's renewal process is ______.",
+      "options": [
+        "automatic but requires no client engagement",
+        "contingent on acknowledgment even when continuity is stressed",
+        "conditional upon payment verification before review",
+        "reset annually through a mandatory premium adjustment"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The fixed monthly rate conveys EliteCare's strategic intention to ______.",
+      "options": [
+        "disguise increases under bonus programs",
+        "reward compliance and sustained participation",
+        "stabilize new-member acquisition metrics",
+        "simplify underwriting by standardizing all plans"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Ms. Wang's prior conduct indirectly affected the renewal terms through ______.",
+      "options": [
+        "participating in promotional trials",
+        "contesting deductible thresholds in the previous year",
+        "expanding her plan's dependent network",
+        "demonstrating consistent reliability in both health and payment"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The structure of the message best exemplifies communication that is ______.",
+      "options": [
+        "emotionless yet promotional",
+        "coerce under the guise of formality",
+        "courteous yet compliance-oriented",
+        "irregular and ambiguous in instruction"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The advisory team's availability is positioned as evidence of EliteCare's ______.",
+      "options": [
+        "intent to cross-sell supplementary benefits",
+        "personalized service approach aligning with member trust",
+        "limitation to standardized tier adjustments only",
+        "shift from relationship-based to data-based servicing"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The November 12 deadline functions less as a strict ultimatum than as ______.",
+      "options": [
+        "a precautionary benchmark to avoid administrative disruption",
+        "a legal cutoff that voids prior commitments",
+        "a symbolic timeline for policy upgrades",
+        "a proposed guideline subject to flexible revision"
+      ],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Turner,\n\nThank you for your message and the reminder regarding my EliteCare Health Insurance renewal. I sincerely appreciate {{1}} support and {{2}} my membership. I {{3}} confirm my intention to renew my policy for the upcoming year under the same terms and premium rate. I {{4}} the attached policy agreement carefully and submit the signed acknowledgement before November 12, 2025, as requested.\n\nPlease extend my appreciation to the EliteCare team for {{5}} and dedication to member wellness. Should I wish to explore plan adjustments or additional benefits, I will contact your advisory team for guidance.\n\nWarm regards,\nMs. Wang",
+    "blanks": [
+      {
+        "options": [
+          "the continuing",
+          "your running",
+          "the continued",
+          "their considerate"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "recognition of",
+          "acknowledgement on",
+          "approval in",
+          "notice for"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "being delighted to",
+          "am pleased to",
+          "am considering to",
+          "will be sad to"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "must revise",
+          "have examined",
+          "will review",
+          "intend checking"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "their dependable service",
+          "their kindly assistance",
+          "their consistent help",
+          "their extended learning"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

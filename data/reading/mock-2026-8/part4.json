@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Families all across Canada are dealing with a huge money problem right now: the skyrocketing cost of everyday living and finding a place to live. Over the past few years, high inflation and climbing rent prices have made it super hard for regular workers and young people to find safe, affordable housing. A massive chunk of monthly household income is now going straight toward rent and grocery bills, leaving very little money left over for family fun, personal savings, or sudden emergencies that life often throws our way.\n\nThis severe housing squeeze is not just happening in big cities like Toronto or Vancouver anymore; it has spread quickly into smaller towns and quiet suburbs too. As more people move away from crowded downtown areas looking for cheaper options, local housing demand shoots up rapidly. This drives up property values and rent prices in places that used to be easy on the wallet. Because of this, both longtime locals and new arrivals often find themselves completely priced out of the neighborhoods they have called home for years.\n\nTo deal with these growing pressures, local community groups and city leaders are pushing for fresh solutions, like building more mixed-income housing and offering better legal rights for renters. At the same time, regular Canadians are changing their daily shopping habits, cutting back on non-essential spending, and learning how to budget much more tightly. Local food banks and community support networks are also seeing a lot more traffic as neighbors step up to help each other get through these tough financial times together.\n\nFixing this big economic challenge is going to take a lot of teamwork between local communities and government leaders to make sure everyone can find a safe place to live. Building a better future means creating an economy where young workers and families can actually thrive instead of constantly stressing about basic survival costs. Overcoming these hurdles will take a strong, united effort from every level of society so that no one gets left behind. Everyone deserves peace of mind in their daily lives, and achieving this requires ongoing dedication.",
+  "questions": [
+    {
+      "prompt": "Who holds primary blame here?",
+      "options": [
+        "Unprepared local leaders",
+        "Greedy corporate landlords",
+        "Broad economic shifts",
+        "Overloaded food banks"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What triggered suburban price spikes?",
+      "options": [
+        "Mass urban relocation waves",
+        "Sudden downtown building bans",
+        "Massive state tax cuts",
+        "Free rural home grants"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What role do neighborhood support networks play?",
+      "options": [
+        "They completely stop inflation",
+        "They provide essential temporary help",
+        "They build massive apartment towers",
+        "They force local leaders out"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does true future stability demand?",
+      "options": [
+        "Complete market deregulation",
+        "Total geographic isolation",
+        "Unified societal teamwork",
+        "Strict corporate monopolies"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Are young workers succeeding now?",
+      "options": [
+        "Savings accounts increase daily",
+        "Career paths remain totally unbroken",
+        "Constant survival worries block them",
+        "Housing costs dropped completely"
+      ],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "With skyrocketing living costs and rent prices squeezing households across the country, trying to find affordable housing right now appears to be overwhelming. Instead of {{1}}, much like hardworking families everywhere, most of my neighbors are struggling just to keep up with monthly bills. Financially, economic growth sounds great on paper, but I'm still {{2}} that local leaders are doing enough to help renters. Considering that traditional budgeting methods {{3}} sudden emergencies either, the author's suggestion that community groups {{4}} mixed-income housing is a step in the right direction. Not unlike longtime residents, I have serious concerns about people being completely priced out of their hometowns. As the passage implies, when smaller towns are {{5}} rising housing demand, everyday workers will surely face more hardship, not better stability.",
+    "blanks": [
+      {
+        "options": [
+          "ignoring the crisis",
+          "accepting high prices",
+          "buying new homes",
+          "lowering monthly rent"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "fully certain now",
+          "deeply worried here",
+          "quite pleased today",
+          "not convinced"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "always handle well",
+          "never truly cover",
+          "easily fix fast",
+          "sometimes solve all"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "fight against local",
+          "push for",
+          "vote out current",
+          "stand beside quiet"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "safely protected from",
+          "completely cleared of",
+          "flooded with",
+          "strictly closed to"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

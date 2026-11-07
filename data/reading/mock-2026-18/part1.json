@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Customer Relations Manager,\n\nWhen a passenger has a \"Confirmed\" ticket for a long international business trip, it should mean they have a guaranteed seat on the plane. However, my experience with your airline on March 24th showed me that this is not true. I am writing this letter to tell you that I am very unhappy with how your staff handled my flight from Toronto to London. Because of your company's mistake, I missed my next flight and had serious problems with my job.\n\nThe trouble started at the boarding gate for Flight AC882. I checked in online twenty-four hours before the flight, but the gate workers told me the plane was full. They gave my seat to another passenger who flies more often with your airline. I know that airlines often sell too many tickets, but the workers were not honest with me. They made me wait for ninety minutes without telling me anything. The agents cared more about their paperwork than talking to the four passengers who were left behind.\n\nWhen they finally told me that I could not get on the plane, it was too late. I could not catch my next flight to Frankfurt. Because of this long delay, I missed an important meeting to sign a contract with a big European client. This mistake caused my business to lose a deal worth more than $15,000. Also, your staff did not give me a hotel voucher quickly. I had to find a hotel by myself and pay $340 with my own money.\n\nThe gate workers offered me a standard payment of $400, but this is not enough money for my lost time and business damage. I travel very often and I always choose your airline, but this bad service makes me feel like I cannot trust you anymore.\n\nI want you to pay me back the $340 for my hotel room. I also want you to give me 50,000 frequent flyer miles or a $1,200 travel voucher because I lost my business meeting. I hope you will fix this problem quickly because I am a loyal business customer.\n\nBest regards,\n\nMarcus Thorne",
+  "questions": [
+    {
+      "prompt": "Marcus wrote this email primarily because ______.",
+      "options": ["his career suffered financial damage", "he prefers flying to Frankfurt", "the staff gave him $400", "he forgot to check in online"],
+      "answer": 0
+    },
+    {
+      "prompt": "The main issue with the ground staff during the delay was ______.",
+      "options": ["neglecting required paperwork", "hiding critical updates", "acting overly friendly", "delivering quick help"],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus is extremely upset about the seat reassignment because ______.",
+      "options": ["the route was new", "early check-in failed him", "his friend stole it", "aircraft were unavailable"],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus had to find his own accommodation because ______.",
+      "options": ["staff refused permanently", "flights were cancelled", "support arrived too late", "he wanted luxury suites"],
+      "answer": 2
+    },
+    {
+      "prompt": "The standard compensation offered at the gate was rejected because ______.",
+      "options": ["he hates frequent miles", "it is too small", "hotels cost more", "vouchers were received"],
+      "answer": 1
+    },
+    {
+      "prompt": "The text suggests that the airline's future business is at risk because ______.",
+      "options": ["clients stopped flying", "client trust was broken", "airports are closing", "competition is rising"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Thorne,\n\nOn behalf of our airline, please accept my sincerest apologies {{1}} you experienced on March 24th. We recognize that {{2}} from a confirmed flight {{3}}, particularly when it impacts high-stakes business engagements.\n\nWe have reviewed your claim and agree that the initial compensation {{4}}. We will fully reimburse your hotel expenses of $340 immediately. Furthermore, to restore your confidence in our service, we have credited 50,000 frequent flyer miles to your account {{5}}.\n\nThank you for your continued loyalty, and we look forward to providing a more seamless experience on your future travels.\n\nBest regards,\nCustomer Relations Manager",
+    "blanks": [
+      { "options": ["about the manual error", "for the operational negligence", "since the working failure", "toward the task mistake"], "answer": 1 },
+      { "options": ["being bumped", "getting pushed", "stay moved", "becoming cleared"], "answer": 0 },
+      { "options": ["feels very annoying", "acts quite difficult", "is deeply disruptive", "stays mostly troubling"], "answer": 2 },
+      { "options": ["was insufficient", "stayed limited", "felt lacking", "seemed short"], "answer": 0 },
+      { "options": ["as a gesture of goodwill", "for a sign of kindness", "like a gift of favor", "regarding a nice thought"], "answer": 0 }
+    ]
+  }
+}

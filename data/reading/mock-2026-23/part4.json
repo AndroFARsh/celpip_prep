@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The global livestock industry is a cornerstone of human civilization, but it is also a leading contributor to deforestation, water scarcity, and greenhouse gas emissions. Enter \"Cultured Meat\"—real animal protein grown from cells in a bioreactor without the need for slaughter. While some see this as the ultimate solution to the ethical and environmental dilemmas of meat-eating, others view \"lab-meat\" as an unnatural affront to culinary tradition and rural livelihoods.\n\nThe primary argument for cultured meat is ethical. It promises a world where we can enjoy a steak or a burger without the industrial-scale suffering of billions of sentient animals. For many \"ethical carnivores,\" this technology removes the cognitive dissonance of loving animals while eating them. Environmentally, the benefits are equally striking. Cultured meat requires a fraction of the land and water used by traditional cattle ranching and produces significantly less methane. It also eliminates the need for antibiotics in animal feed, which is a major driver of the \"superbug\" crisis in human medicine.\n\nFrom a food security perspective, lab-grown meat can be produced anywhere—in the middle of a desert or even in space—making it a resilient alternative to a climate-stressed agricultural system.\n\nHowever, the \"naturalness\" of the product is a major point of contention. Skeptics use the term \"Franken-meat\" to describe these products, arguing that we do not yet understand the long-term health consequences of consuming meat grown in a chemical medium. They argue that a lab can never replicate the complex \"terroir\" of grass-fed beef or the nutritional profile of an animal that has lived a natural life.\n\nEconomically, the rise of cultured meat is a direct threat to millions of farmers and ranchers. Rural communities are built around the livestock economy; if meat production moves to urban laboratories owned by tech giants, the social fabric of the countryside could collapse. There is also a cultural argument: meat-eating is deeply tied to ritual, history, and the human relationship with the land. Critics argue that severing the link between the animal and the meal turns food into a mere \"commodity\" or \"input,\" stripping it of its cultural meaning.\n\nAs the price of cultured meat drops and it begins to appear on restaurant menus, we face a choice. Will we embrace a high-tech, slaughter-free future, or will we double down on traditional agriculture in the name of nature and heritage? The answer will redefine our relationship with the creatures we share the planet with.",
+  "questions": [
+    {
+      "prompt": "The title that best conveys the article's main point is \"Cultured Meat: A Solution or ______\"",
+      "options": ["an eco-friendly trend?", "a danger to heritage?", "a danger to heritage?", "a healthier choice?"],
+      "answer": 1
+    },
+    {
+      "prompt": "Strongly contrasted opinions on the product's naturalness are presented in paragraphs ______.",
+      "options": ["one and three", "three and five", "two and four", "four and five"],
+      "answer": 2
+    },
+    {
+      "prompt": "The environmental benefits in paragraph two can be best summed up as ______.",
+      "options": ["maximizing urban farming spaces", "preserving vital natural resources", "eliminating global greenhouse gases", "purifying heavily polluted water"],
+      "answer": 1
+    },
+    {
+      "prompt": "The critics' attitude toward the economic impact of lab meat is ______.",
+      "options": ["deeply concerned about countryside employment", "highly optimistic about urban development", "completely indifferent to corporate profits", "slightly confused by technical advancements"],
+      "answer": 0
+    },
+    {
+      "prompt": "If successful, the widespread adoption of cultured meat will reduce ______.",
+      "options": ["the cost of space exploration", "the quality of restaurant menus", "the harm done to livestock", "the income of major tech firms"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "While I am drawn to the ethical promise of a \"slaughter-free\" future {{1}} the \"cognitive dissonance\" of modern meat consumption, I {{2}} the potential for \"social collapse\" in our rural communities. The shift {{3}} to urban laboratories managed by tech giants poses a significant threat to the \"social fabric\" of the countryside and centuries of culinary heritage. Furthermore, the long-term health {{4}} \"lab-grown\" proteins remain a valid concern for many skeptics. While the environmental benefits—such as reducing our \"ecological footprint\" and methane emissions—are striking, we must ensure that this transition {{5}} our food of its cultural meaning or marginalize those whose livelihoods depend on the land.",
+    "blanks": [
+      { "options": ["that removes", "that eliminates", "which terminates", "for ending"], "answer": 1 },
+      { "options": ["cannot ignore", "fail to overlook", "may not avoid", "shouldn't neglect"], "answer": 0 },
+      { "options": ["out of old farming", "away from rural work", "from traditional ranching", "since past herding"], "answer": 2 },
+      { "options": ["results of eating", "effects for using", "consequences about swallowing", "implications of consuming"], "answer": 3 },
+      { "options": ["doesn't strip", "won't empty", "hasn't cleared", "isn't robbing"], "answer": 0 }
+    ]
+  }
+}

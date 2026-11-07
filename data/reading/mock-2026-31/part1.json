@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Sterling,\n\nThe decision to host our wedding reception at The Grandview Hotel was based on your reputation for \"flawless execution\" and \"uncompromising luxury.\" Unfortunately, the experience my wife and I endured last Saturday was characterized by systemic technical failures and a disregard for our specific catering requirements, transforming what should have been a seamless celebration into a series of stressful logistical hurdles.\n\nOur primary grievance involves the complete failure of the audiovisual system during the keynote speeches. Despite having conducted a successful soundcheck with your on-site technician at 2:00 PM, the microphones ceased functioning entirely the moment my father-in-law stood up to speak. For forty-five minutes, our 150 guests sat in awkward silence while your staff scrambled to find a replacement amplifier. This was not a minor glitch; it was a total breakdown that effectively severed the emotional core of our evening. The speeches, which we had planned for months, were eventually delivered to a restless, distracted room without any amplification.\n\nThe disappointment continued with the dinner service. We had been very clear during our final tasting regarding the \"Shellfish-Free\" status of Table 12, where three of our immediate family members with severe allergies were seated. To our horror, the \"Artisan Seafood Risotto\" served to that table contained prominent pieces of lobster. Had my sister not noticed before taking a bite, the evening would have likely ended in a medical emergency rather than a toast. Furthermore, the main course for the general guest list was served nearly ninety minutes behind schedule, resulting in several elderly guests departing before the cake was even cut.\n\nWe invested over $22,000 in this event, trusting that the \"Premium Wedding Package\" covered the expertise required to manage these details. The lack of oversight from your floor manager, who was nowhere to be found during the AV crisis, is unacceptable for a venue of your caliber. While we cannot recreate the moment, we expect a significant financial adjustment to reflect the diminished value of the services provided. Specifically, I am requesting a full refund of the $3,500 service fee and a 20% rebate on the total catering invoice.\n\nI look forward to your prompt proposal on how you intend to rectify this situation.\n\nSincerely,\nJonathan Miller",
+  "questions": [
+    {
+      "prompt": "The initial equipment verification was ______.",
+      "options": ["Persistently unreliable performance", "Deceptively positive outcome", "Insufficiently thorough assessment", "Technically flawless operation"],
+      "answer": 1
+    },
+    {
+      "prompt": "The kitchen's oversight regarding Table 12 was ______.",
+      "options": ["A minor culinary substitution", "A miscommunication of seating", "A misunderstanding of ingredients", "A potentially fatal negligence"],
+      "answer": 3
+    },
+    {
+      "prompt": "Jonathan Miller characterizes the floor manager's presence as ______.",
+      "options": ["Indirectly supportive throughout", "Actively seeking solutions", "Noticeably absent during turmoil", "Overwhelmed by guest demands"],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"Premium Wedding Package\" ultimately proved to be ______.",
+      "options": ["An overpriced administrative error", "Devoid of promised proficiency", "A standard hospitality offering", "Excellent value for money"],
+      "answer": 1
+    },
+    {
+      "prompt": "Regarding the speeches, the atmosphere was ______.",
+      "options": ["Agitated and unfocused", "Patient and understanding", "Quietly appreciative and calm", "Formally structured and brief"],
+      "answer": 0
+    },
+    {
+      "prompt": "The catering department's error was particularly egregious because ______.",
+      "options": ["The menu was expensive", "Preferences were previously verified", "The fish was undercooked", "The table was full"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Miller,\n\nPlease accept my sincerest apologies {{1}} during your wedding reception. We pride ourselves on \"flawless execution,\" and it is clear we {{2}} that standard.\n\nRegarding the technical failure, I {{3}} why the backup equipment wasn't immediately available. Furthermore, the lapse in allergy protocols at Table 12 is being treated {{4}} safety breach. I have already met with our floor manager to address their absence during these crises.\n\nI accept your proposed financial adjustment. I will refund the $3,500 service fee and apply a 20% rebate to {{5}}, totaling a credit of $7,900.\n\nSincerely,\nMr. Sterling\nGeneral Manager",
+    "blanks": [
+      { "options": ["regarding the minor hiccups", "about the events that transpired", "for the distressing experience", "for any inconvenience caused"], "answer": 2 },
+      { "options": ["failed to uphold", "fell short of", "overlooked", "bypassed"], "answer": 1 },
+      { "options": ["am investigating", "have wondered", "am questioning", "can't understand"], "answer": 0 },
+      { "options": ["like a major", "as a critical", "with a serious", "such as a vital"], "answer": 1 },
+      { "options": ["the remaining balance", "your previous payment", "the overall expenses", "your catering invoice"], "answer": 3 }
+    ]
+  }
+}

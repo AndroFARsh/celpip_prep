@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Ms. Carter,\n\nI wanted to take a moment to thank you for your guidance and support during the recent misunderstanding within our project team. While the situation was uncomfortable at first, your calm and professional approach helped transform it into a valuable learning experience for everyone involved.\n\nAs you know, tensions arose when deadlines were missed and responsibilities were unclear. Initially, the frustration led to rushed emails and unproductive discussions. I admit that I contributed to the problem by reacting emotionally rather than addressing the issue constructively. However, your decision to hold a structured meeting allowed all team members to express their concerns openly and respectfully.\n\nDuring that meeting, I gained a better understanding of how miscommunication can escalate quickly in a professional environment. By clarifying expectations, redistributing tasks fairly, and setting realistic timelines, you helped restore trust within the team. More importantly, you demonstrated how leadership is not about assigning blame but about finding solutions.\n\nSince then, I have made a conscious effort to communicate more clearly and professionally. I now double-check my messages for tone, ensure that instructions are specific, and confirm understanding before proceeding. The improvement in our team's efficiency and morale has been noticeable. Our latest milestone was completed ahead of schedule, which would not have been possible without the changes you encouraged.\n\nThis experience taught me that professionalism is often tested during difficult moments, not routine ones. Handling conflict with patience and respect strengthens collaboration and prevents long-term damage to working relationships. I am grateful for the opportunity to learn this lesson early in my career.\n\nThank you once again for your mentorship and for setting such a strong example of professional conduct. I look forward to applying these lessons in future projects and continuing to grow under your leadership.\n\nKind regards,\nDaniel Foster",
+  "questions": [
+    {
+      "prompt": "Daniel's main purpose in writing is to ______.",
+      "options": ["formally document team conflict", "justify past reactions", "acknowledge professional guidance", "report project outcomes"],
+      "answer": 2
+    },
+    {
+      "prompt": "The initial conflict worsened mainly due to ______.",
+      "options": ["unrealistic project demands", "delayed managerial involvement", "unequal workload distribution", "emotionally driven communication"],
+      "answer": 3
+    },
+    {
+      "prompt": "Ms. Carter's leadership is best characterized as ______.",
+      "options": ["solution-oriented facilitation", "authority-centered decision making", "blame-avoidant supervision", "conflict-averse management"],
+      "answer": 0
+    },
+    {
+      "prompt": "Daniel's behavioral change reflects ______.",
+      "options": ["enforced compliance", "deliberate professional self-monitoring", "increased emotional restraint", "reduced team dependence"],
+      "answer": 1
+    },
+    {
+      "prompt": "The team's success implies that ______.",
+      "options": ["morale determines productivity", "leadership outweighs experience", "communication alignment improves outcomes", "pressure accelerates efficiency"],
+      "answer": 2
+    },
+    {
+      "prompt": "The experience reshaped Daniel's view of ______.",
+      "options": ["workplace hierarchy", "conflict inevitability", "managerial responsibility", "professionalism under pressure"],
+      "answer": 3
+    }
+  ],
+  "reply": {
+    "text": "Dear Daniel,\n\nI was very pleased to receive your thoughtful message. It is {{1}} to see how you have reflected on our recent team challenges. While nobody enjoys workplace friction, I am {{2}} because these moments often provide the best opportunities for growth. It is clear that you have taken these lessons to heart, especially regarding your communication style. Please {{3}} regarding the past errors; we all face learning curves when navigating group dynamics. I was particularly impressed by your observation of {{4}}. I have no doubt that as you continue to {{5}}, you will become a stabilizing force for any project team you join.\n\nBest regards,\nMs. Carter",
+    "blanks": [
+      { "options": ["encouraging to hear your perspective", "rewarding for me to read your note", "surprising to get this email", "vital that we talk more"], "answer": 1 },
+      { "options": ["upset that the team struggled", "worried about our next deadline", "firm in the belief that conflict is a teacher", "certain that the meeting was too long"], "answer": 2 },
+      { "options": ["stop dwelling on your initial reactions", "avoid sending any more emails", "remind the team of the missed deadlines", "change your specific instructions"], "answer": 0 },
+      { "options": ["the new project schedule", "the lack of clear instructions", "the way I assigned the blame", "my focus on resolving the conflict"], "answer": 3 },
+      { "options": ["prioritize professional interactions", "ignore the missed milestones", "refuse to express your concerns", "avoid working with the same team"], "answer": 0 }
+    ]
+  }
+}

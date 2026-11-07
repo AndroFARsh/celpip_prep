@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The implementation of \"Acoustic Greenbelts\" in Riverside's downtown core represents a radical shift in urban design, positioning silence not merely as a luxury, but as a fundamental pillar of public health. By prohibiting amplified sounds and combustion engines, city planners are addressing a growing body of research that links chronic noise pollution to elevated cortisol levels, sleep disturbances, and an increased risk of cardiovascular disease. The initiative is built on the philosophy that modern urbanites are subjected to a constant \"auditory assault\" that prevents the nervous system from ever truly reaching a state of rest. For supporters, these quiet zones function as psychological sanctuaries, reclaiming the city's acoustic environment from the mechanical roar of traffic and the intrusive volume of commercial broadcasting.\n\nHowever, this transition toward \"acoustic greening\" has sparked a fierce debate regarding the cultural identity of the city. Local business owners and street performers argue that the soul of an urban center is found in its sensory density—the music, the chatter, and the energetic hum of activity. By enforcing a strict policy of silence, critics contend that Riverside is effectively \"sterilizing\" its public spaces. They fear that without the vibrant soundtrack of street life, the downtown area will lose its competitive edge as a tourist destination, transforming a once-thriving social hub into a somber and clinical environment. For these stakeholders, the ordinance treats the city like a hospital ward rather than a living, breathing community, potentially discouraging the very social gatherings that fuel the local economy.\n\nUltimately, the Riverside experiment forces us to weigh two competing versions of urban well-being. On one hand is the \"biophilic\" city, which prioritizes biological health and neurological calm through controlled environments. On the other is the \"kinetic\" city, which views noise as a byproduct of vitality, diversity, and economic freedom. As other municipalities watch Riverside's progress, the challenge for future urban planners will be finding a middle ground: a \"dynamic quiet\" that mitigates the harmful effects of industrial noise without extinguishing the cultural spark that makes city life desirable in the first place.",
+  "questions": [
+    {
+      "prompt": "Noise restrictions aim to prevent harm that is gradual, subtle, and ______.",
+      "options": ["reversible", "physiological", "social", "economic"],
+      "answer": 1
+    },
+    {
+      "prompt": "The hospital metaphor suggests that public spaces may feel emotionally ______.",
+      "options": ["sterile", "lively", "vibrant", "energetic"],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"biophilic\" versus \"kinetic\" city debate highlights differing views on urban ______.",
+      "options": ["commerce", "architecture", "well-being", "safety"],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics fear that a strictly silent city could compromise the city's ______.",
+      "options": ["infrastructural order", "environmental quality", "regulatory efficiency", "social vitality"],
+      "answer": 3
+    },
+    {
+      "prompt": "Effective urban design favors solutions that are adaptable and responsive rather than ______.",
+      "options": ["rigid", "ceremonial", "symbolic", "superficial"],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "Riverside's \"Acoustic Greenbelts\" initiative is truly thought-provoking. I love how the city {{1}} public health by tackling noise pollution, which often {{2}} but has serious effects on stress and sleep. The idea of quiet zones {{3}} urban spaces is innovative and could make downtown more peaceful. At the same time, I see why some worry about losing the city's energy—the lively sounds of music, conversation, and street activity are what make {{4}}. Finding a balance between {{5}} seems crucial. Riverside could set an important precedent for future cities.",
+    "blanks": [
+      { "options": ["has been advertising", "attempts to regulate", "indirectly influences", "is prioritizing"], "answer": 3 },
+      { "options": ["remains legally undefined", "goes unnoticed", "escapes immediate detection", "is socially tolerated"], "answer": 1 },
+      { "options": ["as restorative", "in functional contrast", "through environmental planning", "for aesthetic appeal"], "answer": 0 },
+      { "options": ["city centers culturally dense", "metropolitan routines engaging", "communal spaces animated", "urban life vibrant"], "answer": 3 },
+      { "options": ["silence and modernization", "tranquility and cultural vitality", "calm infrastructure and public expression", "regulation and spontaneity"], "answer": 1 }
+    ]
+  }
+}

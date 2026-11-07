@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Jordan,\n\nI wanted to share a situation that arose last week and explain the decision I ultimately made. I believe it highlights the importance of professional ethics, even when doing the right thing is uncomfortable.\n\nDuring the final review of our supplier contracts, I noticed discrepancies in one vendor's pricing structure. At first glance, the numbers appeared consistent, but a closer examination revealed hidden fees that had not been disclosed during negotiations. These fees would have significantly increased costs for our department over time.\n\nInitially, I considered ignoring the issue. The contract had already received preliminary approval, and raising concerns would delay the project and likely frustrate senior management. Moreover, the vendor has a long-standing relationship with the company, which made the situation even more sensitive.\n\nHowever, I felt that proceeding without addressing the issue would be unprofessional and unethical. Transparency and accountability are core values of our organization, and overlooking misleading information would contradict those principles. After carefully documenting the discrepancies, I brought the matter to my supervisor's attention.\n\nThe discussion was difficult. There were questions about whether I was being overly cautious or misinterpreting the data. Still, by remaining calm and focusing on facts rather than assumptions, I was able to explain my concerns clearly. Eventually, the contract was reviewed by the legal team, who confirmed the pricing issue.\n\nAlthough the process caused a temporary delay, it prevented a much larger problem in the future. More importantly, it reinforced a culture of integrity within the team. Several colleagues later expressed appreciation for addressing the issue rather than allowing it to go unnoticed.\n\nThis experience reminded me that professionalism is not only about meeting deadlines and performing tasks efficiently. It is also about making principled decisions, even when they involve risk or discomfort. I believe trust is built when employees act responsibly, especially when no one is watching closely.\n\nI wanted to share this with you because ethical challenges are rarely straightforward. I hope this experience encourages thoughtful decision-making in similar situations.\n\nBest regards,\nEthan Wallace",
+  "questions": [
+    {
+      "prompt": "Ethan's initial reluctance stemmed mainly from ______.",
+      "options": [
+        "hierarchical disruption risks",
+        "interpersonal commercial history",
+        "procedural completion stage",
+        "insufficient personal certainty"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The cost issue escaped early detection because ______.",
+      "options": [
+        "figures masked implications",
+        "calculations lacked precision",
+        "estimates changed gradually",
+        "projections were long-term"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "During the confrontation, Ethan relied primarily on ______.",
+      "options": [
+        "measured factual grounding",
+        "institutional ethical language",
+        "defensive professional posture",
+        "organizational value alignment"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The short-term setback occurred as a consequence of ______.",
+      "options": [
+        "procedural verification escalation",
+        "executive hesitation",
+        "supplier resistance",
+        "internal disagreement"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Team members later approved because ______.",
+      "options": [
+        "risk exposure was prevented",
+        "moral accountability surfaced",
+        "leadership credibility increased",
+        "workflow stability returned"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Ethan redefines professionalism as ______.",
+      "options": [
+        "principled conduct under uncertainty",
+        "efficient task completion",
+        "compliance with oversight",
+        "alignment with authority"
+      ],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Ethan,\n\nIt was truly refreshing to read about how you handled that supplier situation. It goes without saying that I'd love to {{1}}. Even though I know that {{2}}, I'm glad you didn't look the other way. After all, protecting the company's bottom line is part of our duty! You just let me know if you need any support on the next project. Also, there's no need to {{3}}; I can handle the follow-up meeting so you can focus on your core tasks. I can't say I've seen such a detailed breakdown of {{4}} since I worked in auditing years ago. I'm sorry you {{5}}. If you have the final report, I'd love to see it. It's vital to keep these records, as I don't even know if that vendor will remain on our preferred list for long. Anyway, let's grab lunch as soon as you have a free moment.\n\nBest,\nJordan",
+    "blanks": [
+      {
+        "options": [
+          "share my own ethical dilemmas.",
+          "see more of your principled leadership.",
+          "visit the supplier's office.",
+          "rewrite the department guidelines."
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "hidden fees are very common",
+          "bringing up problems can cause friction",
+          "the legal team is always right",
+          "senior management loves delays"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "worry about the administrative fallout",
+          "check the pricing structure again",
+          "disclose the fees to the vendor",
+          "save your personal notes for later"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "the vendor's long history",
+          "professional ethics textbooks",
+          "unauthorized financial surcharges",
+          "preliminary contract approvals"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "faced resistance during the initial talk.",
+          "lost the contract entirely.",
+          "couldn't find the legal team.",
+          "forgot to document the errors."
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

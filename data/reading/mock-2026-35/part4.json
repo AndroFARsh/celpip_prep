@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The rise of green corporate bonds was initially hailed as a revolutionary bridge between capital markets and environmental stewardship. However, by 2026, this financial instrument has come under intense scrutiny for fostering a culture of \"short-termism.\" While these bonds are intended to fund meaningful ecological transitions, a growing chorus of critics argues that corporations are cherry-picking low-hanging fruit—such as upgrading office HVAC systems or installing LED lighting—to fulfill bond requirements. While these actions provide immediate, measurable \"wins,\" they often serve as a cosmetic distraction from the more grueling, systemic transformations required to achieve true net-zero goals, particularly the radical overhauling of global supply chains.\n\nThis trend has ignited a fierce \"greenwashing\" debate centered on the authenticity of corporate intent. The fundamental issue lies in the ambiguity of current frameworks. Without a rigorous, universally accepted global standard for what constitutes a \"sustainable\" investment, the definition remains dangerously elastic. This \"vagueness\" creates a loophole where companies can enjoy the lower borrowing costs and enhanced reputational prestige associated with green financing without fundamentally altering their carbon-intensive business models. In many cases, the capital is deployed toward projects that would have likely occurred anyway for operational efficiency, rather than funding the high-risk, high-impact innovations necessary to combat climate change.\n\nAs a result, the financial sector is facing a crisis of credibility. Regulators are now questioning whether the current \"self-labeling\" approach is sufficient or if it merely allows firms to reap the \"green\" halo effect while their total carbon footprint remains stagnant or continues to climb. To prevent green bonds from becoming a mere marketing exercise, 2026 is seeing a push for mandatory \"Scope 3\" reporting—which tracks emissions throughout the entire value chain—and the implementation of strict \"additionality\" requirements. The goal is to move beyond the superficiality of short-term milestones and force a shift toward long-term, structural decarbonization. Ultimately, if green bonds are to remain a viable tool for environmental progress, the focus must shift from rewarding incremental efficiency to incentivizing the difficult, systemic evolution of the global economy.",
+  "questions": [
+    {
+      "prompt": "Critics suggest green bonds mainly serve to ______.",
+      "options": ["accelerate supply chain overhauls", "fund essential climate innovations", "showcase easy sustainability wins", "reduce long-term emissions"],
+      "answer": 2
+    },
+    {
+      "prompt": "Ambiguous definitions of \"sustainable investment\" allow companies to ______.",
+      "options": ["fully transform operations", "exploit reputational advantages", "restrict environmental reporting", "ignore investor scrutiny"],
+      "answer": 1
+    },
+    {
+      "prompt": "Short-term measurable achievements from green bonds primarily ______.",
+      "options": ["mask deep structural needs", "highlight systemic progress", "accelerate carbon reduction", "enforce Scope 3 reporting"],
+      "answer": 0
+    },
+    {
+      "prompt": "Current frameworks' vagueness primarily leads to ______.",
+      "options": ["corporate exploitation", "stricter regulations", "accelerated decarbonization", "high-risk investment"],
+      "answer": 0
+    },
+    {
+      "prompt": "\"Cherry-picking low-hanging fruit\" indicates firms ______.",
+      "options": ["embrace challenging projects", "adopt easy, visible solutions", "overhaul global supply chains", "ignore immediate gains"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "As a visitor, I find the concerns raised here hard to ignore. The idea of green bonds sounds positive, yet it's worrying how easily they can be used for surface-level improvements {{1}} environmental change. Small efficiency upgrades {{2}} on paper, but they do little to address deeper emission problems. The lack of clear global standards also makes it easier for companies {{3}} without real accountability. Stronger rules, transparent reporting, and {{4}} long-term impact are clearly needed. Otherwise, these bonds risk losing public trust and {{5}} the genuine climate progress they promise.",
+    "blanks": [
+      { "options": ["in favour of visible", "alongside measurable", "through gradual", "rather than meaningful"], "answer": 3 },
+      { "options": ["appear financially justified", "remain technically valid", "may look impressive", "seem administratively complete"], "answer": 2 },
+      { "options": ["to claim sustainability", "to demonstrate compliance", "to project responsibility", "to signal participation"], "answer": 0 },
+      { "options": ["an emphasis toward", "an assumption of", "a prediction about", "a focus on"], "answer": 3 },
+      { "options": ["complicating the assessment of", "delaying the perception of", "failing to deliver", "redefining the expectations of"], "answer": 2 }
+    ]
+  }
+}

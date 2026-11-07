@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Across Canada, mail-in DNA test kits have transformed from a quick novelty into a hugely popular national hobby. Millions of Canadians from coast to coast are mailing off simple cheek swabs to discover their ancestral backgrounds, track down long-lost relatives, and learn about potential health conditions right from their kitchen tables. In a diverse country like Canada, where so many residents have immigrant backgrounds or deep Indigenous roots, these tests offer a powerful and emotional way to reclaim lost family stories. Beyond personal discovery, many people willingly share their results in hopes of helping medical researchers develop faster cures for complex health conditions.\n\nHowever, privacy advocates and consumer watchdogs across Canada are urging citizens to think twice before sending off their samples. Unlike a stolen credit card or a compromised online password, your genetic code is permanent. If your DNA data gets leaked, sold, or stolen, you can never change it. There is a growing worry that this deeply personal information could eventually fall into the wrong hands. For example, life insurance companies might try to use genetic risk factors to raise premiums, or potential employers could make hiring decisions based on future health predictions. Even though Canada passed the Genetic Non-Discrimination Act to protect citizens, technology is advancing so rapidly that legal protections are constantly struggling to keep pace.\n\nAnother major ethical concern is the question of data ownership and corporate profit. When users register their kits online, few take the time to read the lengthy terms of service. By clicking \"agree,\" consumers often give testing companies full permission to bundle and sell their anonymized genetic details to giant international pharmaceutical corporations. Critics argue that this business model is deeply unfair to ordinary Canadians. Customers pay significant out-of-pocket fees to get tested, yet massive corporations generate millions in profit by using that same data to create and sell expensive prescription drugs back to the public. This raises a fundamental question about fairness: who should truly benefit from our shared human genetic information—the everyday people who provide the samples or the wealthy corporate executives?\n\nFinally, the increasing involvement of law enforcement has sparked intense debate over personal consent. Canadian police services now regularly search public genetic databases to find distant relatives of crime suspects, using these biological breadcrumbs to solve decades-old cold cases. While bringing closure to victims and catching violent criminals is undoubtedly positive, critics warn about the risky legal precedent it sets. By uploading your DNA online, you could unintentionally turn your entire family tree into genetic informants for the state without their knowledge or permission.",
+  "questions": [
+    {
+      "prompt": "Canadians buy testing kits to ______.",
+      "options": [
+        "reconnect with their heritage",
+        "get mandatory health predictions",
+        "make money online",
+        "work for pharmaceutical companies"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Leaked biological data matters because it ______.",
+      "options": [
+        "changes every few years",
+        "lowers life insurance rates",
+        "is required by employers",
+        "cannot ever be replaced"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Corporate sales seem unfair because customers ______.",
+      "options": [
+        "receive free prescription drugs",
+        "write the terms of service",
+        "pay twice for corporate gain",
+        "own the pharmaceutical firms"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Police searches raise concerns by ______.",
+      "options": [
+        "stopping police from catching criminals",
+        "involving relatives without their consent",
+        "cleaning up all physical crime scenes",
+        "deleting public records permanently"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Legal protections lag behind because ______.",
+      "options": [
+        "citizens refuse to follow them",
+        "police banned genetic testing",
+        "technology evolves too quickly",
+        "cheek swabs are illegal"
+      ],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "This article really {{1}} my own experience with home DNA kits. I tried one last year to explore my family background, and while finding distant relatives was exciting, I never truly considered {{2}}. Reading about how big companies sell our genetic details for profit is genuinely concerning, especially since we pay out of pocket for these tests. {{3}} insurance companies or police could access our personal data down the road. Catching criminals is definitely important, but turning our relatives {{4}} without their permission feels wrong. Moving forward, I think Canadians need much stronger legal protections {{5}} as permanent as their DNA.",
+    "blanks": [
+      {
+        "options": [
+          "reminded me to buy",
+          "completely disproved",
+          "helped me market",
+          "made me reflect on"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "the cheap kit prices",
+          "my family heritage",
+          "the privacy risks involved",
+          "reading online reviews"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "It also worries me that",
+          "I am very glad that",
+          "Police have already banned",
+          "It saves us money when"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "into unintended informants",
+          "into professional detectives",
+          "into wealthy company owners",
+          "into medical researchers"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "instead of banning",
+          "after publicly sharing",
+          "before submitting something",
+          "while booking travel"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

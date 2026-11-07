@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Oliver,\n\nSince we finally moved into that fixer-upper with the original hearth, I've been hunting for someone who treats {{1}} with the same respect you do. I found a local studio that avoids modern shortcuts like metal fasteners entirely, opting instead for those interlocking shapes that hold steady for a lifetime. They even give you a digital backstory for the {{2}} they use, so we'd know exactly which hillside our table originally guarded. I'm thinking about that empty spot above the fire; if we make a decision before the autumn leaves drop, we can actually get a better rate on a {{3}}. They also have this thoughtful policy where they'll send us a little care package of wax every year to keep the surface glowing, and they even document the entire {{4}} in a book for us to keep. Since we both care about {{5}}, I love that they offer a credit if we pick materials rescued from old local landmarks rather than using new growth. Let me know if you want to head to the Old Mill District with me this weekend to see their gallery.\n\nWarmly,\nClaire",
+    "blanks": [
+      { "options": ["automated assembly", "historical structural integrity", "mass-market aesthetics", "disposable lifestyle trends"], "answer": 1 },
+      { "options": ["metallic alloy", "synthetic composite", "biological sentinel", "industrial byproduct"], "answer": 2 },
+      { "options": ["basement renovation", "timber-framed entryway", "hand-carved centerpiece", "decorative flue surround"], "answer": 3 },
+      { "options": ["financial transaction", "biological growth cycle", "evolution of the artifact", "delivery logistics schedule"], "answer": 2 },
+      { "options": ["rapid consumption", "salvage-based ethics", "modern urban sprawl", "chemical-based finishes"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Claire's emphasis on the \"backstory\" of the timber suggests she believes Oliver's connection to their home is ______.",
+      "options": ["purely financial", "rooted in narrative and origin", "based on modern trends", "motivated by speed"],
+      "answer": 1
+    },
+    {
+      "prompt": "By describing \"interlocking shapes\" instead of screws, Claire indicates that Oliver values ______.",
+      "options": ["hidden technical mastery", "cheap, temporary fixes", "flashy, metallic décor", "automated assembly"],
+      "answer": 0
+    },
+    {
+      "prompt": "Claire's suggestion to use \"rescued materials\" suggests that for their new home, they prioritize ______.",
+      "options": ["rapid consumption", "environmental and local continuity", "expensive new growth", "ignoring the past"],
+      "answer": 1
+    }
+  ]
+}

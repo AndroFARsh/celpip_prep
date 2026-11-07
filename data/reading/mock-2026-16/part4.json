@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Smart cities use high-tech tools like sensors and AI to make urban life run more efficiently. Supporters argue that by tracking traffic and energy use, cities can save money and help the environment. For example, streetlights that dim when no one is around save tax dollars, and tech can predict train breakdowns before they happen. Many experts believe this technology is the best way to manage the challenges of crowded, modern cities.\n\nHowever, many people are worried about privacy. Because these systems are constantly collecting information about where we go and what we do, critics feel the city is becoming a place where we are always being watched. Much of this data is handled by private tech companies, which raises concerns about who else might see or buy that information. Critics wonder if having a more efficient city is really worth giving up our right to move around freely without being tracked by computers.\n\nThere is also a serious problem of fairness. As city services—like paying for parking or getting emergency alerts—move to digital apps, people who don't have smartphones or high-speed internet are being left behind. This is often harder on older people or those with less money. If a city only works well for people who are tech-savvy or have enough money to buy the latest devices, it isn't really a \"smart\" city for everyone; it is only smart for the lucky few.\n\nFor smart cities to be successful, we need clear, honest rules that put our privacy first. Citizens must have a say in what information is gathered and how it is stored. The main goal for city planners should be to use technology to help people, not to control them. If we can balance the benefits of new tech with our need for freedom and equality, smart cities could be a great place to live, but we must stay alert.",
+  "questions": [
+    {
+      "prompt": "Supporters believe smart city tools primarily ______.",
+      "options": [
+        "replace human workers",
+        "track criminal activity",
+        "save public funds",
+        "increase city revenue"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the main concern regarding private tech companies?",
+      "options": [
+        "misuse of personal data",
+        "high cost of software",
+        "lack of technical skill",
+        "slow speed of updates"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The author mentions the \"digital divide\" to highlight ______.",
+      "options": [
+        "the cost of smartphones",
+        "the need for faster internet",
+        "lack of interest in tech",
+        "unfairness to some groups"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "To be truly \"smart,\" the author argues a city must be ______.",
+      "options": [
+        "fully automated",
+        "inclusive for everyone",
+        "owned by the public",
+        "focused on tourists"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The article suggests that city planners must ______.",
+      "options": [
+        "abandon all new technology",
+        "protect personal freedom",
+        "lower taxes for residents",
+        "prioritize business growth"
+      ],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "I live in a busy city that is starting to use many of these new high-tech systems. While I appreciate the efficiency, I truly {{1}} the article’s concerns about privacy. It is easy to see how smart tools help the environment, but as the author notes, {{2}}. We are trading our anonymity for convenience, and I worry that the data could be used to monitor us rather than serve us. Furthermore, if cities force us to rely on apps, {{3}}. This digital shift creates a barrier that {{4}}. We must prioritize people over technology, or we will eventually lose the freedom that makes our city great. I truly hope city planners {{5}}.",
+    "blanks": [
+      {
+        "options": [
+          "dismiss all fears",
+          "ignore the risks",
+          "question basic facts",
+          "support the validity"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "tech ensures safety",
+          "data creates freedom",
+          "we lose anonymity",
+          "streetlights save cash"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "everyone stays connected",
+          "many get excluded",
+          "equality is guaranteed",
+          "data stays private"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "harms the vulnerable",
+          "helps everyone succeed",
+          "improves human spirit",
+          "costs tax dollars"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "censor all feedback",
+          "increase constant surveillance",
+          "predict train breakdowns",
+          "prioritize human rights"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

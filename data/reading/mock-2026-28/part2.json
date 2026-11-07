@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Clara,\n\nI was thinking about our upcoming family gathering and remembered that place with the rustic, home-style branding we passed recently. Since we're hosting the whole group, their \"togetherness\" bundle seems like a steal—you basically get a trio of treats for a significantly lower price than buying them separately. It's perfect because it covers both the main course and the sugar cravings in one go.\n\nAlso, I know you're still working at the elementary school; if you bring your work credentials, we can shave a bit more off the total for anything they pull out of the oven. If we decide to skip the drive and have them bring it to us, we just need to make sure our appetite matches a certain dollar amount to keep the transit fee at that baseline rate. Otherwise, if we swing by ourselves, we get a nice little {{1}} for the effort. I also noticed they have a {{2}} for those who commit to a long-term arrangement, which might be worth looking into if we plan on making this a monthly tradition. For the kids, that {{3}} of fruit-filled dough seems like the right size for a small group to share. If we go for the round, citrusy dessert, we just need to remember it's roughly the size of a {{4}}.\n\nLet me know what you think! It feels like a much more {{5}} way to handle dinner than cooking for ten people ourselves.\n\nBest,\nJulian",
+    "blanks": [
+      { "options": ["complimentary appetizer", "fractional reduction", "waived tax fee", "loyalty stamp"], "answer": 1 },
+      { "options": ["seasonal membership", "bulk-buy bonus", "recurring commitment perk", "priority queue status"], "answer": 2 },
+      { "options": ["single-serving pastry", "multi-person tin", "oversized turnover", "half-dozen batch"], "answer": 1 },
+      { "options": ["dinner plate", "standard ruler", "small saucepan", "handheld tablet"], "answer": 1 },
+      { "options": ["economical", "laborious", "sophisticated", "streamlined"], "answer": 3 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Based on the email, Clara's profession ______.",
+      "options": ["grants her a flat-rate delivery waiver", "provides a conditional bakery discount", "requires her to work at an oven", "entitles her to a \"togetherness\" stipend"],
+      "answer": 1
+    },
+    {
+      "prompt": "Regarding the logistics of the meal, Julian implies that ______.",
+      "options": ["self-collection yields a marginal rebate", "delivery is only possible for large groups", "the transit fee is universally waived", "cooking for ten is a streamlined process"],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"round, citrusy dessert\" is characterized as being ______.",
+      "options": ["larger than a multi-person tin", "equivalent to twelve inches in length", "smaller than the fruit-filled dough", "unsuitable for a monthly tradition"],
+      "answer": 1
+    }
+  ]
+}

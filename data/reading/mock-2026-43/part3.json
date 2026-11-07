@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Advanced atmospheric water harvesting (AWH) technologies represent a promising solution to the global freshwater scarcity crisis by extracting water directly from ambient air. Unlike traditional water sources, the atmosphere contains an abundant supply of humidity, even in arid regions, making it a virtually inexhaustible reservoir. Recent advances leverage smart materials and innovative designs to enhance the efficiency of capturing water vapor and converting it into liquid water. Solar-driven adsorption-desorption systems, for example, capitalize on renewable energy and sophisticated interfaces to optimize water collection with minimal environmental impact. These technologies can operate off-grid, providing access to potable water in remote and water-stressed areas where infrastructure is limited.",
+    "Material science breakthroughs are at the forefront of AWH advancements, with new hygroscopic and bio-inspired materials mimicking nature's water collection strategies. Nano-structured surfaces echo the moisture-harvesting abilities of desert beetles, while thermoresponsive polymers adjust their affinity for water dynamically with temperature changes to improve capture and release cycles. Additionally, photothermal materials efficiently convert sunlight into thermal energy, powering the adsorption-desorption processes. These scientific innovations significantly improve water yield even in conditions of low humidity, expanding the geographic and climatic applicability of AWH systems. This tailored material approach is crucial for increasing performance while reducing energy consumption.",
+    "System design innovations have further accelerated AWH adoption, with modular, scalable units capable of serving individual households to entire communities. Integration with renewable energy sources such as solar photovoltaics and the use of wind-assisted airflows boost efficiency and sustainability. Advanced thermal management and vacuum chamber designs recover and reuse heat internally to lower external power requirements, addressing previous challenges of high energy consumption. Moreover, comprehensive environmental impact assessments guide the sustainable deployment of large-scale water harvesting without disrupting local ecosystems. Cost-reduction strategies and market integration efforts are making these systems increasingly economically viable.",
+    "Looking ahead, atmospheric water harvesting technologies hold transformative potential for addressing global water challenges. As research matures and industry scales production, AWH could become an indispensable component of water infrastructure, particularly in arid, semi-arid, and drought-prone regions. These technologies not only promise to provide clean, reliable water but to do so sustainably, with minimal carbon footprint and disruption. This future vision includes applications beyond drinking water—such as agricultural irrigation, industrial processes, and cooling data centers—underscoring the broad impact of AWH in creating resilient, water-secure communities worldwide."
+  ],
+  "statements": [
+    {
+      "text": "The promise lies not in the droplets we catch today, but in a reimagined world where dryness no longer dictates destiny.",
+      "answer": "D"
+    },
+    {
+      "text": "Energy from the sun becomes the silent partner that turns the invisible into the drinkable without harming the planet's pulse.",
+      "answer": "A"
+    },
+    {
+      "text": "Small-scale scientific artistry builds surfaces that behave less like metal and more like living skin, sensing when to grasp or let go.",
+      "answer": "B"
+    },
+    {
+      "text": "One technology dares to turn thin air into relief for parched lands, quietly rethinking how thirst can be conquered where rivers never flow.",
+      "answer": "A"
+    },
+    {
+      "text": "When engineering meets sustainability, even the wind lends a hand, proving that efficiency need not drain the world to quench it.",
+      "answer": "C"
+    },
+    {
+      "text": "The journey ends where liquid hope meets human need, hinting that tomorrow's cities may float on vapor turned to life.",
+      "answer": "D"
+    },
+    {
+      "text": "Amidst shifting cultures and evolving ideas, the silent language of forgotten traditions weaves an unseen tapestry that shapes identity beyond the grasp of time.",
+      "answer": "E"
+    },
+    {
+      "text": "Nature's clever secrets inspire the newest tools that change their mood with heat, mimicking tiny creatures that trap mist from nothingness.",
+      "answer": "B"
+    },
+    {
+      "text": "Machines now think like ecosystems—each part feeding another, ensuring that even design itself becomes a cycle of renewal, not waste.",
+      "answer": "C"
+    }
+  ]
+}

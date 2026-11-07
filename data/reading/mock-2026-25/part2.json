@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Laura,\n\nI've been thinking about our move and how we can make our new place feel more intuitive. I found a group that can help us harmonize the house's rhythm with our own habits. Since we are moving into a brand-new build, we can use a special bypass to {{1}}, and if we commit before the 20th of September, they'll even throw in a specialized tool to monitor the very air we breathe.\n\nI'm leaning toward the highest tier because it doesn't just watch the doors; it actually manages the heavy machinery in the laundry room to {{2}}. It's about $95 every month, but considering they claim we can {{3}}, it basically pays for itself. I love the idea of you being able to check the cameras from your phone while you're traveling, and having the house {{4}} without us lifting a finger.\n\nI know we have some of our own gadgets already, but the \"Upgrade\" path seems less useful for us since we want a {{5}}. Let me know if you think the full suite is worth it, or if we should just start with the entry-point hub and grow from there.\n\nLove,\nDaniel",
+    "blanks": [
+      {
+        "options": [
+          "avoid the monthly subscription costs",
+          "waive the technician's labor fees",
+          "bypass the credit check process",
+          "get the hardware for half price"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "clean the clothes more thoroughly",
+          "minimize the amount of water used",
+          "detect if the dryer is about to fail",
+          "sync cycles with lower utility rates"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "reduce our monthly overhead by nearly a third",
+          "eliminate our carbon footprint entirely",
+          "increase the resale value of the home",
+          "get a massive tax rebate from the state"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "lock all the windows at sunset",
+          "self-clean the floors every night",
+          "anticipate our arrival and lighting needs",
+          "order groceries when the fridge is empty"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "simpler system with fewer sensors",
+          "setup that doesn't rely on our old hardware",
+          "plan that includes a professional security guard",
+          "system that is completely wireless"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Daniel's stance on the \"Upgrade\" path implies that their existing equipment is ______.",
+      "options": [
+        "Technically incompatible with the new build",
+        "Redundant for their desired configuration",
+        "Insufficiently integrated for their vision",
+        "A financial liability to the total cost"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Regarding the \"specialized tool\" mentioned, the offer is contingent upon ______.",
+      "options": [
+        "The specific architectural phase of their new home",
+        "A commitment to the highest tier of service",
+        "The chronological timing of their agreement",
+        "The installation of heavy laundry machinery"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Daniel's primary justification for the $95 monthly fee is centered on ______.",
+      "options": [
+        "The convenience of remote surveillance",
+        "Long-term mitigation of overhead costs",
+        "The superior precision of the air quality monitor",
+        "Reducing the initial labor investment of the move"
+      ],
+      "answer": 1
+    }
+  ]
+}

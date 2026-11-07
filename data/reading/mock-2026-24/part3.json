@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "In 2007, the Oxford Junior Dictionary removed several nature-related words—such as \"acorn,\" \"bluebell,\" and \"kingfisher\"—to make room for modern terms like \"blog,\" \"broadband,\" and \"voicemail.\" This decision sparked a global conversation about \"nature deficit disorder\" and the fading linguistic connection between children and the outdoors. Linguists argue that if we don't have a specific name for a plant or animal, we are less likely to notice it or care about its conservation. This phenomenon, known as \"linguistic extinction,\" often precedes the actual biological extinction of a species in a particular area.",
+    "The \"shifting baseline syndrome\" is a psychological effect where each generation accepts the degraded natural world they inherit as the \"normal\" state. Because young people no longer have the vocabulary to describe the abundance of the past, they don't realize what has been lost. For example, a child might see a \"bird,\" but if they don't know the word \"lark\" or \"thrush,\" the specific identity and behavior of that creature become invisible. Educators are now calling for a \"re-wilding\" of the curriculum, emphasizing outdoor literacy as a core skill alongside math and reading.",
+    "Indigenous languages are a treasure trove of \"ecological knowledge\" that is often untranslatable into English. Some languages have dozens of specific words for different types of snow, or for the exact moment a particular flower blooms. This precision allows for a sophisticated management of natural resources. When these languages die out, we lose thousands of years of observations about local ecosystems. Efforts are underway to create \"bio-cultural dictionaries\" that preserve this knowledge before the last native speakers pass away.",
+    "Art and literature are playing a key role in the revival of these lost words. Books like The Lost Words by Robert Macfarlane use poetry and illustration to \"conjure\" these terms back into the public consciousness. These works are now being used in hospitals and care homes to help patients reconnect with their memories and the world around them. The goal is to prove that language is not just a tool for communication, but a \"way of seeing.\" By reclaiming our vocabulary of the earth, we might find the motivation to save the earth itself."
+  ],
+  "statements": [
+    { "text": "Modern pedagogical strategies aim to restore outdoor fluency to the standard academic program.", "answer": "B" },
+    { "text": "Dialects unique to native populations contain hyper-specific observations regarding seasonal biological transitions.", "answer": "C" },
+    { "text": "Replacing biological terminology with digital nomenclature reflects a societal shift in childhood priorities.", "answer": "A" },
+    { "text": "Expanding our descriptive capabilities can revitalize our psychological investment in global preservation.", "answer": "D" },
+    { "text": "Governmental legislation now mandates the inclusion of nature words in all dictionaries.", "answer": "E" },
+    { "text": "The disappearance of specialized nomenclature often signals the impending demise of local wildlife.", "answer": "A" },
+    { "text": "Literary compositions serve as a catalyst for restoring obsolete vocabulary to modern awareness.", "answer": "D" },
+    { "text": "Successive age groups perceive diminished ecological diversity as the standard environmental condition.", "answer": "B" },
+    { "text": "Preservation initiatives focus on documenting specialized environmental insights before linguistic heritage vanishes.", "answer": "C" }
+  ]
+}

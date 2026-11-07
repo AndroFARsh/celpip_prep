@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Instead of rushing across the globe to check dozens of famous monuments off a packed itinerary, a growing number of travelers are choosing a much calmer way to see the world. Known widely as slowcations, this fresh holiday trend focuses on staying in one single destination for a longer period. Rather than constantly packing suitcases and catching late-night flights, vacationers are choosing to settle into a quiet village or neighborhood, unpacking their bags, and staying put for weeks at a time to truly unwind.\n\nThis shift comes as people grow tired of the stress and heavy carbon footprints tied to traditional mass tourism. Travelers are becoming much more mindful of how their trips affect the planet, opting to take trains instead of flying short distances or choosing eco-friendly guesthouses. By staying longer in one spot, visitors dramatically lower their travel emissions while helping support local community businesses rather than massive international hotel chains.\n\nDaily life on a slowcation looks entirely different from a standard fast-paced holiday. Mornings are often spent walking to a nearby bakery, chatting with local market vendors, or reading a book in a public park. Travelers have the time to learn basic phrases of the local language, cook meals using regional ingredients, and truly understand the rhythm of everyday life in a new place instead of just skimming the surface as typical tourists.\n\nPopular destinations for this movement include smaller agricultural towns, coastal fishing villages, and scenic mountain regions far away from overcrowded tourist hotspots. Local leaders in these quieter areas have welcomed the change, noting that slow travelers bring steady, year-round economic support without overwhelming local infrastructure or causing friction with permanent residents.\n\nUltimately, the rise of slow travel proves that a great holiday does not require endless movement or exhaustion. By slowing down and engaging deeply with a single community, people are rediscovering the true rest, connection, and joy of exploring the world at a peaceful pace. This meaningful way of traveling encourages us all to rethink our relationship with the world, teaching us that sometimes the very best way to experience a new destination is simply to stay put and live like a local for a little while.",
+  "questions": [
+    {
+      "prompt": "Why do people choose slowcations?",
+      "options": ["To skip famous sites", "To find cheaper fares", "To escape routine pressure", "To pack light bags"],
+      "answer": 2
+    },
+    {
+      "prompt": "What drives this new holiday trend?",
+      "options": ["Environmental guilt concerns", "Desire for luxury", "Faster travel options", "Mandatory group rules"],
+      "answer": 0
+    },
+    {
+      "prompt": "What do slow travelers typically do?",
+      "options": ["Rush through sights", "Adopt regional habits", "Shun neighborhood shops", "Book massive chains"],
+      "answer": 1
+    },
+    {
+      "prompt": "How do quiet areas benefit locally?",
+      "options": ["Consistent monetary backing", "Massive tourist floods", "Broken public setups", "Rising native tension"],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the core message here?",
+      "options": ["Movement heals fatigue", "Speed brings joy", "Calm beats rush", "Action builds rest"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "It's peak vacation season, and with airports packed and flight delays mounting, rushing across the globe right now appears to be {{1}}. Instead of chasing packed itineraries, {{2}} urbanites seeking peace, most of my friends are ready for a change of pace. Aesthetically, major tourist hotspots are wonderful, but I'm still not convinced that constant movement is the way to travel. Considering that traditional mass tourism never truly respects local resources either, the author's implication that slow travel {{3}} is frankly spot-on. {{4}} mindful residents, I have serious concerns about the strain of overcrowded destinations. As the passage implies, when popular sites are {{5}} rushing tourists, our travel experiences will surely be more stressful, not better.",
+    "blanks": [
+      { "options": ["truly very relaxing", "exhausting", "quite wonderfully easy", "fairly very smart"], "answer": 1 },
+      { "options": ["much like modern", "unlike busy travelers", "quite near tourists", "far past visitors"], "answer": 0 },
+      { "options": ["grows local waste", "ruins ancient sites", "reduces carbon footprints", "raises living costs"], "answer": 2 },
+      { "options": ["Just like eager", "Not unlike", "Different from most", "Far ahead of"], "answer": 1 },
+      { "options": ["hidden far from", "cleared fully of", "flooded with", "closed safely to"], "answer": 2 }
+    ]
+  }
+}

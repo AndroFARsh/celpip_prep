@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In the digital age, we are no longer the primary curators of the information we consume. Instead, complex algorithms—sophisticated mathematical formulas—dictate what we see on social media, what news we read, and even which products we purchase. While these systems are designed to enhance user experience by filtering out noise, they have raised profound ethical questions about autonomy, bias, and the fabric of public discourse.\n\nData scientists argue that algorithmic curation is a necessity in an era of information overload. With billions of pieces of content uploaded daily, it would be impossible for a human to navigate the internet without some form of automated assistance. By analyzing our past behavior, likes, and search history, algorithms provide a personalized experience that saves time and connects us with content we are genuinely interested in. In this view, the algorithm is a helpful librarian, organizing a chaotic digital library for our convenience.\n\nHowever, sociologists and media critics warn of the \"filter bubble\" effect. When an algorithm only shows us content that aligns with our existing beliefs, we are rarely exposed to dissenting viewpoints. This creates a feedback loop of reinforcement that can lead to radicalization and social polarization. When two neighbors look at their newsfeeds and see two entirely different versions of reality, the possibility for constructive democratic debate diminishes. The pursuit of \"engagement\"—the primary metric for these algorithms—often prioritizes sensationalism and outrage over nuance and accuracy.\n\nFurthermore, there is the issue of algorithmic bias. Because these systems are trained on historical data, they often inherit and amplify human prejudices. Whether in job recruitment software or facial recognition technology, algorithms can inadvertently discriminate against marginalized groups. This raises a critical question: should private tech companies be held accountable for the societal shifts caused by their code?\n\nAs we become more dependent on these invisible editors, the demand for \"algorithmic transparency\" grows. Users are beginning to push for more control over their feeds, demanding to know why certain content is being promoted. The challenge for the next decade will be to balance the efficiency of AI-driven curation with the need for a diverse, healthy, and transparent information ecosystem.",
+  "questions": [
+    {
+      "prompt": "The primary driver of content promotion on social platforms is ______.",
+      "options": ["Information accuracy", "User-controlled metrics", "Sustained interaction", "Historical neutrality"],
+      "answer": 2
+    },
+    {
+      "prompt": "Algorithmic bias is presented not as a technical glitch, but as a(n) ______.",
+      "options": ["Software limitation", "Societal reflection", "Intentional exclusion", "Statistical necessity"],
+      "answer": 1
+    },
+    {
+      "prompt": "The transition from human curation to algorithmic dictation has resulted in ______.",
+      "options": ["Total loss of autonomy", "Increased data privacy", "Delegated content selection", "Enhanced public discourse"],
+      "answer": 2
+    },
+    {
+      "prompt": "The challenge of the next decade involves a conflict between ______.",
+      "options": ["Code and morality", "Utility and integrity", "Speed and accessibility", "Humans and machines"],
+      "answer": 1
+    },
+    {
+      "prompt": "One can infer that private tech companies currently operate with ______.",
+      "options": ["Strict legal oversight", "Total algorithmic neutrality", "Transparent curation policies", "Unchecked social influence"],
+      "answer": 3
+    }
+  ],
+  "comment": {
+    "text": "While I appreciate the convenience algorithms {{1}} as a \"helpful librarian\" to manage information overload—I am deeply concerned about the \"filter bubble\" effect. The article {{2}} that prioritizing engagement over accuracy often fuels social polarization. When we are {{3}} content that reinforces our existing biases, constructive debate becomes impossible. Furthermore, the issue of algorithmic bias in recruitment and facial recognition is {{4}} that tech companies must address. I strongly agree that we need more algorithmic transparency; we {{5}} how these invisible editors are shaping our reality and influencing our autonomy.",
+    "blanks": [
+      { "options": ["offer—place", "provide—acting", "grant—functioning", "yield—behaving"], "answer": 1 },
+      { "options": ["correctly observes", "validly asserts", "rightly points out", "accurately identifies"], "answer": 2 },
+      { "options": ["only exposed to", "merely shown", "exclusively shown", "solely presented"], "answer": 0 },
+      { "options": ["a major moral obstacle", "a profound systemic hitch", "a critical social barrier", "a serious ethical hurdle"], "answer": 3 },
+      { "options": ["ought to understand", "must comprehend", "deserve to know", "should discover"], "answer": 2 }
+    ]
+  }
+}

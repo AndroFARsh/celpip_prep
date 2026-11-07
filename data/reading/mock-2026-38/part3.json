@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Advances in genetic engineering, particularly the use of CRISPR technology, have transitioned de-extinction from a cinematic trope into a tangible scientific pursuit. Researchers are currently focused on \"functional resurrection,\" which involves splicing DNA from extinct species like the woolly mammoth into the genomes of their closest living relatives. These ambitious projects aim to go beyond mere curiosity by restoring keystone species that once played vital roles in their environments. Proponents believe that reintroducing these animals could revitalize struggling ecosystems and offer a powerful way to mitigate the historical damage caused by human activity.",
+    "The potential reintroduction of extinct species brings up significant concerns regarding the stability of modern ecosystems that have evolved for millennia without them. Inserting a resurrected species into a contemporary habitat could trigger a \"butterfly effect,\" potentially displacing current wildlife or disrupting established food chains. Many environmentalists also raise the ethical argument that our financial and scientific resources should be prioritized for species currently facing imminent extinction. This \"playing God\" debate suggests that focusing on the past might distract us from the urgent, preventable losses occurring in the present.",
+    "There are deep concerns regarding the quality of life for a \"resurrected\" animal, which would likely exist as a social orphan without a natural herd to teach it survival behaviors. Highly intelligent mammals like the mammoth rely on complex social structures and ancestral knowledge that cannot be recreated in a laboratory setting. Furthermore, the original environments these species once called home have often been fundamentally altered or destroyed by climate change and human expansion. This creates a tragic scenario where a species is brought back only to be \"homeless\" in the modern world, existing solely as a captive biological curiosity.",
+    "Regardless of whether we successfully bring back a mammoth, the specialized tools developed for de-extinction hold immense value for current conservation efforts. Advanced gene-editing techniques can be repurposed to bolster the genetic diversity of critically endangered populations, helping them survive inbreeding and disease. These same technologies are being explored to \"bio-engineer\" resilience, such as creating coral reefs that can withstand rapidly warming and acidifying oceans. Ultimately, the de-extinction toolkit is poised to become a cornerstone of environmental management, providing a high-tech safety net for the world's remaining biodiversity."
+  ],
+  "statements": [
+    {
+      "text": "Modern habitats might reject long-lost biological invaders.",
+      "answer": "B"
+    },
+    {
+      "text": "Genetic toolkits offer lifelines for today's vanishing fauna.",
+      "answer": "D"
+    },
+    {
+      "text": "Hybridizing relatives transforms silver-screen fiction into reality.",
+      "answer": "A"
+    },
+    {
+      "text": "Resurrected giants would lack essential ancestral mentorship.",
+      "answer": "C"
+    },
+    {
+      "text": "Human-induced ecological scars may find healing through biotechnology.",
+      "answer": "A"
+    },
+    {
+      "text": "Governmental policy shifts regarding cross-border cloning ethics.",
+      "answer": "E"
+    },
+    {
+      "text": "Nostalgic science risks neglecting urgent contemporary catastrophes.",
+      "answer": "B"
+    },
+    {
+      "text": "Altered climates render ancient territories uninhabitable for returnees.",
+      "answer": "C"
+    },
+    {
+      "text": "Engineering thermal endurance helps marine structures survive.",
+      "answer": "D"
+    }
+  ]
+}

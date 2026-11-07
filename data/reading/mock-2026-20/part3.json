@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Coffee is one of the most widely consumed drinks in the world, second only to water in many countries. It is grown in a broad region around the equator known as the Coffee Belt, which stretches across parts of South America, Africa, and Asia. Ethiopia is widely regarded as the birthplace of coffee, where, according to legend, a goat herder first noticed the energizing effect of the berries on his animals. Today, billions of cups are drunk every single day, making coffee a truly global habit.",
+    "There are two main types of coffee bean grown commercially: Arabica and Robusta. Arabica beans are considered superior in flavor, producing a smoother and more aromatic cup. They grow best at high altitudes with cool temperatures and steady rainfall. Robusta, as its name suggests, is hardier and easier to cultivate. It contains more caffeine than Arabica and has a stronger, more bitter taste. Robusta is commonly used in espresso blends and instant coffee because it produces a thicker layer of foam, known as crema.",
+    "The journey from coffee plant to cup involves many stages. After the ripe berries are harvested, the outer fruit is removed to reveal the green beans inside. The beans are then dried, either in the sun or by machine, before being sorted and graded. Roasting is the step that transforms the green beans into the dark, aromatic product familiar to most people. The longer the beans are roasted, the darker and more intense the flavor becomes. Once roasted, the beans are ground and brewed in a wide variety of ways depending on local tradition and personal taste.",
+    "Coffee farming supports the livelihoods of millions of people around the world, particularly in developing countries. However, the industry faces serious challenges. Climate change is altering growing conditions, with rising temperatures threatening the regions where Arabica in particular can thrive. Many small farmers receive very little for their crop despite high retail prices in wealthy countries. The fair trade movement was set up partly in response to this imbalance, aiming to ensure that growers receive a fairer share of the profits. Consumer awareness of these issues has grown steadily, and many buyers now actively look for ethically sourced coffee."
+  ],
+  "statements": [
+    { "text": "One variety of bean is tougher to grow than the other.", "answer": "B" },
+    { "text": "Heat is used to bring out the taste and smell of the beans.", "answer": "C" },
+    { "text": "An animal is said to have led to the discovery of coffee's effects.", "answer": "A" },
+    { "text": "Shoppers are increasingly choosing products that guarantee fair treatment of producers.", "answer": "D" },
+    { "text": "Coffee is more popular than tea in most parts of the world.", "answer": "E" },
+    { "text": "Changing weather patterns are putting certain growing areas at risk.", "answer": "D" },
+    { "text": "The outer part of the coffee fruit is taken off before the bean is processed.", "answer": "C" },
+    { "text": "One type of bean is preferred for drinks that require a layer of foam on top.", "answer": "B" },
+    { "text": "Coffee shops in Ethiopia serve the most expensive coffee in the world.", "answer": "E" }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Ms. Aris,\n\nI am writing because North Star Insurance rejected my claim for the procedure I had on January 14th. I was very surprised to receive a denial letter yesterday saying that the $1,850 charge was not covered because of a mistake in the billing code.\n\nThe insurance company told me that my paperwork was marked as a \"Routine Screening,\" but I actually had a \"Contrast-Enhanced MRI.\" Because these are different procedures, the insurance company denied the whole claim. I checked my receipt from the Evergreen Clinic, and it correctly lists the MRI. This seems to be a simple error, but it is causing me a lot of stress.\n\nI already called your billing coordinator, Sarah, last week to check on this. She told me the paperwork was likely fine and asked me to wait. I am disappointed that my concerns were dismissed, as this is a large bill. I have always paid my co-pays on time, and I expect the same level of care from your office when handling my billing.\n\nThis is urgent because I only have ten business days to appeal the decision with my insurance company. If the code is not corrected and resubmitted quickly, I will be stuck paying the full amount for a mistake that was not my fault. I have attached the denial letter and the doctor’s original referral for your records.\n\nCould you please send the corrected form to North Star Insurance by the end of this week? Please send me a quick email or a tracking number to confirm it has been sent so I can update my insurance provider. I would really like to get this fixed as soon as possible.\n\nThank you for your help in resolving this.\n\nSincerely,\nJonathan Miller",
+  "questions": [
+    {
+      "prompt": "Jonathan Miller ______.",
+      "options": [
+        "prefers a different insurer",
+        "intends to sue the clinic",
+        "regrets his recent scan",
+        "wants to challenge his bill"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "North Star Insurance rejected because ______.",
+      "options": [
+        "the procedure label was wrong",
+        "standard checks are not covered",
+        "he missed a payment deadline",
+        "the exam was not required"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Sarah previously told Jonathan that ______.",
+      "options": [
+        "his policy was expired",
+        "the issue was already fixed",
+        "the records appeared correct",
+        "the forms were incomplete"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The administrative error involved ______.",
+      "options": [
+        "an incorrectly named service",
+        "missing doctor authorization papers",
+        "the wrong total price charged",
+        "a long wait for processing"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The insurance appeal deadline is ______.",
+      "options": [
+        "prior to the next month",
+        "a full two-week span",
+        "a ten-day business window",
+        "after the billing cycle ends"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Please accept my sincere apologies ______ this billing error has caused you.",
+      "options": [
+        "due to stress",
+        "about the burden",
+        "for the stress",
+        "with the pressure"
+      ],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Miller,\n\nPlease accept my sincere apologies for the stress this billing error has caused you. I am sorry that your concerns {{1}} properly when you initially called our office. I have personally investigated your file and confirmed that our billing department {{2}} incorrect diagnostic code. I have rectified this and {{3}} the corrected form to North Star Insurance. I have attached the submission confirmation and the tracking number for your reference, {{4}}. We value your loyalty as a patient and I am currently reviewing our {{5}} to ensure our staff provides more diligent service in the future. Thank you for your patience while we resolved this urgent matter.\n\nSincerely,\nMs. Aris",
+    "blanks": [
+      {
+        "options": [
+          "were not addressed",
+          "had not spoken",
+          "would not consider",
+          "were being ignored"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "found our",
+          "used an",
+          "wrote some",
+          "sent the"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "had already sent",
+          "will be mailing",
+          "just resubmitted",
+          "am currently filing"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "as you requested",
+          "by the end",
+          "per your order",
+          "with the appeal"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "internal protocols",
+          "office standards",
+          "billing regulations",
+          "patient handbooks"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

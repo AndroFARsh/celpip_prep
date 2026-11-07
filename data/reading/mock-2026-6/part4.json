@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Scientists and tech investors are making incredible progress in the study of aging, turning what once felt like a sci-fi movie into a real possibility. Researchers are exploring advanced medical treatments aimed at keeping people healthy and active for many more years. Instead of just focusing on helping people live longer, scientists are putting their energy into improving what is called healthspan—the period of life spent free from serious sickness. By tackling the root causes of physical wear and tear at a cellular level, medical experts hope to help people stay strong, independent, and full of energy well into their later years.\n\nThis scientific push relies on exciting breakthroughs in fields like gene research, cellular repair, and modern medicine. Labs around the world are figuring out how our bodies age and finding ways to fix damage before it turns into major health problems. The big goal of this work is not necessarily to help humans live forever, but rather to make sure that getting older does not automatically mean dealing with constant pain, memory loss, or losing the ability to get around. If successful, older adults could enjoy decades of active living, enjoying hobbies, spending time with family, and helping out in their neighborhoods without the heavy burden of physical decline.\n\nAs these new medical treatments move closer to everyday reality, healthcare is starting to look completely different. Instead of just treating sickness after it pops up, future medicine is all about preventing age-related issues before they even start. This shift is a massive step forward for human health, offering real hope that future generations will enjoy a much higher quality of life as the years roll on, keeping people vibrant and engaged in their local communities for a very long time. Ultimately, this exciting new era of science gives us all something truly wonderful to look forward to: a future where growing older comes with much more personal vitality, everyday freedom, and lasting joy than ever before in human history. We are stepping into a promising chapter where aging is no longer feared, and every golden year is truly worth celebrating.",
+  "questions": [
+    {
+      "prompt": "Why are labs shifting focus?",
+      "options": ["Curing illness is costly", "People want immortality", "Quality trumps duration", "Waiting lists are long"],
+      "answer": 2
+    },
+    {
+      "prompt": "How do experts view cellular damage?",
+      "options": ["Early puzzle fix", "Unavoidable natural tragedy", "Solved by surgery", "Poor diet symptom"],
+      "answer": 0
+    },
+    {
+      "prompt": "What changes in medical treatment?",
+      "options": ["Emergencies only", "Prevention replaces reaction", "Solo prescription management", "Robot physicians"],
+      "answer": 1
+    },
+    {
+      "prompt": "What does later life look like?",
+      "options": ["Quiet town isolation", "Chronic pain struggle", "Active community circles", "Full hobby retirement"],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the emotional takeaway?",
+      "options": ["Aging brings relief", "Breakthroughs cause panic", "Fear of time", "Science rejection"],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "With groundbreaking research unlocking new ways to keep people healthy well into old age, viewing growing older as an automatic decline feels outdated. Instead of accepting physical wear and tear, {{1}} scientists, most medical experts are working hard to extend our active health span. Biologically, aging {{2}}, but I'm still not convinced that cellular repair is the only piece of the puzzle. Considering that traditional healthcare never truly prevents illness before it starts either, the author's suggestion that {{3}} root cellular causes is a step in the right direction. {{4}} adults seeking freedom, I have serious hopes about reducing the heavy burden of chronic disease. As the passage implies, when modern medical labs are {{5}} preventative treatments, society will surely experience more vitality, not endless decline.",
+    "blanks": [
+      { "options": ["unlike traditional thinkers", "similar to older", "separate from modern", "much like forward-thinking"], "answer": 3 },
+      { "options": ["remains quite simple", "is complex", "feels totally normal", "seems very slow"], "answer": 1 },
+      { "options": ["future medicine tackles", "doctors treat symptoms", "hospitals ignore failures", "researchers hide data"], "answer": 0 },
+      { "options": ["Just like younger", "Not unlike aging", "Different from most", "Far ahead of"], "answer": 1 },
+      { "options": ["hidden far from", "cleared fully of", "focused on", "closed safely to"], "answer": 2 }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Facial recognition technology has transitioned from a futuristic concept into a common tool found in smartphones and high-security environments like airports. The process involves sophisticated AI mapping unique facial landmarks to create a digital \"faceprint\" that can be cross-referenced against vast databases. While this provides seamless convenience for users and enhances public safety measures, its rapid integration into society has outpaced our social and legal discussions. Consequently, the technology has become a focal point for intense debates regarding the balance between innovation and personal freedom.",
+    "A significant concern regarding this technology is its capacity to facilitate persistent, large-scale surveillance without an individual's awareness. Unlike passwords or physical ID cards, your facial features are permanent and can be captured by remote cameras from significant distances. This unique characteristic creates the potential for governments or private entities to monitor movements in real-time across entire cities. Ultimately, many fear that the widespread use of these systems will permanently eliminate the expectation of anonymity in public life.",
+    "Research has consistently demonstrated that many facial recognition algorithms suffer from serious accuracy issues, particularly when identifying women and people of color. These disparities often stem from \"training\" datasets that lack sufficient diversity, leading the AI to struggle with non-white or non-male features. When applied to law enforcement, these technical failures can result in \"false positives\" and the wrongful detention of innocent individuals. Such biases raise critical ethical questions about whether automated systems are currently capable of delivering impartial justice.",
+    "In response to these risks, several major cities have implemented bans on police use of the technology, while some tech corporations have halted sales to government bodies. The future of this industry will likely be shaped by rigorous regulatory frameworks designed to protect fundamental human rights. These laws must mandate transparency in how data is stored, provide citizens with \"opt-out\" rights, and ensure strict oversight to prevent misuse. Establishing these ethical guardrails is essential if society is to benefit from the technology without sacrificing civil liberties."
+  ],
+  "statements": [
+    { "text": "Optical scanners provide instant DNA-based identity verification.", "answer": "E" },
+    { "text": "Inescapable physical traits enable distant, covert tracking.", "answer": "B" },
+    { "text": "Voluntary exclusion rights must be codified into law.", "answer": "D" },
+    { "text": "Restrictive mandates now govern official software acquisition.", "answer": "D" },
+    { "text": "Biometrics convert biological landmarks into searchable code.", "answer": "A" },
+    { "text": "Urban wandering no longer guarantees a hidden identity.", "answer": "B" },
+    { "text": "Automating law lacks the nuance of unbiased equity.", "answer": "C" },
+    { "text": "Homogeneous data samples produce skewed identification results.", "answer": "C" },
+    { "text": "Digital blueprints now outpace modern legal frameworks.", "answer": "A" }
+  ]
+}

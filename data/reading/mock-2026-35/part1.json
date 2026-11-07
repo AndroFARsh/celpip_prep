@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Uncle David,\n\nI just returned from a short trip to Vermont, and I can't stop thinking about a tiny bookstore I stumbled upon in Woodstock. It's tucked into a narrow alley, almost hidden by a colorful display of flowers outside. The sign above the door is faded, and the bell jingles softly when you enter, as though announcing the start of a secret adventure.\n\nInside, the air carries the faint scent of old pages and polished wood. Rows of books are stacked almost haphazardly, yet each shelf seems to invite careful exploration. I wandered through the aisles for nearly an hour, running my fingers along spines of books I never knew existed. Some of the titles looked decades old, others carried modern covers, but the charm of the store is timeless.\n\nI found a small journal tucked between antique novels, its leather cover cracked but elegant. The owner, a gentleman named Mr. Whitaker, noticed my interest and shared that the journal was from the 1920s, once belonging to a poet who frequented the area. I opened it carefully and read a few lines; the handwriting was delicate, filled with musings about life and seasons, and for a moment, I felt connected across time.\n\nBefore leaving, I bought a collection of local short stories and promised to return soon. On the walk back to my inn, the streets seemed quieter than usual, and the air felt heavier with autumn scents. That bookstore reminded me how small discoveries can leave lasting impressions. Not every trip requires grand monuments or famous landmarks; sometimes, a quiet corner of a town, a dusty shelf, and the hum of history can leave you more moved than anything else.\n\nI wish you could have seen it with me, Uncle. I felt as though the world had slowed down, allowing me to experience a small piece of someone else's life and imagination. I hope we can visit together next year.\n\nWarm regards,\nHenry Lawson",
+  "questions": [
+    {
+      "prompt": "Henry's initial attention was drawn to the bookstore because it ______.",
+      "options": ["contrasted with nearby shops", "rewarded careful observation", "reflected artistic branding", "suggested commercial novelty"],
+      "answer": 1
+    },
+    {
+      "prompt": "The bookstore's internal arrangement implies that it ______.",
+      "options": ["lacked professional organization", "confused first-time visitors", "prioritized efficiency over comfort", "valued experiential wandering"],
+      "answer": 3
+    },
+    {
+      "prompt": "Henry's response to the journal indicates that he ______.",
+      "options": ["admired its literary merit", "felt nostalgic for travel", "experienced temporal intimacy", "imagined the poet's success"],
+      "answer": 2
+    },
+    {
+      "prompt": "Mr. Whitaker's explanation mainly functions to ______.",
+      "options": ["authenticate the purchase", "elevate emotional resonance", "justify historical pricing", "attract repeat customers"],
+      "answer": 1
+    },
+    {
+      "prompt": "The altered atmosphere during Henry's walk back suggests that ______.",
+      "options": ["the town became deserted", "weather conditions intensified", "daylight was fading quickly", "his perception had shifted"],
+      "answer": 3
+    },
+    {
+      "prompt": "Henry's broader message about travel is that it ______.",
+      "options": ["should avoid famous sites", "depends on cultural knowledge", "is shaped by randomness", "emerges from reflective stillness"],
+      "answer": 3
+    }
+  ],
+  "reply": {
+    "text": "Dear Henry,\n\nIt was wonderful to hear from you. It sounds like your time in Vermont was truly special. I'd love to {{1}}. Now, with my {{2}}, but even if it's a bit of a trek, I think we should go anyway. After all, we have to keep our sense of wonder alive! You just email me your schedule for next autumn. Also, there's no need to {{3}}. I can take care of that; you should keep your wages for your upcoming studies.\n\nI haven't been back to that part of the country in a long time. Did you take any photos of {{4}}? I'm sorry you {{5}}. If you did, I'd love to see them. I wonder if the town has changed much since I was a young man.\n\nAnyway, email me as soon as you have a date in mind for next year.\n\nUncle David",
+    "blanks": [
+      { "options": ["explore that secluded literary nook", "acquire an antique leather diary", "relocate to the Woodstock area", "track down the poet's descendants"], "answer": 0 },
+      { "options": ["stamina fading in the autumn chill", "mobility not being what it once was", "vision making reading more strenuous", "memory becoming a bit unreliable"], "answer": 1 },
+      { "options": ["reimburse me for the gas and tolls", "contribute to the book collection fund", "finance your own transport to see me", "settle the bill at the Vermont inn"], "answer": 2 },
+      { "options": ["the storefront's aged identification", "the contemporary literature section", "the proprietor, Mr. Whitaker", "the narrow alleyway's architecture"], "answer": 0 },
+      { "options": ["missed the chance to meet the owner", "didn't find the poet's actual grave", "misplaced the local story collection", "couldn't purchase the 1920s journal"], "answer": 3 }
+    ]
+  }
+}

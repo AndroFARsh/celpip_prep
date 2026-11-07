@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Dear David Hartwell,\n\nThank you for visiting our showroom last week. We are glad that you have chosen Maple Lane Furniture for your home furnishing needs. I've gone through our current second-hand inventory and have created {{1}}. Please see attached.\n\nAll the pieces except the fourth one have {{2}}, as indicated. All of the pieces {{3}}. You mentioned that you wanted a piece with {{4}}, so, I would recommend the item pictured in the bottom right corner. Since you feel strongly about staying within a tight budget, I am also going to check our warehouse on Monday to see what else has come in. I will send you the details afterwards. {{5}}, please let me know if you'd like to come in and view any of these four pieces this weekend.\n\nRegards,\nSandra",
+    "blanks": [
+      { "options": ["store hours", "a selection sheet", "an invoice", "a catalogue"], "answer": 1 },
+      { "options": ["free delivery", "a minor flaw", "a warranty", "matching fabric"], "answer": 1 },
+      { "options": ["are oak", "match a set", "are pre-owned", "need assembly"], "answer": 2 },
+      { "options": ["a neutral tone", "bold color", "extra storage", "recliner feature"], "answer": 1 },
+      { "options": ["Meanwhile", "However", "Therefore", "Still"], "answer": 0 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Sandra sent this email to ______.",
+      "options": ["a coworker", "a driver", "a customer", "a supplier"],
+      "answer": 2
+    },
+    {
+      "prompt": "Sandra and David have probably ______.",
+      "options": ["never spoken", "met before", "signed a lease", "already swapped items"],
+      "answer": 1
+    },
+    {
+      "prompt": "Sandra will most likely ______.",
+      "options": ["cancel the order", "raise the prices", "want pickup now", "follow up soon"],
+      "answer": 3
+    }
+  ]
+}

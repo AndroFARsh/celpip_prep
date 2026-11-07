@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Patel,\n\nWe are pleased to inform you that your lease for Apartment 3B, Greenfield Heights will be up for renewal on November 30th, 2025. Over the past year, your tenancy has been exemplary, and we greatly appreciate the care and respect you have shown toward the property. Given your excellent record as a responsible and reliable tenant, we are delighted to offer you a renewal term of 12 months at the same rental rate of $1,450 per month, with no increase in rent.\n\nEnclosed with this message is the updated lease agreement outlining the terms and conditions for the upcoming rental period. We kindly request that you review the document carefully and return a signed copy to the leasing office by November 10th, 2025, to ensure a seamless continuation of your residency. Early submission will also allow us to make any necessary administrative updates before the new lease term begins.\n\nShould you wish to discuss any modifications to your lease, such as changes in lease duration, pet policies, or utilities, or if you are interested in exploring available upgrades to apartment amenities, our leasing office staff is readily available to assist you. We are committed to ensuring that your living experience remains comfortable and enjoyable, and we welcome your input on ways we can further enhance your apartment and the community at large.\n\nGreenfield Heights takes pride in fostering a welcoming and well-maintained community, and your continued residency contributes significantly to the positive environment we strive to provide. We value the relationship we have built with you over the past year and look forward to maintaining this partnership for another lease term.\n\nIf you have any questions regarding the lease renewal process, required documentation, or payment procedures, please do not hesitate to contact the leasing office at your convenience.\n\nWe sincerely appreciate your continued residency and cooperation and look forward to another year of shared commitment and a harmonious living experience at Greenfield Heights.\n\nWarm regards,\nJennifer Liu\nLeasing Manager\nGreenfield Heights",
+  "questions": [
+    {
+      "prompt": "The final date by which the tenant must act is ______.",
+      "options": [
+        "When the new lease term begins",
+        "Two weeks before the renewal deadline",
+        "Midway through November 2025",
+        "Twenty days before the lease expiration"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The offer to maintain the rent amount indicates ______.",
+      "options": [
+        "Economic appreciation of tenant loyalty",
+        "Regulatory restriction on rent growth",
+        "Temporary lenience due to administrative delay",
+        "Negotiated concession following tenant requests"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The most accurate evaluation of Mr. Patel's tenancy is that he ______.",
+      "options": [
+        "Met obligations occasionally but not consistently",
+        "Demonstrated attentiveness that exceeded expectations",
+        "Fulfilled basic duties without notable distinction",
+        "Required occasional management reminders"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The tone of the letter primarily projects ______.",
+      "options": [
+        "Cordiality mixed with firm procedural boundaries",
+        "Detached politeness aimed at avoiding conflict",
+        "Mild dissatisfaction softened by courtesy",
+        "Official restraint with no emotional acknowledgment"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The administrative benefit of early submission lies chiefly in ______.",
+      "options": [
+        "Assuring vacancy listings are prepared in advance",
+        "Preventing tenant default on subsequent payments",
+        "Allowing system updates before term commencement",
+        "Speeding approval for possible rent reduction"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The broader sentiment of the message equates the tenant–landlord relationship with ______.",
+      "options": [
+        "Cooperative continuity strengthened by mutual regard",
+        "Practical contract renewal devoid of sentiment",
+        "Obligatory arrangement renewed out of convenience",
+        "Conditional approval based on inspection outcomes"
+      ],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Ms. Liu,\n\nThank you for your kind message and the opportunity to renew my lease at Greenfield Heights. I truly appreciate your recognition {{1}} and {{2}} at the same rental rate. Over the past year, living in Apartment 3B has been a pleasant and comfortable experience, thanks {{3}} and supportive management team. I am happy {{4}} to renew the lease for another 12-month term under the same conditions. I will review {{5}} carefully and return the signed copy to the leasing office before November 10th as requested. Please let me know if any additional steps or documents are required.\n\nWarm regards,\nPatel",
+    "blanks": [
+      {
+        "options": [
+          "for the kind intention",
+          "with my cooperation",
+          "about my living arrangement",
+          "of my tenancy"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "your consideration of lease",
+          "my acceptance to leave",
+          "the offer to continue",
+          "an old confirmation"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "to the excellent maintenance",
+          "for the dedicated property",
+          "with your professional staff",
+          "due to the housing condition"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "with continuing my tenancy",
+          "about agreeing the renewal",
+          "for making confirmation",
+          "to confirm my intention"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "your written notice",
+          "this mentioned letter",
+          "the enclosed agreement",
+          "both papers received"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

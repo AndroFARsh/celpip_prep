@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Aunt Margaret,\n\nI hope you're well. I wanted to share something that happened last weekend—it was unexpected but left a lasting impression on me.\n\nI was at home on Saturday morning, enjoying a quiet cup of coffee, when I heard frantic barking and shouting from the apartment across the street. Curious, I looked out the window and saw our neighbor's small dog stuck on the balcony ledge, clearly struggling to get back inside. The wind was strong, and one wrong step could have been dangerous.\n\nI immediately ran outside and climbed the fire escape to reach the balcony. Just as I grabbed the dog, the railing shifted slightly under my weight. It was a tense moment, and I admit I felt my heart pounding faster than it ever has. Fortunately, I managed to pull the dog safely inside. The neighbor, Mrs. Latham, was on the phone with her daughter and arrived just a few minutes later. She was extremely grateful and insisted on giving me a small gift, which I politely refused.\n\nAfter the incident, we all took a few minutes to discuss ways to prevent such accidents in the future. Mrs. Latham mentioned that the balcony railing is slightly worn from age, and she plans to have it reinforced soon. Seeing her relief and the dog's tail wagging reminded me how small actions can have a big impact.\n\nLater, reflecting on the situation, I realized how quickly ordinary days can become extraordinary. I never imagined that my Saturday morning would involve a minor rescue, climbing, and a dose of adrenaline. But it also made me appreciate how connected we are to our surroundings and neighbors—even strangers at times.\n\nI wanted to share this with you because it reminded me of the importance of being attentive and willing to step in when someone—or even an animal—needs help. It was scary at the moment, but also surprisingly rewarding.\n\nI hope your week has been calmer than mine! I'll tell you more when I visit next month.\n\nLove,\nOliver Hayes",
+  "questions": [
+    {
+      "prompt": "Oliver's initial decision can best be described as ______.",
+      "options": [
+        "ethically conditioned impulse",
+        "calculated physical judgment",
+        "emotional overreaction",
+        "situational obligation"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The narrative suggests the greatest threat arose from ______.",
+      "options": [
+        "sudden external forces",
+        "compounded minor failures",
+        "animal vulnerability",
+        "human negligence"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Mrs. Latham's delayed presence primarily highlights ______.",
+      "options": [
+        "underestimation of urgency",
+        "generational unfamiliarity",
+        "lack of physical capability",
+        "dependence on remote reassurance"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Oliver's refusal of the gift implies ______.",
+      "options": [
+        "discomfort with reciprocity",
+        "internalized moral limits",
+        "rejection of praise",
+        "avoidance of indebtedness"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The post-incident conversation mainly serves to ______.",
+      "options": [
+        "diffuse emotional tension",
+        "shift responsibility forward",
+        "validate Oliver's actions",
+        "minimize perceived danger"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Oliver's closing realization reframes the event as ______.",
+      "options": [
+        "a test of courage",
+        "a lesson in vigilance",
+        "a disruption of assumed normalcy",
+        "proof of social bonding"
+      ],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Oliver,\n\nIt was so wonderful to hear from you. I'm still catching my breath after reading about your weekend! It goes without saying that I'm {{1}} and incredibly proud of your quick thinking. Now, with my {{2}}, I certainly couldn't have scaled a fire escape like that, but I'm just glad you were there to help. It sounds like a terrifying ordeal, and I can only imagine how {{3}} as you reached for that poor pup. I was quite surprised to hear that the {{4}}, but it's a relief to know Mrs. Latham is finally getting it fixed. I'm sorry you {{5}}, but I'm glad the dog is safe and sound.\n\nI can't wait to hear the full story in person when you visit. Stay safe until then!\n\nLove,\nAunt Margaret",
+    "blanks": [
+      {
+        "options": [
+          "impressed you saved the gift",
+          "inspired by your selfless instincts",
+          "confused by your neighbor's reaction",
+          "anxious about the strong winds"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "dislike of small animals",
+          "history of living in apartments",
+          "unfamiliarity with the neighborhood",
+          "stiff joints and lack of agility"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "panicked your pulse became",
+          "frustrated the dog appeared",
+          "heavy the railing felt",
+          "guilty you felt for watching"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "fire escape was so narrow",
+          "safety barrier was compromised",
+          "neighbor was unable to hear you",
+          "apartment was left unattended"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "faced such a startling disruption",
+          "witnessed the dog falling",
+          "had to refuse a neighbor's kindness",
+          "damaged the property during the climb"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

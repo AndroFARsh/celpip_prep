@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Farming and solar energy used to be rivals, fighting over the exact same patches of good farmland. But a clever setup called \"agrivoltaics\" changes things by putting solar panels and crops together on the exact same piece of earth. Builders raise the solar panels high into the air or space them wide apart so big tractors can still drive right underneath. This setup actually helps both sides: the panels give the growing plants a nice break from the harsh afternoon sun, and the moisture rising naturally from the plants helps cool down the solar panels so they can generate electricity much more efficiently.",
+    "This kind of \"solar sharing\" is a huge help in dry places where watering crops is a massive chore. Out in a normal open field, summer heat makes water evaporate super fast, meaning farmers have to use tons of water just to keep crops alive. But under a canopy of solar panels, the shade keeps the soil wetter and cuts down moisture loss by up to 30%. Because of this, farmers can successfully grow delicate, high-value crops—like fresh berries, leafy greens, and specialty herbs—that would normally fry under direct sunlight. Plus, that filtered sunlight can actually boost the sugar levels and overall health of shade-loving plants.",
+    "Money-wise, this setup gives family farms a much-needed safety net when crop prices go up and down. By renting out the air above their fields to energy companies, farmers get a steady, predictable monthly paycheck that doesn't depend on the weather or global market changes. This extra cash helps them upgrade their gear or invest in eco-friendly practices. Governments are even starting to offer tax breaks for using land this way, hoping to stop farmers from selling off their property to housing developers or warehouse builders.",
+    "Of course, it is not all smooth sailing, and setting up an agrivoltaic farm comes with a few headaches. Building those extra-tall mounting racks for tractors costs a lot more upfront than standard ground panels. Farmers also have to change how they plant and harvest their fields so they do not bump into the support pillars. On top of that, it does not work for every crop—big staples like corn and wheat still demand full, direct sunshine to grow properly. Moving forward, the big puzzle is figuring out the right balance of light so we get plenty of clean energy without hurting our food supply."
+  ],
+  "statements": [
+    { "text": "Elevated panels permit farm machinery access, lowering operating temperatures.", "answer": "A" },
+    { "text": "Shaded ground covers significantly reduce hot summer evaporation.", "answer": "B" },
+    { "text": "Predictable leasing income protects families from fluctuating prices.", "answer": "C" },
+    { "text": "Specialized elevated mounting frameworks require greater initial investments.", "answer": "D" },
+    { "text": "Agricultural universities offer specialized training for modern managers.", "answer": "E" },
+    { "text": "Essential cereal grains still demand unhindered solar exposure.", "answer": "D" },
+    { "text": "Natural plant cooling helps modules generate power effectively.", "answer": "A" },
+    { "text": "Tax relief initiatives discourage landowners from selling properties.", "answer": "C" },
+    { "text": "International corporations export harvested high-value organic crops overseas.", "answer": "E" }
+  ]
+}

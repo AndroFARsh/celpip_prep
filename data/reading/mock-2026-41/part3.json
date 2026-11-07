@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Cultivated meat represents a revolutionary shift in food technology by producing genuine animal tissue without the need for traditional farming. This process begins by harvesting a small sample of primary cells from a living animal, which are then placed in a nutrient-rich environment known as a bioreactor. Inside these tanks, the cells are fed a \"culture medium\" containing amino acids and vitamins, allowing them to proliferate and differentiate into muscle and fat tissues. The end result is a product that is biologically identical to conventional meat, offering the same protein profile and flavor without the ethical concerns of slaughter.",
+    "One of the most compelling arguments for cellular agriculture is its potential to drastically reduce the ecological footprint of protein production. Traditional livestock farming is resource-intensive, contributing significantly to global greenhouse gas emissions, land degradation, and massive water consumption. Lab-grown meat offers a sustainable alternative that requires a fraction of the land and water while nearly eliminating methane output from cattle. Additionally, because the meat is grown in a controlled, sterile laboratory environment, it removes the risk of foodborne illnesses and the necessity for the prophylactic antibiotics common in factory farming.",
+    "Despite rapid advancements, the industry faces significant technical hurdles in making these products accessible to the average consumer. While the cost of production has plummeted from hundreds of thousands of dollars to much more manageable figures, it still struggles to compete with the subsidized prices of conventional beef. Furthermore, mimicking the complex architecture of a steak or a pork chop is much harder than creating ground products like nuggets or burgers. Engineers are currently working on \"scaffolding\" technologies that can help cells grow into the organized, fibrous textures that meat eaters expect from high-end cuts.",
+    "The path to mainstream adoption is complicated by diverse regulatory landscapes and deeply ingrained cultural perceptions of what constitutes \"real\" food. Some consumers remain skeptical of meat grown in a lab, while traditional agricultural sectors have lobbied for strict labeling laws to protect their market share. However, with the global population rising and the demand for protein expected to double by mid-century, many experts view cultivated meat as a necessity rather than a luxury. Ultimately, the future of food will likely involve a diverse mix of traditional, plant-based, and cultivated sources working together to ensure global food security."
+  ],
+  "statements": [
+    { "text": "Duplicating intricate animal fiber arrangements remains a physical trial.", "answer": "C" },
+    { "text": "Artificial cultivation could prevent future global nourishment shortages.", "answer": "D" },
+    { "text": "Synthetic proteins may outpace the current climate-damaging harvest methods.", "answer": "B" },
+    { "text": "Biological mirrors are synthesized within specialized industrial vessels.", "answer": "A" },
+    { "text": "Financial parity with legacy livestock remains a persistent barrier.", "answer": "C" },
+    { "text": "Ocean-sourced proteins are the primary focus of this innovation.", "answer": "E" },
+    { "text": "Institutional labeling disputes threaten the integration of novel edibles.", "answer": "D" },
+    { "text": "Lab-based fabrication bypasses the need for medicinal herd additives.", "answer": "B" },
+    { "text": "Precise microscopic harvesting precedes the massive replication phase.", "answer": "A" }
+  ]
+}

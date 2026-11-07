@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Sand is the most consumed natural resource on Earth after water, yet it remains largely unregulated despite its critical role in modern civilization. It serves as the primary ingredient in concrete, glass, and asphalt, while also being used extensively in massive land reclamation projects to create artificial islands. As global urbanization accelerates, the demand for \"construction-grade\" sand has skyrocketed to unprecedented levels. This surge has triggered a global shortage that remains invisible to most of the public, even as it threatens the stability of future infrastructure.",
+    "Not all sand is created equal; specifically, desert sand is unsuitable for construction because it has been shaped by wind into grains that are too smooth and round. To find angular and \"grippy\" sand that can bond effectively in concrete, industry must instead mine riverbeds and beaches. This intensive extraction destroys delicate river ecosystems, worsens coastal erosion, and leaves inland communities significantly more vulnerable to devastating floods. The scarcity of this specific resource has even led to the rise of \"sand mafias\" in some regions, where criminal organizations use violence to control illegal mining operations.",
+    "The environmental impact of sand mining is most visible in Southeast Asia, where dredging has caused entire islands to vanish beneath the waves. Removing sand from riverbeds also lowers the local water table, which directly compromises drinking water supplies and cripples agricultural productivity. As the resource becomes scarcer and more expensive, the cost of vital infrastructure projects—such as bridges and skyscrapers—continues to rise sharply. This financial burden puts immense pressure on developing economies that rely on affordable materials to grow and modernize.",
+    "Innovations in \"circular construction\" offer a promising way out of this crisis by finding sustainable alternatives to raw sand. Researchers are now developing techniques to use recycled plastic, crushed glass, or demolition waste as substitutes for sand in concrete mixtures. Furthermore, a shift toward timber-framed architecture could significantly reduce our global reliance on cement and traditional masonry. However, without a coordinated global effort to track and regulate sand as a strategic resource, the foundation of our modern cities will continue to rest on a disappearing asset."
+  ],
+  "statements": [
+    {
+      "text": "Wind-swept grains fail to hold buildings together.",
+      "answer": "B"
+    },
+    {
+      "text": "Missing supplies endanger the safety of upcoming towers.",
+      "answer": "A"
+    },
+    {
+      "text": "Solar energy helps reduce the heat during mining.",
+      "answer": "E"
+    },
+    {
+      "text": "Thugs seize power as specific grit becomes rare.",
+      "answer": "B"
+    },
+    {
+      "text": "Geography disappears due to heavy underwater scooping.",
+      "answer": "C"
+    },
+    {
+      "text": "Transforming old trash offers a path toward sustainability.",
+      "answer": "D"
+    },
+    {
+      "text": "Smooth particles cannot latch onto other building materials.",
+      "answer": "B"
+    },
+    {
+      "text": "Sucking dirt from streams ruins farm harvests.",
+      "answer": "C"
+    },
+    {
+      "text": "Authorities fail to monitor this vital building component.",
+      "answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Healthcare wait times across Canada have long been a major topic of everyday conversation, affecting families from coast to coast. Whenever someone needs to see a specialist, schedule a non-urgent surgery, or visit a busy hospital emergency room, they often face frustratingly long delays. This ongoing challenge places a heavy burden on patients who are stuck waiting months just to get a proper diagnosis or necessary medical treatment, leading to widespread calls for reform from both citizens and healthcare workers.\n\nThe root of the issue is a complicated mix of rising demand and limited resources. With an aging population across the country, more seniors require frequent medical care, putting extra pressure on hospitals and family doctors. At the same time, the system deals with a persistent shortage of nurses and physicians, leading to overworked staff, burned-out professionals, and closed emergency departments in smaller communities. For many Canadians, finding a dedicated family doctor has become an incredible challenge, forcing them to rely on crowded walk-in clinics or long hours in the ER for routine health needs.\n\nGovernments and healthcare leaders are constantly trying out new strategies to tackle these delays, such as expanding virtual care options, streamlining patient intake, and investing in medical training programs. However, fixing a publicly funded healthcare system of this scale takes time, money, and plenty of political cooperation. Ultimately, ensuring timely access to quality medical care remains one of the most important issues for Canadians, as everyone wants peace of mind knowing that help will be there when they or their loved ones need it most.\n\nBridging these existing gaps will require ongoing patience and creative problem-solving from both medical professionals and public leaders alike. Communities are continuing to advocate for better funding and smarter resource allocation to ease the strain on emergency rooms. Modernizing facilities and adopting new digital booking systems can also help streamline appointments and cut down unnecessary administrative delays. Families hope that these combined efforts will eventually build a sturdier healthcare foundation for future generations to rely on. Achieving a truly seamless medical system remains a shared national priority that demands our continuous attention and care.",
+  "questions": [
+    {
+      "prompt": "Why do hospitals fall behind?",
+      "options": ["Workers walk off", "Seniors need more care", "Funding gets cut", "People skip checkups"],
+      "answer": 1
+    },
+    {
+      "prompt": "Where do people go sans doctor?",
+      "options": ["Fly out abroad", "Wait for specialists", "Use home cures", "Crowded drop-in clinics"],
+      "answer": 3
+    },
+    {
+      "prompt": "What do bosses try out?",
+      "options": ["Shutting small clinics", "Video doctor visits", "Charging ER fees", "Hiring foreign nurses"],
+      "answer": 1
+    },
+    {
+      "prompt": "What do local towns want?",
+      "options": ["Smarter money splitting", "Total tax cuts", "Brand new buildings", "City-run hospitals"],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the big end goal?",
+      "options": ["Zero health taxes", "Smooth care flow", "Total doctor freedom", "Ending ER lines"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "Honestly, sitting in a crowded emergency room for hours just to get basic care is becoming way too normal, and it's {{1}}. The real headache isn't just one broken clinic; it's a system stretched past its {{2}} by staff shortages and an aging population. Like a lot of people I know, I've watched family members wait months for a simple specialist referral, and it makes you feel completely helpless. While expanding virtual appointments sounds like {{3}} on paper, it completely misses the mark when you actually need hands-on medical attention. Fixing this mess is going to take a lot more than quick administrative tricks—it needs serious, {{4}} in training actual doctors and nurses so our local hospitals {{5}} a break.",
+    "blanks": [
+      { "options": ["completely draining", "totally fine today", "quite normal now", "fairly fast enough"], "answer": 0 },
+      { "options": ["simple safety rules", "absolute limits", "normal working hours", "basic funding plans"], "answer": 1 },
+      { "options": ["a neat modern fix", "an old system", "a bad choice", "an expensive risk"], "answer": 0 },
+      { "options": ["brief public notices", "sustained investment", "quick online meetings", "cheap temporary solutions"], "answer": 1 },
+      { "options": ["must stay shut", "should stay open", "will never close", "can finally catch"], "answer": 3 }
+    ]
+  }
+}

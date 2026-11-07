@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Mark,\n\nI'm incredibly frustrated with the response I received from your automated support system regarding my request for a registration refund. As you know, I purchased a \"VIP Executive Pass\" for the Global Innovators Summit back in January for $1,200. Unfortunately, due to the sudden cancellation of my international flight following the regional storm last week, it was physically impossible for me to attend the event in London.\n\nWhen I checked your website's terms and conditions before purchasing, the \"Force Majeure\" clause explicitly stated that refunds would be issued in the event of documented travel disruptions beyond the attendee's control. I have already provided the official flight cancellation notice from the airline and a copy of the emergency weather advisory. Despite this, your billing department is claiming that because I didn't cancel my registration 30 days in advance, I am only eligible for a \"Credit Voucher\" for next year's event. This is completely useless to me, as I am moving to a different industry and will not be attending future summits.\n\nFurthermore, I was specifically promised a one-on-one networking session with the keynote speaker, Dr. Aris, as part of my VIP package. Since that session was scheduled for the first morning of the conference, which I obviously missed, that part of the service was never rendered. I am essentially being charged over a thousand dollars for a service I could not access and a promise that wasn't kept.\n\nI've been a loyal attendee for five years, but this experience has left a very sour taste in my mouth. I'm giving your team 48 hours to process a full refund to my original credit card. If I don't see a confirmation by Wednesday evening, I will have no choice but to initiate a chargeback through my bank and leave a detailed review of this situation on the industry forums. I'd much rather resolve this amicably, but the current \"voucher-only\" offer is an insult given the circumstances.\n\nPlease let me know by tomorrow morning if you can escalate this to a senior manager.\n\nBest,\nJulianne Moore",
+  "questions": [
+    {
+      "prompt": "Julianne's primary justification for a cash reversal hinges on ______.",
+      "options": ["A pre-purchase contractual guarantee.", "The duration of her professional tenure.", "A breach of the 30-day notice protocol.", "The unavailability of the keynote speaker."],
+      "answer": 0
+    },
+    {
+      "prompt": "The billing department's refusal is technically predicated on Julianne's ______.",
+      "options": ["Geographic location during the storm.", "Failure to meet a temporal prerequisite.", "Acceptance of the \"Force Majeure\" clause.", "Industry-wide shift in professional focus."],
+      "answer": 1
+    },
+    {
+      "prompt": "Julianne argues that the contract is partially void because of ______.",
+      "options": ["A failure to deliver a specific engagement.", "The airline's refusal to honor her ticket.", "Mark's personal negligence in the matter.", "An error in the automated support system."],
+      "answer": 0
+    },
+    {
+      "prompt": "To satisfy the \"Force Majeure\" requirements, the sender has already ______.",
+      "options": ["Requested an escalation to Dr. Aris.", "Authenticated the nature of the hindrance.", "Waived the 48-hour resolution window.", "Reimbursed the bank for the chargeback."],
+      "answer": 1
+    },
+    {
+      "prompt": "If Julianne's demand is ignored by Thursday, she intends to ______.",
+      "options": ["Re-register for the next summit.", "Publicize her grievance professionally.", "File a lawsuit against the airline.", "Contact the original credit card company."],
+      "answer": 3
+    },
+    {
+      "prompt": "Julianne's stance on the \"Credit Voucher\" implies that she ______.",
+      "options": ["Expects a career transition.", "Dislikes the summit's agenda.", "Misunderstood the terms in January.", "Has already used the voucher once."],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Julianne,\n\nThank you for reaching out, and please accept my sincere apologies for the {{1}} caused by our automated system. I have personally {{2}}, including the airline's cancellation notice and the weather advisory you provided.\n\nGiven that {{3}} falls directly under the \"Force Majeure\" clause, I agree that a credit voucher is insufficient. I have escalated this to our Head of Finance {{4}} the standard 30-day policy and authorize a full refund of your $1,200 registration fee.\n\nRegarding the missed session with Dr. Aris, we {{5}} this VIP service was not rendered. You should receive a credit card confirmation by Wednesday evening.\n\nBest regards,\nMark\nEvent Coordination Team",
+    "blanks": [
+      { "options": ["administrative oversight", "procedural delay", "frustration", "technical discrepancy"], "answer": 2 },
+      { "options": ["verified the documentation", "reviewed your file", "authenticated the evidence", "cross-referenced the data"], "answer": 1 },
+      { "options": ["the atmospheric event", "the logistical failure", "your situation", "the contractual breach"], "answer": 2 },
+      { "options": ["the contractual breach", "to bypass", "to reconsider", "to supersede"], "answer": 1 },
+      { "options": ["concede that", "confirm that", "acknowledge that", "regret that"], "answer": 2 }
+    ]
+  }
+}

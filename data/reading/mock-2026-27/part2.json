@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Elena,\n\nI've been thinking about how much you hate the logistics of our weekend getaways, and I think I found a way for us to finally {{1}} without the burden of actually owning the headache. There is a group that has been around since the late 2010s offering a setup where we can just grab a set of keys through our phones whenever the mood strikes.\n\nSince you're still finishing up your degree, we could actually get you a lower rate, and they even have a specific plan if we decide to move into that new apartment complex downtown. It's pretty seamless—they handle the messy stuff like protection and refueling, so we just show up and drive. I was thinking we could use one of those sleek, quiet models for our anniversary dinner, or maybe snag a heavy-duty hauler if we finally decide to buy that vintage dresser.\n\nThe best part is we can basically {{2}} on our first outing if we use a specific invite code. They even let us bring a friend along for a session without charging extra, which would be perfect for when your brother visits. It feels like a much more {{3}} to navigate the city, especially since we won't have to worry about finding a permanent spot to park. It's about time we {{4}} and embraced a bit more freedom. Let me know if you want to try it out this weekend; I'd love to see us {{5}} for once.\n\nBest Regards,\nMarcus",
+    "blanks": [
+      { "options": ["bypass traditional ownership", "initiate a lease", "acquire a garage", "simplify our commute"], "answer": 0 },
+      { "options": ["bypass the initial fee", "double our travel time", "waive the opening costs", "trial the service at no expense"], "answer": 3 },
+      { "options": ["environmentally conscious path", "expensive alternative", "restricted methodology", "traditional arrangement"], "answer": 0 },
+      { "options": ["renewed our insurance", "severed our mechanical ties", "bought a new hatchback", "settled our debts"], "answer": 1 },
+      { "options": ["traveling in luxury", "moving heavy furniture", "wandering without constraints", "paying by the minute"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Regarding their current lifestyle, Marcus implies that they are currently ______.",
+      "options": ["Financially insolvent", "Locationally stagnant", "Legally unencumbered", "Functionally tethered"],
+      "answer": 3
+    },
+    {
+      "prompt": "Elena's academic status is leveraged in this proposal primarily to ______.",
+      "options": ["Validate her expertise", "Mitigate operational costs", "Ensure eligibility for the invite", "Expedite the apartment transition"],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus's vision for their \"anniversary dinner\" suggests he prioritizes ______.",
+      "options": ["Aesthetic performance", "Environmental impact", "Total anonymity", "Domestic stability"],
+      "answer": 0
+    }
+  ]
+}

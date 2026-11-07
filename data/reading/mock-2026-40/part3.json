@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "The rapid pace of technological innovation has significantly shortened the lifespan of electronic devices, leading to a massive accumulation of \"e-waste.\" Each year, millions of tons of discarded smartphones, laptops, and household appliances contribute to this expanding global problem. While these items contain valuable resources like gold, silver, and copper, they also house a dangerous \"cocktail\" of toxic chemicals. If these devices are simply tossed into landfills, hazardous substances such as lead, mercury, and cadmium can leach into the ecosystem. This creates a dual challenge: the loss of precious raw materials and the risk of severe environmental contamination.",
+    "Currently, only a small percentage of global e-waste is processed through formal, regulated recycling channels. A significant portion of the remaining waste is exported to informal recycling hubs across Africa and Asia, where safety regulations are virtually non-existent. In these areas, workers—including many children—rely on primitive methods like open-air burning to melt away plastic and extract valuable metals. This dangerous process releases highly toxic fumes directly into the atmosphere and poisons the local soil and water supplies. Consequently, the surrounding communities face devastating, long-term health consequences from constant exposure to these pollutants.",
+    "The intricate design of modern electronics presents a significant hurdle for even the most advanced recycling facilities. Manufacturers often use strong adhesives and proprietary alloys that make components nearly impossible to separate or sort efficiently. Despite these difficulties, the concept of \"urban mining\" is gaining traction as a more sustainable alternative to traditional mining. It is often more energy-efficient to recover high-quality metals from old circuit boards than it is to extract raw ore from the Earth. However, this recovery process must be managed safely to ensure that the energy savings are not offset by environmental damage.",
+    "To combat the e-waste crisis, many nations are implementing \"Extended Producer Responsibility\" (EPR) laws. These regulations shift the burden of waste management onto the manufacturers, requiring them to fund recycling programs or take back products at the end of their life. The ultimate objective is to foster a \"circular electronics\" industry where sustainability is integrated into the design phase. By focusing on modularity and easy disassembly, future products can be fully recovered and reused rather than discarded. This transition would drastically reduce our reliance on destructive raw material extraction and create a more sustainable tech ecosystem."
+  ],
+  "statements": [
+    { "text": "Primitive extraction ruins regional biology and human wellness.", "answer": "B" },
+    { "text": "Sophisticated builds obstruct the segregation of vital elements.", "answer": "C" },
+    { "text": "Wealthy components coexist with lethal, subsurface-seeping poisons.", "answer": "A" },
+    { "text": "Future engineering aims for simplified teardown and reuse.", "answer": "D" },
+    { "text": "Global data security threats arise from discarded hardware.", "answer": "E" },
+    { "text": "Unregulated labor exposes minors to airborne chemical hazards.", "answer": "B" },
+    { "text": "Refined scrap yields better efficiency than raw digging.", "answer": "C" },
+    { "text": "Legal frameworks now mandate corporate accountability for disposal.", "answer": "D" },
+    { "text": "Brief gadget utility cycles fuel a planetary crisis.", "answer": "A" }
+  ]
+}

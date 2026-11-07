@@ -16,7 +16,8 @@ const blankText = (count: number) =>
 
 const timeLimitSec = z.int().positive()
 
-export const metaSchema = z.object({ title: z.string() })
+/** `source`: link to where the test came from, e.g. the YouTube video it was transcribed from. */
+export const metaSchema = z.object({ title: z.string(), source: z.url().optional() })
 
 export const part1Schema = z.object({
   timeLimitSec,

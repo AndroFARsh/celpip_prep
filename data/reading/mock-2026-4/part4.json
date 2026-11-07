@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Ten years ago, most people bought clothes, shoes, and gifts in stores. Today, many people shop on their phones or computers. In a recent survey of 1,200 shoppers, about 45% said they buy something online at least once a week. About 30% said they mostly shop in stores. The rest said they use both. Many small stores have closed in recent years, but others are doing well, and some now have their own websites. The survey also found that younger shoppers order online more often, while older shoppers still visit stores more.\n\nPeople who like online shopping say it saves time. They can order from home at night, and they do not have to drive, park, or stand in a long line. Prices are often lower, and it is easy to compare the same item in several shops. Some people also like reading reviews from other buyers before they decide. For people who live in small towns, online shopping gives them access to products that their local stores do not sell. Many sites also send an email when an item goes on sale, so shoppers can wait for a better price. Parents with young children say that ordering at home is much easier than taking the kids to the mall.\n\nPeople who prefer stores have other reasons. They say it is better to see and touch an item before buying it, especially clothes and shoes. A shirt that looks good in a photo may not fit well or may feel rough. Returning an item can also be a problem, because some websites charge for shipping and take weeks to give a refund. Some shoppers also enjoy talking to the staff, who can give advice. Others say a trip to the mall is a nice way to spend an afternoon with friends. Many people also like to take an item home right away, instead of waiting several days for a package to arrive.\n\nMany shoppers now use both. They look at a product online, then go to the store to try it on. Others see something in a store and order it online for a lower price. Some stores have started a “click and collect” service, where customers order online and pick up the item the same day, with no shipping fee. Other stores let customers return online orders at the front desk, which saves time and money. Most shoppers say they will keep using both methods, depending on what they are buying and how much time they have.",
+  "questions": [
+    {
+      "prompt": "Parents prefer ordering at home because ______.",
+      "options": ["sale emails arrive faster", "children love picking items", "they can compare sellers", "outings with little ones tire them"],
+      "answer": 3
+    },
+    {
+      "prompt": "Sale emails help people who ______.",
+      "options": ["need things today", "read other buyers' opinions", "can hold off buying", "live in small towns"],
+      "answer": 2
+    },
+    {
+      "prompt": "Buying clothes unseen is risky because ______.",
+      "options": ["assistants never give guidance", "pictures can't show the feel", "delivery can cost extra", "friends prefer an afternoon out"],
+      "answer": 1
+    },
+    {
+      "prompt": "Small stores that add websites show owners ______.",
+      "options": ["are adjusting to new habits", "have all given up", "ignore the internet", "sell only gifts"],
+      "answer": 0
+    },
+    {
+      "prompt": "Overall, shoppers seem ______.",
+      "options": ["mostly fond of malls", "open to mixing methods", "loyal to one method", "mostly under thirty"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "Shopping online has saved me a lot of time, but it {{1}} always been easy. Last month, I ordered a pair of shoes, and they were too small. I {{2}} for shipping to send them back, and I waited three weeks for my money. Now I always go to a store for shoes, check the size, and then order online if {{3}}. My sister does the same thing, and she says {{4}} about $20 on every pair. I think this is the best way to shop, and the article should say more about it. I hope other readers {{5}} and share their ideas too.",
+    "blanks": [
+      { "options": ["had not", "has not", "has hardly", "was not"], "answer": 1 },
+      { "options": ["did not pay", "got paid", "never paid", "had to pay"], "answer": 3 },
+      { "options": ["the price is lower", "the price is higher", "the price is the same", "shipping is free"], "answer": 0 },
+      { "options": ["it costs her", "it saves her", "she spends", "it cost her"], "answer": 1 },
+      { "options": ["will avoid it", "will not try it", "will try it", "will ignore it"], "answer": 2 }
+    ]
+  }
+}

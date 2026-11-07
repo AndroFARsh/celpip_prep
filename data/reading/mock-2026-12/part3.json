@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Even though almost everyone listens to music on their smartphones today, vinyl records have made a massive comeback in 2026. What started a few years ago as a small trend among older music collectors has now turned into a huge movement across Canada. Today, both small neighborhood record shops and major department stores are struggling to keep enough physical records on their shelves. In fact, vinyl albums are now selling much better than CDs or digital song downloads. Many buyers explain that they are simply tired of staring at phone screens all day and dealing with endless notifications. For them, taking a physical record out of its paper sleeve and carefully putting the needle down creates a hands-on experience that a smartphone app just cannot offer.",
+    "For many music fans in 2026, buying vinyl is all about paying full attention to what they are listening to. When you stream music on a phone, it is easy to skip songs every thirty seconds or let an automatic playlist run quietly in the background while you do chores. With a record, however, people usually sit down and listen to the entire album from the first track to the last. Fans also love the large album covers because they can look at the artwork and read the printed lyric sheets while listening. Many younger buyers also say they prefer the rich, warm sound of an analog record. They feel that the minor pops and crackles make the music sound more natural and human compared to modern computer-generated tracks.",
+    "This sudden growth in vinyl sales is also helping local record stores survive and grow. Rather than just being places to buy items, these small shops have become neighborhood gathering spots where people can meet up, talk about their favorite bands, and discover new local musicians. However, the vinyl industry is running into some major business challenges. There are only a limited number of old pressing factories still operating around the world, and most of their machinery was built decades ago. Because making records takes a lot of time and special equipment, factories cannot print albums fast enough to satisfy customer demand. Music companies are now trying to find ways to increase production without losing the high sound quality that collectors pay for.",
+    "Despite the high demand and excitement, the vinyl industry is starting to cause serious worries for eco-conscious shoppers. Traditional records are manufactured using a specific type of heavy plastic called PVC, which is very difficult to recycle and requires a large amount of energy to produce. On top of that, shipping heavy boxes of records to stores all over the country consumes a lot of fuel and creates unwanted pollution. To address this issue, several record companies in 2026 have begun testing \"green\" alternatives made from recycled plastics and plant-based materials. The main goal for the music business over the next few years will be finding cleaner, more sustainable ways to make records so that this fun hobby does not harm the environment."
+  ],
+  "statements": [
+    { "text": "Playing entire albums allows consumers to form deeper musical connections.", "answer": "B" },
+    { "text": "Many neighborhood stores now host live music shows every week.", "answer": "E" },
+    { "text": "Limited manufacturing capacity creates delays in meeting rising market demand.", "answer": "C" },
+    { "text": "Shipping items in bulk saves businesses lots of fuel overall.", "answer": "E" },
+    { "text": "Certain materials used in product creation raise major ecological issues.", "answer": "D" },
+    { "text": "Sound imperfections make recordings sound more realistic to some listeners.", "answer": "B" },
+    { "text": "Green options are being tested to lower manufacturing environmental damage.", "answer": "D" },
+    { "text": "Digital streaming apps have officially shut down across the country.", "answer": "E" },
+    { "text": "Shoppers want physical products because digital tools feel tiring nowadays.", "answer": "A" }
+  ]
+}

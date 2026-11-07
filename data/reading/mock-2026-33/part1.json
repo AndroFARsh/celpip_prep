@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Research Oversight Committee,\n\nI am writing to report observations from last week's external equipment demonstration and to raise concerns regarding professional conduct during the event.\n\nThe demonstration involved high-precision instruments and visiting researchers from partner institutions. Because the equipment was unfamiliar to many attendees, the demonstration required careful explanation and adherence to safety protocols.\n\nUnfortunately, one presenter treated the session casually, skipping standard calibration steps and making lighthearted remarks about safety precautions. At one point, a visiting researcher asked a technical question that was dismissed with a joke rather than a proper explanation. This behavior created uncertainty and reduced confidence in the demonstration.\n\nIn contrast, other team members attempted to redirect the session by emphasizing correct procedures and clarifying risks. However, the unprofessional tone had already affected the atmosphere. Several visitors later expressed concern about whether the equipment was being handled according to established standards.\n\nProfessional demonstrations require accuracy, seriousness, and respect for both the equipment and the audience. Informality may seem engaging, but it can undermine credibility and safety when used inappropriately.\n\nI refrained from interrupting the demonstration publicly, as doing so would have been disruptive. Instead, I documented specific instances and shared them privately after the event.\n\nI recommend reinforcing expectations for external demonstrations and providing presenters with clear behavioral guidelines. Maintaining professional standards is essential when representing the organization to external partners.\n\nSincerely,\nOliver Grant",
+  "questions": [
+    {
+      "prompt": "Oliver writes mainly to ______.",
+      "options": ["justify cancelling future sessions", "highlight conduct concerns", "praise visiting institutions"],
+      "answer": 1
+    },
+    {
+      "prompt": "The demonstration required caution because ______.",
+      "options": ["audience lacked familiarity", "visitors ignored instructions", "tools were already calibrated", "risks were clearly exaggerated"],
+      "answer": 0
+    },
+    {
+      "prompt": "One presenter's behaviour mainly resulted in ______.",
+      "options": ["diminished visitor trust", "improved audience engagement", "relaxed safety environment", "faster session completion"],
+      "answer": 0
+    },
+    {
+      "prompt": "Other team members attempted to ______.",
+      "options": ["publicly challenge presenter", "simplify technical explanations", "restore procedural seriousness", "shorten the demonstration"],
+      "answer": 2
+    },
+    {
+      "prompt": "Oliver avoided speaking during the event because ______.",
+      "options": ["authority was insufficient", "visitors discouraged questions", "issue seemed insignificant", "interruption felt inappropriate"],
+      "answer": 3
+    },
+    {
+      "prompt": "Oliver believes professionalism is necessary to ______.",
+      "options": ["maintain informal rapport", "safeguard organizational credibility", "impress internal staff", "reduce preparation effort"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Oliver,\n\nIt goes without saying that I appreciate you {{1}} during the recent equipment showcase. Now with my {{2}}, I am particularly troubled by how the presenter bypassed protocols, but even if it's not a major violation, I think we should address it anyway. After all, we have to protect our reputation! You just email me the specific details you recorded. Also, there's no need to {{3}}. I can take care of that, you should keep your focus on your primary research duties. Well, I can't say I've seen such a lack of decorum since I joined this committee years ago. Did you record any notes on {{4}}? I'm sorry you {{5}}. If you did, I'd love to see them. I don't even know if our current guidelines are still sufficient. If they are, they would be quite outdated.\n\nAnyway, email me as soon as you have a chance to send those files over.\n\nThe Oversight Board",
+    "blanks": [
+      { "options": ["attending the visiting session", "bringing these issues to light", "ignoring the safety protocols", "assisting the guest researchers"], "answer": 1 },
+      { "options": ["limited time to review reports", "strict adherence to the joke", "reliance on external partners", "focus on institutional integrity"], "answer": 3 },
+      { "options": ["draft the formal reprimand yourself", "worry about the visitors' opinions", "re-calibrate the machines alone", "interrupt the next presentation"], "answer": 0 },
+      { "options": ["the specific technical dismissals", "the names of the visitors", "the high-precision tools used", "the calibration logs of the staff"], "answer": 0 },
+      { "options": ["left the meeting early", "witnessed such poor etiquette", "failed to stop the presenter", "lost the original safety data"], "answer": 1 }
+    ]
+  }
+}

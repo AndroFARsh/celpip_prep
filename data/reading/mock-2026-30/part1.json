@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Customer Service Team,\n\nI am writing to express my extreme disappointment with a recent purchase I made through your online store on February 10. I ordered a \"Pro-Series Ergonomic Office Chair\" (Model DX-200) for my home office, which arrived yesterday afternoon via your partner courier service.\n\nUpon opening the box, I immediately noticed that the packaging was severely dented and torn in several places. Unfortunately, the damage was not limited to the exterior. The right armrest of the chair is cracked, and the hydraulic lift mechanism appears to be jammed, making it impossible to adjust the height of the seat. Given that this was a premium purchase costing over $450, I expected the item to arrive in pristine condition and be fully functional.\n\nI attempted to resolve this issue by calling your helpline yesterday at 4:30 PM. After waiting on hold for thirty minutes, I spoke with an agent named \"Kevin\" who informed me that because I had signed for the delivery, the company was no longer liable for any damages. This is unacceptable. The courier did not allow me to inspect the contents of the large box before signing, and the internal mechanical failure could not have been detected without assembly.\n\nI have attached several photographs of the damaged box and the cracked armrest for your records. I would like to request a full replacement of the chair at no additional cost to me, including the waiver of any return shipping fees for the damaged unit. Alternatively, if a replacement is not available, I expect a full refund to my original payment method.\n\nI have been a loyal customer of your brand for three years, but this experience has left me questioning your commitment to quality. I look forward to a prompt resolution of this matter within the next three business days.\n\nRegards,\nJonathan Vance",
+  "questions": [
+    {
+      "prompt": "The delivery process was characterized by ______.",
+      "options": ["Comprehensive procedural transparency", "Restricted recipient oversight", "Mutual liability agreement", "Negligent internal handling"],
+      "answer": 1
+    },
+    {
+      "prompt": "Kevin's primary argument hinges on ______.",
+      "options": ["Explicit contractual expiration", "Assumed product acceptance", "Verified mechanical integrity", "Courier service immunity"],
+      "answer": 1
+    },
+    {
+      "prompt": "The DX-200's primary failure is ______.",
+      "options": ["Purely aesthetic deterioration", "Obvious transit-induced trauma", "Ergonomic design flaws", "Hidden operational dysfunction"],
+      "answer": 3
+    },
+    {
+      "prompt": "Jonathan's stance on the return cost is ______.",
+      "options": ["Partial expense sharing", "Total financial indemnity", "Standard shipping compliance", "Refund-only cost waiver"],
+      "answer": 1
+    },
+    {
+      "prompt": "The initial customer support interaction was ______.",
+      "options": ["Efficient but unhelpful", "Discontinued and abrasive", "Protracted and dismissive"],
+      "answer": 2
+    },
+    {
+      "prompt": "Regarding the damage, the customer feels ______.",
+      "options": ["Solely courier responsible", "Partially at fault", "Unjustly held accountable", "Misled by packaging"],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Jonathan,\n\nThank you for reaching out. Please accept our apologies for the damaged \"Pro-Series Ergonomic Office Chair\" and the frustrating {{1}} our helpline. This does not reflect our commitment to quality.\n\n{{2}} your photographs, I have overridden the previous assessment. Since the hydraulic failure and cracked armrest {{3}}, your signature upon delivery {{4}} our liability.\n\nWe have processed a free replacement, which will ship within 48 hours. Additionally, we are waiving {{5}} shipping fees for the defective unit. You will receive a confirmation email with the new tracking number shortly.\n\nBest regards,",
+    "blanks": [
+      { "options": ["interaction regarding", "situation during", "experience with", "encounter at"], "answer": 2 },
+      { "options": ["Subsequent to", "After reviewing", "Upon evaluating", "Following through"], "answer": 1 },
+      { "options": ["were internal", "seemed inherent", "stayed inside", "appeared fundamental"], "answer": 0 },
+      { "options": ["will not release", "does not waive", "cannot cancel", "fails to void"], "answer": 1 },
+      { "options": ["every back-and-forth", "the entire outward", "any reciprocal", "all return"], "answer": 3 }
+    ]
+  }
+}

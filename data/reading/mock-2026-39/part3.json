@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Historically, the star-filled firmament was a constant companion to the human experience, serving as a clock, map, and source of wonder. Today, however, more than 80% of the global population resides under \"skyglow,\" a persistent haze of artificial light that masks the stars. This phenomenon is driven by the rapid expansion of urban sprawl, unshielded streetlights, and luminous billboards that reflect light into the atmosphere. While artificial illumination once signaled safety and industrial progress, its poorly managed growth has effectively severed our visual connection to the universe.",
+    "The natural cycle of light and dark is vital for maintaining the circadian rhythms of nearly all living organisms. Migratory birds are particularly vulnerable, as they rely on celestial cues for navigation and often become dangerously disoriented by the brilliant glare of urban centers. Similarly, sea turtle hatchlings instinctively crawl toward the brightest horizon to find the ocean, but are frequently lured inland by artificial lights where they perish. These disruptions create a ripple effect, destabilizing ecosystems and threatening the survival of species that have evolved over millennia to thrive in darkness.",
+    "Modern LED lighting often emits high levels of \"blue light,\" which significantly suppresses melatonin production and interferes with restorative sleep. Chronic exposure to this artificial brightness has been linked by researchers to serious health complications, including metabolic disorders and an increased risk of certain cancers. Beyond the physiological toll, the disappearance of the night sky represents a profound loss of cultural heritage for future generations. Without the Milky Way as a backdrop to human life, we lose a primary source of scientific inspiration and our ancestral link to the cosmos.",
+    "The \"Dark Sky\" movement promotes practical and cost-effective strategies to mitigate light pollution without compromising public safety. One primary solution involves \"shielding\" fixtures to ensure light is directed strictly toward the ground rather than scattering upward into the atmosphere. Additionally, switching to warmer color temperatures and utilizing motion sensors ensures that light is only present when and where it is actually needed. By adopting these smarter lighting practices, cities can drastically reduce energy consumption while restoring the natural beauty of the night for all inhabitants."
+  ],
+  "statements": [
+    { "text": "Strategic redirection of illumination preserves atmospheric clarity.", "answer": "D" },
+    { "text": "A massive majority now experiences a veiled heavens.", "answer": "A" },
+    { "text": "Urban expansion has obscured our ancient celestial perspective.", "answer": "A" },
+    { "text": "False horizons lead coastal neonates toward fatal environments.", "answer": "B" },
+    { "text": "Inappropriate spectral output hinders essential hormonal regulation.", "answer": "C" },
+    { "text": "Sensor-based activation minimizes unnecessary electrical expenditure.", "answer": "D" },
+    { "text": "Global satellite constellations impact astronomical data collection.", "answer": "E" },
+    { "text": "Avian travelers lose their way due to luminosity.", "answer": "B" },
+    { "text": "Long-term glare exposure correlates with severe systemic illnesses.", "answer": "C" }
+  ]
+}

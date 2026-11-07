@@ -1,0 +1,84 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Julian,\n\nI've been looking into our 2026 mountain getaway, and I think I've found the perfect home base for us. Since you're always the first one out the door to explore, you'll love that we can store our gear safely right on-site before heading out. I'm torn between two very different vibes: one is an {{1}} that feels like stepping back into the 1800s, complete with mineral-rich pools to soak in after a long day. The other option is more {{2}} where we can literally watch the pulse of the town from a steaming tub on the roof. If we decide to go during the {{3}}, we'll have to move fast to make sure our window frames that specific \"regal\" view everyone raves about. I know you're a bit of a caffeine snob, so I found a spot that claims to serve the {{4}} in the entire region, which might be the best way to kick off our mornings. Also, since we want to keep things {{5}}, it's great to know we won't need to worry about driving ourselves around once we arrive at most of these places. Let me know which one speaks to you!\n\nWarmly,\nBeatrice",
+    "blanks": [
+      {
+        "options": [
+          "urban loft",
+          "aristocratic fortress",
+          "industrial warehouse",
+          "coastal villa"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "secluded and remote",
+          "centrally integrated",
+          "strictly rustic",
+          "underground and private"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "shoulder season",
+          "hibernation period",
+          "primary transit window",
+          "peak frost interval"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "strongest spirits",
+          "most refined brew",
+          "heartiest roast",
+          "freshest catch"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "environmentally taxing",
+          "logistically effortless",
+          "financially draining",
+          "physically demanding"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Beatrice's focus on on-site storage for Julian's gear suggests she views him as ______.",
+      "options": [
+        "a luxury-only traveler",
+        "an equipment-heavy adventurer"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The contrast between the \"castle\" and \"downtown\" options shows Beatrice is weighing ______.",
+      "options": [
+        "isolation vs. social immersion",
+        "budget vs. extreme debt",
+        "modern art vs. historical ruins",
+        "summer heat vs. winter cold"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Beatrice's urgency to book for the \"view\" during peak months implies her priority is ______.",
+      "options": [
+        "avoiding all other people",
+        "the visual atmosphere of the trip",
+        "finding the lowest possible price",
+        "staying indoors for the entire stay"
+      ],
+      "answer": 1
+    }
+  ]
+}

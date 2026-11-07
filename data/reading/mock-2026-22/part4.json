@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "For the vast majority of human history, our biological limitations were viewed as an unalterable fact of life. We accepted the boundaries of our sensory perceptions, the finite nature of our cognitive speeds, and the inevitable decline of our physical bodies. However, we are now entering the era of \"Human Augmentation,\" where biotechnologies, neural implants, and genetic editing promise to transcend these natural constraints. While proponents envision a future of \"super-human\" potential and the eradication of disease, critics warn of a dystopian divide that could permanently split humanity into two distinct biological classes.\n\nThe case for human enhancement is built on the foundation of self-determination and the pursuit of excellence. Why, advocates ask, should we settle for \"normal\" when we could be \"better\"? From a medical perspective, the line between \"therapy\" (fixing a disability) and \"enhancement\" (improving a healthy function) is already blurring. A neural chip designed to help a paralyzed patient move a robotic limb could, in theory, be used by a healthy person to communicate telepathically or interface directly with the internet. Proponents argue that such advancements would lead to an explosion in human creativity and problem-solving. If we could double our memory capacity or eliminate the need for eight hours of sleep, our ability to tackle global challenges like climate change or interstellar travel would be vastly amplified.\n\nFurthermore, there is an economic argument. In an increasingly competitive global market, the pressure to perform is immense. If a safe, \"smart pill\" or a genetic tweak could improve focus and cognitive longevity, it could be seen as a tool for personal empowerment—much like the way we currently use caffeine or corrective laser eye surgery.\n\nHowever, the \"Transhumanist\" vision faces fierce opposition from sociologists and ethicists who fear the \"Gattaca\" scenario—a world where your genetic and technological status determines your destiny. The primary concern is one of profound inequality. If these enhancements are expensive, they will only be available to the wealthy elite. This would create a \"biological divide\" where the children of the rich are not only socially and financially advantaged but are also cognitively and physically superior by design. In such a world, the concept of \"meritocracy\" would be rendered meaningless, as those born into lower-income families could never hope to compete with \"upgraded\" peers.\n\nThere is also the philosophical question of what it means to be \"human.\" Critics argue that our limitations—our vulnerabilities, our struggle with aging, and our finite lives—are exactly what give human experience its meaning and beauty. By trying to \"program\" away our flaws, we risk losing the very empathy and resilience that define our species. Furthermore, the long-term biological consequences of \"playing God\" with our DNA or merging our brains with silicon are entirely unknown. A technical glitch in a computer is a nuisance; a glitch in a neural implant could be a psychiatric catastrophe.",
+  "questions": [
+    {
+      "prompt": "Society is now shifting toward ______.",
+      "options": ["passive observation", "active modification", "collective hesitation", "cautious resistance"],
+      "answer": 1
+    },
+    {
+      "prompt": "Repairing vs optimizing boundary has become ______.",
+      "options": ["highly controversial", "entirely irrelevant", "heavily regulated", "virtually faded"],
+      "answer": 3
+    },
+    {
+      "prompt": "Direct internet-brain interfaces are presented as ______.",
+      "options": ["Inevitable byproduct of climate research", "Scaling of existing therapeutic technology", "Replacement for physical social interaction", "Method to eliminate the need for memory"],
+      "answer": 1
+    },
+    {
+      "prompt": "Boosting memory eliminating sleep maximizes our ______.",
+      "options": ["economic output", "problem-solving capacity", "creative arts", "physical survival"],
+      "answer": 1
+    },
+    {
+      "prompt": "Smart pill improving focus resembles common ______.",
+      "options": ["luxury wellness treatments", "illegal stimulants", "accepted performance boosters", "public healthcare plans"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "While I am intrigued by the potential for \"neural implants\" to amplify human creativity and {{1}} global challenges, the prospect of a \"Gattaca-style\" biological divide {{2}}. If these enhancements are only accessible to a \"wealthy elite,\" the very notion of a \"meritocracy\" will vanish, leaving those without \"upgraded\" capabilities {{3}}. Furthermore, I agree with the critics who argue that our inherent vulnerabilities are what provide life with its \"meaning and beauty.\" Rushing to \"program away\" our flaws through genetic editing {{4}} unforeseen \"psychiatric catastrophes\" and a loss of the empathy that defines our species. We {{5}} \"super-human\" excellence against the risk of creating an irreparable rift in the human experience.",
+    "blanks": [
+      { "options": ["assist in solving", "help us tackle", "aid at fighting", "support with managing"], "answer": 1 },
+      { "options": ["is deeply unsettling", "stays fairly worrying", "feels quite bothersome", "acts highly disturbing"], "answer": 0 },
+      { "options": ["forever set aside", "constantly left out", "permanently marginalized", "always pushed away"], "answer": 2 },
+      { "options": ["might result by", "could lead to", "would bring on", "may cause of"], "answer": 1 },
+      { "options": ["must weigh the pursuit of", "should balance the goal for", "need to judge the chase of", "ought to measure the quest to"], "answer": 0 }
+    ]
+  }
+}

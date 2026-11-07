@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Zoos and aquariums have changed a lot over the years. They used to be just places to show off wild animals, but now they focus more on research and protecting endangered species. Supporters say these places help save animals from dying out through breeding programs and science work. For many city dwellers, visiting a zoo is their only real link to nature. It helps kids learn to care about the environment. Fans also point out that ticket sales raise important money to protect natural habitats from poachers and climate change.\n\nOn the other side, animal rights activists argue that keeping animals locked up is always cruel. They believe that no man-made enclosure can ever match the huge spaces and natural family groups animals have in the wild. Critics point out that many captive animals show signs of stress, such as pacing in circles or living shorter lives—especially big animals like orcas and elephants. From this viewpoint, seeing a sad animal behind glass is not worth taking away its freedom and natural life.\n\nThe debate often comes down to the difference between \"sanctuaries\" and regular zoos. Sanctuaries focus on taking care of the individual animal and do not breed them or put on shows. Meanwhile, many zoos rely on cute baby animals, like panda cubs, to bring in crowds and money. Skeptics say that if zoos really cared about conservation, they would use virtual reality or focus only on helping local wildlife instead of flying exotic animals around the world. They believe true conservation happens in nature, not in cages.\n\nAs public opinions change, many zoos are being forced to adapt or shut down. Some are trying to breed animals and release them back into the wild, but this is a slow, costly process with no guarantee of work. The future of zoos depends on proving they are truly needed to save wildlife, rather than just being a form of entertainment. The big question is: can we justify locking up a few animals to save the species, or is captivity too high a price to pay just to satisfy human curiosity?",
+  "questions": [
+    {
+      "prompt": "Urban residents experience nature primarily through ______.",
+      "options": ["ticket revenue growth", "physical confinement spaces", "public institution visits", "artificial enclosure designs"],
+      "answer": 2
+    },
+    {
+      "prompt": "Captive environments cause psychological harm because they lack ______.",
+      "options": ["educational plaque information", "vast open territories", "strict conservation rules", "scientific breeding labs"],
+      "answer": 1
+    },
+    {
+      "prompt": "Traditional facilities utilize young wildlife primarily to ______.",
+      "options": ["drive financial revenue", "protect natural habitats", "stop climate change", "eliminate poacher threats"],
+      "answer": 0
+    },
+    {
+      "prompt": "Reintroduction initiatives fail to offer guaranteed results due to being ______.",
+      "options": ["entirely free enterprises", "completely effortless procedures", "slow and costly", "short and simple"],
+      "answer": 2
+    },
+    {
+      "prompt": "Opponents question whether captivity can justify satisfying ______.",
+      "options": ["environmental stewardship", "financial curiosity", "human curiosity", "scientific research"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "I took my family to our local aquarium last month, and the kids {{1}} the dolphins and penguins up close. It really {{2}} their interest in nature and conservation. However, watching those large animals swim in {{3}} space made me feel a bit uneasy. I understand both sides—we need to protect endangered species and {{4}}, but keeping intelligent creatures in artificial enclosures feels wrong. Zoos definitely need to focus more on {{5}} and animal welfare rather than just using cute baby animals to sell tickets and draw crowds.",
+    "blanks": [
+      { "options": ["were thrilled to see", "were indifferent about viewing", "were forced to ignore", "were saddened by watching"], "answer": 0 },
+      { "options": ["dampened and discouraged", "sparked", "completely confused", "temporarily distracted"], "answer": 1 },
+      { "options": ["a limitless open", "a restricted", "a dark exhibition", "an unfamiliar breeding"], "answer": 1 },
+      { "options": ["ignore global poachers", "fund ticket sales", "entertain visiting tourists", "teach the public"], "answer": 3 },
+      { "options": ["true rehabilitation", "virtual reality entertainment", "commercial captive breeding", "urban city planning"], "answer": 0 }
+    ]
+  }
+}

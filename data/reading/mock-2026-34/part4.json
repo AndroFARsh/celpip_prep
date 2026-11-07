@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The debate surrounding the National Health Council's proposal for mandatory in-person follow-ups highlights a critical tension between the convenience of modern technology and the rigorous standards of traditional clinical practice. As \"app-based\" healthcare becomes a primary pillar of the medical landscape, the transition from physical clinics to digital interfaces has raised significant concerns regarding diagnostic accuracy and prescription safety. The crux of the argument for mandatory audits lies in the inherent limitations of a camera lens; medical professionals emphasize that \"digital screens can hide subtle physical symptoms,\" such as minor tremors, skin textures, or respiratory nuances that only a hands-on examination can detect. Without the tactile data provided by a physical check-up, there is a growing fear that virtual consultations may lead to an over-reliance on patient self-reporting, potentially resulting in the over-prescription of medications to mask symptoms rather than treating underlying causes.\n\nConversely, telehealth providers and patient advocates argue that a rigid \"one-in-three\" mandate ignores the logistical realities of the 21st century. For many, the efficiency of digital health is not just a luxury but a necessity. The proposed policy threatens to dismantle the progress made in healthcare accessibility, particularly for rural populations. For a patient living in a remote area, a mandated in-person visit every third appointment could mean a grueling multi-hour commute, time off work, and significant travel expenses. This creates a \"geographical penalty\" where the quality of care is dictated by proximity to an urban center. Critics of the mandate suggest that instead of a blanket rule, the Council should focus on data-driven audits and specialized training for remote diagnostics.\n\nUltimately, the National Health Council faces the challenge of balancing patient safety with equitable access. While the \"human touch\" remains a gold standard in medicine, the digital revolution has proven indispensable for chronic disease management and mental health services. A compromise may be necessary—perhaps one that categorizes follow-up requirements based on the complexity of the condition rather than a fixed numerical quota. As the debate continues, the goal remains clear: ensuring that the evolution of telemedicine enhances patient outcomes without sacrificing the diagnostic integrity that defines the medical profession.",
+  "questions": [
+    {
+      "prompt": "\"Geographical penalty\" means patients are ______.",
+      "options": ["advantaged by distance", "penalized by location", "prioritized in rural areas", "reimbursed for travel"],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics say a fixed \"one-in-three\" rule ______.",
+      "options": ["ignores patient-specific needs", "replaces digital care", "ensures equality", "favors urban patients"],
+      "answer": 0
+    },
+    {
+      "prompt": "Follow-ups based on condition complexity aim to ______.",
+      "options": ["reduce telehealth", "balance safety and access", "prioritize urban patients", "replace audits"],
+      "answer": 1
+    },
+    {
+      "prompt": "Telehealth efficiency is threatened when ______.",
+      "options": ["patients self-report", "chronic care is digitized", "mandates ignore logistics", "urban clinics dominate"],
+      "answer": 2
+    },
+    {
+      "prompt": "\"Human touch\" indicates that ______.",
+      "options": ["chronic care is digital-only", "telehealth is unreliable", "urban patients benefit most", "tactile exams are essential"],
+      "answer": 3
+    }
+  ],
+  "comment": {
+    "text": "What stands out to me first is the {{1}} in modern healthcare. Telemedicine has become a lifeline for patients who cannot easily reach physical clinics, and any policy {{2}} this reality feels incomplete. While I respect the concerns {{3}} and over-prescription, a strict in-person mandate seems too blunt an instrument. The passage convincingly shows that digital care and traditional practice {{4}} but complement each other. I strongly support the idea of flexible, {{5}} guided by data. Patient safety and equity should advance together, not cancel each other out.",
+    "blanks": [
+      { "options": ["prioritization of procedural efficiency", "paradox of clinical authority", "expansion of institutional liability", "issue of accessibility"], "answer": 3 },
+      { "options": ["that overlooks", "that restructures", "that monetizes", "that symbolically acknowledges"], "answer": 0 },
+      { "options": ["arising from practitioner autonomy", "tied to administrative compliance", "about diagnostic accuracy", "embedded in cost containment"], "answer": 2 },
+      { "options": ["should not compete", "evolve independently", "require hierarchical separation", "function under identical constraints"], "answer": 0 },
+      { "options": ["complicating the assessment of", "delaying the perception of", "failing to deliver", "condition-based follow-ups"], "answer": 3 }
+    ]
+  }
+}

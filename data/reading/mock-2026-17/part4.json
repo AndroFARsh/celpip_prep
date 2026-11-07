@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "More professionals are choosing how they work, with many debating between the isolation of a home office and the community of a rented co-working space. A prominent firm, \"DeskHub,\" offers professional desks in shared offices, complete with high-speed internet, ergonomic chairs, and unlimited coffee.\n\n\"DeskHub helped me get my focus back,\" says designer Elena Rossi. \"When I worked from my kitchen table, I was constantly distracted by laundry or the TV. Now, I have a professional boundary. I leave the house at 8:00 AM, and I truly feel like I'm 'at work,' which has boosted my productivity significantly.\"\n\nBut career coach Marcus Thorne urges workers to consider the hidden costs. \"Check your budget,\" he says. \"A monthly membership to a co-working space can easily exceed $300. That's a significant overhead for a freelancer. You are paying for a desk and some snacks, but you're also adding the cost of daily commuting and lunches out. Over a year, that's thousands of dollars that could have been saved or reinvested into your business.\"\n\nUrban planner Sarah Jenkins has investigated the rise of these shared spaces in downtown districts. \"They are turning old, empty warehouses into 'innovation zones,'\" she observes. \"While they are great for local business, they create a 'professional elite.' Only people who can afford the membership fee get access to these collaborative environments, which can unintentionally shut out those from lower-income backgrounds. It is a new kind of social divide based on workspace access.\"\n\nThat is a claim that DeskHub founder, Leo Vance, strongly rejects. \"We aren't just selling chairs,\" Vance argues. \"We are selling a network. Our members meet future clients and partners while grabbing a coffee. The real reason people like Marcus Thorne don't see the value is that they view the office as a place of expense rather than a place of opportunity. We show you the ROI of human connection.\"",
+  "questions": [
+    {
+      "prompt": "The writer's opinion on the debate is ______.",
+      "options": ["Mostly against shared offices", "Neutral and balanced", "Strongly for working out", "Worried about home life"],
+      "answer": 1
+    },
+    {
+      "prompt": "A big downside mentioned is ______.",
+      "options": ["Expensive monthly fees", "Too many distractions", "Bad internet speed", "No private rooms"],
+      "answer": 0
+    },
+    {
+      "prompt": "Sarah Jenkins would probably agree with ______.",
+      "options": ["Elena's need for focus", "Leo's business growth", "Marcus's money concerns", "Building more fancy offices"],
+      "answer": 2
+    },
+    {
+      "prompt": "A good title for this is ______.",
+      "options": ["Must-have office gear", "Cost versus real value", "Why home working dies", "Finding the best coffee"],
+      "answer": 1
+    },
+    {
+      "prompt": "We can guess from the text that ______.",
+      "options": ["Home work is always bad", "Everyone wants an office", "Meeting people costs money", "Office snacks are essential"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "As a freelancer, I see both sides of this debate. I completely understand Elena's struggle; working at the kitchen table often feels like you're {{1}} \"off\" the clock, {{2}} between home and work vanishes. However, as Marcus Thorne rightly points out, $300 a month is a huge expense {{3}}. While I love the idea of networking and meeting new clients, I think the \"professional elite\" point {{4}}. Are we creating spaces that only the well-off can enjoy? For now, I'll stick to my home office and {{5}} for growing my business.",
+    "blanks": [
+      { "options": ["always mostly", "never truly", "often ergonomic", "rarely desired"], "answer": 1 },
+      { "options": ["or the warehouse", "and the boundary", "but the selection", "while the invoice"], "answer": 1 },
+      { "options": ["from the table", "to a high speed", "as a professional elite", "for a small business"], "answer": 3 },
+      { "options": ["feels like laundry", "is clearly unlimited", "is worth considering", "sounds like mission"], "answer": 2 },
+      { "options": ["save my money", "lose my boundary", "enjoy my commute", "pay my rent"], "answer": 0 }
+    ]
+  }
+}

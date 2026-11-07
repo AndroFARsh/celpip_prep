@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In an age when every country wants to lead in technology, many wealthy nations have rolled out fast-track “talent visas” to attract scientists, engineers, and entrepreneurs, and I, a former newcomer on one, have a personal stake in the debate. Interestingly, the same policy that fills one country's labs may be emptying another country's clinics, among other consequences.\n\nThe Institute for Global Growth claims these visas are a win for everyone, since workers earn more and host countries gain skills. But economist Priya Menon points out that poorer nations pay the heaviest price, because they funded the training of the doctors and researchers who then leave. Granted, migrants often send money home, and that income can be a lifeline for their families. Still, a monthly transfer cannot take the place of a surgeon in a rural hospital. Talent visas have their benefits, but they are a far less generous exchange than their supporters suggest. I'm partial to the view that skills should be shared, not simply collected.\n\nI think we need to tell that to hiring director Marcus Feldt, who is on public record as saying his company recruits abroad because training local graduates takes too long. Feldt has openly brushed aside critics who want firms to invest in homegrown workers. In this regard, it's understandable why so many employers prefer ready-made experts. “It's not that I don't want to mentor young people; I just need a working product by spring,” says Feldt. “Also, hiring someone who is already trained gives me a sense that I'm making a safe choice.”\n\nMemo to Marcus: Efficiency, like talent, is in the eye of the beholder. If a company hires only finished experts, local graduates will be stepped over, focused only on the next quarterly report. But a company that takes the time to teach them will find that they stay, learn, and one day train others. To me, if that's not a smart investment in the future, I don't know what is.",
+  "questions": [
+    {
+      "prompt": "What is the overall view?",
+      "options": ["Entirely beneficial", "Unfair to poorer nations", "Permanent solution", "Complete failure"],
+      "answer": 1
+    },
+    {
+      "prompt": "Why do poorer nations suffer?",
+      "options": ["Brain drain of experts", "Workers send no money", "Host countries pay debts", "Hospitals remain overstaffed"],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Feldt hire abroad?",
+      "options": ["Local graduates lack degrees", "Speed over local mentoring", "Foreign talent costs less", "Overseas engineers work longer"],
+      "answer": 1
+    },
+    {
+      "prompt": "What happens when training youth?",
+      "options": ["Demand higher wages", "Loyalty and future teaching", "Immediately move abroad", "Struggle with basic tasks"],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the recommended approach?",
+      "options": ["Cultivating domestic skills", "Banning all visas", "Reducing expert wages", "Focusing on profits"],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "I enjoyed this article, but I think the writer {{1}} companies like Marcus Feldt's. Many businesses cannot wait years for a new graduate to learn the job, {{2}} like medicine and technology. I also don't think talent visas {{3}}. My cousin left for Germany on one, and he now pays for his younger sister's university fees back home. That money helps his family more than he {{4}} by staying. I agree that firms should train local workers, but governments should also {{5}} and working conditions that push skilled people to leave in the first place.",
+    "blanks": [
+      { "options": ["knows very little about", "has never heard of", "agrees fully with", "is too hard on"], "answer": 3 },
+      { "options": ["especially in fast-moving fields", "to find cheaper labor", "during economic recessions", "without proper government funding"], "answer": 0 },
+      { "options": ["are the real problem", "solve every workforce shortage", "last for many years", "benefit local university students"], "answer": 0 },
+      { "options": ["wasted by staying", "could have done", "earned while studying", "spent on travel"], "answer": 1 },
+      { "options": ["tax foreign workers", "ignore local protests", "reduce training budgets", "fix the pay"], "answer": 3 }
+    ]
+  }
+}

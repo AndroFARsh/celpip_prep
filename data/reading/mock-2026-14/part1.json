@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Ms. Aris,\n\nI watched your recent documentary about planting trees in big cities last month, and I really loved what you said about how a healthy city needs enough shade for all of its residents. That idea really stayed with me, and it is the main reason I am reaching out to you today. On behalf of our board of directors at the Metropolitan Tree Trust, I would be honored to invite you to be our main speaker at our 15th annual \"Green Horizons\" Charity Gala on Saturday, June 20th.\n\nFor the past ten years, our team has been working hard to turn old, abandoned industrial areas into beautiful community orchards. This year, we are hoping to raise $450,000 for our new \"Schoolyard Canopy\" project. Our plan is to plant over 2,000 native maple and oak trees across twelve local elementary school campuses by the end of this fall. Because you have spent so many years caring about nature and making sure everyone gets equal access to green spaces, you are the perfect person to inspire our guests and show them how their donations can make a real, lasting difference for these kids.\n\nThe event will be held at the Glass Pavilion inside the Botanical Gardens. The night will start with welcome drinks at 6:30 PM, where you will have a chance to mingle with the guests, followed by a delicious formal dinner. Your speech is scheduled for 8:15 PM and will last about twenty minutes, right before our main live auction begins. We are expecting around 350 guests, including city leaders, local business owners, and several generous donors who have specifically mentioned that your work inspired them to support environmental causes in our community.\n\nWe know your time and knowledge are very valuable, so we are happy to offer you $5,000 for your presentation, along with fully paid travel arrangements and a stay at the Fairmont Hotel. Above all, this is a great chance to share your vision with a room full of people who are ready and excited to help build a cleaner, greener city.\n\nWe would love to chat more about your speech topic and any equipment you might need. Since there is a lot to organize, please let us know by April 15th if you are interested. I really hope we can work together to make this our best event yet!\n\nBest regards,\nJonathan Miller\nDirector, Metropolitan Tree Trust",
+  "questions": [
+    {
+      "prompt": "Ms. Aris was chosen because she ______.",
+      "options": [
+        "aligns with their equity goals",
+        "directs famous nature films",
+        "promised to donate funds",
+        "resides near the venue"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The fundraising goal aims to ______.",
+      "options": [
+        "buy the Botanical Gardens",
+        "pay for expensive travel",
+        "restore former factory zones",
+        "improve educational environments"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Her speech schedule serves to ______.",
+      "options": [
+        "entertain guests during dinner",
+        "encourage audience generosity",
+        "give city leaders time",
+        "finish the entire evening early"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Compensation and lodging show they ______.",
+      "options": [
+        "possess limitless financial reserves",
+        "need her for technical setup",
+        "usually host extravagant galas",
+        "value her professional effort"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "An early reply allows Jonathan to ______.",
+      "options": [
+        "prevent unexpected guest declines",
+        "plan the event effectively",
+        "confirm room bookings early",
+        "cancel the entire gala"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The organization uses trees to ______.",
+      "options": [
+        "generate profits for businesses",
+        "replace local city officials",
+        "improve overall urban living",
+        "eliminate all industrial activity"
+      ],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Miller,\n\nThank you so much for your inspiring letter and invitation. I am thrilled to hear about your \"Schoolyard Canopy\" project, {{1}} green spaces to local elementary schools {{2}}. I {{3}} to be the keynote speaker at your \"Green Horizons\" Charity Gala on Saturday, June 20th. The details and schedule you provided sound wonderful, and I am happy to confirm my availability {{4}} your April 15th deadline.\n\nPlease let me know when you would like to connect to discuss the speech topic and technical details. I truly look forward to supporting your {{5}}.\n\nWarm regards,\nElena Aris\nDocumentary Filmmaker & Environmental Advocate",
+    "blanks": [
+      {
+        "options": [
+          "while ignoring",
+          "because destroying",
+          "as bringing",
+          "for studying"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "is something I care deeply about",
+          "costs too much money",
+          "was shown in my film",
+          "takes place at the hotel"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "prefer to host instead",
+          "am completely unavailable",
+          "plan to bid high",
+          "would be honored"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "well ahead of",
+          "long after",
+          "without checking",
+          "right during"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "documentary premiere",
+          "hotel reservations",
+          "private business",
+          "fundraising efforts"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

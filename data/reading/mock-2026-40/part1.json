@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Customer Support Team,\n\nI am writing to formally express my disappointment regarding the service I received during my recent visit to your downtown branch on Monday afternoon. While I understand that employees can have demanding days, the behavior I encountered was unprofessional and fell well below reasonable customer service standards.\n\nI visited the branch to resolve an issue with a billing error on my account. From the moment I approached the service desk, the representative appeared distracted and uninterested. Rather than greeting me or asking how they could help, they continued typing on their computer for several minutes without acknowledging my presence. When I explained the issue, their responses were short and dismissive, giving me the impression that my concern was an inconvenience.\n\nWhat concerned me most was the lack of clear communication. The representative used technical terms without explanation and seemed irritated when I asked for clarification. At one point, they sighed audibly and stated that the issue was \"probably my own mistake,\" without reviewing the account details thoroughly. This assumption made the interaction uncomfortable and unnecessarily confrontational.\n\nAdditionally, the tone of the conversation became increasingly unprofessional. When I requested to speak with a supervisor, the representative responded defensively and delayed the request. It was only after repeating myself that a supervisor was finally called, who then resolved the issue within minutes and confirmed that the billing error originated from the company's system.\n\nWhile I appreciate that the supervisor handled the matter efficiently and courteously, the initial interaction left a lasting negative impression. Customers should feel respected, listened to, and supported—especially when dealing with financial concerns. Professionalism is not only about solving problems but also about how those problems are addressed.\n\nI believe this situation could have been avoided with proper training in customer communication and conflict management. I hope this feedback will be taken seriously and used to improve service quality. I remain a loyal customer and would like to continue doing business with your company, but only if customer interactions are handled with professionalism and care.\n\nSincerely,\nNathan Cole",
+  "questions": [
+    {
+      "prompt": "The representative's communication was ______.",
+      "options": ["precise but brief responses", "polite yet ineffective", "informal and friendly tone", "unclear and overly technical"],
+      "answer": 3
+    },
+    {
+      "prompt": "Nathan became uncomfortable because ______.",
+      "options": ["assumptions made without checking", "supervisor delayed addressing complaint", "representative asked too many questions", "he was treated politely"],
+      "answer": 0
+    },
+    {
+      "prompt": "Supervisor action was ______.",
+      "options": ["promptly resolved issue efficiently", "escalated unnecessarily without checking", "eventually acted after persistence", "initially avoided any involvement"],
+      "answer": 2
+    },
+    {
+      "prompt": "Billing error was ______.",
+      "options": ["minor mistake by representative", "caused by internal system failure", "misunderstanding on customer's side", "supervisor mismanaged account details"],
+      "answer": 1
+    },
+    {
+      "prompt": "Nathan believes proper training would ______.",
+      "options": ["enforce stricter service protocols", "reduce billing processing time", "prevent misunderstandings and frustration", "improve technical knowledge only"],
+      "answer": 2
+    },
+    {
+      "prompt": "Nathan implies professionalism involves ______.",
+      "options": ["courteous handling and respect", "technical accuracy alone", "faster issue resolution", "polite tone only"],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Cole,\n\nThank you for reaching out to us. It goes without saying that I would like to {{1}} regarding the treatment you received at our downtown branch. Now with my {{2}} I am committed to investigating this matter, but even if it was just an isolated lapse, I think we should address it immediately. After all, we have to ensure our staff maintains our values! You just let me know if you would like a follow-up call. Also, there's no need to {{3}} as I have already applied a credit to your account for the trouble. Well, I can't say I'm pleased with the representative's {{4}} since we pride ourselves on transparency. I am sorry you {{5}} before the supervisor stepped in. If you have any further details, I'd love to hear them.\n\nManagement",
+    "blanks": [
+      { "options": ["offer you a full refund", "express my sincere apologies", "defend our employee's actions", "ignore your recent feedback"], "answer": 1 },
+      { "options": ["new role as Branch Manager", "limited time to help you", "busy schedule this Monday", "unwillingness to change policy"], "answer": 0 },
+      { "options": ["worry about the billing error anymore", "visit the downtown branch again", "explain the technical terms to us", "wait for a supervisor to call"], "answer": 0 },
+      { "options": ["lack of technical knowledge", "dismissive and rude attitude", "speedy resolution of the error", "request to see your ID"], "answer": 1 },
+      { "options": ["paid the incorrect bill amount", "forgot to bring your documents", "couldn't find the service desk", "felt your concerns were ignored"], "answer": 3 }
+    ]
+  }
+}

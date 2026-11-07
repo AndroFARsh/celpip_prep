@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Dear Project Team,\n\nI am reviewing the corporate advertisement you recently published regarding your city transit solutions. As a manager running a local delivery fleet, I have been looking for ways to streamline our routing, so your concepts caught my eye. However, looking over the details, I feel that relying entirely on a {{1}} makes me highly hesitant about the real-world reliability of your system during severe weather network outages. Budgeting for next quarter is our main hurdle right now. In my opinion, your entry-level subscription {{2}}. Because our drivers handle fragile local cargo, my immediate priority from your menu would be {{3}}. Unfortunately, accessing your absolute highest fixed-rate service tier {{4}}, which simply does not align with our current financial constraints. The deadline to secure your introductory consultation is approaching fast. While the chance to receive {{5}} sounds interesting on paper, I am still skeptical about the hidden setup fees. I will discuss this with our board before reaching out further.\n\nRegards,\nElena Rostova",
+    "blanks": [
+      { "options": ["national federal transit agency", "completely manual logistics system", "highly automated digital infrastructure", "neighborhood bicycle sharing program"], "answer": 2 },
+      { "options": ["demands weekly cash payments", "provides very basic utilities", "offers full AI optimization", "covers unlimited vehicle fleets"], "answer": 1 },
+      { "options": ["automated warehouse supply management", "unregulated micro-mobility share networks", "global satellite drone monitoring", "unlimited customized tech support"], "answer": 0 },
+      { "options": ["requires a custom negotiation", "comes entirely free initially", "is far too expensive", "excludes advanced drone features"], "answer": 2 },
+      { "options": ["free early project assessment", "permanent contractual fee waivers", "unconditional cash-back guarantees", "immediate corporate partnership status"], "answer": 0 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "What is Elena's main purpose?",
+      "options": ["Purchasing the premium tier", "Expressing her cautious perspective", "Reporting an internet outage", "Applying for a government grant"],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Elena view the $9,000 tier?",
+      "options": ["Perfect for small startups", "Financially out of reach", "Lacking any useful features", "Cheaper than alternative options"],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Elena's immediate deadline?",
+      "options": ["Her next board election", "The winter weather arrival", "An upcoming promotional cutoff", "A fleet vehicle inspection"],
+      "answer": 2
+    }
+  ]
+}

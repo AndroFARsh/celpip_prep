@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Across small towns and big cities in Canada, winter evenings often bring neighbors together inside local curling rinks for friendly competition and social fun. Curling, a sport where players slide heavy granite stones across a sheet of ice toward a target circle, has a long history deeply rooted in Canadian community life. Originally brought over by Scottish settlers centuries ago, the game quickly grew popular because it could be played indoors during freezing winter months. Today, local curling clubs serve as major winter gathering spots, welcoming people of all ages and athletic skill levels to join weekly leagues and weekend fun matches.",
+    "One of the unique traditions that makes curling different from many other sports is its strong focus on sportsmanship and social connection. Before and after every game, opposing teams routinely meet in the club's lounge—often called the \"warm room\"—to share snacks, coffee, or cold drinks. By long-standing tradition, the winning team always buys the first round of drinks for their opponents. This relaxed custom helps break down social barriers, allowing local business owners, students, and retirees to chat, laugh, and build close friendships outside of their regular daily routines.",
+    "Managing a community curling club requires a lot of hard work and dedicated support from local volunteers. Unlike commercial sports facilities run by paid corporate staff, most neighborhood clubs rely heavily on members to keep the lights on and the ice in top shape. Volunteers help run youth training programs, organize charity tournaments, and manage the kitchen concessions during league nights. This strong spirit of community involvement ensures that membership fees stay affordable for local families, keeping the historic sport accessible to anyone who wants to learn how to slide a stone and sweep the ice.",
+    "Despite its deep cultural roots, modern curling clubs face a few notable challenges in keeping their facilities active. The most pressing issue is the high cost of maintaining specialized refrigeration equipment needed to keep the ice sheets frozen solid throughout changing winter weather. Additionally, as younger generations find themselves busier with digital entertainment and other commitments, clubs have had to introduce casual \"social leagues\" with flexible schedules to attract new members. Even with these modern changes, the core tradition of welcoming neighbors together on a cold winter night remains as strong as ever across the country."
+  ],
+  "statements": [
+    {
+      "text": "Expensive cooling systems create serious financial hurdles for facility operators.",
+      "answer": "D"
+    },
+    {
+      "text": "Unwinding in the lounge over drinks helps break down everyday social barriers.",
+      "answer": "B"
+    },
+    {
+      "text": "Professional players earn full-time salaries through corporate sponsorships and ticket sales.",
+      "answer": "E"
+    },
+    {
+      "text": "Dedicated community helpers keep operations running smoothly so families can afford membership.",
+      "answer": "C"
+    },
+    {
+      "text": "Regional sports councils mandate professional certification for all volunteer instructors.",
+      "answer": "E"
+    },
+    {
+      "text": "Indoor winter rinks serve as essential social hubs that bring local residents together.",
+      "answer": "A"
+    },
+    {
+      "text": "Clubs must adapt their schedules and formats to appeal to busier, screen-focused generations.",
+      "answer": "D"
+    },
+    {
+      "text": "Friendly post-game customs encourage rivals to form lasting personal friendships.",
+      "answer": "B"
+    },
+    {
+      "text": "Early settlers established the indoor sliding sport to cope with harsh winters.",
+      "answer": "A"
+    }
+  ]
+}

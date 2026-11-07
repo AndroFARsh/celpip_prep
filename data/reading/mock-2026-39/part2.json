@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Clara,\n\nI've been thinking about how we can finally close the loop on our kitchen waste while bringing a bit of the countryside into our morning routine. I found a group that handles the heavy lifting of {{1}} by swapping our scraps for soil health, which feels like a much more soulful way to live. They actually pull things from the earth and get them to us before the {{2}} has even faded, ensuring everything is still pulsing with life.\n\nSince it's just the two of us, their {{3}} would be the perfect fit so we don't end up with more than we can cook. I love that they even include a little \"mystery guest\" in the box to keep our Sunday dinners adventurous. Also, if we commit to the {{4}}, we won't have to worry about any extra logistics costs. I'm thinking of jumping on this now because they're offering a {{5}} that would let us start our own little windowsill sanctuary for free. Let me know if you're down to try it!\n\nWarmly,\nJulian",
+    "blanks": [
+      { "options": ["landfill reduction", "ecological circularity", "garden maintenance", "trash collection"], "answer": 1 },
+      { "options": ["morning dew", "sunlight", "harvest moon", "nutritional peak"], "answer": 3 },
+      { "options": ["modest allocation", "family bundle", "bulk pantry", "solo arrangement"], "answer": 0 },
+      { "options": ["monthly trial", "full-year pledge", "neighbor referral", "reusable packaging"], "answer": 1 },
+      { "options": ["botanical incentive", "floral discount", "green thumb bonus", "culinary discount"], "answer": 0 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Julian suggests the smaller crate size because he and Clara likely prioritize ______.",
+      "options": ["extreme financial frugality", "minimizing domestic food waste", "eating only one meal a day", "avoiding complex cooking"],
+      "answer": 1
+    },
+    {
+      "prompt": "By mentioning the \"mystery guest,\" Julian assumes Clara is someone who ______.",
+      "options": ["dislikes following strict grocery lists", "enjoys predictable, routine meals", "finds joy in culinary unpredictability", "prefers to eat out at restaurants"],
+      "answer": 2
+    },
+    {
+      "prompt": "Julian's interest in the composting service suggests the couple's relationship is built on ______.",
+      "options": ["a desire to live off the grid", "shared environmental accountability", "a need to save money on trash tags", "a hobby of professional farming"],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "A tool library works like a book library, but you borrow tools instead of books. Many cities now have one. Instead of buying a drill or a ladder that you will use only a few times a year, you pay a small fee of about $40 a year and borrow what you need. Most libraries have thousands of items, such as saws, garden tools, and paint sprayers. Some also lend sewing machines and camping gear. Members can usually keep a tool for one week. If they need it longer, they can ask to renew it, as long as no one else is waiting for it.",
+    "Tool libraries are also good for the environment. Making a new tool uses metal, plastic, and a lot of energy. When one drill is shared by a whole neighborhood, fewer drills are made and fewer end up in the garbage. Volunteers also fix broken tools instead of throwing them out. This helps the tools last for many years, and it keeps them in good working order for the next person. Some libraries even have a repair day once a month. On that day, anyone can bring in a broken toaster or lamp and learn how to fix it.",
+    "These libraries help people save money and meet their neighbors. A family that cannot afford to buy a tile saw can borrow one for a few dollars. Many libraries also offer free classes. In these classes, retired workers teach young people how to fix a chair or paint a wall. Many members say they have made new friends this way, and some now volunteer at the library themselves. For new homeowners, the library is also a good place to ask for advice before starting a big project.",
+    "Running a tool library is not always easy. Most of them are run by volunteers, and they still need money to pay the rent and buy insurance. They must also keep track of every tool and make sure it comes back in good shape. Some libraries ask members to pay a late fee if a tool is returned after the due date. Some busy people still prefer to buy their own tools because it is more convenient. Even so, tool libraries keep growing, and new ones open in many towns every year."
+  ],
+  "statements": [
+    { "text": "Many people using a single machine means less trash.", "answer": "B" },
+    { "text": "Rarely used equipment need not crowd your own cupboards.", "answer": "A" },
+    { "text": "Skills pass from older generations to newer ones.", "answer": "C" },
+    { "text": "Someone renovating a house can get tips first.", "answer": "C" },
+    { "text": "Bringing things back after the deadline brings a charge.", "answer": "D" },
+    { "text": "Keeping something longer depends on whether others want it.", "answer": "A" },
+    { "text": "Some people choose ease over saving money.", "answer": "D" },
+    { "text": "Broken small items get a second life regularly.", "answer": "B" },
+    { "text": "Customers can order items online for pickup.", "answer": "E" }
+  ]
+}

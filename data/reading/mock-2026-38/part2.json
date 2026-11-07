@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI was thinking about how much we both need a change of pace, and I found something happening in the city that feels like it was designed for us. Since you've been complaining about being stuck indoors, this {{1}} provides the perfect excuse to spend an entire night under the open sky while the skyline glows around us.\n\nI know how much you value sustainability, so you'll be happy to hear the entire production runs on {{2}}, which is pretty rare for something this high-energy. They've also set up a space where the art literally glows as you walk through it—I can already see you spending an hour there with your camera. If we manage to {{3}} before the month is out, we can keep some extra cash in our pockets for the {{4}} they're hosting, which apparently features dozens of different cuisines.\n\nSince I still have my {{5}}, I might be able to snag a better deal on my entry, though I'm honestly tempted by the tier that lets us skip the crowds and maybe even rub elbows with the headliners. It starts just as the sun begins to dip, so we can watch the colors change before the heavy bass kicks in. What do you think?\n\nBest,\nElena",
+    "blanks": [
+      {
+        "options": [
+          "subterranean gala",
+          "alfresco gathering",
+          "digital symposium",
+          "high-rise balcony"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "fossil fuels",
+          "kinetic movement",
+          "renewable rays",
+          "thermal vents"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "finalize our commitment",
+          "arrive at the gates",
+          "volunteer for the crew",
+          "renew our memberships"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "acoustic session",
+          "botanical garden",
+          "clothing swap",
+          "culinary caravan"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "employee voucher",
+          "academic credentials",
+          "military discharge",
+          "seniority status"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Based on her suggestion to skip the crowd for headliner access and her focus on saving money early, Elena's approach to the evening reveals her as ______.",
+      "options": [
+        "A spontaneous risk-taker",
+        "A meticulous and strategic planner",
+        "A disinterested tag-along",
+        "An anti-social hermit"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Elena mentions the light installation specifically because she perceives Marcus's personality to be ______.",
+      "options": [
+        "strictly logical and data-driven",
+        "observant and visually creative",
+        "physically active and restless",
+        "musically untrained and tone-deaf"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The way Elena frames the event as a \"change of pace\" for Marcus suggests that their current shared reality is ______.",
+      "options": [
+        "chaotic and overstimulating",
+        "stagnant or overly routine",
+        "adventurous and nomadic",
+        "professionally competitive"
+      ],
+      "answer": 1
+    }
+  ]
+}

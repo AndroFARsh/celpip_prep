@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Team,\n\nThank you for your patience as we continue implementing the recent security upgrades throughout the North Tower facility. As many of you know, the Building Management Committee introduced a new biometric access system last Monday. The purpose of this change is to improve the protection of company assets and simplify after-hours entry. Unfortunately, several issues have arisen during the initial stages of the transition.\n\nOver the past two days, we have received numerous reports concerning problems with employee access cards. In particular, some older keycards have been generating \"Access Denied\" messages at the perimeter gates between 6:00 PM and 8:00 PM. This has caused difficulties for members of the research department, and several senior analysts were temporarily unable to enter the laboratory while conducting time-sensitive experiments. In addition, the biometric scanners installed near the main elevators have been operating more slowly than expected. As a result, long lines formed during the morning rush, and nearly thirty employees experienced delays of approximately twenty minutes on Tuesday.\n\nTo address these concerns, we have arranged for SecureTech Solutions to conduct a mandatory recalibration session this Thursday in the Grand Ballroom. Employees are required to bring both their employee identification card and their mobile device so that the new encrypted application can be synchronized properly. The morning session will take place from 9:00 AM to 11:00 AM. For those who are unable to attend at that time, an additional session will be offered from 2:00 PM to 4:00 PM.\n\nPlease note that all employees must complete the biometric registration process by Friday afternoon. Failure to do so will result in the suspension of building access privileges. Beginning next Monday, affected employees will need to obtain a temporary visitor pass and be accompanied by an escort in order to access their work areas.\n\nWe understand that these technical issues have created inconvenience, particularly during preparations for the third-quarter financial reports. To thank employees for their cooperation, complimentary lunch from The Green Deli will be provided in the break room for all staff members attending Thursday's sessions. We appreciate your understanding as we work toward creating a more secure and efficient workplace.\n\nRegards,\nAmara Vance\nDirector of Operations | North Tower Facility",
+  "questions": [
+    {
+      "prompt": "Why did Amara write this email?",
+      "options": ["To explain a delay in the financial reports", "To handle glitches with the new setup", "To penalize staff for breaking safety rules", "To introduce a brand-new catering vendor"],
+      "answer": 1
+    },
+    {
+      "prompt": "Who faced entry trouble while doing urgent work?",
+      "options": ["The building supervisors", "The science team", "The restaurant employees", "The software engineers"],
+      "answer": 1
+    },
+    {
+      "prompt": "Why were people late on Tuesday morning?",
+      "options": ["The exterior turnstiles were locked shut.", "The lift devices were out of service.", "The screening hardware was sluggish.", "The cafeteria queue moved too slowly."],
+      "answer": 2
+    },
+    {
+      "prompt": "What do workers need to take with them on Thursday?",
+      "options": ["A signed authorization form", "Their handset and company badge", "A printout of the quarterly budget", "Their previous plastic gate passes"],
+      "answer": 1
+    },
+    {
+      "prompt": "What happens if someone misses the Friday deadline?",
+      "options": ["They must pay a penalty fee.", "Their independent entry is blocked.", "They will face permanent dismissal.", "Their remote work option is canceled."],
+      "answer": 1
+    },
+    {
+      "prompt": "How would you describe the tone of Amara Vance's message?",
+      "options": ["Regretful but firm", "Casual and indifferent", "Panicked and alarmed", "Harsh and demanding"],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Amara,\n\nThank you for the update regarding the facility security issues.\n\nOur team is relieved to know that operations is {{1}}. A few of our analysts are still worried about accessing the laboratory tonight, so I will make sure they {{2}} before the day ends.\n\nRegarding the mandatory sessions this Thursday, I have a quick question. Most of my department will be attending the morning slot. Since we plan to eat together afterward, does the catering company need {{3}}, or can we just show up at the break room? Additionally, two of our team members are currently working remotely this week to finalize the quarterly financial balances. Because their tasks are completely {{4}} physical laboratory work, does the Friday deadline still {{5}}?\n\nBest regards,\nMarcus Brody\nSenior Research Lead",
+    "blanks": [
+      { "options": ["changing the report schedule", "upgrading the whole facility", "fixing the current tech errors", "expanding the ballroom area"], "answer": 2 },
+      { "options": ["finish up early", "order the free food", "download the application", "read the final reports"], "answer": 0 },
+      { "options": ["an advance headcount", "signed permission forms", "copies of our IDs", "extra ballroom tables"], "answer": 0 },
+      { "options": ["dependent on", "separate from", "slowed down by", "causing problems for"], "answer": 1 },
+      { "options": ["apply to them", "get canceled", "offer a discount", "seem fair"], "answer": 0 }
+    ]
+  }
+}

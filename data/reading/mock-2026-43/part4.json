@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In a rapidly digitizing world, undersea internet cables have become the new arteries of global communication. Stretching thousands of kilometers across the Pacific Ocean, these fiber-optic cables transmit 95% of international data, carrying everything from emails to financial transactions and video calls. Recently, geopolitical tensions have turned these vital links into points of strategic competition between the United States and China, a rivalry experts are calling “The Great Pacific Internet Cable War.”\n\nChina's Belt and Road Initiative has extended into the digital realm, with companies like Huawei Marine and China Unicom investing heavily in laying new cables connecting Asia with the Americas. Meanwhile, the United States, fearing potential espionage or cyber disruptions, has accelerated plans for privately funded trans-Pacific cables operated in cooperation with Japan, Australia, and smaller Pacific nations. Analysts suggest that whichever country controls the cable routes could influence global internet traffic, monitor cross-border communications, or even throttle connectivity in critical situations.\n\nPacific island nations, including Kiribati, Fiji, and the Solomon Islands, have become pivotal players in this competition. “We never imagined our remote shores would be at the center of a digital tug-of-war,” said Fijian telecommunications minister Litia Koro. These nations face pressure to grant landing rights and exclusive contracts, often weighing immediate financial incentives against long-term sovereignty concerns. Some activists warn that monopolistic control of cables by foreign powers could create digital dependency, leaving nations vulnerable to cyber manipulation or service interruptions.\n\nDespite the political tension, there is also an economic incentive for all parties. Faster and more reliable trans-Pacific connections promise to boost e-commerce, cloud services, and international finance. Tech companies, including Google and Meta, have quietly lobbied for cable projects that bypass high-risk regions to protect their global networks. “The infrastructure is invisible, but it is more critical than any airport or seaport,” said digital security expert Matthew Larkin.\n\nThe “cable war” also raises concerns over environmental impacts. Laying fiber-optic cables disrupts marine ecosystems and delicate coral reefs. Conservationists argue that, unlike visible military conflicts, the environmental consequences of digital expansion remain largely overlooked.\n\nAs the U.S. and China race to secure their dominance over Pacific data flows, the world is beginning to recognize that these quiet, unassuming cables may define the next era of international power. In a digital age, control over information pathways might matter as much—if not more—than control over land, sea, or air.",
+  "questions": [
+    {
+      "prompt": "The main focus of competition mirrors a struggle over ______.",
+      "options": [
+        "data encryption codes",
+        "maritime defense lines",
+        "invisible highways of exchange",
+        "orbital satellite relays"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Washington's renewed enthusiasm for private routes primarily conveys ______.",
+      "options": [
+        "fear of digital infiltration",
+        "confidence in joint sovereignty",
+        "pursuit of trading advantage",
+        "interest in tourism connection"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The tiny archipelagos' predicament reflects ______.",
+      "options": [
+        "retreat from foreign debt",
+        "decline of fisheries economy",
+        "progress in local governance",
+        "leverage of marginal regions"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Financial offers from superpowers place smaller states in a quandary between ______.",
+      "options": [
+        "economic debt and global prestige",
+        "instant revenue and lasting control",
+        "immigration policy and defense ties",
+        "maritime trade and foreign policy"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The dual issues of dependency and ecology together warn that ______.",
+      "options": [
+        "unseen control brings hidden cost",
+        "regulation ensures permanent freedom",
+        "trade expansion prevents imbalance",
+        "technology neutralizes all threats"
+      ],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "It's astonishing how something as {{1}} as underwater cable routes has become the battlefield of global influence. The way major powers are competing over who manages these fiber lines shows {{2}} is transforming from physical land control to command of digital movement. The plight of Pacific nations {{3}} is especially compelling—they're offered economic opportunity yet risk becoming dependent on invisible masters. What's easily overlooked, however, is how this {{4}} disturbs marine habitats beneath the debate. The article subtly reminds us that data supremacy now {{5}} both politics and the planet's stability.",
+    "blanks": [
+      {
+        "options": [
+          "silent and visible",
+          "loud and ignored",
+          "quiet and unseen",
+          "strong and evident"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "geography",
+          "influence",
+          "how dominance",
+          "national policy"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "facing the challenge",
+          "caught in this contest",
+          "observing from afar",
+          "negotiating independence"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "political rivalry",
+          "digital evolution",
+          "technological race",
+          "ecological battle"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "replaces",
+          "threatens",
+          "divides",
+          "shapes"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

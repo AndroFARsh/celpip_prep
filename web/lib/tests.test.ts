@@ -3,13 +3,13 @@ import { tmpdir } from "node:os"
 import path from "node:path"
 import { describe, expect, it } from "vitest"
 
-import { DATA_DIR, listTests, loadTest } from "./tests"
+import { DATA_DIR, listTests, loadTest, REPO_DATA_DIR } from "./tests"
 
-const testIds = (await listTests()).map((t) => t.id)
+const repoTestIds = (await listTests(REPO_DATA_DIR)).map((t) => t.id)
 
 describe("data/reading", () => {
-  it.each(testIds)("%s is a valid test", async (id) => {
-    await expect(loadTest(id)).resolves.toMatchObject({ id })
+  it.each(repoTestIds)("%s is a valid test", async (id) => {
+    await expect(loadTest(id, REPO_DATA_DIR)).resolves.toMatchObject({ id })
   })
 })
 

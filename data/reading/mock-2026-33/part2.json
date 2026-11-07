@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Sebastian,\n\nI know you've been feeling like our morning routine has become a bit mechanical, so I've found a way for us to finally {{1}} together. I found a studio where we can go beyond being mere consumers and actually learn the {{2}} that goes into every cup we drink. It isn't just about the taste; it's a full-day commitment where we can earn a {{3}} that officially recognizes our new skills.\n\nSince we are both looking to upgrade the kitchen, I'm particularly excited about the {{4}} we'd receive just for participating, which would make that professional-grade setup we wanted much more attainable. If we aim for the {{5}}, we can avoid the mid-summer rush and start our journey before the year gets too hectic. I think this is exactly the \"soulful\" transformation our home needs.\n\nWarmly,\nIsabella",
+    "blanks": [
+      { "options": ["automate our breakfast", "elevate our daily ritual", "simplify our schedule", "outsource our chores"], "answer": 1 },
+      { "options": ["chemical additives", "technical artistry", "marketing strategy", "logistics of shipping"], "answer": 1 },
+      { "options": ["temporary badge", "verbal commendation", "formal credential", "participation sticker"], "answer": 2 },
+      { "options": ["free lifetime supply", "acquisition incentive", "decorative souvenir", "travel reimbursement"], "answer": 1 },
+      { "options": ["solstice session", "hibernation intake", "equinox arrival", "dormant period"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Isabella's desire for a \"soulful\" shift suggests their personal connection is ______.",
+      "options": ["thriving on chaos", "feeling uninspired and stagnant", "entirely non-verbal", "avoiding nature"],
+      "answer": 1
+    },
+    {
+      "prompt": "Isabella's push for the \"certificate\" shows she wants their bond to include ______.",
+      "options": ["superficial status", "shared tangible growth", "avoiding real effort", "keeping secrets"],
+      "answer": 1
+    },
+    {
+      "prompt": "Planning around the \"equipment discount\" reveals their relationship is ______.",
+      "options": ["financially unstable", "built on shared future goals", "uninterested in their space", "impulsively spending"],
+      "answer": 1
+    }
+  ]
+}

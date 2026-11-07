@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Elena,\n\nI've been thinking about our big step forward and found a way to navigate the chaos without losing our minds. I know you've been worried about the logistics, but there is a professional available who can handle the heavy lifting, from the initial {{1}} to the final moments of the ceremony. What's particularly interesting is that if we decide to move quickly after our first meeting, we can actually {{2}} our overall investment. They even offer a way to {{3}} by avoiding the traditional weekend rush or the warmer months, which seems like a much smarter use of our resources. If we find ourselves overwhelmed by the sheer number of moving parts, we can {{4}} to get a more significant reduction in the total cost. I honestly think having someone to manage the {{5}} on the actual day would allow us to just focus on each other. Let me know if you want to look at the details together.\n\nLove,\nMarcus",
+    "blanks": [
+      { "options": ["venue scouting", "contract signing", "high-level strategy", "guest invitations"], "answer": 0 },
+      { "options": ["minimize", "stretch", "justify", "protect"], "answer": 1 },
+      { "options": ["bypass the crowd", "lower the ceiling", "optimize the timing", "enhance the value"], "answer": 2 },
+      { "options": ["split the duties", "bundle the requirements", "shorten the timeline", "limit the attendance"], "answer": 1 },
+      { "options": ["emotional outbursts", "unforeseen hurdles", "artistic direction", "financial disputes"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Marcus writes to propose ______.",
+      "options": ["wedding planning options", "venue consultation cancellations", "high expense complaints", "ceremony date reschedules"],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus and Elena are ______.",
+      "options": ["competing wedding coordinators", "business event partners", "a planning couple", "distant holiday relatives"],
+      "answer": 2
+    },
+    {
+      "prompt": "Marcus next suggests reviewing ______.",
+      "options": ["solo contracts", "details together", "independent bookings", "planner dismissals"],
+      "answer": 1
+    }
+  ]
+}

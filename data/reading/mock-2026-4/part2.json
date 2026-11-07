@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Elena,\n\nI was looking at some options for our upcoming calendar of events and found a group of creators who seem to specialize in making sure the spotlight stays exactly where it belongs. What caught my eye wasn't just the initial sparkle, but the fact that they offer a way to keep those memories from fading or tarnishing long after the celebrations have ended. It's rare to find a team that commits to the {{1}} of your investment for a lifetime.\n\nI know you've been looking for something for your brother's big day, and their {{2}} might be the right fit since they emphasize comfort without sacrificing that classic aesthetic. Interestingly, for those who want to be the architects of their own style, they offer a {{3}} where you can steer the vision from scratch without paying for the initial brainstorming sessions.\n\nEven for the smaller gatherings on our list, their {{4}} offer a way to add layers of color through detailed hand-work that feels much more expensive than it actually is. They even have a specific line of {{5}} that could work for my suit if I want to move away from the standard tie look. Let me know if you want to look at the portfolio together.\n\nBest,\nMarcus",
+    "blanks": [
+      { "options": ["structural integrity", "aesthetic preservation", "market appreciation", "initial acquisition"], "answer": 0 },
+      { "options": ["understated accents", "secondary attendee tier", "primary ceremonial suite", "heavy vintage relics"], "answer": 1 },
+      { "options": ["collaborative partnership", "pre-designed template", "rigid manufacturing protocol", "premium subscription model"], "answer": 0 },
+      { "options": ["monolithic gold bars", "stackable vibrant units", "singular metal bands", "colorless diamond arrays"], "answer": 1 },
+      { "options": ["traditional footwear", "textile enhancements", "masculine focal ornaments", "silk neckwear alternatives"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Marcus likes the company because it ______.",
+      "options": ["new uses rare Kundan stones", "offers a launch discount", "charges for later repairs", "keeps jewellery looking new"],
+      "answer": 3
+    },
+    {
+      "prompt": "Marcus recommends the earrings because they are ______.",
+      "options": ["elegant yet easy to wear", "the cheapest option listed", "heavy and very bold", "designed only for brides"],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus considers the men's pieces to ______.",
+      "options": ["add more event sparkle", "keep his regular look", "replace his usual tie", "stay under his budget"],
+      "answer": 2
+    }
+  ]
+}

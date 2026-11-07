@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Mark,\n\nI hope you’re having a good week. I am writing to formally request a slight adjustment to my work schedule for next week due to an unexpected family emergency.\n\nYesterday morning, my father suffered a sudden medical complication and had to undergo emergency heart surgery. While the procedure went well, his recovery process requires constant supervision and assistance over the next week or two. Since I am his primary point of contact, I need to travel out of province to help him move into a specialized rehabilitation facility and handle his temporary care.\n\nBecause of this, I won’t be able to work my scheduled evening shifts from Tuesday, April 8th through Friday, April 11th. I realize this comes on short notice, so to ensure the store runs smoothly, I have already spoken with Sarah from the morning team. She has kindly agreed to swap her shifts with mine for those four days. This means all supervisor responsibilities during the evening hours will be fully covered, and no extra overtime costs will be incurred by the store.\n\nTo support this request, I have attached a note signed by the attending surgeon at the hospital confirming my father’s medical situation and my role in his care. I’ve also sent a quick notice to the HR department so they can update my attendance records if needed.\n\nPlease let me know if this arrangement works for you or if I need to complete any formal shift-swap paperwork before I leave. Thank you very much for your understanding and support during this difficult time.\n\nBest regards,\nJonathan Miller\nEmployee ID: 11456",
+  "questions": [
+    {
+      "prompt": "Jonathan contacts Mark to ______.",
+      "options": [
+        "request extra shift pay",
+        "resign from store leadership",
+        "fix an HR system error",
+        "rearrange his upcoming shifts"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Jonathan must travel because ______.",
+      "options": [
+        "his family needs caregiving",
+        "he requires urgent surgery",
+        "work training was scheduled",
+        "his plane was delayed"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Jonathan contacted Sarah to ______.",
+      "options": [
+        "ask about her health",
+        "swap his permanent job",
+        "secure his shift replacement",
+        "cut overall store hours"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Jonathan attached documentation to ______.",
+      "options": [
+        "support his time-off request",
+        "rewrite his work agreement",
+        "criticize the surgical team",
+        "verify his travel itinerary"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The shift plan will ______.",
+      "options": [
+        "reduce daily operating hours",
+        "raise evening pay rates",
+        "halt morning store operations",
+        "prevent extra labor costs"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Jonathan requests Mark to ______.",
+      "options": [
+        "reprimand his morning team",
+        "confirm the proposed plan",
+        "reimburse his flight costs",
+        "phone his dad’s surgeon"
+      ],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Hi Jonathan,\n\nThank you for reaching out and keeping me informed. First, I am so sorry to hear about your father’s medical emergency, but I am relieved to hear that his surgery went well. Please {{1}} my best wishes to him for a full and speedy recovery.\n\nI {{2}} for schedule adjustment for next week. Thank you for being {{3}} and arranging the shift coverage with Sarah. Having the evening supervisor duties taken care of {{4}} is very helpful.\n\nI have received the doctor’s note, and HR has noted your absence. You do not need to fill out any extra paperwork {{5}}. Please focus on taking care of your family. Safe travels, and let me know if you need anything else.\n\nBest regards,\nMark Davies\nStore Manager",
+    "blanks": [
+      {
+        "options": [
+          "look over",
+          "take back",
+          "pass along",
+          "keep away"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "fully approve your request",
+          "must deny your application",
+          "need more time to think",
+          "strongly reject your plan"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "careless",
+          "proactive",
+          "hesitate",
+          "demanding"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "after the store closes",
+          "by working double shifts",
+          "with higher overtime pay",
+          "without incurring extra costs"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "while working your shift",
+          "after you return home",
+          "before you head out",
+          "until next year starts"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

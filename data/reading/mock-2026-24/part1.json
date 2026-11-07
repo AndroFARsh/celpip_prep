@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Uncle Raymond,\n\nI hope you're doing well. I'm writing to you on behalf of the \"cousins' committee\" regarding the upcoming 40th-anniversary celebration for Grandma and Grandpa this July. We've been reviewing the itinerary you sent over last night, and while we all appreciate the incredible amount of effort you've put into scouting locations, there are a few logistical hurdles we need to address before we put down any non-refundable deposits.\n\nThe primary concern is the choice of the Lakeside Heights Resort. While the view of the Okanagan is undoubtedly spectacular, the \"rustic charm\" mentioned in the brochure seems to translate to a lack of elevators and several steep gravel paths between the dining hall and the sleeping quarters. As you know, Grandpa's mobility has decreased significantly since his hip surgery last autumn. Having him navigate those inclines in the summer heat might be more of an ordeal than a celebration for him. We've looked into a secondary option—The Grand Kelowna Urban Suites—which offers full accessibility and a shuttle service to the waterfront. It lacks the \"secluded forest\" vibe, but it ensures everyone can participate without physical strain.\n\nFurthermore, regarding the \"Black Tie\" gala dinner you suggested for Saturday night: after polling the younger cousins, many are traveling from overseas and are trying to pack light to avoid excess baggage fees on budget airlines. Carrying formal suits and gowns across the Atlantic is proving to be a point of contention. Perhaps we could pivot to a \"Lakeside Elegant\" theme? It would maintain the prestige of the event while allowing for more practical attire.\n\nLastly, about the catering budget. We noticed the quote from \"Fine Vines Catering\" doesn't include a breakdown for dietary restrictions. Both Sarah's youngest and Cousin Leo have developed severe nut allergies recently. We need to ensure the kitchen is a certified nut-free environment, rather than just offering a \"nut-free option,\" as cross-contamination is a deal-breaker for them.\n\nCould we jump on a quick call this Sunday at 2:00 PM to discuss these pivots? We want this to be as seamless as possible for the guest of honor, and we're happy to take over the communication with the new venue if you're feeling overwhelmed by the coordination.\n\nWarmly,\nCassie",
+  "questions": [
+    {
+      "prompt": "The hesitation regarding the \"Black Tie\" event stems from ______.",
+      "options": ["A dislike for formal traditions", "Transcontinental transit constraints", "Extreme local weather forecasts", "High rental costs for gowns"],
+      "answer": 1
+    },
+    {
+      "prompt": "The proposed \"Lakeside Elegant\" theme is a(n) ______.",
+      "options": ["Casual backyard dress code", "Logistical compromise", "Expensive wardrobe upgrade", "Requirement by the new venue"],
+      "answer": 1
+    },
+    {
+      "prompt": "The critique of \"Fine Vines Catering\" is based on their ______.",
+      "options": ["Excessive per-plate costs", "Lack of nutritional labeling", "Vague safety protocols", "Poor service reputation"],
+      "answer": 2
+    },
+    {
+      "prompt": "Cassie's tone toward Uncle Raymond can be described as ______.",
+      "options": ["Openly confrontational", "Collaboratively corrective", "Completely indifferent", "Submissively obedient"],
+      "answer": 1
+    },
+    {
+      "prompt": "The committee offers to assume responsibility for ______.",
+      "options": ["Paying the venue deposits", "Grandparents' medical care", "Scouting secondary locations", "Future administrative liaison"],
+      "answer": 3
+    },
+    {
+      "prompt": "The requested Sunday meeting is intended to ______.",
+      "options": ["Reconcile planning discrepancies", "Cancel the entire celebration", "Finalize the non-refundable fees", "Vote on a new committee head"],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Hi Cassie,\n\nThank you for the detailed feedback. The \"cousins' committee\" has raised some incredibly valid points that I hadn't fully considered {{1}} in the scenery of Lakeside Heights. Grandpa's comfort is our absolute priority, and you're right—steep gravel paths are a recipe {{2}} post-hip surgery. I am completely open to switching to The Grand Kelowna Urban Suites {{3}}. Regarding the dress code, \"Lakeside Elegant\" sounds like a perfect compromise that saves everyone the headache of international garment bags while staying classy. I also appreciate the heads-up on the severe allergies; we {{4}} cross-contamination. I am free this Sunday at 2:00 PM to talk through these {{5}}. Let's make this a celebration everyone can actually enjoy!\n\nBest,\nUncle Raymond",
+    "blanks": [
+      { "options": ["when stuck inside", "while caught up", "during being busy", "though involved in"], "answer": 1 },
+      { "options": ["for disaster", "to trouble", "for accidents", "toward failure"], "answer": 0 },
+      { "options": ["for making it easier", "to ensure full accessibility", "so we have entry", "in order to get in"], "answer": 1 },
+      { "options": ["surely won't allow", "certainly cannot risk", "truly must avoid", "definitely shouldn't chance"], "answer": 1 },
+      { "options": ["changes", "switches", "turns", "pivots"], "answer": 3 }
+    ]
+  }
+}

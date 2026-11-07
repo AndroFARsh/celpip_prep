@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Most schools today allow students to carry smartphones, and many teenagers spend several hours a day on social media platforms. Governments and school boards have started debating whether social media use should be restricted for young people during school hours — or even banned altogether for those under a certain age. The debate has grown louder as more studies link heavy social media use to anxiety, poor sleep, and declining attention spans in adolescents.\n\nPaul Mercer is the spokesperson for the Digital Literacy Council, a group backed by major technology companies. \"Banning social media for teenagers is an overreaction,\" he says. \"Young people are going to enter a world where digital communication is everywhere. Schools should be teaching them how to use these tools responsibly, not shutting them out entirely. Blocking access does not build skills — it just delays an inevitable conversation.\"\n\nMercer also warns that heavy-handed restrictions create other problems. \"When you ban something outright, you drive it underground. Teenagers will simply find ways around the rules, and without proper guidance, they will be even less equipped to handle what they find online. Regulation without education is a recipe for disaster.\"\n\nDr. Fatima Syed, a child psychologist with the Youth Wellbeing Institute, strongly disagrees. \"The evidence is clear — excessive social media use is damaging young people's mental health. We are not talking about occasional use; we are talking about compulsive scrolling that interrupts sleep, fuels social comparison, and displaces real-world relationships. Restricting access during school hours is the bare minimum. Many countries have already moved to ban social media for those under sixteen, and the results have been encouraging.\"\n\nDr. Syed also dismisses the argument that bans reduce digital literacy. \"Learning to drive safely does not mean letting a twelve-year-old loose on a motorway. Children need boundaries. Responsible digital habits are built through structure and guidance — not through unlimited, unsupervised access at an age when the brain is still developing.\"",
+  "questions": [
+    {
+      "prompt": "The title that best captures the article's main point is \"Social Media in Schools: Should Teenagers ______?\"",
+      "options": ["Learn to Code Instead", "Be Cut Off or Guided", "Follow International Rules", "Hand In Their Phones"],
+      "answer": 1
+    },
+    {
+      "prompt": "Opposing views on social media restrictions are presented in paragraphs ______.",
+      "options": ["one and two", "two and three", "two and four", "three and five"],
+      "answer": 2
+    },
+    {
+      "prompt": "Mercer's main point in paragraph three is that bans ______.",
+      "options": ["improve student focus in class", "are supported by most parents", "make teens less safe online", "reduce screen time effectively"],
+      "answer": 2
+    },
+    {
+      "prompt": "Dr. Syed's attitude toward unrestricted social media use for teenagers is ______.",
+      "options": ["cautiously accepting", "firmly against it", "largely indifferent", "mildly supportive"],
+      "answer": 1
+    },
+    {
+      "prompt": "If the Youth Wellbeing Institute's recommendations are adopted, the likely result will be a reduction in ______.",
+      "options": ["smartphone sales to teens", "school dropout rates", "teen mental health problems", "time spent on homework"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "I understand what the article is saying — that the question of social media in schools is ultimately one of {{1}}. That part I agree with. But I do not think the article goes far enough in questioning the motives of those on either side of the argument. Mercer is right that you cannot simply ban your way out of a problem. But I find it hard to take seriously a group that is {{2}} by the very companies that make their money from keeping teenagers online as long as possible. Dr. Syed's comparison to driving is {{3}} — we would never hand a child the keys and hope for the best. Like her, I think that age-appropriate boundaries are not just helpful but necessary. What I would really welcome are laws that make {{4}} a shared responsibility between schools, parents, and governments — not just a matter for teachers to sort out on their own. One {{5}} at a time, we need to build a culture where young people actually want to put their phones down.",
+    "blanks": [
+      { "options": ["individual freedom versus state control", "competing priorities and shared responsibility", "classroom rules and parental discipline", "rising costs and limited school resources"], "answer": 1 },
+      { "options": ["openly criticized", "financially supported", "recently founded", "widely respected"], "answer": 1 },
+      { "options": ["easy to challenge", "slightly exaggerated", "quite convincing", "difficult to follow"], "answer": 2 },
+      { "options": ["homework and exam preparation", "online safety and screen time management", "teacher training and curriculum design", "student wellbeing and career guidance"], "answer": 1 },
+      { "options": ["lesson", "policy", "conversation", "protest"], "answer": 2 }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Simon,\n\nI finally found the ultimate way for us to {{1}} later this year. Since you're always looking for a way to master your surroundings, I thought you'd be thrilled to finally learn how to {{2}} using only what nature provides and a simple tool. It's a bit of a commitment, requiring nearly a full day of focus, but I know how much you enjoy a technical challenge.\n\nI'm particularly eyeing a session during the {{3}} so we can avoid the most blistering heat. The best part is that we won't have to worry about hauling heavy tanks or suits with us, as they provide {{4}} on-site. Once we finish, we'll even have a {{5}} to prove to everyone that we've officially conquered our fears and gained a new global status. What do you think about making a splash with this?\n\nWarmly,\nPenelope",
+    "blanks": [
+      { "options": ["ascend the peaks", "penetrate the abyss", "traverse the plains", "inhabit the canopy"], "answer": 1 },
+      { "options": ["track wild game", "find your path", "build a shelter", "predict the weather"], "answer": 1 },
+      { "options": ["mid-summer peak", "dormant season", "vernal window", "autumnal equinox"], "answer": 2 },
+      { "options": ["basic attire", "survival rations", "specialized apparatus", "transport vessels"], "answer": 2 },
+      { "options": ["digital photograph", "ceremonial trophy", "universal passport", "international credential"], "answer": 3 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Penelope's emphasis on the \"technical challenge\" and \"full day of focus\" suggests she views Simon as ______.",
+      "options": ["easily distracted", "intellectually rigorous", "physically fragile", "purely leisure-oriented"],
+      "answer": 1
+    },
+    {
+      "prompt": "By selecting a session that avoids the \"blistering heat,\" Penelope reveals she is ______.",
+      "options": ["indifferent to the environment", "a practical and comfort-oriented planner", "trying to save money on off-peak rates", "afraid of being in the sun"],
+      "answer": 1
+    },
+    {
+      "prompt": "Penelope's focus on gaining \"global status\" to \"prove\" their success indicates their relationship ______.",
+      "options": ["values shared tangible achievements", "is based on secret competition", "dislikes formal recognition", "is strictly for social media fame"],
+      "answer": 0
+    }
+  ]
+}

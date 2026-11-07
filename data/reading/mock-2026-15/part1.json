@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Sarah,\n\nI was absolutely thrilled to catch your recent feature in the Vancouver Business Journal regarding the massive expansion of your logistics firm. Seeing your name associated with such a milestone brought back wonderful memories of our time together working at the port authority back in 2021. While our careers have taken us in different directions since then—you climbing the corporate ladder in supply chain management and me settling into consulting and community work here in Victoria—I have always kept tabs on your professional journey with great admiration. It is incredible, though certainly not surprising, to see how your strategic vision has helped your company navigate the recent supply chain hurdles that have tripped up so many other regional businesses.\n\nReading about your new leadership role prompted me to reach out, not just to congratulate you, but to reconnect properly. Life on Vancouver Island has been treating my family wonderfully, though my schedule has become surprisingly hectic lately. Between managing my independent logistics consulting practice and volunteering with our local municipal transit advisory board, my calendar is constantly packed. In fact, I am currently preparing a keynote presentation for an upcoming municipal planning conference next month, which means my travel flexibility is quite limited until mid-September. Despite these busy weeks, staying connected with old colleagues who truly understand the complexities of our industry remains a priority for me.\n\nI wanted to touch base because I know how isolating leadership transitions can be at your level, especially when managing rapid organizational growth. I would love to offer any informal sounding board support I can provide from an external perspective. Whether you need a neutral sounding board to talk through team structuring, vendor negotiations, or just want to grab a coffee to vent about the headaches of modern freight management, I am completely available for virtual chats anytime during the week, or over the phone during my evening walks.\n\nLet me know if you might have some downtime next week for a quick catch-up call. We could easily chat over Zoom on Tuesday or Thursday afternoon. I would love to hear firsthand how your team is managing the new regional warehouses and catch up on personal news as well. Hope everything is running smoothly on your end, and congratulations once again on your well-deserved promotion!\n\nWarmly,\nLiam Henderson",
+  "questions": [
+    {
+      "prompt": "Where did they previously work?",
+      "options": ["Port authority office", "Logistics consulting firm", "Regional transit board", "Maritime shipping hub"],
+      "answer": 0
+    },
+    {
+      "prompt": "What is Liam's current profession?",
+      "options": ["Corporate supply chain manager", "Independent industry consultant", "Municipal planning director", "Transport advisory executive"],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is Liam's schedule constrained?",
+      "options": ["Managing company warehouse expansions", "Preparing a conference keynote", "Traveling for municipal meetings", "Directing local transit boards"],
+      "answer": 1
+    },
+    {
+      "prompt": "What does Liam offer Sarah?",
+      "options": ["Formal business partnership", "External advisory support", "Financial investment guidance", "Strategic marketing advice"],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the primary purpose?",
+      "options": ["Requesting a professional favor", "Reconnecting after career milestones", "Offering consulting services formally", "Organizing a local conference"],
+      "answer": 1
+    },
+    {
+      "prompt": "What does Liam propose for their upcoming catch-up?",
+      "options": ["Meeting in person", "Zoom next week", "Dinner discussion", "Phone walks only"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Liam,\n\nIt is so wonderful to hear from you! Your email completely brightened my week, bringing back fond memories of our days at the port authority. Thank you so much {{1}} regarding the recent expansion. Navigating this company restructuring has been a whirlwind, and your kind words {{2}} during such a busy season. Managing our new regional warehouses brings operational headaches, so I truly appreciate your offer of an external sounding board. We definitely {{3}} to tackle some ongoing vendor issues. I understand you are tied up preparing for your conference. However, I would love to take you up on your offer {{4}}. How does next Tuesday afternoon work? Hearing about your life in Victoria makes me miss the coast. Let me know if that time slot fits your schedule, or if another day {{5}} better for your calendar.\n\nBest regards,\nSarah MacIntyre",
+    "blanks": [
+      { "options": ["for your congratulations", "for your inquiry", "for your complaint", "for your warning"], "answer": 0 },
+      { "options": ["created more stress", "arrived at a helpful time", "went completely unnoticed", "caused significant delays"], "answer": 1 },
+      { "options": ["refuse assistance", "avoided suppliers", "finished working", "need help"], "answer": 3 },
+      { "options": ["to meet virtually", "to chat soon", "to cancel our plans", "to review documents"], "answer": 0 },
+      { "options": ["works", "fails", "ends", "looks"], "answer": 0 }
+    ]
+  }
+}

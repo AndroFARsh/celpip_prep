@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Leo,\n\nI've been thinking about our goal to stay active together, and I found a local sanctuary that feels like a perfect fit. Since you're still finishing up your degree, your status actually grants you a {{1}} than the standard rate. If we decide to commit during the first half of June, they're offering a significant {{2}} to those who haven't joined their community before.\n\nIt's not just a gym; they have specialized zones for toddlers, which would be great for when your nephew visits. They even provide {{3}}, so we don't have to worry about extra laundry after using the steam rooms. Interestingly, while the doors are open every day, our neighbor Mr. Henderson would have to finish his workout earlier than us because his specific rate is tied to {{4}}. If we bring friends along, we actually get two complimentary entries for them. It seems like a great way to {{5}} while accessing everything from nutrition experts to Olympic-standard facilities.\n\nLet me know what you think!\n\nBest,\nMaya",
+    "blanks": [
+      { "options": ["$15 monthly increase", "$15 monthly reduction", "$130 monthly discount", "$20 monthly surcharge"], "answer": 1 },
+      { "options": ["half-price membership", "$20 flat discount", "one-fifth price reduction", "two-month free trial"], "answer": 2 },
+      { "options": ["complimentary swimwear", "free detergent", "on-site dry cleaning", "free linens for drying"], "answer": 3 },
+      { "options": ["weekend-only access", "off-peak availability", "sunset-only hours", "afternoon-only restrictions"], "answer": 1 },
+      { "options": ["bypass the 9 PM closing time", "lower the $180 total for a duo", "gain $45 worth of free guest entries", "avoid the June 1st deadline"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Leo's current situation implies that he ______.",
+      "options": ["qualifies for a $15 discount due to his age", "is currently pursuing an academic qualification", "has previously been a member of this \"sanctuary\"", "must enroll by the first of June to avoid a surcharge"],
+      "answer": 1
+    },
+    {
+      "prompt": "Mr. Henderson's gym access is most likely ______.",
+      "options": ["restricted during the midday hours", "more comprehensive than Maya and Leo's", "limited to the early morning period", "constrained by a \"peak-time\" usage policy"],
+      "answer": 3
+    },
+    {
+      "prompt": "The \"sanctuary\" incentivizes group attendance by ______.",
+      "options": ["waiving the $45 guest entry fee", "providing a $90 value for accompanying visitors", "reducing the collective expenditure of a pair", "offering a one-fifth price reduction for friends"],
+      "answer": 2
+    }
+  ]
+}

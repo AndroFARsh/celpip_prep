@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Julianne,\n\nI've been thinking about how we usually spend our weekends stuck in the same three blocks, and I found a group that promises to help us {{1}} by showing us the city through a lens of survival and ancient masonry rather than just traffic lights. Instead of our usual coffee dates, we could spend our time mastering the art of {{2}} while wandering through places the typical tourist would never find on a standard map.\n\nIf we decide to commit before the transition into the third month of the year, we can avoid the rush and secure our spot. I'm particularly interested in the mid-tier option because it means we would have {{3}} when things get crowded, plus we'd actually get to attend those hands-on workshops we keep talking about.\n\nI was also thinking that if we can convince Mark and Elena to join us, the cost for each of us would {{4}} quite significantly. It's a chance to stop being mere spectators of the streets and start becoming participants in the local pulse. I even found a way for us to {{5}} for our very first outing, so there is absolutely no risk in just giving it a try. Let me know what you think before the early deadline passes.\n\nWarmly,\nAlistair",
+    "blanks": [
+      { "options": ["escape the mundane", "renovate old buildings", "find cheaper housing", "avoid city center"], "answer": 0 },
+      { "options": ["silent meditation", "self-reliance", "architectural sketching", "digital photography"], "answer": 1 },
+      { "options": ["private security", "VIP seating", "temporal advantage", "unlimited refunds"], "answer": 2 },
+      { "options": ["remain stagnant", "experience a drop", "require financing", "double in price"], "answer": 1 },
+      { "options": ["bypass the paperwork", "skip the orientation", "eliminate the entrance fee", "borrow the gear"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Alistair is ______.",
+      "options": ["tired of their boring routine", "moving to a new apartment", "looking for a fitness trainer", "planning a corporate business trip"],
+      "answer": 0
+    },
+    {
+      "prompt": "Alistair and Julianne have probably ______.",
+      "options": ["taken many rock-climbing classes before", "talked about attending educational workshops", "visited all the local history museums", "worked as professional tour guides"],
+      "answer": 1
+    },
+    {
+      "prompt": "Alistair will most likely ______.",
+      "options": ["book the expensive multi-day plan", "select the $120 Pro-Navigator tier", "sign up alone after March 1st", "pay the full price for the first trip"],
+      "answer": 1
+    }
+  ]
+}

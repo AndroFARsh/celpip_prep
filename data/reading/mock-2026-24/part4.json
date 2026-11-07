@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The era of \"The Space Race\" was once a battle between superpowers for scientific prestige. Today, the theater of operation has shifted to the private sector, with billionaire-led companies offering suborbital flights to the ultra-wealthy. While proponents argue that space tourism is the necessary first step toward becoming a multi-planetary species, critics see it as a grotesque display of inequality and a catastrophic threat to the environment.\n\nAdvocates of the private space industry argue that tourism is the engine that will drive down the cost of space flight. Just as early aviation was a luxury for the rich before becoming a standard mode of transport for the masses, space tourism provides the capital needed for research and development. This innovation leads to \"spinoff\" technologies—advances in materials science, satellite communications, and life-support systems that benefit everyone on Earth. Furthermore, proponents highlight the \"Overview Effect\"—the profound cognitive shift experienced by astronauts when they see the Earth from space. They argue that if the world's most influential leaders and citizens see the fragility of our planet firsthand, they will return with a renewed commitment to environmental protection and global peace.\n\nMoreover, the commercialization of space opens the door for asteroid mining and orbital manufacturing. By moving heavy, polluting industries off-planet, we could potentially save the Earth's biosphere from further degradation.\n\nOn the other hand, the environmental cost of a single rocket launch is immense. Critics point out that the carbon emissions and soot released into the upper atmosphere by these flights are significantly higher per passenger than any commercial jet. At a time when the world is being told to reduce its carbon footprint, the idea of burning tons of fuel for a ten-minute \"joyride\" seems ecologically irresponsible.\n\nBeyond the environmental impact, there is the moral argument of \"opportunity cost.\" Critics ask: why are we spending billions to send celebrities into the thermosphere when we face existential crises like climate change, famine, and preventable disease on the ground? The sight of a rocket rising above a planet struggling with historic droughts and wildfires strikes many as a symbol of a detached elite. There is also the growing problem of \"space junk\"—thousands of pieces of orbital debris that threaten the satellites we rely on for GPS, weather forecasting, and global telecommunications.\n\nThe debate over space tourism is ultimately a debate over humanity's priorities. Are we a species meant to explore the stars at any cost, or should we master the art of living sustainably on our home planet before we look toward the heavens?",
+  "questions": [
+    {
+      "prompt": "Modern extra-atmospheric ventures are characterized by ______.",
+      "options": ["Multinational government coalitions", "Universal access for laypeople", "Global scientific de-escalation", "Corporate-driven commercial agendas"],
+      "answer": 3
+    },
+    {
+      "prompt": "The \"Overview Effect\" is hypothesized to facilitate ______.",
+      "options": ["Rapid technological breakthroughs", "Heightened ecological conscientiousness", "Immediate planetary colonization", "Temporary sensory enhancement"],
+      "answer": 1
+    },
+    {
+      "prompt": "Commercial space ventures are viewed by proponents as a(n) ______.",
+      "options": ["Final solution to overpopulation", "Replacement for terrestrial mining", "Alternative to satellite use", "Catalyst for financial feasibility"],
+      "answer": 3
+    },
+    {
+      "prompt": "Critics argue that the \"per-capita\" carbon impact of space tourism is ______.",
+      "options": ["Negligible compared to shipping", "Disproportionately excessive", "Comparable to domestic flights", "Offset by high-altitude cooling"],
+      "answer": 1
+    },
+    {
+      "prompt": "The text frames the visual of rocket launches as a symbol of ______.",
+      "options": ["Socioeconomic estrangement", "Scientific triumph", "Imminent global unity", "Future environmental hope"],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "While I am intrigued by the \"Overview Effect\" and {{1}} \"spinoff technologies\" to benefit everyone, I find the environmental cost of these suborbital \"joyrides\" {{2}}. At a time when we {{3}} minimize our carbon footprints, burning massive amounts of fuel for a ten-minute trip seems ecologically reckless. Furthermore, the \"opportunity cost\" is troubling; we {{4}} billions toward the thermosphere while our own planet grapples with historic droughts and wildfires. Rather than fueling a \"grotesque display of inequality\" for a detached elite, we should prioritize {{5}} here on Earth before expanding our reach into the heavens.",
+    "blanks": [
+      { "options": ["the possibility of", "the potential for", "some chances about", "a prospect regarding"], "answer": 1 },
+      { "options": ["tough to excuse", "hard to reason", "difficult to justify", "demanding to explain"], "answer": 2 },
+      { "options": ["are urged to", "get pushed for", "stay advised at", "become forced into"], "answer": 0 },
+      { "options": ["have steered", "are diverting", "keep shifting", "were moving"], "answer": 1 },
+      { "options": ["controlling endurance", "learning maintenance", "mastering sustainability", "holding durability"], "answer": 2 }
+    ]
+  }
+}

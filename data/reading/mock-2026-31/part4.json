@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The global market for \"Traditional Medicine\" (TM)—including systems like Traditional Chinese Medicine, Ayurveda, and Indigenous herbalism—has expanded significantly as Western consumers seek holistic alternatives to pharmaceuticals. Proponents of TM argue that these systems have been refined over thousands of years and offer a more personalized, preventive approach to health that addresses the mind, body, and spirit. They point to the fact that many modern drugs, such as aspirin and anti-malarials, were originally derived from plant-based traditional knowledge. For supporters, the integration of TM into national healthcare systems is a way to honor diverse cultures and provide more choices for patients.\n\nHowever, the scientific community often views the globalization of TM with significant skepticism and concern over safety and efficacy. Critics argue that many traditional remedies have not been subjected to the rigorous \"double-blind\" clinical trials required for conventional medicine, leading to risks of contamination, incorrect dosages, or dangerous interactions with other drugs. There are also ethical concerns regarding the \"bio-piracy\" of Indigenous knowledge, where large corporations patent traditional remedies without providing credit or compensation to the communities that discovered them. From this perspective, the \"mainstreaming\" of TM can lead to the exploitation of culture for profit without the protection of scientific evidence.\n\nThe environmental impact of the TM industry is another critical issue. The high demand for rare plants and animal parts—such as rhinoceros horn or certain species of orchids—has driven some organisms to the brink of extinction and fueled illegal poaching networks. While many TM practitioners advocate for sustainable harvesting, the scale of the global market makes regulation difficult. Critics argue that the \"appeal to nature\" can lead to a destructive romanticism that ignores the ecological toll of extracting resources from fragile ecosystems to satisfy a worldwide wellness trend.\n\nThe future of healthcare may lie in \"Integrative Medicine,\" which seeks to combine the best of both worlds under a unified scientific framework. This requires the standardization of traditional practices and more funding for research into how these ancient remedies actually work at a molecular level. The challenge is to respect the cultural heritage and wisdom of traditional systems while maintaining the high safety standards of modern science. As we look for ways to manage chronic illness and improve global health, we must decide how to bridge the gap between ancient traditions and modern evidence without sacrificing either cultural integrity or patient safety.",
+  "questions": [
+    {
+      "prompt": "Traditional Medicine is often portrayed by its advocates as ______.",
+      "options": ["A novel pharmaceutical discovery", "A longitudinal holistic refinement", "An alternative to spiritual healing", "A replacement for clinical trials"],
+      "answer": 1
+    },
+    {
+      "prompt": "The scientific community's primary apprehension involves ______.",
+      "options": ["The lack of cultural diversity", "Excessive reliance on aspirin", "The high cost of plant-based drugs", "Unverified therapeutic reliability"],
+      "answer": 3
+    },
+    {
+      "prompt": "Integrative Medicine is proposed as a ______.",
+      "options": ["Methodological synthesis", "Rejection of ancient wisdom", "Traditional-only healthcare model", "Purely spiritual framework"],
+      "answer": 0
+    },
+    {
+      "prompt": "The globalization of TM has inadvertently ______.",
+      "options": ["Stabilized rare orchid populations", "Incentivized illicit wildlife trade", "Lowered the demand for rhinoceros", "Simplified international regulation"],
+      "answer": 1
+    },
+    {
+      "prompt": "A central risk of unverified TM usage is ______.",
+      "options": ["Improved chronic illness management", "Increased national healthcare funding", "Adverse biochemical reactivity", "Faster pharmaceutical production"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "The global expansion of Traditional Medicine (TM) offers a welcome, {{1}} to modern pharmaceuticals. I agree that these systems provide {{2}} to health, rooted in thousands of years of traditional knowledge. However, the scientific community's skepticism regarding safety and efficacy is justified. {{3}} clinical trials, patients risk dangerous drug interactions or incorrect dosages.\n\nFurthermore, we must address the ethical and environmental costs, such as \"bio-piracy\" and the extinction of rare species {{4}}. I believe the future lies in \"Integrative Medicine,\" where traditional practices are standardized {{5}} scientific framework. This approach respects cultural heritage while ensuring that ancient remedies meet the high safety standards of modern evidence-based medicine.",
+    "blanks": [
+      { "options": ["comprehensive substitute", "holistic alternative", "natural replacement", "spiritual counterpart"], "answer": 1 },
+      { "options": ["a personalized approach", "a customized technique", "an individual method", "a subjective strategy"], "answer": 0 },
+      { "options": ["Lacking of intensive", "Without rigorous", "Barring any thorough", "Absent of stringent"], "answer": 1 },
+      { "options": ["resulting from popularity", "due to great interests", "caused by massive needs", "driven by high demand"], "answer": 3 },
+      { "options": ["through a collective", "under a unified", "inside a merged", "via a joined"], "answer": 1 }
+    ]
+  }
+}

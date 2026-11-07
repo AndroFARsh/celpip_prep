@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Team,\n\nI hope your week is off to a productive start. I am reaching out to address the recent series of security updates implemented across the North Tower facility. As many of you are aware, the Building Management Committee (BMC) decided to migrate our entry systems to a biometric-integrated platform effective last Monday. While the primary goal was to enhance the safety of our intellectual property and streamline after-hours access, the rollout has been far from seamless.\n\nOver the past forty-eight hours, my office has been inundated with reports regarding keycard malfunctions. Specifically, the legacy physical cards seem to be triggering \"Access Denied\" alerts at the perimeter gates between 6:00 PM and 8:00 PM. This is particularly problematic for our research department, as several senior analysts were inadvertently locked out of the laboratory while attempting to monitor time-sensitive chemical reactions. Furthermore, the new biometric scanners at the main elevators appear to have a significant lag, resulting in a \"bottleneck\" effect during the morning rush. On Tuesday, the queue for the elevators extended into the lobby cafe, causing a twenty-minute delay for nearly thirty staff members.\n\nIn response to these frustrations, we have coordinated with \"SecureTech Solutions\" to host a mandatory re-calibration session this coming Thursday in the Grand Ballroom. Every employee must bring their current employee ID and mobile device to sync with the new encrypted application. If you are unable to attend the morning session (9:00 AM – 11:00 AM), there will be a secondary window in the afternoon from 2:00 PM to 4:00 PM. Please note that failing to register your biometrics by Friday afternoon will result in a total suspension of your building credentials, meaning you will require a temporary visitor's pass and an escort to reach your desk starting next Monday.\n\nWe recognize that these technical hiccups are an inconvenience, especially during the final push for the Q3 fiscal reports. To alleviate some of the stress, the company will be providing complimentary catered lunch from \"The Green Deli\" in the breakroom for all participants on Thursday. We appreciate your patience as we transition to a more secure working environment.\n\nBest regards,\nAmara Vance\nDirector of Operations, North Tower Facility",
+  "questions": [
+    {
+      "prompt": "The overhaul aimed to protect ______.",
+      "options": ["Limit physical footprint in the lab", "Secure proprietary data", "Phase out physical keycards entirely", "Monitor employee after-hours productivity"],
+      "answer": 1
+    },
+    {
+      "prompt": "Access Denied alerts involved ______.",
+      "options": ["Unregistered biometric profiles", "Glitches in the new encrypted app", "Older-generation access cards", "Strict after-hours curfew policies"],
+      "answer": 2
+    },
+    {
+      "prompt": "The research required ______.",
+      "options": ["Constant senior-level supervision", "Precise timing", "Manual override keys", "Strict Q3 timeline adherence"],
+      "answer": 1
+    },
+    {
+      "prompt": "The lobby bottleneck resulted from ______.",
+      "options": ["Scanner processing delays", "Overcrowding at the lobby cafe", "Elevator mechanical failure", "Too many staff arriving simultaneously"],
+      "answer": 0
+    },
+    {
+      "prompt": "The Thursday session is ______.",
+      "options": ["Voluntarily recommended for lab staff", "Required for all facility personnel", "Exclusive to employees with app issues", "A briefing on Q3 operational changes"],
+      "answer": 1
+    },
+    {
+      "prompt": "Lunch was provided to ease ______.",
+      "options": ["Incentivize early arrival", "Mark the successful rollout of the app", "Mitigate employee frustration", "Compensate for cafe delays"],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Amara,\n\nThe update regarding the mandatory re-calibration session {{1}}. Several members of the research team experienced the perimeter gate lockout firsthand, so a permanent fix {{2}}.\n\nRegarding the Thursday schedule, our department has a pre-existing project deadline at 10:00 AM. Consequently, most of us will attend the 2:00 PM afternoon session {{3}} our workflow. Could you clarify if the new encrypted application {{4}} with older smartphone {{5}}?\n\nWe look forward to the session and the catered lunch. Thank you for addressing these logistical bottlenecks so promptly.\n\nRegards,\nSimon Clarke\nLead Research Analyst",
+    "blanks": [
+      { "options": ["is being valued", "is appreciated", "stays recognized", "feels thanked"], "answer": 1 },
+      { "options": ["is a welcome relief", "acts as a nice change", "stays a pleasant result", "seems a happy comfort"], "answer": 0 },
+      { "options": ["for not breaking", "to avoid disrupting", "without stopping", "by avoiding to halt"], "answer": 1 },
+      { "options": ["is compatible", "stays consistent", "acts agreeable", "remains accessible"], "answer": 0 },
+      { "options": ["software programs", "running methods", "digital setups", "operating systems"], "answer": 3 }
+    ]
+  }
+}

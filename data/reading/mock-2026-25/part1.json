@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Julianne,\n\nWe wanted to take a moment to thank you for being such a loyal patient over the last five years. We always enjoy seeing you in the clinic, and we truly appreciate the trust you place in our team to take care of your oral health.\n\nWe've noticed that many of our best new patients come to us through word-of-mouth recommendations from people like you. Because of this, we are officially launching our \"Healthy Smiles Referral Program,\" and we'd love for you to be a part of it!\n\nHow it works:\n\nThe next time you're chatting with a friend, family member, or colleague who is looking for a new dentist, simply give them one of our \"Referral Cards\" (available at the front desk) or have them mention your name when they book their first appointment.\n\nAs a token of our appreciation, for every person you refer who completes a new patient exam and cleaning:\n\n1. You receive: A $50 credit toward any future treatment or professional whitening service.\n\n2. They receive: A \"Welcome Package\" that includes a high-end electric toothbrush and a complimentary panoramic X-ray (a $150 value).\n\nThere's no limit to how many credits you can earn! If you refer four friends, your next major cleaning or filling could be entirely covered. We believe that a referral is the highest compliment we can receive, and we want to make sure you feel rewarded for sharing your positive experience.\n\nOn your next visit, keep an eye out for our new \"Patient Appreciation Wall\" in the lobby—we'll be featuring some of our top referrers and sharing some fun dental health tips. Speaking of your next visit, you're currently scheduled for your six-month check-up on Tuesday, November 12, at 10:30 AM. If you need to reschedule, please let us know at least 24 hours in advance.\n\nKeep smiling!\n\nBest,\nDr. Aris and the Team at Bright Smile Dental",
+  "questions": [
+    {
+      "prompt": "The \"Healthy Smiles Referral Program\" was conceived primarily as a(n) ______.",
+      "options": [
+        "Clinical research study",
+        "Paid advertising campaign",
+        "Organic growth strategy",
+        "Patient retention survey"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "To initiate a referral, a current patient must ensure the newcomer ______.",
+      "options": [
+        "Presents a digital barcode",
+        "Identifies the primary source",
+        "Signs a long-term contract",
+        "Pays for a full year in advance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"Welcome Package\" for new patients is characterized as ______.",
+      "options": [
+        "A cash rebate system",
+        "A premium equipment bundle",
+        "A discount on future surgery",
+        "A complimentary filling service"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The clinic's policy on earning rewards is ______.",
+      "options": [
+        "Capped at $200 annually",
+        "Available for one month only",
+        "Limited to immediate family",
+        "Scalable and unrestricted"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "A \"major cleaning or filling\" could potentially be ______.",
+      "options": [
+        "Subsidized by the Parks Dept",
+        "Fully offset by networking",
+        "Refunded by medical insurance",
+        "Discounted by the Mayor's office"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"Patient Appreciation Wall\" serves as a form of ______.",
+      "options": [
+        "Public social recognition",
+        "Mandatory medical history",
+        "Staff performance review",
+        "Private insurance ledger"
+      ],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Dr. Aris and the Team,\n\nThank you for the kind note and for the reminder about my upcoming check-up on November 12. I have always {{1}} with the care I receive at Bright Smile Dental, and I appreciate the trust you have built with me over the last five years. The \"Healthy Smiles Referral Program\" sounds like {{2}}. It {{3}} for everyone involved; I {{4}} that my friends would receive a high-end electric toothbrush as part of their welcome. I have a few colleagues who are currently looking for a new dentist, so I will be sure to mention your clinic and the $50 credit offer. I {{5}} the new \"Appreciation Wall\" during my appointment!\n\nBest regards,\nJulianne",
+    "blanks": [
+      {
+        "options": [
+          "stayed quite content",
+          "been very satisfied",
+          "was mostly fulfilled",
+          "had been truly happy"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "a fantastic initiative",
+          "a wonderful start-up",
+          "a brilliant invention",
+          "an excellent proposal"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "acts as a total gain",
+          "is a win-win",
+          "gives a double edge",
+          "stays a fair trade"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "especially want",
+          "particularly like",
+          "specifically enjoy",
+          "notably prefer"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "wait for viewing",
+          "anticipate to witness",
+          "expect to observe",
+          "look forward to seeing"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

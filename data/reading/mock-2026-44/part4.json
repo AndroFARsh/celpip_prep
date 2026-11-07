@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "Amid the ongoing conflict in Eastern Europe, Ukraine has unveiled a new generation of AI-powered autonomous drones, designed to execute military operations with minimal human input. Developed by Kyiv-based TechnoFront Solutions, these drones incorporate advanced machine learning algorithms capable of identifying threats, assessing tactical scenarios, and making split-second targeting decisions in the field. According to the company's lead engineer, Oleg Morozov, the system “reduces reaction time from minutes to milliseconds, potentially saving lives and improving operational efficiency.”\n\nThese drones, nicknamed “Sentinels” by Ukrainian forces, are equipped with high-resolution thermal imaging, radar sensors, and satellite-linked reconnaissance systems. During recent trials in Donetsk, the Sentinels successfully neutralized unmanned enemy reconnaissance units and intercepted small-scale armored vehicles without direct human commands. Military officials praise the system's speed and precision, highlighting its ability to operate in environments too dangerous for manned vehicles.\n\nHowever, the introduction of autonomous weapons has sparked an international debate over ethics and control. Human rights advocates warn that allowing drones to make independent life-or-death decisions risks collateral damage and could blur accountability in wartime operations. “Even the most sophisticated AI cannot understand intent or context the way a human soldier does,” notes Dr. Elena Kovalenko, an arms control researcher at the University of Warsaw. NATO has issued statements calling for clear regulations on the deployment of lethal autonomous systems, emphasizing that oversight mechanisms must remain in place to prevent misuse.\n\nDespite these concerns, Ukrainian commanders appear confident that the technology offers a strategic edge. Soldiers like Lieutenant Andriy Shevchenko, who recently supervised a drone operation near Luhansk, describe the experience as “like having hundreds of extra eyes and hands on the battlefield—except they react faster than any human could.” Analysts note that the rapid integration of AI in military technology mirrors broader global trends, with countries such as the U.S., China, and Israel developing similar autonomous platforms.\n\nWhile the full ethical and strategic implications of AI-driven warfare remain uncertain, Ukraine's Sentinels demonstrate how quickly modern combat is evolving. As autonomous drones become faster, smarter, and more independent, they could redefine the future of warfare—forcing militaries worldwide to confront a new reality where machines may decide who fights, flees, or falls, sometimes before a human operator even presses a button.",
+  "questions": [
+    {
+      "prompt": "Ukraine's drone initiative mainly illustrates ______.",
+      "options": [
+        "rise of non-military AI use",
+        "foreign influence on defense policy",
+        "rejection of conventional warfare",
+        "urgency under conflict pressure"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The Sentinels' autonomy most threatens principles of ______.",
+      "options": [
+        "moral accountability",
+        "logistical transparency",
+        "operational secrecy",
+        "command hierarchy"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The ethical dispute mainly reveals ______.",
+      "options": [
+        "tension between safety and control",
+        "conflict of national interests",
+        "lack of global funding",
+        "uniformity in military ethics"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "NATO's stance signals concern about ______.",
+      "options": [
+        "weapon aging",
+        "technical duplication",
+        "oversight erosion",
+        "economic drain"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Soldiers' tone toward the drones suggests ______.",
+      "options": [
+        "moral discomfort",
+        "confident dependency",
+        "hesitant approval",
+        "neutral obedience"
+      ],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "What an {{1}} in human warfare. Ukraine's AI-controlled drones show how intelligence and speed {{2}} human limits, yet the thought of autonomous targeting chills me. Replacing human judgment with algorithms {{3}} soldiers but risks moral disasters we haven't fully imagined. Machines can calculate, but they can't comprehend {{4}}. While nations race to perfect these systems, I wonder if we are losing control of our own creation. Efficiency in war is impressive, but when decisions of life and death become mechanical, the victory might {{5}} far greater.",
+    "blanks": [
+      {
+        "options": [
+          "unpredictable victory",
+          "unsettling milestone",
+          "strategic reversal",
+          "historic surrender"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "redefine",
+          "imitate",
+          "can surpass",
+          "depend on"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "might protect",
+          "hardly assists",
+          "prevents replacing",
+          "endangers most"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "tactical purpose",
+          "battlefield rules",
+          "strategic timing",
+          "intent or compassion"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "remind us all",
+          "cost us something",
+          "depend on speed",
+          "turn into growth"
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

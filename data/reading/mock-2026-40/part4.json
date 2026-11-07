@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "The implementation of \"smart glass\" as a mandatory urban building requirement represents a pivotal intersection of modern architecture and ecological responsibility. As cities expand vertically, the glass-heavy aesthetic of contemporary high-rises has created an invisible hazard for migratory and local bird populations. Conservationists estimate that window collisions claim hundreds of millions of avian lives annually, as birds are unable to perceive clear or reflective surfaces as solid obstacles. By integrating \"bird-safe glass\"—which utilizes ultraviolet patterns or fritted ceramic dots that birds can see but humans largely cannot—municipalities are attempting to mitigate this silent crisis.\n\nHowever, the transition from voluntary guidelines to a strict city ordinance has sparked a significant debate regarding the balance between environmental ethics and economic viability. Real estate developers argue that the mandatory nature of the code ignores the substantial financial burden of specialized materials. Smart glass technology currently commands a premium price point compared to standard tempered glass, potentially inflating construction budgets and slowing the development of new housing and office space. Furthermore, developers point to the \"unobstructed view\" as a core product of the high-rise market; they fear that even subtle patterns might diminish the aesthetic appeal for high-paying tenants who prioritize panoramic clarity.\n\nFrom the perspective of environmental advocates, the \"unobstructed view\" is a luxury that cannot outweigh the preservation of biodiversity. They argue that the external cost of bird mortality is currently being \"subsidized\" by the environment and that smart glass is a necessary evolution of the building code, much like fire safety or seismic requirements. Modern advancements in nanotechnology and glass manufacturing are also beginning to narrow the gap, producing patterns that are virtually imperceptible to the human eye while remaining highly visible to birds across various light conditions.\n\nUltimately, the debate over bird-safe glass is a microcosm of the larger challenge facing 21st-century urbanism: how to maintain economic growth and architectural innovation without sacrificing the natural world. While developers advocate for a voluntary system based on incentives, the persistence of high mortality rates suggests that only a unified, mandatory standard can ensure that the \"urban jungle\" ceases to be a lethal trap for the creatures flying through it.",
+  "questions": [
+    {
+      "prompt": "The central disagreement exists not because solutions are unavailable, but because responsibility for harm is ______.",
+      "options": ["technologically unresolved", "ethically disputed", "economically displaced", "legally undefined"],
+      "answer": 2
+    },
+    {
+      "prompt": "Comparing environmental safeguards to emergency codes reframes the debate from preference to ______.",
+      "options": ["obligation", "innovation", "feasibility", "negotiation"],
+      "answer": 0
+    },
+    {
+      "prompt": "Mentioning improvements in material science primarily undermines the claim that protection must be ______.",
+      "options": ["technically unreliable", "financially prohibitive", "structurally complex", "visually intrusive"],
+      "answer": 3
+    },
+    {
+      "prompt": "Describing the issue as representative of a broader challenge signals that similar conflicts are ______.",
+      "options": ["environmentally exaggerated", "structurally recurring", "culturally specific", "technologically premature"],
+      "answer": 1
+    },
+    {
+      "prompt": "Coexistence between economic expansion and environmental protection is presented as dependent on ______.",
+      "options": ["voluntary restraint", "consumer pressure", "collective enforcement", "gradual adaptation"],
+      "answer": 2
+    }
+  ],
+  "comment": {
+    "text": "It's surprising how something as simple as window design can have {{1}} on wildlife. The scale of bird deaths caused by glass buildings {{2}}, and it really makes you rethink urban planning. I understand developers' concerns about cost and aesthetics, but preserving biodiversity {{3}}. Advances in smart glass technology make it possible to protect birds without spoiling views, which seems like {{4}}. Making bird-safe glass mandatory feels like a necessary step {{5}} city development. Urban growth should never come at the expense of the natural world.",
+    "blanks": [
+      { "options": ["an unexpectedly visible presence", "such a huge impact", "a widely discussed relevance", "a disproportionately noted influence"], "answer": 1 },
+      { "options": ["remains statistically contested", "continues without resolution", "is alarming", "appears environmentally complex"], "answer": 2 },
+      { "options": ["deserves proportional consideration", "requires balanced negotiation", "cannot be indefinitely postponed", "should be non-negotiable"], "answer": 3 },
+      { "options": ["a technologically acceptable outcome", "an economically reasonable adjustment", "a perfect compromise", "an aesthetically favorable solution"], "answer": 2 },
+      { "options": ["in regulating modern", "toward sustainable urban", "within future-oriented", "for truly responsible"], "answer": 3 }
+    ]
+  }
+}

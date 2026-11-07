@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Maya,\n\nI know we’ve both been staring at those flickering lights and the kitchen’s slow-moving drainage for far too long, so I finally found someone to handle the heavy lifting. I came across a professional who doesn't just promise to show up; he’s backed by a safety net that ensures we aren't taking any risks by letting a stranger into our space. The best part is that his expertise is quite broad. Whether it's the {{1}} of the power grid in the living room or the {{2}} of the wooden fixtures we've been meaning to fix, he has a specific \"tier\" of value for each task. I was particularly impressed by how transparent the investment is—there’s no guesswork involved because the financial expectations for every category, from refreshing the walls to {{3}} the infrastructure, are laid out clearly before he even picks up a wrench. Since he prides himself on {{4}}, we won't have to spend our entire Saturday waiting around. It feels like a {{5}} way to finally cross off those lingering chores without breaking our budget, especially since the most basic aesthetic updates are the most affordable of all. Let me know if you want me to lock in a time for him to come by.\n\nBest,\nJulian",
+    "blanks": [
+      {
+        "options": [
+          "structural integrity",
+          "electrical restoration",
+          "illumination maintenance",
+          "voltage regulation"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "creative assembly",
+          "aesthetic polishing",
+          "timber rejuvenation",
+          "manual fabrication"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "modernizing",
+          "sanitizing",
+          "reconfiguring",
+          "rehabilitating"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "professional certification",
+          "chronological precision",
+          "logistical flexibility",
+          "technical mastery"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "guaranteed",
+          "low-cost",
+          "secure",
+          "comprehensive"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Julian trusts the worker because he is ______.",
+      "options": [
+        "skilled in-home repairs",
+        "fully screened and covered",
+        "offering free preliminary estimates",
+        "available only on weekends"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The service pricing is based on ______.",
+      "options": [
+        "set hourly labor charges",
+        "total material cost assessments",
+        "fixed project package deals",
+        "individual job difficulty levels"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The worker avoids delays by promising ______.",
+      "options": [
+        "low-budget aesthetic updates",
+        "guaranteed quality repair work",
+        "strict arrival time commitments",
+        "broad multi-category trade skills"
+      ],
+      "answer": 2
+    }
+  ]
+}

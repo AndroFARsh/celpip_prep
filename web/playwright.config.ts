@@ -1,4 +1,8 @@
 import { defineConfig, devices } from "@playwright/test"
+import path from "node:path"
+
+// e2e runs against the fixture tests, not the user's data/reading.
+process.env.READING_DATA_DIR = path.resolve(__dirname, "test/fixtures/reading")
 
 export default defineConfig({
   testDir: "e2e",

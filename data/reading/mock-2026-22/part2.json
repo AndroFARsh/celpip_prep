@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Laura,\n\nI've been thinking about how much we've moved our lives into the cloud lately, and it made me realize how exposed our flank is to those who lurk in the shadows of the web. I found a group out of the West Coast that acts as a sort of digital sentry. They've managed to garner some serious {{1}} for their work in keeping personal histories from being auctioned off in the grittier corners of the internet.\n\nWhat caught my eye wasn't just the constant oversight of our financial reputations, but the fact that they provide a massive {{2}} in case the worst happens and our identities are hijacked. It's essentially a safety net that covers the cost of cleaning up a stolen life. I think the {{3}} would be the smartest move for us, as it covers the whole household for about the price of a few takeout coffees.\n\nThe best part is that we can {{4}} before we ever have to commit a single cent to them. It feels like a {{5}} to finally have some solid ground under us while we navigate such a volatile virtual landscape. Let me know if you want the details to get us set up.\n\nLove,\nDaniel",
+    "blanks": [
+      { "options": ["notoriety", "acclaim", "suspicion", "capital"], "answer": 1 },
+      { "options": ["physical barrier", "legal defense", "financial indemnity", "credit limit"], "answer": 2 },
+      { "options": ["entry-level tier", "individual track", "comprehensive bundle", "collective arrangement"], "answer": 3 },
+      { "options": ["verify their credentials", "evaluate the utility", "bypass the security", "negotiate the premium"], "answer": 1 },
+      { "options": ["psychological cushion", "temporary fix", "technical upgrade", "digital gamble"], "answer": 0 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Daniel's immediate plan involves ______.",
+      "options": ["enforcing strict protocols", "appraising defensive alternatives", "severing digital connectivity", "reporting cyber violations"],
+      "answer": 1
+    },
+    {
+      "prompt": "The TechGuard suite features ______.",
+      "options": ["unlimited data restoration", "official state accreditation", "physical firewall hardware", "financial loss compensation"],
+      "answer": 3
+    },
+    {
+      "prompt": "Laura is invited to ______.",
+      "options": ["examine further particulars", "disregard the proposition", "cancel active subscriptions", "leak corporate documentation"],
+      "answer": 0
+    }
+  ]
+}

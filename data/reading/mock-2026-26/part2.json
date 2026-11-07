@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Chloe,\n\nI was just looking into some preparations for our upcoming celebration, and I found someone who can help you radiate from the inside out. Since we're aiming for that {{1}} for the ceremony, I noticed that if we commit to the primary arrangement before the summer heat truly kicks in, the financial side becomes much lighter.\n\nIt's not just about the walk down the aisle, though; they also offer a way to get those {{2}} looks for your bridesmaids if we group the sessions together. I also thought about your sister—if you introduce her to this specialist, it actually helps us settle our own future balance with a nice deduction.\n\nThey even have a little something extra for the eyes that comes {{3}} whenever you book a standard transformation. I know how much you value a {{4}} that looks perfect even under the scrutiny of a high-end lens, so this seems like a perfect fit for the editorial style you wanted. Let's look at the {{5}} together tonight; it's a bit of a jump from a single visit, but the value for the full experience is much better.\n\nLove,\nMarcus",
+    "blanks": [
+      {
+        "options": [
+          "momentary sparkle",
+          "cinematic presence",
+          "ethereal glow",
+          "traditional mask"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "uniform and polished",
+          "varied and casual",
+          "expensive and rare",
+          "quick and messy"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "at a premium",
+          "as a courtesy",
+          "after the event",
+          "with a hidden fee"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "heavy application",
+          "matte finish",
+          "flawless complexion",
+          "digital filter"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "single appointment",
+          "bundled investment",
+          "monthly subscription",
+          "seasonal brochure"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Regarding the timing of the \"primary arrangement,\" Marcus implies that the most significant cost-saving factor is ______.",
+      "options": [
+        "Pre-emptive scheduling",
+        "Strategic referral bonuses",
+        "Seasonal surge avoidance",
+        "Grouped session discounts"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus's suggestion regarding Chloe's sister is primarily motivated by ______.",
+      "options": [
+        "Aesthetic uniformity",
+        "Financial altruism",
+        "Reciprocal benefit",
+        "Professional networking"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"jump from a single visit\" mentioned at the end of the email suggests that the proposed plan is ______.",
+      "options": [
+        "Financially prohibitive",
+        "High-risk/high-reward",
+        "Qualitatively identical",
+        "Quantitatively greater"
+      ],
+      "answer": 3
+    }
+  ]
+}

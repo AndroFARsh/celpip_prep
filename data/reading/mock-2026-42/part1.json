@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Aunt Lisa,\n\nThank you so much for the family photo album you sent! I was thrilled to flip through it and relive all those childhood memories. The pictures of our summer trips to the lake house brought tears to my eyes—especially the one of us kids building that lopsided sandcastle. I've been meaning to organize a family reunion, and your gift inspired me to finally do it. We've all scattered over the years, but it's time to bring everyone together.\n\nI started planning right away. I picked a weekend in July at the old lake house in Muskoka, Ontario—it's still in the family, right? I called Mom, and she's excited; Uncle Tom said he'd drive up from Toronto with his barbecue gear. We could have a big potluck, games on the beach, and share stories late into the night. Remember how Grandma used to tell ghost stories that scared us silly? I found her old recipe book in the album, so I'll make her famous blueberry pie.\n\nThe drive to check on the lake house last weekend was nostalgic. The road winds through pine forests just like always, but the dock has seen better days—rotten boards and all. I spent the afternoon patching it up with some lumber from town. The water was crystal clear, perfect for swimming, though a family of loons kept us company with their eerie calls. I sat on the porch at sunset, thinking about how you and I used to fish there, whispering secrets while waiting for a bite.\n\nOn the way home, I stopped in the nearby town of Bracebridge for supplies. It hasn't changed much: the same ice cream shop where we'd get double scoops after a day in the sun. I bought some local maple syrup to add to the reunion menu. Seeing the familiar streets made me miss our family bond more than ever. You've always been the glue holding us together, Aunt Lisa, with your letters and calls keeping everyone updated.\n\nNow that I'm back in Vancouver, the city's hustle feels louder than usual. Your album reminded me how precious these connections are. So, what do you think about heading the reunion committee with me? We have three months to pull it off—I could visit you in Ottawa first to brainstorm. I've got vacation time saved from my teaching job, enough for a road trip east. Maybe we could stop at some roadside diners along the way, just like old times. Let me know your thoughts!\n\nLove,\nSarah",
+  "questions": [
+    {
+      "prompt": "Sarah's emotional response suggests ______.",
+      "options": [
+        "temporary sentimental reaction",
+        "unresolved family separation",
+        "simple appreciation of gift",
+        "nostalgia without intention"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The photo album primarily functions as ______.",
+      "options": [
+        "a historical family record",
+        "a decorative keepsake",
+        "proof of family continuity",
+        "an emotional bonding tool"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Sarah's planning urgency implies ______.",
+      "options": [
+        "long-term event preparation",
+        "seasonal availability pressure",
+        "fear of further distance",
+        "teaching schedule flexibility"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Sarah's planning urgency implies ______.",
+      "options": [
+        "safety compliance concerns",
+        "emotional ownership renewal",
+        "preparation for water activities",
+        "property value maintenance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sarah's stop in Bracebridge mainly reinforces ______.",
+      "options": [
+        "town's resistance to change",
+        "regional cultural stability",
+        "childhood routine persistence",
+        "reunion supply convenience"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Asking Aunt Lisa to co-lead indicates ______.",
+      "options": [
+        "logistical delegation strategy",
+        "emotional reliance pattern",
+        "lack of planning confidence",
+        "geographic coordination need"
+      ],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Sarah,\n\nIt was such a joy to hear from you! I'm so glad the album sparked that fire to {{1}}. Regarding the gathering, with my {{2}}, but even if it's not easy, I think we should do it anyway. The lake house is the perfect spot! You just email me your ideas for the guest list. Also, there's no need to {{3}}; I can take care of that, you should keep your savings for your own road trip expenses. Well, I haven't been back to that area since we used to spend our summers there. Did you take any photos of {{4}}? I'm sorry you {{5}}. If you did take pictures of the repairs, I'd love to see them. I was worried it might have fallen into the water by now.\n\nAnyway, email me as soon as you have a date in mind.\n\nLove,\nAunt Lisa",
+    "blanks": [
+      {
+        "options": [
+          "visit Ottawa.",
+          "bring the clan back together.",
+          "start a new photo album.",
+          "go back to teaching."
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "traveling days mostly behind me",
+          "Muskoka is too far from Ottawa",
+          "I can't find Grandma's recipes",
+          "July is too hot for a pie"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "plan the entire menu yourself",
+          "worry about the cost of my flight",
+          "buy more lumber for the dock",
+          "stop at every diner on the way"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "the ice cream shop in town",
+          "the blueberry pie you made",
+          "the old lakeside pier",
+          "the road through the pine forest"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "couldn't find the maple syrup.",
+          "forgot to bring your camera.",
+          "didn't see the family of loons.",
+          "noticed the wood was decaying."
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

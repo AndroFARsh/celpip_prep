@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Predictive policing refers to the use of mathematical and analytical techniques by law enforcement to identify potential criminal activity before it happens. These systems analyze historical crime data to predict \"hotspots\" where future incidents are likely to occur. Proponents argue that this allows for a more efficient allocation of limited police resources, potentially lowering crime rates without increasing the number of officers on the street. However, civil rights advocates warn that these algorithms are only as objective as the data they are fed.",
+    "The primary issue is \"feedback loops.\" If historical data shows that more arrests were made in a specific neighborhood, the algorithm will send more officers to that area. Because there are more officers present, they are likely to find and arrest more people for minor infractions (like loitering or jaywalking) that might go unnoticed in other areas. This new data is then fed back into the system, \"confirming\" the original bias and creating a self-fulfilling prophecy. This often results in the over-policing of marginalized and low-income communities, further eroding public trust in the legal system.",
+    "Transparency is another major hurdle, as many of these predictive tools are developed by private companies that treat their code as \"trade secrets.\" This means that defense attorneys and judges cannot see how a specific \"risk score\" was calculated for a defendant. This \"black box\" nature of algorithmic justice challenges the fundamental right to a fair trial and the ability to confront one's accuser. Some cities, like Santa Cruz and New Orleans, have already banned the use of these technologies until more robust ethical frameworks and oversight mechanisms are in place.",
+    "Despite these controversies, researchers are looking for ways to \"de-bias\" the algorithms. One approach is to shift the focus from \"arrest data\" to \"victimization data\" (reports of crimes from citizens), which is often a more accurate reflection of where help is needed. Others suggest using algorithms to predict \"police misconduct\" or \"escalation risks\" among officers, turning the tool of surveillance toward the institution itself. The goal is to move from a \"punitive\" model of policing to a \"preventative\" model that addresses the underlying socio-economic causes of crime. Technology, in this sense, is not a solution, but a mirror reflecting our own societal flaws."
+  ],
+  "statements": [
+    { "text": "Some cities stopped using the software until they make ethical rules.", "answer": "C" },
+    { "text": "Using crime reports from citizens might be a fairer way to send help.", "answer": "D" },
+    { "text": "Using this technology has double-folded the insurance costs for local city governments.", "answer": "E" },
+    { "text": "Math models help police guess future crimes by looking at old data trends.", "answer": "A" },
+    { "text": "Most police officers prefer using older paper maps instead of the new software.", "answer": "E" },
+    { "text": "Planning police routes with data saves money and resources without hiring more officers.", "answer": "A" },
+    { "text": "Heavy policing in one area creates a cycle that keeps matching old biases.", "answer": "B" },
+    { "text": "New software could watch police officers to stop them from getting violent.", "answer": "D" },
+    { "text": "The federal government gives money every year to pay for this software.", "answer": "E" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Willoughby,\n\nMy family has bought Green-Leaf organic food at your store for about five years. We buy fruit, vegetables, and eggs from this brand almost every week. We pay about 40% more than for regular food because we trust the label. I am writing to you because that trust has been broken.\n\nLast Saturday, I bought a package of Green-Leaf organic tomatoes at your Main Street store. The label said they came from a small farm in Maple Valley. When I got home, I looked at the code on the package. It showed that the tomatoes came from a very large farm in the south. I looked it up online, and I found that this farm uses chemicals that organic farms are not allowed to use.\n\nOn Monday, I called your regional manager, Sarah Jenkins, to ask about this. She was friendly, but her answer worried me. She said that in winter, the store sometimes runs out of organic tomatoes. When this happens, regular tomatoes are put into organic packages. I do not think this is fair to customers who pay extra for organic food.\n\nI do not want a refund or a store coupon. I want the store to be honest. Please send me a list of the farms that supply Green-Leaf products. Please also tell me when an outside inspector last checked each farm. I would also like to know how you plan to stop this from happening again.\n\nPlease reply by the end of this month. I have enjoyed shopping at your store for many years, and I hope we can solve this problem together. Until then, I will buy my vegetables at a local farmers' market.\n\nSincerely,\nAlistair Brown",
+  "questions": [
+    {
+      "prompt": "Alistair pays extra because he ______.",
+      "options": ["buys it each week", "shops on Main Street", "takes the packaging at its word", "doubts the farm claims"],
+      "answer": 2
+    },
+    {
+      "prompt": "The code on the package ______.",
+      "options": ["showed a farm in the south", "was printed on Saturday", "matched the small farm story", "undercut the package's story"],
+      "answer": 3
+    },
+    {
+      "prompt": "Sarah's answer worried him because ______.",
+      "options": ["winter stock runs short", "this was no one-time slip", "she seemed rude", "she works as a manager"],
+      "answer": 1
+    },
+    {
+      "prompt": "He refuses a refund because ______.",
+      "options": ["money cannot fix his complaint", "he wants a farm list", "a coupon would please him", "he shops at a farmers' market"],
+      "answer": 0
+    },
+    {
+      "prompt": "He asks about outside checks to get ______.",
+      "options": ["the names of the farms", "approval from store staff", "the size of each farm", "proof from a neutral party"],
+      "answer": 3
+    },
+    {
+      "prompt": "The farmers' market shows that he ______.",
+      "options": ["enjoys shopping at the store", "is pausing, not quitting", "has left the store for good", "finds market prices lower"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Brown,\n\nThank you for your email, and thank you for being our customer for five years. I am sorry about the tomatoes. You are right that customers {{1}} what they pay for. I {{2}} Sarah Jenkins, and we are checking all Green-Leaf products. Starting next month, we will not put regular food into organic packages. If {{3}} organic tomatoes, the shelf will stay empty. I am attaching the list of farms that supply Green-Leaf products, with the dates of their last outside {{4}}. We will also post this list in our stores and on our website every three months. As a thank-you for your patience, I would like to {{5}} meet me at the Main Street store. I would be happy to talk with you in person. Please call my office to choose a time.\n\nSincerely,\nMr. Willoughby\nGreen-Leaf Organic",
+    "blanks": [
+      { "options": ["should get", "cannot get", "must wait for", "might miss"], "answer": 0 },
+      { "options": ["have fired", "have spoken with", "have not met", "will speak with"], "answer": 1 },
+      { "options": ["we pay for", "we have extra", "we run out of", "we order more"], "answer": 2 },
+      { "options": ["deliveries", "complaints", "purchases", "inspections"], "answer": 3 },
+      { "options": ["warn you to", "invite you to", "remind you to", "ask you not to"], "answer": 1 }
+    ]
+  }
+}

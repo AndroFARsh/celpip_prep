@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "In the field of environmental psychology, \"liminal spaces\" refer to transitional areas that are \"between\" destinations—think of empty hotel hallways, abandoned malls, or airport waiting rooms at 3 AM. These spaces are often characterized by a sense of unease or \"uncanniness\" because they lack a clear, lived-in purpose. They are designed for transit, not for dwelling. Architecture critics argue that modern urban planning has created an excess of these \"non-places,\" leading to a sense of alienation among city residents. When a space is stripped of its cultural or social context, it becomes a \"spatial vacuum\" that the human brain struggles to categorize.",
+    "The aesthetic of the \"liminal\" has recently exploded in digital subcultures, particularly through the \"Backrooms\" phenomenon online. This involves the curation of images featuring repetitive, bland architecture—yellowed wallpaper, fluorescent lighting, and endless corridors. Psychologists suggest that our fascination with these images stems from a \"cognitive itch\"; we are naturally wired to look for human presence, and its absence in a space designed for humans creates a low-level fight-or-flight response. This collective digital obsession highlights a growing modern discomfort with the sterile, mass-produced environments that define contemporary life.",
+    "Urban designers are now attempting to \"de-liminalize\" these transit zones by incorporating elements of \"placemaking.\" This involves adding local art, interactive lighting, or greenery to subway stations and pedestrian tunnels to give them a unique identity. By transforming a \"pass-through\" area into a \"destination,\" planners hope to reduce the psychological stress associated with commuting. Studies have shown that when a transit space feels \"owned\" or \"cared for\" by the community, incidents of vandalism decrease significantly. The goal is to bridge the gap between functional engineering and human emotional needs.",
+    "Interestingly, liminal spaces have a functional benefit in the realm of creativity and \"incidental thought.\" Without the distractions of a busy social environment or the responsibilities of home and work, the mind is free to wander. Many writers and philosophers have noted that their best ideas occur in these \"in-between\" zones, such as during long train rides or while sitting in sterile departure lounges. This suggests that while liminality can be unsettling, it also provides a rare form of mental \"buffer\" that is disappearing in an increasingly connected world. Preserving certain quiet, transitional spaces may be essential for the cognitive health of an overstimulated population."
+  ],
+  "statements": [
+    { "text": "Cultivating a sense of localized stewardship serves as a deterrent for antisocial behavior.", "answer": "C" },
+    { "text": "Sterile environments occasionally offer a cognitive sanctuary from the burdens of constant connectivity.", "answer": "D" },
+    { "text": "Contemporary metropolitan design frequently prioritizes movement over the cultivation of permanent belonging.", "answer": "A" },
+    { "text": "The absence of social stimuli facilitates a state of productive internal reflection.", "answer": "D" },
+    { "text": "Digital trends reflect an instinctive biological aversion to uninhabited, industrialized interior settings.", "answer": "B" },
+    { "text": "The specific architectural era or decade when the \"non-place\" trend first originated.", "answer": "E" },
+    { "text": "A communal fixation on barren aesthetics reveals a rejection of artificial uniformity.", "answer": "B" },
+    { "text": "Synthesizing aesthetics with utility can mitigate the neurological tension of daily travel.", "answer": "C" },
+    { "text": "A comparison between the perceived eeriness of outdoor versus indoor transitional landscapes.", "answer": "E" }
+  ]
+}

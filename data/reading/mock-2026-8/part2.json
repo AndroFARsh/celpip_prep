@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI found a spot for our weekend outing that feels like it was designed for your appreciation of {{1}}. It is tucked away right behind the central archives on College Ave, where they are hosting a gathering that celebrates things made by hand rather than machines. Since you have been looking to refresh your wardrobe with pieces that have a {{2}}, this seems like the perfect timing.\n\nThe way they have structured the benefits is quite clever; the more you commit to the community, the more they {{3}}. I am actually aiming to reach that top tier because the chance to sit in on a professional aesthetic consultation sounds right up your alley. Also, if we end up picking out a new jacket or shirt, it makes getting those {{4}} much more affordable.\n\nOne thing that caught my eye is how they handle the harvest—it's quite a literal interpretation of \"the more you take, the less you pay per unit.\" It is essentially a {{5}} for those of us who prefer to stock up on garden-fresh finds. Let's head over there before they close up at eight; it would be a great way to spend a mid-May evening.\n\nBest,\nJulian",
+    "blanks": [
+      {
+        "options": [
+          "generic brands",
+          "high-tech gadgets",
+          "unique craftsmanship",
+          "mass production"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "history of use",
+          "futuristic look",
+          "luxury price tag",
+          "corporate style"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "ignore your presence",
+          "validate your loyalty",
+          "restrict your access",
+          "charge for entry"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "plastic containers",
+          "skin treatments",
+          "hide-based accessories",
+          "digital downloads"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "fixed-price penalty",
+          "bulk-buy incentive",
+          "flat-rate tax",
+          "light-load bonus"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Julian chose this event mainly based on ______.",
+      "options": [
+        "his own taste",
+        "Marcus's taste",
+        "the lowest price",
+        "the closest location"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Reaching the top reward tier matters more to ______.",
+      "options": [
+        "Julian than Marcus",
+        "Marcus than Julian",
+        "neither of them",
+        "both equally"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The produce discount appeals to someone who prefers ______.",
+      "options": [
+        "shopping occasionally",
+        "stocking up",
+        "shopping alone",
+        "window shopping"
+      ],
+      "answer": 1
+    }
+  ]
+}

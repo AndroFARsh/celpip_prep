@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "The \"ultra-fast delivery\" trend has led to the creation of dark stores, which function as micro-warehouses situated in the heart of urban centers. Unlike traditional supermarkets, these spaces are closed to walk-in customers and are optimized exclusively for the rapid picking and packing of online orders. By occupying dense residential areas, they effectively bridge the gap between large-scale warehouses and the customer's front door. This proximity is the secret behind the 15-minute delivery promise that has become a staple of modern city living.",
+    "Economically, dark stores are the engines of the \"instant-gratification economy,\" prioritizing operational speed over traditional retail experiences. Inside these hubs, specialized workers navigate hyper-organized aisles to fulfill orders within seconds of a digital notification. However, this efficiency comes at a cost to the physical streetscape, as they often replace vibrant shops with \"dead\" storefronts and obscured windows. Critics worry that this lack of active frontage reduces natural surveillance and erodes the social energy of local shopping districts.",
+    "Cities are currently facing a complex legal battle regarding whether dark stores should be classified as retail businesses or industrial warehouses. This distinction is crucial because it determines where these hubs can legally operate and what safety standards they must meet. Beyond zoning, residents frequently voice concerns over the constant noise and traffic congestion caused by delivery couriers idling on sidewalks. In response, major global hubs like Amsterdam and Paris have begun implementing strict bans or caps to protect the quality of life in residential zones.",
+    "Despite growing pains, the consumer appetite for immediate delivery suggests that dark stores will continue to evolve rather than disappear. The next generation of \"micro-fulfillment\" may see these centers integrated more discreetly into the urban fabric, such as within underground parking garages or apartment basements. To achieve long-term sustainability, the industry must innovate with quieter electric fleets and smaller physical footprints. Ultimately, the success of this model depends on balancing the high-speed demands of the digital consumer with the livability of the local community."
+  ],
+  "statements": [
+    { "text": "European capitals are restricting these rapid distribution points.", "answer": "C" },
+    { "text": "These facilities prioritize internal flow over pedestrian entry.", "answer": "A" },
+    { "text": "Rural farmers are partnering with local delivery apps.", "answer": "E" },
+    { "text": "Suburban storage hubs are relocating to city interiors.", "answer": "A" },
+    { "text": "Human interaction vanishes behind these windowless facades.", "answer": "B" },
+    { "text": "Urban authorities struggle to define these commercial hybrids.", "answer": "C" },
+    { "text": "Green logistics are vital for future operational survival.", "answer": "D" },
+    { "text": "Automated systems lack any traditional hospitality elements.", "answer": "B" },
+    { "text": "Hidden subterranean levels might host tomorrow's shipping sites.", "answer": "D" }
+  ]
+}

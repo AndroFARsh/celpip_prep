@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Ms. Sterling,\n\nMy name is Arthur Penhaligon, and I am the Director of Development for \"Bright Futures,\" a local non-profit dedicated to providing extracurricular scholarships for underprivileged youth in our city. I'm reaching out to you because \"Sterling Enterprise\" has a wonderful reputation for supporting local community initiatives, and I believe our goals for this year align perfectly with your corporate values.\n\nOn November 14, we will be hosting our 10th Annual \"Bright Futures\" Charity Gala at the Starlight Ballroom. This event is our largest fundraiser of the year, and last year we were able to raise over $120,000, which funded music and sports programs for 150 students. This year, we've set an ambitious goal of $200,000 to launch a new \"Coding and Robotics\" summer camp for middle-schoolers.\n\nWe would be honored to have Sterling Enterprise join us as a \"Platinum Sponsor\" for the evening. A Platinum Sponsorship ($5,000) offers several high-profile benefits, including:\n\n-A dedicated VIP table for 10 guests with a complimentary champagne service.\n-Your company logo featured prominently on the main stage digital backdrop.\n-A full-page advertisement in our event program, which is distributed to over 400 local business leaders and influencers.\n-A special mention during the opening remarks by our guest of honor, Mayor Linda Thompson.\n\nBeyond the marketing exposure, your contribution will directly impact the lives of children who otherwise wouldn't have access to high-tech education. We've seen firsthand how these programs boost confidence and academic performance, and we'd love for your company to be a part of that story.\n\nI've attached a detailed sponsorship brochure that outlines all the available tiers. I'd love the chance to drop by your office for 10 minutes next Tuesday to discuss how we can tailor this partnership to meet your specific community engagement goals.\n\nThank you for your time and for everything you do for our city.\n\nWarm regards,\nArthur Penhaligon",
+  "questions": [
+    {
+      "prompt": "Arthur's outreach is primarily predicated on Sterling Enterprise's ______.",
+      "options": ["Specific historical donations", "Publicly perceived ethics", "Current fiscal surplus", "Recent tech investments"],
+      "answer": 1
+    },
+    {
+      "prompt": "The 10th Annual Gala serves as the organization's ______.",
+      "options": ["Sole revenue stream", "Primary financial pillar", "Newest outreach platform", "Secondary networking mixer"],
+      "answer": 1
+    },
+    {
+      "prompt": "The proposed $200,000 objective aims to facilitate ______.",
+      "options": ["Sustaining existing programs", "Starlight Ballroom renovations", "Reducing scholarship deficits", "An expanded curriculum"],
+      "answer": 3
+    },
+    {
+      "prompt": "A Platinum Sponsor's branding will receive ______.",
+      "options": ["Continuous physical signage", "Centralized digital visibility", "Exclusive program ownership", "Permanent lobby recognition"],
+      "answer": 1
+    },
+    {
+      "prompt": "The audience for the event program consists largely of ______.",
+      "options": ["Underprivileged youth families", "Local government employees", "Regional power players", "Tech industry recruiters"],
+      "answer": 2
+    },
+    {
+      "prompt": "Mayor Linda Thompson's involvement is specifically designated for ______.",
+      "options": ["The keynote address", "The closing ceremony", "The introductory session", "The VIP champagne toast"],
+      "answer": 2
+    }
+  ],
+  "reply": {
+    "text": "Dear Arthur,\n\nThank you for reaching out. Sterling Enterprise {{1}} the impactful work \"Bright Futures\" conducts for our local youth, and your goal of $200,000 for the new \"Coding and Robotics\" camp {{2}}.\n\nWe are delighted to accept the \"Platinum Sponsorship\" for the 10th Annual Charity Gala. Providing high-tech education {{3}} our corporate social responsibility goals.\n\nRegarding your visit, I am available next Tuesday at 2:00 PM for a brief discussion {{4}} and logo placement. Please confirm {{5}}.\n\nWarm regards,\nMs. Sterling | Sterling Enterprise",
+    "blanks": [
+      { "options": ["has long admired", "is constantly respecting", "was always appreciating", "had long wondered"], "answer": 0 },
+      { "options": ["is quite acceptable", "is truly commendable", "seems fairly decent", "acts notably fine"], "answer": 1 },
+      { "options": ["fits exactly inside", "aligns perfectly with", "matches totally to", "corresponds into"], "answer": 1 },
+      { "options": ["for completing the alliance info", "to finalize the partnership details", "about finishing the deal points", "to conclude the contract bits"], "answer": 1 },
+      { "options": ["if this time works for you", "whether that hour suits", "that this period is okay", "if you can make it then"], "answer": 0 }
+    ]
+  }
+}

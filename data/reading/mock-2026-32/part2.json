@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Eleanor,\n\nI've been thinking a lot about the logistical puzzle we're facing with both Dad's need for a more supportive environment and your return to work. I believe I've found a sanctuary nestled right in the heart of the Heritage district that addresses the \"bookends\" of our family's needs in one singular location.\n\nIt's a unique setup where the wisdom of the {{1}} meets the energy of those just finding their feet. For Dad, he wouldn't just be moving into a standard apartment; he'd have access to specialized support if his clarity of memory continues to shift, all while enjoying meals that aren't mass-produced but rather curated by a dedicated culinary team.\n\nThe timing is actually quite strategic. If we commit to a full annual cycle soon, the entry cost for that first month is significantly lightened. For the little ones, the environment is incredibly inclusive—they even handle the early and late hours for those of us with demanding schedules, and they've made sure the {{2}} members of the family aren't left behind, provided they are of a manageable scale.\n\nWhat struck me most was their flexibility with {{3}}, which suggests they are well-integrated with local social safety nets. It isn't just a place to stay; it's a community that provides a {{4}} to the outside world, ensuring Dad isn't isolated from his usual errands or check-ups. It seems like a place where he can keep his dignity in a {{5}} setting while the kids grow up right alongside him.\n\nLet me know if you want to tour the grounds during their mid-October showcase.\n\nWarmly,\nJulian",
+    "blanks": [
+      { "options": ["Young professionals", "Memory Care residents", "Culinary students", "Short-term travelers"], "answer": 1 },
+      { "options": ["Children under age 5", "New 12-month tenants", "Pets under 20 lbs", "Professional staff members"], "answer": 2 },
+      { "options": ["Private insurance", "State assistance", "Free breakfast", "Family discounts"], "answer": 1 },
+      { "options": ["The 24/7 staff", "The fenced yard", "The daily shuttle", "The kitchenette"], "answer": 2 },
+      { "options": ["A school-age classroom", "A 2-bedroom residence", "A public mall", "An assisted living apartment"], "answer": 3 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Based on the \"bookends\" of the family tree mentioned, Eleanor is likely Julian's ______.",
+      "options": ["Spouse and mother of the \"little ones\"", "Sister and fellow caregiver for their father", "Professional real estate consultant", "Daughter who is just starting her career"],
+      "answer": 1
+    },
+    {
+      "prompt": "Regarding the \"little ones,\" Julian implies that he and Eleanor share ______.",
+      "options": ["A culinary business in the Heritage district", "Concerns about the cost of pet ownership", "Responsibility for children with demanding schedules", "A desire to move back into their childhood home"],
+      "answer": 2
+    },
+    {
+      "prompt": "The tone of Julian's message suggests a relationship defined by ______.",
+      "options": ["Formal business negotiations regarding an estate", "Collaborative problem-solving for multi-generational care", "Distant cousins reconnecting over a shared inheritance", "A landlord-tenant dispute over an annual lease cycle"],
+      "answer": 1
+    }
+  ]
+}

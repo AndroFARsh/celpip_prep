@@ -11,6 +11,12 @@ describe("TestCard", () => {
     const hrefs = screen.getAllByRole("link", { name: "Start" }).map((a) => a.getAttribute("href"))
     expect(hrefs).toEqual(["/reading/demo-1", "/reading/demo-1/1", "/reading/demo-1/2", "/reading/demo-1/3", "/reading/demo-1/4"])
     expect(screen.queryByRole("link", { name: /Results/ })).not.toBeInTheDocument()
+    expect(screen.queryByRole("link", { name: "Source" })).not.toBeInTheDocument()
+  })
+
+  it("links to the source when there is one", () => {
+    render(<TestCard id="demo-1" title="Practice Test 1" source="https://www.youtube.com/watch?v=abc" />)
+    expect(screen.getByRole("link", { name: "Source" })).toHaveAttribute("href", "https://www.youtube.com/watch?v=abc")
   })
 
   it("shows results and clear for a run taken before", async () => {

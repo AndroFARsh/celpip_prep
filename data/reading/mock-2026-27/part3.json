@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "A \"whispering gallery\" is an architectural phenomenon where a person standing at one end of a curved structure can hear a faint whisper from the opposite side with startling clarity. This occurs because sound waves cling to the smooth, concave surface of the wall, traveling in a series of short chords rather than dissipating into the center of the room. Famous examples include the dome of St. Paul's Cathedral in London and the Echo Wall at the Temple of Heaven in Beijing. Physicists refer to this as the \"Rayleigh wave\" effect, named after Lord Rayleigh, who first mathematically explained the behavior of these trapped acoustic signals in the late 19th century.",
+    "Beyond architecture, the principles of whispering galleries are being applied to the cutting edge of photonics and telecommunications. \"Optical whispering gallery mode\" (WGM) resonators are tiny glass spheres or rings that can trap light in a similar fashion. Just as sound circles a dome, light waves can circulate millions of times inside a microscopic resonator. This creates an incredibly intense electromagnetic field in a very small space. These devices are now being used to create ultra-sensitive sensors capable of detecting a single virus particle or a single molecule of a toxic gas, representing a massive leap forward in diagnostic technology.",
+    "In the realm of quantum computing, WGM resonators offer a potential solution to the problem of \"decoherence\"—the loss of information due to environmental interference. By trapping photons in a nearly perfect circular path, scientists can create stable \"quantum gates\" that process information at speeds impossible for traditional silicon chips. The challenge lies in the manufacturing process; the surface of the resonator must be polished to an atomic level of smoothness. Any microscopic bump or dust particle would cause the light to scatter, destroying the delicate quantum state. This intersection of 19th-century acoustics and 21st-century computing is a testament to the enduring relevance of classical physics.",
+    "Curiously, whispering gallery effects have also been observed in nature, specifically in the communication patterns of certain forest-dwelling insects. Some species of beetles use the curved interior of hollow logs to amplify their mating calls, allowing their signals to travel much further than they would in open air. This \"biological architecture\" suggests that the mastery of acoustics is not unique to human engineers. Biologists are now using directional microphones to map these natural galleries, hoping to understand how environmental geometry influences the evolution of animal behavior. This research could eventually inform the design of more acoustic-efficient public spaces and concert halls."
+  ],
+  "statements": [
+    { "text": "Ancient acoustic observations are facilitating contemporary breakthroughs in high-speed information processing.", "answer": "C" },
+    { "text": "Certain invertebrates exploit environmental concavities to extend the reach of their reproductive signals.", "answer": "D" },
+    { "text": "Spherical architectural curvatures prevent auditory energy from scattering throughout a central void.", "answer": "A" },
+    { "text": "Mimicking structural echoes allows for the creation of concentrated electromagnetic environments.", "answer": "B" },
+    { "text": "Achieving computational reliability necessitates the elimination of sub-microscopic surface irregularities on components.", "answer": "C" },
+    { "text": "Late nineteenth-century mathematical formulas successfully decoded the behavior of confined sonic vibrations.", "answer": "A" },
+    { "text": "Microscopic glass ringlets utilize circulating luminosity to identify solitary viral components.", "answer": "B" },
+    { "text": "Studying organic sound amplification may guide the future development of human auditoriums.", "answer": "D" },
+    { "text": "Modern smartphones utilize internal whispering gallery resonators to improve signal reception strength.", "answer": "E" }
+  ]
+}

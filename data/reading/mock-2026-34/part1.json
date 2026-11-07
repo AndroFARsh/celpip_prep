@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Grandpa,\n\nI spent last weekend cycling through the countryside around Maplewood, and it turned out to be more memorable than I imagined. The roads were quiet, lined with golden fields that swayed gently in the wind. Patches of wildflowers appeared along the edges, and the scent of fresh earth and blooming clover carried on the air.\n\nI started early in the morning, when mist still lingered over the hills, and the sun began to rise slowly, painting the sky in pastel oranges and pinks. Pedaling uphill was tiring, but the view from the top made every push worthwhile. I could see farms, small ponds reflecting the sunlight, and the distant forest that had always fascinated me.\n\nAt midday, I stopped at a tiny roadside café. The owner, Mrs. Collins, served me homemade lemonade and freshly baked scones, and we chatted briefly about her life in the village. I learned that the café had been running for over fifty years, passed down through generations. Sitting there, sipping lemonade and watching cyclists and walkers pass by, I felt connected to a world I rarely experience in the city.\n\nLater, I followed a narrow dirt track that led me to a small creek. I rested on a log and dipped my hands into the water, watching fish dart beneath the surface. The serenity was unlike anything in my daily life, and I tried to memorize every detail—the sounds, the scents, the quiet rhythm of nature.\n\nOn my way home, a light drizzle began, creating a soft, almost magical mist around the fields. I wore my raincoat and enjoyed the gentle patter of rain on my helmet. Despite the wet clothes and muddy tires, I felt invigorated and strangely alive, as if the journey itself had reset my perspective.\n\nGrandpa, I wish you could have joined me. Riding through the countryside reminded me of the joys of slowing down and observing the small details often overlooked in everyday life. I'm planning another trip soon, and I think it would be perfect to go together, exploring hidden paths and stopping at little cafés along the way.\n\nLove,\nJames Whitman",
+  "questions": [
+    {
+      "prompt": "James's overall tone suggests ______.",
+      "options": ["physical escape motivation", "emotional nostalgia dominance", "reflective personal recalibration", "admiration for rural scenery"],
+      "answer": 2
+    },
+    {
+      "prompt": "The uphill effort mainly functions to ______.",
+      "options": ["emphasize physical endurance", "delay narrative progression", "justify later appreciation", "contrast morning conditions"],
+      "answer": 2
+    },
+    {
+      "prompt": "The café encounter subtly highlights ______.",
+      "options": ["rural economic survival", "intergenerational human continuity", "hospitality toward strangers", "temporary social distraction"],
+      "answer": 1
+    },
+    {
+      "prompt": "James's strongest sense of separation from routine occurs when ______.",
+      "options": ["surrounded by open farmland", "observing movement of others", "engaging silent natural stillness", "navigating uneven terrain"],
+      "answer": 2
+    },
+    {
+      "prompt": "The rain near the end symbolically represents ______.",
+      "options": ["environmental inconvenience", "uncontrollable external factors", "internal emotional alignment", "premature journey conclusion"],
+      "answer": 2
+    },
+    {
+      "prompt": "James's invitation to his grandfather implies ______.",
+      "options": ["recreating childhood habits", "compensating for past absence", "reducing physical isolation", "transmitting experiential values"],
+      "answer": 3
+    }
+  ],
+  "reply": {
+    "text": "Dear James,\n\nIt goes without saying that I'd love to {{1}} someday. Now with my {{2}}, but even if it's not, I think we should do it anyway. After all, we have to put those bikes to good use! You just email me your schedule for the next ride. Also, there's no need to {{3}}; I can take care of that, you should keep your earnings for your textbooks.\n\nWell, I haven't been back to that village since I used to deliver supplies there many years ago. Did you take any photos of {{4}}? I'm sorry you {{5}}. If you did, I'd love to see them. I don't even know if it's still the same. If it is, the recipes must be half a century old by now!\n\nAnyway, email me as soon as you plan the next route.\n\nGrandpa",
+    "blanks": [
+      { "options": ["procure specialized equipment for high-altitude cycling", "facilitate the acquisition of a rural acreage", "recreate that pastoral excursion alongside you", "establish a commercial venture in the village of Maplewood"], "answer": 2 },
+      { "options": ["physiological capacity for steep inclines being questionable", "psychological inclination toward solitary recreation waning", "cognitive recollection of the regional topography fading", "logistical preparedness for inclement weather being inadequate"], "answer": 0 },
+      { "options": ["carry supplementary provisions for the duration of the trek", "allocate funds for our mid-journey refreshments", "obtain cartographic data for the obscured woodland trails", "undertake the restoration of your soiled cycling apparatus"], "answer": 1 },
+      { "options": ["the long-standing roadside culinary establishment", "the aquatic life observed within the small creek", "the atmospheric phenomenon during the early sunrise", "the precise ingredients in Mrs. Collins' baked goods"], "answer": 0 },
+      { "options": ["lacked the opportunity to sample the local delicacies", "neglected to document the morning atmospheric haze", "encountered unforeseen precipitation during the return", "omitted to verify the proprietor's family lineage"], "answer": 1 }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Julian,\n\nI've been looking into that week-long commitment for the kids in late May, and it seems like a great way for them to refine their physical {{1}} before the summer starts. If we decide on the full-day option, it actually works out to be a better value than just picking one half, especially since they'd get that extra time for social {{2}} during the break between sessions.\n\nThe first half of the day is really about the technical {{3}} of movement, while the later portion shifts toward the more competitive and {{4}} side of things. It's interesting that the organizers have set a price that essentially penalizes choosing the afternoon over the morning if you're only doing a half-day. Either way, it's a chance for them to {{5}} their abilities across multiple disciplines rather than just sticking to one sport.\n\nLet me know what you think about the budget.\n\nBest,\nMarcus",
+    "blanks": [
+      { "options": ["limitations", "mechanics", "exhaustion", "appearances"], "answer": 1 },
+      { "options": ["isolation", "instruction", "assessment", "integration"], "answer": 3 },
+      { "options": ["foundations", "speed", "victory", "equipment"], "answer": 0 },
+      { "options": ["teamwork", "solitary", "repetitive", "flexible"], "answer": 0 },
+      { "options": ["restrict", "diversify", "specialize", "ignore"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    { "prompt": "Marcus finds the full-day option ______.", "options": ["too costly overall", "worth the extra cost", "not really needed", "hard to justify"], "answer": 1 },
+    { "prompt": "Splitting the day ______.", "options": ["costs less overall", "works out cheaper", "raises the price", "has no effect"], "answer": 2 },
+    { "prompt": "Marcus values variety in ______.", "options": ["daily schedules", "skill areas", "meal options", "coaching staff"], "answer": 1 }
+  ]
+}

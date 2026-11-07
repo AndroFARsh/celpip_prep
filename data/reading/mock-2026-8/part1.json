@@ -1,0 +1,116 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Customer Service Team,\n\nI am writing to share my disappointment with the home organization service I booked with your company last Thursday. I hired your team to help declutter and organize my home office and garage before I started working remotely from home. Unfortunately, the actual service fell well short of the standards promised on your website.\n\nThe main problem was the poor quality of work and the rushed attitude of the two organizers sent to my house. They arrived an hour late and immediately seemed in a rush to finish the job as quickly as possible. Instead of carefully sorting through my office files and storage bins with me as planned, they dumped boxes onto the floor and stuffed items into random plastic containers without labeling anything. When I tried to give guidance, the lead worker told me they had another appointment across town and needed to leave soon.\n\nBecause of this rushed work, my office is now more disorganized than it was before they came. Important tax files are mixed up with old magazines, and several expensive storage bins I bought for the project were left completely empty in the garage. Worse still, I noticed that a small wireless keyboard and a set of desk organizers are missing from my work table. While I am not accusing anyone directly, the items were on my desk right before the team started working and disappeared by the time they rushed out the door.\n\nI have always believed in supporting local businesses, but paying $400 for a service that creates more mess and stress is very frustrating. I expected professional help, not careless handling of my personal belongings.\n\nTo resolve this issue fairly, I am requesting the following actions:\nSend a senior manager to my home to properly reorganize the office and garage.\nInvestigate the missing office equipment and provide a replacement or reimbursement.\nIssue a 50 percent refund for the poor service provided last week.\n\nI have attached photos of the disorganized spaces and my original receipt for your review. I hope we can resolve this matter quickly and amicably without needing to take further steps.\n\nI look forward to hearing your response by this Friday.\n\nSincerely,\nSarah Jenkins | Homeowner",
+  "questions": [
+    {
+      "prompt": "Sarah wrote to report professional service ______.",
+      "options": [
+        "scheduling errors",
+        "delivery delays",
+        "pricing disputes",
+        "quality failures"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The organizers rushed because of another ______.",
+      "options": [
+        "appointment nearby",
+        "office meeting",
+        "travel breakdown",
+        "personal emergency"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The workspace conditions worsened due to messy ______.",
+      "options": [
+        "magazine piles",
+        "sorting habits",
+        "storage bins",
+        "tax records"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The missing items included desk accessories and ______.",
+      "options": [
+        "office furniture",
+        "computer monitors",
+        "wireless peripherals",
+        "storage boxes"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Sarah seeks financial remedy through partial ______.",
+      "options": [
+        "store credit",
+        "cash refunds",
+        "gift cards",
+        "service discounts"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sarah wishes to bypass additional formal ______.",
+      "options": [
+        "legal lawsuits",
+        "resolution measures",
+        "public complaints",
+        "police reports"
+      ],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Sarah,\n\nThank you for your message. I am very sorry to hear about your bad experience with our organization team last Thursday. You hired us to help make your home office ready for work, and {{1}} our staff did not meet our normal professional standards.\n\nArriving late and rushing through the job {{2}}. I have already talked with the two workers about their {{3}}. To make things right, I am sending our senior manager to your house this Wednesday to properly sort and organize your office and garage.\n\nRegarding your missing items, I am checking with the team right away, and {{4}} replace the keyboard and desk organizers if they {{5}}. I have also processed a 50 percent refund to your payment card for the trouble.\n\nThank you for your patience. We want to fix this quickly.\n\nSincerely,\nMark Davis | Customer Support Manager",
+    "blanks": [
+      {
+        "options": [
+          "it is clear",
+          "we strongly doubt",
+          "customers believe that",
+          "reports suggest that"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "felt very helpful",
+          "is completely unacceptable",
+          "was totally expected",
+          "seemed quite efficient"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "excellent performance records",
+          "fast working habits",
+          "careless approach",
+          "polite customer manners"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "insurance companies will",
+          "we will pay to",
+          "local police might",
+          "third parties shall"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "arrive in boxes",
+          "remain on sale",
+          "show up later",
+          "cannot be found"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

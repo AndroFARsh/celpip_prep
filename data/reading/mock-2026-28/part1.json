@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Hive Members,\n\nAs our community continues to grow, we've been looking for ways to ensure that \"The Hive\" remains a productive and professional environment for all our freelancers, startups, and remote workers. To maintain the balance between a collaborative atmosphere and a focused workspace, we are introducing a few updates to our membership terms, effective November 1.\n\nThe most significant update concerns our \"Guest Policy.\" Previously, members could bring in guests for up to four hours without any additional charge. However, due to the limited seating in our common areas during the peak hours of 11:00 AM to 2:00 PM, we are introducing a \"Guest Day Pass\" for $15. If you are meeting a client for a quick coffee (under 30 minutes), there is still no charge. However, if they plan to stay and work alongside you for the afternoon, they will need to register at the front desk and wear a \"Visitor\" lanyard.\n\nWe're also excited to announce that we are upgrading our \"Private Meeting Room\" booking system. Starting next week, you will be able to book rooms directly through our new mobile app. To ensure fair access, each member will now have a \"Monthly Credit\" of 10 hours for small meeting rooms. If you exceed this limit, additional hours can be purchased at a discounted member rate of $10 per hour.\n\nRegarding our facilities, we've heard your requests for more ergonomic options! We have ordered 15 new \"Apex-Pro\" standing desks, which will be installed in the \"Focus Zone\" on the second floor this Friday. During the installation, that section of the building will be closed from 8:00 AM to noon. Please plan to use the \"Social Lounge\" on the first floor if you arrive early.\n\nFinally, we've decided to extend our Friday \"Happy Hour.\" Starting next month, we'll provide local craft beer and snacks starting at 4:00 PM to help everyone network and celebrate the end of the work week.\n\nThanks for being such a vital part of our community!\n\nBest,\nThe Hive Management Team",
+  "questions": [
+    {
+      "prompt": "The primary driver for the \"Guest Day Pass\" is ______.",
+      "options": ["Increased revenue targets", "Capacity-related spatial constraints", "Enhanced security protocols", "Mandatory networking hours"],
+      "answer": 1
+    },
+    {
+      "prompt": "The facility upgrade on the second floor involves ______.",
+      "options": ["Permanent closure of social spaces", "Temporary localized accessibility issues", "Mandatory member participation", "Overhaul of the first-floor lounge"],
+      "answer": 1
+    },
+    {
+      "prompt": "Under the new terms, a 20-minute client meeting is ______.",
+      "options": ["Subject to a $15 fee", "Prohibited during peak hours", "Financially exempt from charges", "Requires a visitor lanyard"],
+      "answer": 2
+    },
+    {
+      "prompt": "Management's response to member feedback is evidenced by ______.",
+      "options": ["Enhanced workstation adjustability", "The implementation of guest fees", "Reduced meeting room rates", "Strict professional conduct codes"],
+      "answer": 0
+    },
+    {
+      "prompt": "Meeting room usage beyond the allocated 10 hours is ______.",
+      "options": ["Permitted via preferential pricing", "Strictly prohibited for startups", "Free for mobile app users", "Capped at a maximum limit"],
+      "answer": 0
+    },
+    {
+      "prompt": "The Hive's organizational culture attempts to balance ______.",
+      "options": ["Revenue growth and low overhead", "Synergistic interaction and deep work", "Freelancer needs and corporate rules", "Afternoon productivity and early closures"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Hive Management,\n\nThank you for the updates regarding our workspace. I am {{1}} hear about the new \"Apex-Pro\" standing desks being installed in the Focus Zone; {{2}} are much appreciated.\n\nRegarding the new Guest Policy, could you clarify if the $15 \"Guest Day Pass\" applies {{3}} the common areas are not at capacity? While I understand the need for balance {{4}}, I occasionally host brief client strategy sessions that exceed thirty minutes.\n\nAdditionally, the mobile app for room bookings {{5}}. I look forward to testing the new system next week.\n\nBest regards,\nMember",
+    "blanks": [
+      { "options": ["notably glad for", "uniquely excited in", "especially happy for", "particularly pleased to"], "answer": 3 },
+      { "options": ["those structural changes", "these ergonomic additions", "such physical features", "this furniture update"], "answer": 1 },
+      { "options": ["even if", "as long as", "provided that", "regardless of"], "answer": 0 },
+      { "options": ["during peak hours", "throughout busy days", "within rush times", "for high-usage periods"], "answer": 0 },
+      { "options": ["seems quite effective", "sounds very efficient", "appears highly capable", "looks mostly functional"], "answer": 1 }
+    ]
+  }
+}

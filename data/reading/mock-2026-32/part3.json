@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Underwater archaeology has undergone a transformation thanks to the development of sophisticated sonar mapping and remotely operated vehicles (ROVs). These tools allow researchers to locate and study shipwrecks at depths previously unreachable by human divers. By creating 3D digital twins of these sites, historians can analyze the structural engineering of ancient vessels without disturbing the fragile remains. This non-invasive approach ensures that the \"time capsules\" of the sea remain intact for future generations.",
+    "The chemical preservation of artifacts recovered from saltwater is a painstaking and expensive process. When wood or metal is submerged for centuries, it becomes saturated with minerals and salts that can cause rapid disintegration upon exposure to air. Conservationists use tanks of polyethylene glycol to slowly replace the water within the cellular structure of organic materials. This process can take several decades for a single hull, requiring constant monitoring and a significant financial commitment from museums.",
+    "Ethical debates often arise regarding the \"ownership\" of treasures found in international waters. While some argue that these sites belong to the country of the ship's origin, others believe they are part of the collective heritage of humanity. Commercial salvage companies often clash with academic researchers, as the former seek to sell artifacts for profit while the latter advocate for public display and study. International treaties, such as the UNESCO Convention, attempt to regulate these competing interests.",
+    "Beyond historical value, sunken ships often become thriving artificial reefs that support marine biodiversity. The metal and wooden skeletons provide a substrate for coral growth and shelter for various fish species. In some regions, old vessels are intentionally scuttled to promote eco-tourism and help restore damaged aquatic ecosystems. This intersection of human history and marine biology highlights the unintended environmental benefits of maritime disasters."
+  ],
+  "statements": [
+    { "text": "Virtual replication serves as a protective surrogate for the physical examination of submerged relics.", "answer": "A" },
+    { "text": "The structural remains of maritime catastrophes serve as foundational blueprints for ecological regeneration.", "answer": "D" },
+    { "text": "Technological breakthroughs in remote exploration have eliminated the biological constraints of traditional sub-surface investigation.", "answer": "A" },
+    { "text": "Sustaining the structural integrity of recovered organic matter involves a significant, long-term fiscal burden for institutions.", "answer": "B" },
+    { "text": "The analysis of isotope ratios in human skeletal remains found onboard provides insights into the dietary habits of ancient mariners.", "answer": "E" },
+    { "text": "The transition from a high-pressure aquatic environment to an atmospheric one necessitates a multi-decade molecular replacement.", "answer": "B" },
+    { "text": "Conflict persists between the commodification of deep-sea discoveries and their status as a global intellectual resource.", "answer": "C" },
+    { "text": "The intentional sinking of decommissioned hulls acts as a catalyst for environmental tourism and habitat restoration.", "answer": "D" },
+    { "text": "Sovereign claims frequently clash with the universalist perspective regarding the stewardship of nautical heritage.", "answer": "C" }
+  ]
+}

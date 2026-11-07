@@ -1,0 +1,86 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI was thinking about our last conversation regarding your morning trek into the city and how much of a \"battle\" it feels like lately. I came across something recently that made me think of you—it's less about just getting from A to B and more about reclaiming that time so you actually {{1}} rather than drained.\n\nInstead of the usual trial-and-error approach to the streets, there's a way to sharpen those instincts under the wing of people who've {{2}}. Imagine being able to read the rhythm of the pavement so well that even low-light conditions or heavy congestion don't phase you. It's essentially a 6-hour deep dive into becoming \"invisible\" to hazards while staying {{3}}.\n\nThey've timed it specifically for people with our kind of schedule, right before the world really wakes up, so it doesn't eat into your workday. Plus, they do a {{4}} and throw in some professional insights on the best tech to keep you visible and comfortable, which I know you've been looking into. It seems like a solid way to turn that daily necessity into a genuine skill set you can actually {{5}}. If you're tired of the \"stress-test\" your morning has become, this might be the pivot you need.\n\nBest,\nElena",
+    "blanks": [
+      {
+        "options": [
+          "find a shortcut",
+          "arrive feeling energized",
+          "beat the clock",
+          "avoid the crowds"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "studied the local maps",
+          "designed the city layout",
+          "written the traffic laws",
+          "mastered the urban flow"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "perfectly positioned",
+          "remarkably fast",
+          "completely silent",
+          "legally compliant"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "performance review",
+          "diagnostic on your gear",
+          "fitness assessment",
+          "route optimization"
+        ],
+        "answer": 1
+      },
+      {
+        "options": [
+          "use for profit",
+          "hide from colleagues",
+          "teach to others",
+          "show off"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Elena's tone suggests that Marcus currently finds his commute to be ______.",
+      "options": [
+        "a predictable routine",
+        "a minor inconvenience",
+        "an athletic challenge",
+        "a draining struggle"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Elena seems to believe that Marcus is the type of person who ______.",
+      "options": [
+        "enjoys being an early bird",
+        "values professional validation",
+        "avoids any form of technology",
+        "prefers learning things alone"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Elena thinks that Marcus's current approach to city riding is ______.",
+      "options": [
+        "dangerously reckless",
+        "overly cautious",
+        "unrefined and experimental",
+        "perfectly adequate"
+      ],
+      "answer": 2
+    }
+  ]
+}

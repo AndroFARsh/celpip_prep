@@ -1,0 +1,19 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI was looking at that community gathering happening on the final weekend of October, and it honestly seems like the perfect chance for us to sharpen those domestic skills we've been neglecting. Since we've been talking about {{1}}, this might be the most cost-effective way to do it if we commit to the full day together. I'm particularly interested in the midday session; I think it would be a huge relief to finally handle those {{2}} ourselves instead of calling for help every time. If we're among the first few to show up at the hall, we can even snag that {{3}} to fuel our morning. It's not just about the technical stuff, though. There's a dedicated time to {{4}} and perhaps find some unique pieces for the apartment. We should probably {{5}} before heading over, as the most popular tracks tend to fill up fast. Let me know if you're up for a productive Saturday at Oakwood!\n\nBest,\nElena",
+    "blanks": [
+      { "options": ["minimizing our household expenses", "upgrading our culinary and repair abilities", "attending more local musical performances", "finding a new hobby for the autumn season"], "answer": 1 },
+      { "options": ["garden landscaping projects", "professional plumbing emergencies", "common structural or mechanical issues", "complex gourmet catering requirements"], "answer": 2 },
+      { "options": ["complimentary caffeine boost", "discounted breakfast voucher", "artisan pastry sample", "free entry to the raffle"], "answer": 0 },
+      { "options": ["browse the community stalls", "support regional craftsmanship", "listen to the live performers", "participate in the skills exchange"], "answer": 1 },
+      { "options": ["arrive exactly at 10:00 AM", "check the weather for the outdoor lot", "pay the $30 family entrance fee", "secure our spots via the internet"], "answer": 3 }
+    ]
+  },
+  "questions": [
+    { "prompt": "Elena wants the full day mainly to ______.", "options": ["save money", "decorate more", "meet people", "hear music"], "answer": 0 },
+    { "prompt": "Elena wants to arrive early because ______.", "options": ["parking fills up", "spots fill fast", "hall opens late", "registration is short"], "answer": 1 },
+    { "prompt": "Elena's attitude toward outside help is ______.", "options": ["open to it", "unsure about it", "fully against it", "avoiding it"], "answer": 3 }
+  ]
+}

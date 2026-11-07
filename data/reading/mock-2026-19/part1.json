@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Team,\n\nThanks for being patient while we update the security systems here at the North Tower. As you know, we started using a new fingerprint and eye scanner system last Monday. We did this to keep the building safer and make it easier to get in after hours. Unfortunately, we've run into a few bumps during the launch.\n\nOver the last two days, a lot of people have reported issues with their access cards. Specifically, some older cards are showing \"Access Denied\" at the main gates between 6:00 PM and 8:00 PM. This has been tough on the research team—a few senior analysts actually got locked out of the lab while running urgent experiments. On top of that, the scanners by the main elevators are running really slow. This caused long lines during the morning rush on Tuesday, making about thirty people roughly twenty minutes late.\n\nTo fix these problems, SecureTech Solutions will be in the Grand Ballroom this Thursday to adjust the system. You must attend one of these sessions. Please bring your employee ID card and your smartphone so we can set up the new secure app on your phone.\n\nMorning session: 9:00 AM – 11:00 AM\nAfternoon session: 2:00 PM – 4:00 PM\n\nEveryone needs to finish this registration by Friday afternoon. If you miss the deadline, your building access will be turned off. Starting next Monday, anyone who didn't sign up will need to grab a temporary visitor pass and have someone escort them to their desks.\n\nWe know these tech glitches are frustrating, especially since everyone is busy preparing the Q3 financial reports. To say thank you for working with us, we are providing a free lunch from The Green Deli in the break room for everyone who attends a Thursday session.\n\nThanks for understanding as we make the workplace safer and smoother.\n\nBest,\nAmara Vance\nDirector of Operations\nNorth Tower Facility",
+  "questions": [
+    {
+      "prompt": "What is the primary motivation for installing the new system?",
+      "options": ["To update the Grand Ballroom.", "To shorten morning elevator lines.", "To increase overall building safety.", "To simplify after-hours access."],
+      "answer": 2
+    },
+    {
+      "prompt": "How has the technical failure impacted the research team?",
+      "options": ["It delayed their financial reports.", "It improved their security awareness.", "It interrupted critical laboratory work.", "It provided them free lunch."],
+      "answer": 2
+    },
+    {
+      "prompt": "What is Amara's underlying concern regarding the staff?",
+      "options": ["Ensuring everyone registers by Friday.", "Allowing staff to work late.", "Fixing employee smartphone glitches.", "Hiring SecureTech Solutions permanently."],
+      "answer": 0
+    },
+    {
+      "prompt": "What will happen to employees who ignore the deadline?",
+      "options": ["They receive permanent visitor passes.", "They will lose unescorted entry.", "They must work from home.", "They must clean the ballroom."],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Amara mention the Q3 financial reports?",
+      "options": ["To justify updating the tech tools.", "To blame staff for late work.", "To acknowledge the stressful timing.", "To promote a local lunch venue."],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the intended purpose of the free lunch?",
+      "options": ["To replace the afternoon session.", "To compensate for the inconvenience.", "To celebrate the new security system.", "To support The Green Deli."],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear Amara,\n\nThanks for the update about the building security issues.\n\nOur team is relieved to know that operations is {{1}}. A few of our analysts are still worried about getting into the lab tonight, so I will make sure they {{2}} before the day ends.\n\nI have a quick question about Thursday's mandatory sessions. Most of my team will be going to the morning slot. Since we want to eat lunch together afterward, does the catering company need {{3}}, or can we just show up at the break room?\n\nAlso, two of our team members are working from home this week to finish up the quarterly financial numbers. Since their work is completely {{4}} physical lab work, does the Friday deadline still {{5}}?\n\nBest regards,\nMarcus Brody | Senior Research Lead",
+    "blanks": [
+      { "options": ["upgrading the whole building", "moving to the ballroom", "changing the work hours", "fixing the current tech errors"], "answer": 3 },
+      { "options": ["work extra late tonight", "wrap up their work early", "download the phone app", "order the free food"], "answer": 1 },
+      { "options": ["signed permission forms", "copies of our IDs", "an advance head count", "extra tables and chairs"], "answer": 2 },
+      { "options": ["separate from", "dependent on", "slowed down by", "causing trouble for"], "answer": 0 },
+      { "options": ["get canceled entirely", "apply to them", "give them a discount", "look fair to everyone"], "answer": 1 }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Electric cars are becoming more popular around the world, and a new kind of battery may make them even better. Most electric cars today use lithium-ion batteries, which have a liquid inside that carries energy from one part of the battery to another. A new type, called a solid-state battery, replaces that liquid with a solid material such as ceramic or glass. Experts say this simple change could make electric cars safer, lighter, and much easier to use in everyday life. Companies in many countries are now racing to bring this technology to the market.",
+    "The biggest benefit is driving distance. Solid-state batteries can store more energy in the same amount of space, so they can be smaller and lighter than the batteries used today. Many electric cars now travel 400 to 500 kilometres on one charge. With the new batteries, some cars could travel more than 1,000 kilometres. This would help drivers who worry about running out of power on long trips, and it may convince more people to buy an electric car instead of a gas car.",
+    "These batteries are also safer and faster to charge. Regular batteries can get too hot and, in rare cases, catch fire. The solid material inside the new batteries does not burn easily, and it can handle much more heat. Because of this, the batteries can accept electricity faster. Some test models can go from 10 percent to 80 percent in about ten minutes, which is close to the time it takes to fill a gas tank at a service station.",
+    "However, there are some problems. The batteries are difficult and expensive to make, and most car factories do not have the right equipment yet. Building them requires special clean rooms and very careful assembly, which takes time and money. Some experts also worry that early versions may wear out faster than current batteries after a few years of use. Still, many car companies and technology firms are spending billions of dollars to test and improve them this year. If prices come down, solid-state batteries could soon become common in everyday cars."
+  ],
+  "statements": [
+    { "text": "Long journeys may no longer make drivers afraid of an empty battery.", "answer": "B" },
+    { "text": "Experts say ceramic is the best solid material for these batteries.", "answer": "E" },
+    { "text": "A hard inside part means less danger when batteries get hot.", "answer": "C" },
+    { "text": "Most factories lack the tools needed to build these batteries today.", "answer": "D" },
+    { "text": "Test models can charge from 10 to 80 percent at home.", "answer": "E" },
+    { "text": "Many firms around the world are competing to sell this first.", "answer": "A" },
+    { "text": "Charging takes about as long as buying fuel for a petrol car.", "answer": "C" },
+    { "text": "Electric cars with these batteries will cost less than gas cars.", "answer": "E" },
+    { "text": "Early models may stop working sooner than the ones people use now.", "answer": "D" }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Daniel,\n\nI was catching up with some colleagues and heard about a path that might help you move from simply managing tasks to truly {{1}}. Since you have mentioned wanting that promotion by year-end, this group specializes in helping people like you refine how you present yourself to the board, even helping you master the art of {{2}} when those high-level salary talks finally happen. They offer a deep dive into your psyche to show exactly where your strengths lie, which is a massive head start.\n\nI know your work-life balance has been a struggle lately, so I was particularly interested in their focus on {{3}} to keep your stamina up during these long weeks. If you can convince two of your teammates to join you, the {{4}} would make the investment much lighter on your wallet. Just make sure to commit before the middle of the month so you don't miss out on that {{5}} that reveals what your coworkers actually think of your performance. It feels like the right moment to stop playing safe and start commanding the space you deserve.\n\nBest,\nLaura",
+    "blanks": [
+      { "options": ["administrative mastery", "supervisory oversight", "top-tier foresight", "operational control"], "answer": 2 },
+      { "options": ["technical arguing", "high-level maneuvering", "office socializing", "resource allocation"], "answer": 1 },
+      { "options": ["physical fitness", "systemized stamina", "time blocking", "dietary habits"], "answer": 1 },
+      { "options": ["early-bird special", "referral bonus", "volume-based pricing", "peer credit"], "answer": 2 },
+      { "options": ["mental mapping", "all-around feedback", "networking access", "resume edit"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Based on her tone, Laura views Daniel's current standing as ______.",
+      "options": ["peaked", "under-realized", "incompetent", "satisfied"],
+      "answer": 1
+    },
+    {
+      "prompt": "Regarding Daniel's health, Laura is ______.",
+      "options": ["indifferent", "vigilant", "critical", "dismissive"],
+      "answer": 1
+    },
+    {
+      "prompt": "Laura's strategy for Daniel is ______.",
+      "options": ["impulsive", "analytical", "aggressive", "passive"],
+      "answer": 1
+    }
+  ]
+}

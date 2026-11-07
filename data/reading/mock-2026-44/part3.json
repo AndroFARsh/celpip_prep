@@ -1,0 +1,47 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Digital therapeutics (DTx) are an innovative area within healthcare that harnesses software-driven interventions to prevent, manage, or treat various medical conditions. Utilizing evidence-based, clinically validated digital tools, DTx is transforming the traditional treatment landscape by offering personalized, accessible, and cost-effective healthcare solutions. These programs often combine mobile applications, wearable devices, sensors, and virtual reality to deliver targeted behavioral therapies, medication management, and symptom monitoring. Their primary focus is to enhance clinical outcomes, reduce healthcare costs, and address unmet needs across underserved and chronic patient populations.",
+    "The core strength of digital therapeutics lies in their ability to provide individualized care through data collection and real-time feedback. For example, DTx can support patients with diabetes, depression, anxiety, and chronic respiratory diseases by continuously monitoring health metrics and offering personalized behavioral interventions. This technology enables remote patient management, which is particularly crucial for rural or immobile populations, thus bridging gaps in healthcare access. Moreover, patient engagement is heightened through user-friendly interfaces and gamified components, motivating sustained adherence to prescribed therapies. As evidence accumulates on their efficacy, regulatory bodies worldwide are increasingly approving DTx products, framing them as a vital complement to conventional treatments.",
+    "The scope of digital therapeutics extends beyond just clinical intervention—it also fosters proactive health management and prevention. They empower patients to take control of their health journeys, offering tools for behavior modification and early symptom detection. From a healthcare system perspective, DTx has the potential to reduce hospital readmissions, improve chronic disease outcomes, and lessen overall healthcare spending. For instance, remote monitoring solutions for heart failure patients have shown significant reductions in hospitalization rates. As technology advances, integration with AI, big data analytics, and machine learning will further customize therapy plans and predict disease trajectories, making DTx an essential part of the future health ecosystem.",
+    "Looking forward, the widespread adoption of digital therapeutics hinges on overcoming regulatory, privacy, and reimbursement challenges. As global health authorities develop clear standards, the market for DTx is expected to expand rapidly, with the potential to revolutionize personalized medicine. A key trend is the integration of AI, which will enable autonomous adjustments to treatment plans and more accurate predictive analytics. As these innovations grow, digital therapeutics are poised to become a cornerstone of modern healthcare—delivering safer, more effective, and accessible treatment options tailored to individual needs and driving better health outcomes worldwide."
+  ],
+  "statements": [
+    {
+      "text": "Tomorrow's medicine will rely less on laboratories and more on learning machines licensed by ethics.",
+      "answer": "D"
+    },
+    {
+      "text": "Dreams of robotic surgeons ruling the world belong to another narrative entirely.",
+      "answer": "E"
+    },
+    {
+      "text": "Algorithmic care rooms shows how virtual tools are redefining human recovery patterns.",
+      "answer": "A"
+    },
+    {
+      "text": "Continuous tracking and adaptive guidance blur the line between caregiver presence and coded precision.",
+      "answer": "B"
+    },
+    {
+      "text": "Empowered self-regulation through predictive insight signals the birth of health autonomy rather than reactive medicine.",
+      "answer": "C"
+    },
+    {
+      "text": "The challenge of setting boundaries for digital healing lies not in invention but in global agreement.",
+      "answer": "D"
+    },
+    {
+      "text": "Data-driven empathy reshapes how forgotten patients find a voice in connected wellness ecosystems.",
+      "answer": "A"
+    },
+    {
+      "text": "When games meet recovery protocols, discipline transforms into engagement rather than obligation.",
+      "answer": "B"
+    },
+    {
+      "text": "Preventive algorithms now whisper early warnings long before a prescription is written.",
+      "answer": "C"
+    }
+  ]
+}

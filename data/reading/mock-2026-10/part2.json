@@ -1,0 +1,19 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Michael,\n\nI've been thinking about how much you've been struggling to find your rhythm since you moved. It feels like your new environment is still just a collection of boxes rather than a home. I found a group of {{1}} who specialize in creating a \"sanctuary\" out of chaos. They don't just move furniture; they provide a {{2}} for your wardrobe and even offer a recurring {{3}} to keep your digital life from becoming a distraction.\n\nWhat I found most comforting is that they are {{4}}, so you won't have to worry about who is entering your private space. They handle everything from the initial {{5}} of a three-room setup to the tiny details of your bathroom. Let me know if you want the contact info; it might be the reset you need to finally feel settled.\n\nBest,\nElena",
+    "blanks": [
+      { "options": ["interior designers", "vetted specialists", "structural engineers", "amateur cleaners"], "answer": 1 },
+      { "options": ["colorful makeover", "seasonal update", "logical overhaul", "structural repair"], "answer": 2 },
+      { "options": ["hardware upgrade", "subscription-based cleanup", "social media strategy", "wireless installation"], "answer": 1 },
+      { "options": ["local residents", "family-owned", "thoroughly screened", "internationally recognized"], "answer": 2 },
+      { "options": ["construction phase", "comprehensive integration", "financial investment", "property appraisal"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    { "prompt": "Michael's current situation shows ______.", "options": ["financial trouble", "trouble settling in", "messy scheduling", "lack of interest"], "answer": 1 },
+    { "prompt": "Elena picked this group for their ______.", "options": ["low prices", "private security", "fast scheduling", "full-service care"], "answer": 3 },
+    { "prompt": "Michael's struggle seems linked to his ______.", "options": ["daily routine", "physical space", "finances", "social life"], "answer": 1 }
+  ]
+}

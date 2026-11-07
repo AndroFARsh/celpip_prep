@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI've been thinking about your parents' place and how much they've been struggling with the upkeep lately. I found a group that specializes in transforming living spaces into {{1}}. It's not just about gadgets; it's about making sure their daily routine doesn't feel like a chore anymore, especially with those {{2}}.\n\nI know your schedule is a nightmare, but they actually have {{3}} that would fit right into your late-day window if you wanted to be there when they set everything up. If we act quickly and plan for a visit {{4}}, we can actually keep the costs down significantly. Plus, they offer a {{5}} just to let you see the magic in action before committing to anything. It feels like the perfect way to give them some independence while giving us some peace of mind.\n\nLove,\nElena",
+    "blanks": [
+      { "options": ["high-tech habitats", "intuitive sanctuaries", "effortless dwellings", "responsive shelters"], "answer": 1 },
+      { "options": ["automated systems", "invisible guardians", "mechanical assistants", "digital keepers"], "answer": 1 },
+      { "options": ["twilight interventions", "nocturnal shifts", "sunset operations", "after-hours availability"], "answer": 0 },
+      { "options": ["during the off-peak", "with a fortnight's notice", "through immediate action", "via seasonal windows"], "answer": 1 },
+      { "options": ["trial presentation", "risk-free walkthrough", "complimentary preview", "zero-cost prologue"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Elena's focus on the \"twilight interventions\" suggests she believes Marcus is ______.",
+      "options": ["neglectful of his domestic responsibilities", "essentially unavailable during standard hours", "looking for a way to avoid the installation entirely", "incapable of handling technical setups alone"],
+      "answer": 1
+    },
+    {
+      "prompt": "When Elena mentions \"peace of mind,\" she seems to prefer a solution that ______.",
+      "options": ["offloads the emotional labor of caregiving to technology", "forces Marcus to spend more time at his parents' house", "relies on a 12-month warranty to save money", "eliminates the need for any future family visits"],
+      "answer": 0
+    },
+    {
+      "prompt": "Elena thinks that the financial aspect of this decision is ______.",
+      "options": ["secondary to the prestige of having a smart home", "a hurdle that requires strategic timing to overcome", "Marcus's responsibility to handle alone", "irrelevant given the urgency of the parents' situation"],
+      "answer": 1
+    }
+  ]
+}

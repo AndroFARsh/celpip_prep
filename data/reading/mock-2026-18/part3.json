@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Laughter is something almost all humans do, but scientists still know much more about how we laugh than why we laugh. Physically, laughing involves the rapid movement of the breathing muscles, the throat, and fifteen different facial muscles. Together, these physical parts are responsible for controlling the sounds and expressions of human laughter.",
+    "The human brain controls two different kinds of chuckles: forced social laughter and automatic genuine laughter. Social laughter is produced on purpose to show agreement and help people build friendly connections with others. In contrast, genuine laughter happens completely naturally when we feel true joy. These automatic laughs share the exact same throat movements as social laughs, but they start from a much deeper, emotional part of the brain.",
+    "Of all forms of human expression, why adults laugh puzzles scientists the most. While some animals make happy noises during play, human laughter is uniquely complicated. What mystifies experts is why laughter did not disappear during human evolution if it has no clear survival benefit. Babies laugh to get attention and build a bond with their parents. But why do adults continue to laugh? Some think it is a leftover behavior from early humans to show that a danger has passed. Yet, this does not explain why we laugh in situations where there is no threat at all, such as when we are completely alone watching a video.",
+    "It is highly possible that laughing is a natural communication tool to lower social tension when words are not enough. Regardless of the social reasons, laughing brings clear health advantages. Studies show that people who laugh frequently have lower levels of stress chemicals, stronger immune systems, and a higher tolerance for physical pain. Perhaps, then, laughter is the body's natural medicine. Knowing this, it makes perfect sense to find reasons to enjoy a good laugh."
+  ],
+  "statements": [
+    { "text": "Researchers are unable to explain the purpose of laughter in some contexts.", "answer": "C" },
+    { "text": "Social laughing helps people form closer relationships.", "answer": "B" },
+    { "text": "Scientists know a lot about the physical mechanics of laughing.", "answer": "A" },
+    { "text": "Adults laugh less frequently when they are feeling tired.", "answer": "E" },
+    { "text": "Diet and sugar intake may have an effect on a person's sense of humor.", "answer": "E" },
+    { "text": "Laughing may actually have positive health benefits.", "answer": "D" },
+    { "text": "The connection between business success and humor is uniquely human.", "answer": "E" },
+    { "text": "Forced social chuckles come from the same throat movements as automatic joyful laughs.", "answer": "B" },
+    { "text": "In non-human primate species, laughing is used to warn others about predators.", "answer": "E" }
+  ]
+}

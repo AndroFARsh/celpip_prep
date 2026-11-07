@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Mr. Davis,\n\nI am writing about the old wooden writing desk I bought from your \"Heritage and Estates\" auction last month. I placed my bid based entirely on your official catalog description, which stated the item was in \"mint condition.\" As an antique collector, I trust your auction house to provide accurate details so I can make smart purchases. However, when the desk arrived by delivery yesterday, I immediately saw that the description was completely wrong and very misleading.\n\nMy main issue is that the desk has major repairs on the inside hinges and the bottom base. Under a bright light, it is easy to see that the old wood was patched with modern glue and painted over with a shiny new finish to hide the work. While the outside looks nice, the true value of an antique comes from it being original and untouched. These hidden repairs ruin the historical value and lower the actual market price of the piece by nearly half.\n\nIn addition, the condition report I asked for before bidding clearly stated there were \"no signs of previous repair.\" For a well-known auction house to miss the fact that the metal parts were completely replaced with cheap, modern metals shows a big mistake in your checking process. If you had listed these changes honestly, I never would have bid $4,200 for this item.\n\nI have spent a lot of time doing business with your gallery over the years, but this bad experience has really hurt my trust in your staff. I do not want store credit for future auctions because I am not sure I want to buy from you again.\n\nInstead, I am asking to cancel the sale completely. This means I want a full refund of the final price, the buyer's fee, and the specialized shipping costs I paid. I have attached a written report from an independent furniture expert who checked the desk and confirmed that modern materials were used on an item sold as \"original.\"\n\nI look forward to receiving a free return shipping label and an update on how you will return my money by the end of this business week.\n\nSincerely,\nArthur Pendelton\nPendelton Fine Arts",
+  "questions": [
+    {
+      "prompt": "Catalog inaccuracies caused ______.",
+      "options": ["bidding errors", "delivery delays", "product returns", "shipping damages"],
+      "answer": 0
+    },
+    {
+      "prompt": "Alterations destroyed antique ______.",
+      "options": ["functional utility", "financial value", "structural safety", "aesthetic beauty"],
+      "answer": 1
+    },
+    {
+      "prompt": "Inspection reports showed false ______.",
+      "options": ["payment policies", "delivery schedules", "evaluation details", "guarantee terms"],
+      "answer": 2
+    },
+    {
+      "prompt": "Broken trust prevented accepting ______.",
+      "options": ["store credit", "auction rules", "gallery hours", "shipping contracts"],
+      "answer": 0
+    },
+    {
+      "prompt": "The collector demanded total ______.",
+      "options": ["price cuts", "fee waivers", "exchange vouchers", "financial reimbursement"],
+      "answer": 3
+    },
+    {
+      "prompt": "Resolutions require free return ______.",
+      "options": ["transit labels", "packaging boxes", "storage units", "insurance forms"],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Arthur,\n\nThank you for your email and for sharing the report from the furniture expert. I am very sorry for the major mistake regarding the condition of the Victorian writing desk you bought last month.\n\nYou had every right to trust {{1}}, and it is clear our appraisal team failed to spot those hidden repairs {{2}}. We pride ourselves on accurate descriptions, and I apologize {{3}}.\n\nSince you no longer wish to buy from us, we {{4}} cancel the sale completely. I have arranged for a full refund of your final bid price, the buyer's fee, and {{5}}. I am also emailing you a free return shipping label today.\n\nThank you for your long-term support. We hope to win back your trust in the future.\n\nSincerely,\nMr. Davis\nHeritage and Estates Auctions",
+    "blanks": [
+      { "options": ["our catalog description", "modern delivery drivers", "independent furniture experts", "previous antique collectors"], "answer": 0 },
+      { "options": ["inside private offices", "on the hinges and base", "near the front doors", "around customer counters"], "answer": 1 },
+      { "options": ["for this serious oversight", "about shipping delays", "regarding high prices", "concerning missing packages"], "answer": 0 },
+      { "options": ["must reluctantly refuse", "will gladly", "can unfortunately postpone", "should quietly ignore"], "answer": 1 },
+      { "options": ["the shipping costs", "extra storage expenses", "modern insurance fees", "heavy packaging charges"], "answer": 0 }
+    ]
+  }
+}

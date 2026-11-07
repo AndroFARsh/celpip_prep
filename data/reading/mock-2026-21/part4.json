@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "For most of human history, people accepted that our bodies and minds had strict limits. We knew we could only see and hear so much, our brains could only work at a certain speed, and we would all eventually grow old and weak. Today, however, we are entering a new era of \"Human Augmentation.\" By using advanced technologies, brain implants, and genetic editing, scientists are trying to push past these natural boundaries. While some people believe this will lead to a wonderful future where we can eliminate diseases and reach our full potential, others worry it will create a deeply divided society.\n\nPeople who support these advancements believe that humans should always strive to improve. They argue that if we have the technology to make ourselves better than \"normal,\" we should use it. Today, the line between medical treatment and human enhancement is already disappearing. For instance, a microchip made to help a paralyzed person move a robotic limb could theoretically be used by a healthy person to connect their mind directly to the internet. Supporters believe that if we could double our memory or live without needing eight hours of sleep, we would have the brainpower to solve major global problems like climate change.\n\nThere is also a strong practical and economic reason for these upgrades. In today's highly competitive world, people face intense pressure to perform well at work and school. If a safe \"smart pill\" or a genetic modification could help someone focus better and keep their mind sharp for a longer time, many would see it as a helpful tool for personal success. From this perspective, upgrading our bodies is not much different from drinking coffee for energy or getting laser eye surgery to fix our vision.\n\nOn the other hand, many experts and thinkers are deeply worried about this technology. Their main concern is extreme unfairness. If these biological upgrades are expensive, only wealthy families will be able to afford them. This could create a permanent biological divide where the children of the rich are naturally smarter, stronger, and healthier than everyone else. In this kind of world, the idea of equal opportunity would disappear, because regular people could never hope to compete with individuals who were engineered for success.\n\nFinally, there are serious philosophical and safety concerns. Critics believe that our flaws, our struggles, and our limited lifespans are exactly what give human life its meaning and teach us to care for one another. If we try to program away all of our natural weaknesses, we might lose our humanity. Furthermore, the long-term medical risks of changing human DNA or putting computers into our brains are completely unknown. While a glitch in a regular computer is just annoying, a technical error in a brain implant could cause severe and permanent mental damage.",
+  "questions": [
+    {
+      "prompt": "What is the main topic of this article?",
+      "options": ["Fixing global environmental issues", "Upgrading human capabilities technologically", "The history of brain implants", "Managing high workplace pressure"],
+      "answer": 1
+    },
+    {
+      "prompt": "Supporters of human enhancement believe it could ______.",
+      "options": ["Help fix worldwide crises", "Standardize normal human behavior", "Eliminate the need for sleep", "Replace expensive medical treatments"],
+      "answer": 0
+    },
+    {
+      "prompt": "What do economic arguments for upgrades focus on?",
+      "options": ["Lowering the cost of surgery", "Boosting personal academic success", "Creating better productivity tools", "Staying competitive in life"],
+      "answer": 3
+    },
+    {
+      "prompt": "What is the biggest worry for critics?",
+      "options": ["The cost of laser surgery", "Wealth-based biological inequality", "Laziness among rich children", "Rapid changes in technology"],
+      "answer": 1
+    },
+    {
+      "prompt": "What do philosophical opponents suggest?",
+      "options": ["Computer errors are harmless", "Vulnerabilities define human nature", "DNA modification is risk-free", "Struggle causes permanent damage"],
+      "answer": 1
+    }
+  ],
+  "comment": {
+    "text": "I used to think that trying to fix global problems like climate change required changing our political systems. However, this article suggests that we might actually need to focus on {{1}}. While some people see this technology as a way to achieve personal success, others see a dark future. For instance, critics make a great point about {{2}} that could ruin equal opportunity. I used to think like the supporters, believing that human enhancement was just like {{3}}. But after reading the warnings, I am much more cautious. If we try to eliminate all our struggles, we might actually {{4}}. Therefore, we should definitely think twice before accepting the supporters' {{5}}.",
+    "blanks": [
+      { "options": ["halting all DNA experiments", "boosting our intellectual capacity", "protecting our natural weaknesses", "altering worldwide weather patterns"], "answer": 1 },
+      { "options": ["costly hospital procedures", "standard software errors", "wealth-based health gaps", "high stress in classrooms"], "answer": 2 },
+      { "options": ["earning a university degree", "having a caffeinated beverage", "curing every physical illness", "correcting poor eyesight"], "answer": 1 },
+      { "options": ["stop caring for others", "recall information much faster", "reverse global warming issues", "harm our mental health"], "answer": 0 },
+      { "options": ["designs for tech laboratories", "warnings about societal gaps", "optimistic outlook on tomorrow", "scientific reports on safety"], "answer": 2 }
+    ]
+  }
+}

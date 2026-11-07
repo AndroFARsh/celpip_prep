@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Hi Chef Aris,\n\nI'm reaching out because I had the pleasure of dining at The Velvet Lounge last night for my 10th wedding anniversary. My wife and I have been fans of your culinary work for years, and we were very excited to try the new \"Seasonal Tasting Menu\" we've heard so much about.\n\nWhile the flavors of the food were absolutely world-class—the pan-seared scallops with truffle foam were a particular highlight—I'm sorry to say that the service and the pacing of the evening didn't live up to the standard of a Michelin-starred establishment. We were seated promptly at 7:30 PM, but it took nearly 25 minutes before a server arrived to take our drink order. For a tasting menu that is supposed to be a choreographed experience, we found ourselves sitting with empty glasses and used plates for long stretches of time.\n\nFurthermore, we had specifically mentioned a severe strawberry allergy for my wife when we made the reservation two weeks ago. When the dessert course arrived, it was a \"Summer Berry Tart\" that clearly contained fresh strawberries. When we pointed this out to our waiter, he seemed confused and had to check with the kitchen. He did eventually bring a replacement, but the error was quite concerning given the high stakes of a food allergy.\n\nWe spent over $500 on the evening, and while we are happy to pay for quality, the lack of attention to detail made the experience feel somewhat stressful rather than celebratory. I've always recommended your restaurant to my business associates, but after last night, I'm hesitant to do so.\n\nI'm not looking for a full refund, but I felt you should know about these lapses so they can be addressed with your front-of-house team. I would love to return in the future and see the restaurant back at its usual level of excellence.\n\nBest regards,\nDavid Miller",
+  "questions": [
+    {
+      "prompt": "The correspondent's view of the cuisine is ______.",
+      "options": ["Technically flawed execution", "Qualitatively beyond reproach", "Inconsistent across courses", "Subordinate to service"],
+      "answer": 1
+    },
+    {
+      "prompt": "The evening's timing was defined by ______.",
+      "options": ["Efficient kitchen turnaround", "Intentional culinary pauses", "Rapid table rotation", "Intermittent service gaps"],
+      "answer": 3
+    },
+    {
+      "prompt": "The reservation's safety protocol was ______.",
+      "options": ["Diligently cross-referenced", "Systemically disregarded", "Verbally confirmed twice", "Handled with confusion"],
+      "answer": 3
+    },
+    {
+      "prompt": "The waiter's reaction to the allergen error indicated ______.",
+      "options": ["Lack of situational awareness", "Professional accountability", "Malicious kitchen intent", "Immediate remedial mastery"],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"Velvet Lounge\" failed to maintain its ______.",
+      "options": ["Culinary innovation status", "Administrative pricing structure", "Prestigious service benchmarks", "Local business popularity"],
+      "answer": 2
+    },
+    {
+      "prompt": "David's relationship with the establishment is ______.",
+      "options": ["First-time exploratory dining", "Long-term brand advocacy", "Critical professional reviewer", "Casual neighborhood regular"],
+      "answer": 1
+    }
+  ],
+  "reply": {
+    "text": "Dear David,\n\nThank you for your feedback and for celebrating {{1}} anniversary with us. While I am pleased the scallops met your expectations, I sincerely apologize that the service and pacing {{2}} the Michelin standards we strive to maintain.\n\nRegarding the strawberry allergy, this was a serious oversight. I have met with our floor manager and kitchen team to investigate why your reservation notes {{3}} communicated. We are currently implementing {{4}} double-check protocol for all dietary restrictions. As a gesture of goodwill, I have issued a $150 credit to your account for your next visit. I would value the opportunity to personally oversee your table and {{5}} in The Velvet Lounge.\n\nWarm regards,\nChef Aris\nExecutive Chef",
+    "blanks": [
+      { "options": ["quite a significant", "some truly major", "that very grand", "such a momentous"], "answer": 3 },
+      { "options": ["fell short of", "missed out on", "dropped below", "lacked behind"], "answer": 0 },
+      { "options": ["were not properly", "hadn't been fully", "wasn't exactly", "failed being"], "answer": 0 },
+      { "options": ["an even stricter", "a more rigorous", "the most intense", "a highly tough"], "answer": 1 },
+      { "options": ["regain your look", "restore your confidence", "renew your belief", "repair your outlook"], "answer": 1 }
+    ]
+  }
+}

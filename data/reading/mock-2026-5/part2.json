@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Maya,\n\nI was thinking about our morning routine and how much we usually dread that gridlock near the downtown core. I came across a temporary initiative in Westview that might actually make our travel time something to look forward to. They are rolling out a tiered system, starting with the {{1}} before eventually covering the entire urban layout just as the temperatures begin to drop. It's not just for the solo traveler either; I saw some setups that would let us bring the kids along without needing to pull the car out of the garage. Since we are always looking for ways to stay active, this seems like a perfect fit, especially since the {{2}} won't cost us anything extra for the first hour of each trip. It's a bit of a commitment, but it's definitely the most {{3}} for people like us who are out every day. The most interesting part is their plan for when the {{4}} hits. Usually, these kinds of things disappear once the leaves fall, but they are testing ways to keep the paths clear and safe right through the New Year. We should probably {{5}} soon, as they mentioned the availability isn't infinite and I'd hate for us to miss out on the early-bird perks.\n\nLet me know what you think!\n\nBest,\nJulian",
+    "blanks": [
+      { "options": ["residential suburbs", "central commerce hub", "outer bypass", "industrial park"], "answer": 1 },
+      { "options": ["occasional rental", "short-term pass", "twelve-month commitment", "pay-per-use plan"], "answer": 2 },
+      { "options": ["flexible choice", "economical approach", "expensive venture", "spontaneous option"], "answer": 1 },
+      { "options": ["summer heat", "autumn foliage", "icy weather", "spring thaw"], "answer": 2 },
+      { "options": ["sign up", "wait and see", "call the office", "download the app"], "answer": 0 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Julian believes this program suits their ______.",
+      "options": ["daily schedule", "family lifestyle", "work location", "budget concerns"],
+      "answer": 1
+    },
+    {
+      "prompt": "Julian's choice of plan reflects that they ______.",
+      "options": ["ride only sometimes", "ride nearly every day", "want to avoid apps", "prefer paying per trip"],
+      "answer": 1
+    },
+    {
+      "prompt": "Julian's urgency to register suggests he sees this as ______.",
+      "options": ["a limited opportunity", "a routine task", "a risky investment", "a seasonal trend"],
+      "answer": 0
+    }
+  ]
+}

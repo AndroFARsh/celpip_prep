@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Deep-sea hydrothermal vents, often referred to as \"black smokers,\" are fissures on the seabed that discharge geothermally heated water. While once thought to be silent, desolate voids, recent advancements in hydrophone technology have revealed a complex acoustic environment. These vents produce a continuous low-frequency hum, punctuated by high-pitched \"pops\" caused by mineral crystallization. This ambient noise serves as a critical navigation beacon for larval organisms. Research suggests that certain species of deep-sea shrimp use these acoustic signatures to locate the vents, which provide the chemical energy necessary for their survival in the absence of sunlight.",
+    "The study of \"soundscapes\" in these extreme environments is challenging the traditional view of marine biology. Biologists are now investigating how human-induced noise—such as deep-sea mining and seismic surveying—might mask these natural signals. If the acoustic \"glow\" of a vent is drowned out by industrial machinery, larval displacement could occur, leading to the collapse of fragile endemic ecosystems. Scientists are utilizing artificial intelligence to filter through thousands of hours of underwater recordings to categorize \"biological\" versus \"geological\" sounds. This data is pivotal for establishing marine protected areas in the high seas where regulation is currently sparse.",
+    "Beyond navigation, there is emerging evidence that the sound produced by hydrothermal vents may play a role in the reproductive cycles of sessile organisms, like giant tube worms. These creatures, which are anchored to the sea floor, may release gametes in synchronization with specific frequencies or rhythmic fluctuations in fluid discharge. This \"acoustic triggering\" would ensure maximum fertilization success in the turbulent waters surrounding the chimneys. If proven, this would represent a completely new understanding of how life coordinates biological functions in high-pressure, aphotic zones. It suggests that sound, rather than light or temperature, is the primary sensory input for deep-sea life.",
+    "The technological requirements for capturing these sounds are pushing the boundaries of material science. Equipment must withstand pressures exceeding 300 atmospheres and temperatures that can melt lead near the vent openings. Engineers are developing \"soft\" acoustic sensors inspired by the lateral lines of fish, which are sensitive to minute pressure changes without being crushed. Furthermore, the data must be stored locally for months at a time, as radio waves cannot penetrate the depths of the ocean. The insights gained from these \"sound maps\" are not only valuable for Earth-based biology but are also being used by astrobiologists to predict how life might communicate in the subsurface oceans of icy moons like Europa or Enceladus."
+  ],
+  "statements": [
+    { "text": "Automated data processing is essential for defining conservation boundaries in international waters.", "answer": "B" },
+    { "text": "Auditory stimuli may serve as the primary synchronizer for deep-sea reproductive behavior.", "answer": "C" },
+    { "text": "Rhythmic fluid dynamics provide a temporal framework for immobile species' biological functions.", "answer": "C" },
+    { "text": "Terrestrial deep-sea research provides a practical blueprint for exploring extraterrestrial aquatic environments.", "answer": "D" },
+    { "text": "Bioenergetic survival in lightless environments is facilitated by distinct auditory guidance systems.", "answer": "A" },
+    { "text": "Thermal fissures act as unintentional lighthouses using sound rather than visual signals.", "answer": "A" },
+    { "text": "Technological interference risks disrupting the fundamental survival mechanisms of unique marine biomes.", "answer": "B" },
+    { "text": "Extreme environmental constraints necessitate the development of biomimetic engineering and autonomous storage.", "answer": "D" },
+    { "text": "The specific decibel levels produced by \"black smokers\" relative to surface ships.", "answer": "E" }
+  ]
+}

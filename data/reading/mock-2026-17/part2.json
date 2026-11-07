@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Evelyn,\n\nI've been thinking about how much you've been juggling lately, and I came across a local family-run group in Vancouver that might help you {{1}}. Since they focus on the finer details and use specialized crews for high-end finishes, they seem much more reliable than those standard quick-fix cleaners. They actually prioritize your well-being by using {{2}}, which I know is a big deal for you given your allergies.\n\nIf you just need a single room tidied up to start, their entry-level option is quite reasonable, but if you want the house to stay consistently pristine, their {{3}} would mean someone is there almost every other day. It's not just about a surface wipe; they handle things like {{4}} and advanced dusting that usually get neglected. I think it's time you stopped spending your weekends scrubbing and finally {{5}}. Let me know if you want the contact details I found.\n\nWarmly,\nMarcus",
+    "blanks": [
+      { "options": ["increase your workload", "reclaim your personal autonomy", "relocate to a new city", "manage your office staff"], "answer": 1 },
+      { "options": ["heavy-duty industrial solvents", "scented synthetic perfumes", "biologically conscious supplies", "high-pressure water systems"], "answer": 2 },
+      { "options": ["Silver Package", "Gold Standard", "Quick Refresh", "Top-Tier Frequency"], "answer": 3 },
+      { "options": ["exterior lawn maintenance", "soft furniture restoration", "structural repair", "window pane replacement"], "answer": 1 },
+      { "options": ["invested in new furniture", "outsourced your domestic burdens", "started a cleaning business", "moved to a smaller apartment"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Evelyn's main struggle is that she ______.",
+      "options": ["cannot afford professional help", "has bad seasonal allergies", "never has enough time", "is sensitive to harsh chemicals"],
+      "answer": 2
+    },
+    {
+      "prompt": "According to Marcus, the \"Top-Tier Frequency\" plan is ______.",
+      "options": ["a luxury she does not need", "a total home renovation", "a deep clean done only once", "a regular service she will receive often"],
+      "answer": 3
+    },
+    {
+      "prompt": "Marcus's recommendation is based primarily on the agency's ______.",
+      "options": ["local reputation", "workforce structure", "chemical-free ethos", "budget flexibility"],
+      "answer": 2
+    }
+  ]
+}

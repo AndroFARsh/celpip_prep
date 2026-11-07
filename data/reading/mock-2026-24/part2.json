@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Julian,\n\nI've been thinking about that creative itch you've wanted to scratch, and I stumbled upon a local hub that seems to have a pulse on everything from the tactile to the theatrical. Since you've been looking for a way to {{1}}, this might be the perfect timing. They have a fresh calendar opening up at the start of next month, and if you jump in as a newcomer, there's a way to {{2}} while also snagging some complimentary supplies to get you started.\n\nI know you're always looking for ways to {{3}} without it being a solo endeavor, and they have these great setups for collaborative projects and mentorship that would suit you. If you're worried about the cost, they actually offer a specialized rate if you can {{4}}, which fits your current situation perfectly. It's not just about the skill-building; it's a way to {{5}} through their public showcases and family-oriented days. Let me know if you want the specific code I found to lower the entry fee!\n\nWarmly,\nBeatrice",
+    "blanks": [
+      { "options": ["escape your daily routine", "amplify your artistic expression", "find a professional career", "master a single instrument"], "answer": 1 },
+      { "options": ["bypass the registration fee", "reduce your initial investment", "attend classes for free", "get a lifetime discount"], "answer": 1 },
+      { "options": ["work in total isolation", "foster communal growth", "compete against others", "study history"], "answer": 1 },
+      { "options": ["prove your academic status", "visit during the early morning", "bring a large group", "sign a yearly contract"], "answer": 0 },
+      { "options": ["hide your talents", "bridge the gap with neighbors", "sell your artwork for profit", "judge the work of others"], "answer": 1 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Beatrice's relationship to the recipient is most likely that of a ______.",
+      "options": ["Professional recruiter", "Close-knit peer", "Creative instructor", "Financial advisor"],
+      "answer": 1
+    },
+    {
+      "prompt": "It can be inferred that Julian is currently ______.",
+      "options": ["Financially insolvent", "Professionally stagnant", "Academically affiliated", "Entirely self-taught"],
+      "answer": 2
+    },
+    {
+      "prompt": "Beatrice suggests the hub is ideal for Julian primarily because it ______.",
+      "options": ["Provides free resources", "Mitigates social isolation", "Guarantees artistic mastery", "Offers a solo retreat"],
+      "answer": 1
+    }
+  ]
+}

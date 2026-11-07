@@ -1,0 +1,106 @@
+{
+  "timeLimitSec": 780,
+  "passage": "As traffic congestion grows in urban areas, many city councils are considering charging drivers a daily fee to enter busy downtown centers during peak hours.\n\nSupporters of the proposed driver fee argue that it is the fastest way to reduce traffic jams and clean up city air. They point out that during morning rush hours, thousands of cars sit idling in traffic, wasting fuel and creating harmful pollution. By charging a daily fee, fewer people would drive alone into the core, encouraging commuters to carpool, ride bicycles, or take the train instead. Furthermore, supporters emphasize that all money collected from these fees would go directly toward improving local buses and subways, making public transit cleaner, faster, and more reliable for everyone.\n\nOn the other hand, many local residents and small business owners are strongly against the idea. Critics argue that the fee acts as an unfair tax on working-class commuters who have no choice but to drive to work. Many suburban residents live in neighborhoods where bus service is infrequent or unavailable, making public transit an unrealistic option for their daily commutes. Additionally, downtown shop owners worry that the extra cost will discourage customers from shopping in the city center, driving business away to large suburban shopping malls with free parking.\n\nThere are also concerns about how the system would actually be managed. Opponents worry that setting up toll cameras and tracking license plates will cost millions of dollars before the city sees any real benefits. Instead of penalizing drivers, critics suggest the city should first upgrade bus schedules and lower transit fares to naturally attract more riders without adding a financial burden on families.\n\nFinding the right balance is a challenge for growing cities. While everyone agrees that heavy traffic is a problem, city leaders must decide whether financial penalties or better transit options are the best way to get people moving.",
+  "questions": [
+    {
+      "prompt": "City councils consider fees to ______.",
+      "options": [
+        "force people to move",
+        "close inner-city roads completely",
+        "ease downtown traffic jams",
+        "buy new toll cameras"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Supporters believe fees will ______.",
+      "options": [
+        "eliminate suburban shopping malls",
+        "stop all bicycle usage",
+        "lower public transit funding",
+        "promote shared vehicle travel"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Suburban drivers resist because ______.",
+      "options": [
+        "local transit options lack",
+        "driving costs nothing now",
+        "downtown shops offer discounts",
+        "parking fees dropped recently"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Business owners worry about ______.",
+      "options": [
+        "paying higher store rent",
+        "hiring new store employees",
+        "building suburban shopping malls",
+        "losing downtown customer visits"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Critics prefer the city to ______.",
+      "options": [
+        "improve public bus frequency",
+        "fine every suburban commuter",
+        "raise local bus ticket prices",
+        "install expensive road cameras"
+      ],
+      "answer": 0
+    }
+  ],
+  "comment": {
+    "text": "I completely agree with the critics mentioned in this article. Charging drivers a daily fee to enter downtown sounds good in theory, but it {{1}} suburban workers like me. Right now, the bus in my neighborhood only runs once an hour, so {{2}} to my job isn't practical at all. Forcing a daily fee on commuters before actually fixing our public transit system {{3}}. Instead of punishing drivers who have no other choice, the city should {{4}} more bus routes and lowering fares first. If taking the bus becomes cheaper and more convenient, people will naturally leave their cars at home. {{5}}, this fee is just an extra tax on working families.",
+    "blanks": [
+      {
+        "options": [
+          "easily protects",
+          "greatly helps",
+          "never affects",
+          "really hurts"
+        ],
+        "answer": 3
+      },
+      {
+        "options": [
+          "taking transit",
+          "riding bicycles",
+          "buying fuel",
+          "working remotely"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "solves all traffic",
+          "saves extra money",
+          "feels completely unfair",
+          "seems very reasonable"
+        ],
+        "answer": 2
+      },
+      {
+        "options": [
+          "focus on adding",
+          "completely avoid",
+          "delay building",
+          "stop planning"
+        ],
+        "answer": 0
+      },
+      {
+        "options": [
+          "Since yesterday",
+          "Because of that",
+          "Until that happens",
+          "Without a doubt"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}
