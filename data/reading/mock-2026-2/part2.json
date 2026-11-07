@@ -1,0 +1,31 @@
+{
+  "timeLimitSec": 540,
+  "diagram": "diagram.jpg",
+  "email": {
+    "text": "Hi Marcus,\n\nI've been thinking about our recent talk regarding that \"stuck\" feeling you've had lately. I found a local collective that seems to offer a way to {{1}}. It isn't just a place to sweat; it's more of a tiered journey where you can choose how deep you want to dive into a total lifestyle shift.\n\nFor someone like you who values a structured start, their entry-level option provides a formal check-in to see where you actually stand before you even pick up a weight. If you're looking for more of a {{2}}, there's a path that keeps your schedule fluid while ensuring you're feeding your body the right data.\n\nI know you've been pushing for more significant results, and they have a high-tier track that basically {{3}} to ensure you aren't just moving, but moving correctly under a watchful eye. But honestly, if you want the absolute peak, there's a {{4}} that includes things like thermal therapy and specialized recovery kits. It's essentially a way to treat your body like a high-end machine that needs regular maintenance after a hard run.\n\nThey are currently offering some {{5}} for new members, so it might be the right moment to pivot. Let me know if you want to go check out the space this weekend; it might be the catalyst you've been looking for.\n\nBest,\nElena",
+    "blanks": [
+      { "options": ["break the cycle", "find a hobby", "save money", "meet people"], "answer": 0 },
+      { "options": ["social gathering", "rhythmic balance", "temporary fix", "competitive edge"], "answer": 1 },
+      { "options": ["guarantees a win", "removes the guesswork", "doubles the workload", "tracks your sleep"], "answer": 1 },
+      { "options": ["basic requirement", "seasonal pass", "holistic sanctuary", "digital platform"], "answer": 2 },
+      { "options": ["hidden costs", "exclusive invitations", "introductory incentives", "free equipment"], "answer": 2 }
+    ]
+  },
+  "questions": [
+    {
+      "prompt": "Marcus approaches fitness goals through ______.",
+      "options": ["chaotic spontaneity", "rigid methodology", "complete avoidance", "random experiments"],
+      "answer": 1
+    },
+    {
+      "prompt": "Elena views the advanced wellness track as essentially ______.",
+      "options": ["superficial cosmetic pampering", "professional accountability oversight", "unnecessary financial waste", "temporary physical exhaustion"],
+      "answer": 1
+    },
+    {
+      "prompt": "Recovery care treats health like ______.",
+      "options": ["self healing", "machine upkeep", "simple resting", "magic therapy"],
+      "answer": 1
+    }
+  ]
+}

@@ -6,6 +6,7 @@
 #   <workdir>/dl/video.mp4            720p video stream (no audio)
 #   <workdir>/dl/*.vtt                English captions, if any
 #   <workdir>/frames/t_<sec>.png      one frame every N seconds, named by approximate timestamp
+#   <workdir>/sheet.png               contact sheet, one timestamped thumbnail per minute: read it first to locate the parts
 set -euo pipefail
 
 url=$1
@@ -36,7 +37,13 @@ for f in "$work"/frames/f_*.png; do
   mv "$f" "$work/frames/t_$(printf %05d $(((n - 1) * step))).png"
 done
 
+# drawtext prints harmless fontconfig warnings on macOS; failures still stop the script.
+"$ff" -loglevel error -y -i "$video" \
+  -vf "fps=1/60,scale=320:-1,drawtext=text='%{pts\:hms}':x=5:y=5:fontsize=28:fontcolor=red:box=1,tile=6x10" \
+  -frames:v 1 "$work/sheet.png" 2>/dev/null
+
 echo "video:  $video"
+echo "sheet:  $work/sheet.png"
 echo "frames: $(ls "$work"/frames | wc -l | tr -d ' ') in $work/frames (every ${step}s)"
 echo "captions: $(ls "$work"/dl/*.vtt 2>/dev/null || true)"
 echo "chapters:"

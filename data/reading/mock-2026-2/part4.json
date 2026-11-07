@@ -1,0 +1,41 @@
+{
+  "timeLimitSec": 780,
+  "passage": "In recent years, zero-waste grocery stores have opened in many cities. In these shops, food like rice, nuts, and pasta is sold in large bins with no packaging. Customers bring their own jars, bags, or containers and fill them with only what they need. Many people see these stores as a simple way to cut down on plastic waste.\n\nSupporters say zero-waste stores help people think about how much garbage they create. At a regular supermarket, most food comes in plastic bags, boxes, or wrappers that go straight into the trash. At a zero-waste store, shoppers can see how much they are saving by reusing their own containers. Some customers also say they waste less food, because they can buy exactly the amount they need. For supporters, shopping this way is a small habit that makes a real difference.\n\nHowever, not everyone agrees. Critics say the stores are not practical for most families. Shoppers have to clean their containers, carry them to the store, and have them weighed before filling them. This takes extra time, which busy parents and workers may not have. Prices are also often higher than at regular supermarkets, and many zero-waste stores are in wealthier neighbourhoods. Some people also worry about food safety. Packaging keeps food fresh and clean, and open bins can get dirty if they are not looked after carefully.\n\nOther critics believe that the real problem is not shoppers but the big companies that make plastic packaging. They say it would be better to ask the government to make stricter rules for these companies than to ask ordinary people to change their shopping habits.\n\nEven so, many people agree that zero-waste stores have started an important conversation. Some regular supermarkets have already begun offering refill stations and using less packaging. The challenge now is to find ways that make waste reduction easy and affordable for everyone.",
+  "questions": [
+    {
+      "prompt": "Shoppers become more ______.",
+      "options": ["loyal to one shop", "aware of their trash", "careful with money", "interested in cooking"],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics say it suits ______.",
+      "options": ["most busy families", "large supermarket owners", "well-off, unhurried shoppers", "people who dislike plastic"],
+      "answer": 2
+    },
+    {
+      "prompt": "Open bins may ______.",
+      "options": ["raise food prices", "increase food waste", "confuse new shoppers", "become unclean"],
+      "answer": 3
+    },
+    {
+      "prompt": "Some want stricter rules for ______.",
+      "options": ["refill-store owners", "everyday shoppers", "plastic-making companies", "city governments"],
+      "answer": 2
+    },
+    {
+      "prompt": "The writer hopes it becomes ______.",
+      "options": ["a habit for stores only", "limited to big cities", "a job for supermarkets", "available to all people"],
+      "answer": 3
+    }
+  ],
+  "comment": {
+    "text": "Zero-waste stores sound like a great idea, but I'm not sure they {{1}}. I tried one near my house last spring and loved the idea at first. It {{2}} to leave the plastic bags at home. After a month, though, I stopped going. I work late most days, and washing and packing all those jars {{3}}. The store also closed at 6:00 p.m., and the prices were about 20% higher than at my regular supermarket. I think these stores {{4}} people with a lot of free time and money. I {{5}} see the big companies use less plastic in the first place.",
+    "blanks": [
+      { "options": ["help the planet", "work for everyone", "are popular nearby", "will ever close"], "answer": 1 },
+      { "options": ["seemed silly", "was required", "became boring", "felt good"], "answer": 3 },
+      { "options": ["was too much", "took very little time", "cost extra money", "kept the jars fresh"], "answer": 0 },
+      { "options": ["would never suit", "were created by", "are fine for", "often hire"], "answer": 2 },
+      { "options": ["will probably", "would much rather", "had never", "was asked to"], "answer": 1 }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "timeLimitSec": 660,
+  "passage": "Dear Ms. Whitaker,\n\nMy name is Gregory Hall, and I am the chairman of the County Historical Society. I am writing about the new rule that the City Central Library started on March 1st. Now, people must pay $75 an hour to look at the old maps from before 1900. I think this fee is unfair, and I hope the library will think about changing it.\n\nFor ten years, I have been studying the history of our waterfront area. I always handle the old maps with great care, and I have never damaged one.\n\nI think the fee is a problem for most people in our community. A university professor may have grant money to pay it, but a local writer or a volunteer usually does not. It seems that the library is now making it easier for university researchers than for ordinary residents.\n\nLast week, I spoke with Mr. James Miller, the deputy librarian. He told me the fee is needed to take care of the maps. However, our taxes already pay for keeping these maps safe and dry. I also do not understand why we should pay extra just to sit in the reading room, where a staff member is always watching. Yesterday, I saw two high school students leave the library because they could not pay the fee for their history project. That was very sad to see.\n\nI have a suggestion. Could the library offer a free pass to local residents who are working on community history projects, not business projects? I would also like the Library Board to review the fee at its next meeting.\n\nPlease let me know how the library decided on the $75 amount. I would also like to know whether the public could have some free hours each week to use the maps.\n\nThank you for your time. I look forward to your reply.\n\nSincerely,\nGregory Hall\nChairman, County Historical Society",
+  "questions": [
+    {
+      "prompt": "Gregory's research history proves he is ______.",
+      "options": ["a careful map user", "a respected community leader", "careless with fragile items", "focused on harbour history"],
+      "answer": 0
+    },
+    {
+      "prompt": "The fee mainly benefits ______.",
+      "options": ["everyday local residents", "university teaching staff", "researchers with financial backing", "readers of older documents"],
+      "answer": 2
+    },
+    {
+      "prompt": "Gregory says residents already ______.",
+      "options": ["supervise the reading room", "pay for map upkeep", "doubt the maps' fragility", "met the deputy librarian"],
+      "answer": 1
+    },
+    {
+      "prompt": "The students show the fee ______.",
+      "options": ["encourages school research", "upsets library visitors", "surprised him yesterday", "shuts out young learners"],
+      "answer": 3
+    },
+    {
+      "prompt": "The free pass would cover ______.",
+      "options": ["business-related heritage work", "non-commercial local research", "any local resident's research", "waterfront-area studies"],
+      "answer": 1
+    },
+    {
+      "prompt": "Gregory fears the library is ______.",
+      "options": ["limiting ordinary people's access", "neglecting its fragile collection", "changing rules in March", "charging an unclear amount"],
+      "answer": 0
+    }
+  ],
+  "reply": {
+    "text": "Dear Mr. Hall,\n\nThank you for your letter about the new fee for the old maps. I am sorry that the fee has caused problems for local researchers.\n\nThe fee {{1}} pay for gloves, special covers, and a staff member who helps with the oldest maps. However, I agree that it should not stop students and residents {{2}}. I have asked the Library Board {{3}} the fee at its meeting on Thursday, November 19th. I {{4}} the board to consider a free pass for community history projects.\n\n{{5}}, the library will offer free access to the maps every Saturday morning from 10:00 a.m. to 12:00 p.m. High school students will not pay any fee for school projects, starting this week.\n\nPlease call me if you would like to speak at the meeting.\n\nSincerely,\nHelen Whitaker\nDirector, City Central Library",
+    "blanks": [
+      { "options": ["got cancelled to", "was started to", "became useless to", "has been cut to"], "answer": 1 },
+      { "options": ["from using them", "for visiting often", "to get access", "at reading them"], "answer": 0 },
+      { "options": ["to review", "to double", "will examine", "not to discuss"], "answer": 0 },
+      { "options": ["had warned", "will prevent", "will also ask", "cannot force"], "answer": 2 },
+      { "options": ["To sum up", "After the vote", "Years ago", "In the meantime"], "answer": 3 }
+    ]
+  }
+}

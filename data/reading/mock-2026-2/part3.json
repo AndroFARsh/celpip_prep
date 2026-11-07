@@ -1,0 +1,20 @@
+{
+  "timeLimitSec": 600,
+  "paragraphs": [
+    "Scientists in several countries are working on a plan to bring back the woolly mammoth, an animal that died out thousands of years ago. They want to use a special gene tool to add mammoth DNA to the cells of Asian elephants. The goal is to help the Arctic. Long ago, mammoths ate grass, knocked down trees, and pressed down the snow with their heavy feet. Supporters say this kept the ground very cold. Today, the Arctic ground is melting, and it releases gases that make the planet warmer. They believe mammoths could slow this down.",
+    "However, many people worry about the animals. A female elephant would need to carry the baby, and this can be dangerous for her. Asian elephants are already in danger of disappearing, so every one is important. Critics also point out that the world has changed a lot since mammoths lived. Elephants are social animals that learn from their family. A baby mammoth would have no herd and no older animals to teach it how to live. Some people think this would be a lonely and unfair life.",
+    "Others argue about money. The project costs millions of dollars, and some scientists say this money should be used to protect animals that are in trouble right now, such as whales, fish, and tigers. They also worry that people may stop caring about nature if they think scientists can simply bring animals back. The real causes of losing wildlife, like cutting down forests and catching too many fish, would still be there. These scientists say that saving the animals we already have is cheaper, faster, and more certain than making a new one.",
+    "In the end, the mammoth plan is a difficult question. It might help the Arctic, but nobody can be sure what will happen. A new animal could change the food chain and harm birds or wild animals that already live there. Scientists are making the first hybrid embryos this year. If the plan works, the first baby could be born in a few years. Many experts say we need more research before taking that step. People around the world must now ask themselves whether we should bring back an animal just because we can."
+  ],
+  "statements": [
+    { "text": "Ancient giants once helped keep frozen soil from thawing.", "answer": "A" },
+    { "text": "Raising a creature alone could mean a life without guidance.", "answer": "B" },
+    { "text": "The first baby mammoth has already been born to an Asian elephant.", "answer": "E" },
+    { "text": "Ancient giants once helped keep frozen soil from thawing.", "answer": "A" },
+    { "text": "Being able to do something doesn't prove we ought to do it.", "answer": "D" },
+    { "text": "Bringing back lost species might make people careless about protecting nature.", "answer": "C" },
+    { "text": "A newcomer in the wild might upset who eats whom.", "answer": "D" },
+    { "text": "Scientists say cutting down forests is the main reason mammoths disappeared.", "answer": "E" },
+    { "text": "Money spent here could have helped sea creatures and big cats instead.", "answer": "C" }
+  ]
+}
