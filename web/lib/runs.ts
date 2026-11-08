@@ -1,10 +1,15 @@
-import { PART_NAMES } from "./scoring"
+import { SECTIONS, type Section } from "./sections"
 
-export const RUNS = ["full", "1", "2", "3", "4"] as const
-export type Run = (typeof RUNS)[number]
+/** "full" or a part number as a string ("1", "2", ...). */
+export type Run = string
 
-export const isRun = (value: string): value is Run => (RUNS as readonly string[]).includes(value)
-export const runParts = (run: Run) => (run === "full" ? [1, 2, 3, 4] : [Number(run)])
-export const runPath = (id: string, run: Run) => (run === "full" ? `/reading/${id}` : `/reading/${id}/${run}`)
-export const resultsPath = (id: string, run: Run) => `/reading/${id}/results/${run}`
-export const runLabel = (run: Run) => (run === "full" ? "Full test" : `Part ${run}: ${PART_NAMES[Number(run) - 1]}`)
+const partNumbers = (section: Section) => SECTIONS[section].parts.map((_, i) => i + 1)
+
+export const runsFor = (section: Section): Run[] => ["full", ...partNumbers(section).map(String)]
+export const isRun = (section: Section, value: string) => runsFor(section).includes(value)
+export const runParts = (section: Section, run: Run) => (run === "full" ? partNumbers(section) : [Number(run)])
+export const runPath = (section: Section, id: string, run: Run) =>
+  run === "full" ? `/${section}/${id}` : `/${section}/${id}/${run}`
+export const resultsPath = (section: Section, id: string, run: Run) => `/${section}/${id}/results/${run}`
+export const runLabel = (section: Section, run: Run) =>
+  run === "full" ? "Full test" : `Part ${run}: ${SECTIONS[section].parts[Number(run) - 1]}`

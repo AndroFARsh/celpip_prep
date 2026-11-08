@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 140.0,
+    "end": 199.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 200.0,
+        "end": 204.0
+      },
+      "prompt": "Part 2 spoken question 1?",
+      "options": [
+        "P2 Q1 option A",
+        "P2 Q1 option B",
+        "P2 Q1 option C",
+        "P2 Q1 option D"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 205.0,
+        "end": 209.0
+      },
+      "prompt": "Part 2 spoken question 2?",
+      "options": [
+        "P2 Q2 option A",
+        "P2 Q2 option B",
+        "P2 Q2 option C",
+        "P2 Q2 option D"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 210.0,
+        "end": 214.0
+      },
+      "prompt": "Part 2 spoken question 3?",
+      "options": [
+        "P2 Q3 option A",
+        "P2 Q3 option B",
+        "P2 Q3 option C",
+        "P2 Q3 option D"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 215.0,
+        "end": 219.0
+      },
+      "prompt": "Part 2 spoken question 4?",
+      "options": [
+        "P2 Q4 option A",
+        "P2 Q4 option B",
+        "P2 Q4 option C",
+        "P2 Q4 option D"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 220.0,
+        "end": 224.0
+      },
+      "prompt": "Part 2 spoken question 5?",
+      "options": [
+        "P2 Q5 option A",
+        "P2 Q5 option B",
+        "P2 Q5 option C",
+        "P2 Q5 option D"
+      ],
+      "answer": 1
+    }
+  ]
+}

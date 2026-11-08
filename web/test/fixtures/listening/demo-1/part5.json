@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 405.0,
+    "end": 494.0
+  },
+  "questions": [
+    {
+      "prompt": "Part 5 question 1 is ______.",
+      "options": [
+        "P5 Q1 option A",
+        "P5 Q1 option B",
+        "P5 Q1 option C",
+        "P5 Q1 option D"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Part 5 question 2 is ______.",
+      "options": [
+        "P5 Q2 option A",
+        "P5 Q2 option B",
+        "P5 Q2 option C",
+        "P5 Q2 option D"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Part 5 question 3 is ______.",
+      "options": [
+        "P5 Q3 option A",
+        "P5 Q3 option B",
+        "P5 Q3 option C",
+        "P5 Q3 option D"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Part 5 question 4 is ______.",
+      "options": [
+        "P5 Q4 option A",
+        "P5 Q4 option B",
+        "P5 Q4 option C",
+        "P5 Q4 option D"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Part 5 question 5 is ______.",
+      "options": [
+        "P5 Q5 option A",
+        "P5 Q5 option B",
+        "P5 Q5 option C",
+        "P5 Q5 option D"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Part 5 question 6 is ______.",
+      "options": [
+        "P5 Q6 option A",
+        "P5 Q6 option B",
+        "P5 Q6 option C",
+        "P5 Q6 option D"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Part 5 question 7 is ______.",
+      "options": [
+        "P5 Q7 option A",
+        "P5 Q7 option B",
+        "P5 Q7 option C",
+        "P5 Q7 option D"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Part 5 question 8 is ______.",
+      "options": [
+        "P5 Q8 option A",
+        "P5 Q8 option B",
+        "P5 Q8 option C",
+        "P5 Q8 option D"
+      ],
+      "answer": 0
+    }
+  ]
+}

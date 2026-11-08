@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1748.0,
+    "end": 1893.6
+  },
+  "questions": [
+    {
+      "prompt": "Official repair prices can make buyers ______",
+      "options": [
+        "Switch brands",
+        "Choose replacement",
+        "Visit local shops",
+        "Mail devices"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Local fixing is valued for its ______",
+      "options": [
+        "Premium quality",
+        "Free parts",
+        "Quick turnaround",
+        "Longer warranty"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Supporters say repair reduces ______",
+      "options": [
+        "Electronic garbage",
+        "Company profits",
+        "Device complexity",
+        "Software updates"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Companies fear poor repairs could cause ______",
+      "options": [
+        "Slower shipping",
+        "Physical danger",
+        "Higher prices",
+        "Fewer customers"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Keeping repairs in-house protects ______",
+      "options": [
+        "Personal data",
+        "Parts supply",
+        "Device colors",
+        "Training courses"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Repairability labels would help shoppers ______",
+      "options": [
+        "Avoid cheap parts",
+        "Learn repair skills",
+        "Compare before buying",
+        "Find local shops"
+      ],
+      "answer": 2
+    }
+  ]
+}

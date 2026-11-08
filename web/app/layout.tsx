@@ -8,8 +8,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "CELPIP Reading Practice",
-  description: "Mock CELPIP Reading tests",
+  title: "CELPIP Practice",
+  description: "Mock CELPIP Reading and Listening tests",
 }
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -19,7 +19,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <header className="flex items-center justify-between border-b px-4 py-3">
             <Link href="/" className="font-semibold">
-              CELPIP Reading Practice
+              CELPIP Practice
             </Link>
             <ModeToggle />
           </header>

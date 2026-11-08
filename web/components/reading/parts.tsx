@@ -5,7 +5,8 @@ import { Separator } from "@/components/ui/separator"
 import type { Answers, Item } from "@/lib/scoring"
 import { splitBlanks } from "@/lib/scoring"
 import type { ReadingTest } from "@/lib/schema"
-import { ChoiceSelect } from "./choice-select"
+import { ChoiceSelect } from "@/components/choice-select"
+import { Questions } from "@/components/questions"
 
 type PartProps = {
   test: ReadingTest
@@ -18,24 +19,6 @@ type Pane = { left: React.ReactNode; right: React.ReactNode }
 
 function Instruction({ children }: { children: React.ReactNode }) {
   return <p className="mb-2 text-sm font-medium text-muted-foreground">{children}</p>
-}
-
-/** A "______" in a question prompt marks where its dropdown goes; without one, the dropdown follows the prompt. */
-function Questions({ items, answers, onAnswer }: Omit<PartProps, "test">) {
-  return (
-    <ol className="space-y-1 leading-8">
-      {items.map((it) => {
-        const [before, after] = it.label.split(/_{3,}/, 2)
-        return (
-          <li key={it.key}>
-            {it.number}. {before}
-            <ChoiceSelect item={it} value={answers[it.key]} onChange={(v) => onAnswer(it.key, v)} />
-            {after}
-          </li>
-        )
-      })}
-    </ol>
-  )
 }
 
 function BlankText({ text, items, answers, onAnswer }: Omit<PartProps, "test"> & { text: string }) {

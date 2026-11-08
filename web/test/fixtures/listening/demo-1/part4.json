@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 315.0,
+    "end": 404.0
+  },
+  "questions": [
+    {
+      "prompt": "Part 4 question 1 is ______.",
+      "options": [
+        "P4 Q1 option A",
+        "P4 Q1 option B",
+        "P4 Q1 option C",
+        "P4 Q1 option D"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Part 4 question 2 is ______.",
+      "options": [
+        "P4 Q2 option A",
+        "P4 Q2 option B",
+        "P4 Q2 option C",
+        "P4 Q2 option D"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Part 4 question 3 is ______.",
+      "options": [
+        "P4 Q3 option A",
+        "P4 Q3 option B",
+        "P4 Q3 option C",
+        "P4 Q3 option D"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Part 4 question 4 is ______.",
+      "options": [
+        "P4 Q4 option A",
+        "P4 Q4 option B",
+        "P4 Q4 option C",
+        "P4 Q4 option D"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Part 4 question 5 is ______.",
+      "options": [
+        "P4 Q5 option A",
+        "P4 Q5 option B",
+        "P4 Q5 option C",
+        "P4 Q5 option D"
+      ],
+      "answer": 1
+    }
+  ]
+}

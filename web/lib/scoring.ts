@@ -1,11 +1,7 @@
 import type { BlankText, Question, ReadingTest } from "./schema"
+import { SECTIONS } from "./sections"
 
-export const PART_NAMES = [
-  "Reading Correspondence",
-  "Reading to Apply a Diagram",
-  "Reading for Information",
-  "Reading for Viewpoints",
-] as const
+export const PART_NAMES = SECTIONS.reading.parts
 
 export const PARAGRAPH_OPTIONS = ["A", "B", "C", "D", "E: Not given in any of the paragraphs"]
 
@@ -15,6 +11,8 @@ export type Item = {
   number: number
   label: string
   options: string[]
+  /** Picture options: `options` are their labels ("A".."D") and `images[i]` is the picture for `options[i]`. */
+  images?: string[]
   answer: string
 }
 

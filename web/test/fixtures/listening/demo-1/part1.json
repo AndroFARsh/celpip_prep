@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 10.0,
+        "end": 39.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 40.0,
+            "end": 44.0
+          },
+          "prompt": "Part 1 spoken question 1?",
+          "options": [
+            "P1 Q1 option A",
+            "P1 Q1 option B",
+            "P1 Q1 option C",
+            "P1 Q1 option D"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 45.0,
+            "end": 49.0
+          },
+          "prompt": "Part 1 spoken question 2?",
+          "options": [
+            "P1 Q2 option A",
+            "P1 Q2 option B",
+            "P1 Q2 option C",
+            "P1 Q2 option D"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 50.0,
+            "end": 54.0
+          },
+          "prompt": "Part 1 spoken question 3?",
+          "options": [
+            "P1 Q3 option A",
+            "P1 Q3 option B",
+            "P1 Q3 option C",
+            "P1 Q3 option D"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 55.0,
+        "end": 84.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 85.0,
+            "end": 89.0
+          },
+          "prompt": "Part 1 spoken question 4?",
+          "options": [
+            "P1 Q4 option A",
+            "P1 Q4 option B",
+            "P1 Q4 option C",
+            "P1 Q4 option D"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 90.0,
+            "end": 94.0
+          },
+          "prompt": "Part 1 spoken question 5?",
+          "options": [
+            "P1 Q5 option A",
+            "P1 Q5 option B",
+            "P1 Q5 option C",
+            "P1 Q5 option D"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 95.0,
+            "end": 99.0
+          },
+          "prompt": "Part 1 spoken question 6?",
+          "options": [
+            "P1 Q6 option A",
+            "P1 Q6 option B",
+            "P1 Q6 option C",
+            "P1 Q6 option D"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 100.0,
+        "end": 129.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 130.0,
+            "end": 134.0
+          },
+          "prompt": "Part 1 spoken question 7?",
+          "options": [
+            "P1 Q7 option A",
+            "P1 Q7 option B",
+            "P1 Q7 option C",
+            "P1 Q7 option D"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 135.0,
+            "end": 139.0
+          },
+          "prompt": "Where will the man meet his friend?",
+          "options": [
+            "q8-a.png",
+            "q8-b.png",
+            "q8-c.png",
+            "q8-d.png"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import { TestCard } from "./test-card"
 
 describe("TestCard", () => {
   it("offers a start link for the full test and each part", () => {
-    render(<TestCard id="demo-1" title="Practice Test 1" />)
+    render(<TestCard section="reading" id="demo-1" title="Practice Test 1" />)
     const hrefs = screen.getAllByRole("link", { name: "Start" }).map((a) => a.getAttribute("href"))
     expect(hrefs).toEqual(["/reading/demo-1", "/reading/demo-1/1", "/reading/demo-1/2", "/reading/demo-1/3", "/reading/demo-1/4"])
     expect(screen.queryByRole("link", { name: /Results/ })).not.toBeInTheDocument()
@@ -15,13 +15,13 @@ describe("TestCard", () => {
   })
 
   it("links to the source when there is one", () => {
-    render(<TestCard id="demo-1" title="Practice Test 1" source="https://www.youtube.com/watch?v=abc" />)
+    render(<TestCard section="reading" id="demo-1" title="Practice Test 1" source="https://www.youtube.com/watch?v=abc" />)
     expect(screen.getByRole("link", { name: "Source" })).toHaveAttribute("href", "https://www.youtube.com/watch?v=abc")
   })
 
   it("shows results and clear for a run taken before", async () => {
-    saveResult("demo-1", "2", { answers: {}, score: 5, total: 8 })
-    render(<TestCard id="demo-1" title="Practice Test 1" />)
+    saveResult("reading", "demo-1", "2", { answers: {}, score: 5, total: 8 })
+    render(<TestCard section="reading" id="demo-1" title="Practice Test 1" />)
     const row = screen.getByTestId("run-2")
     expect(within(row).getByRole("link", { name: "Results 5/8" })).toHaveAttribute("href", "/reading/demo-1/results/2")
     expect(within(screen.getByTestId("run-full")).queryByRole("link", { name: /Results/ })).not.toBeInTheDocument()
@@ -31,8 +31,8 @@ describe("TestCard", () => {
   })
 
   it("updates when a result is saved elsewhere", () => {
-    render(<TestCard id="demo-1" title="Practice Test 1" />)
-    act(() => saveResult("demo-1", "full", { answers: {}, score: 30, total: 38 }))
+    render(<TestCard section="reading" id="demo-1" title="Practice Test 1" />)
+    act(() => saveResult("reading", "demo-1", "full", { answers: {}, score: 30, total: 38 }))
     expect(screen.getByRole("link", { name: "Results 30/38" })).toBeInTheDocument()
   })
 })

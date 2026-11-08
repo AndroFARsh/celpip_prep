@@ -17,12 +17,12 @@ async function answerPart(page: Page, part: number) {
   }
 }
 
-// demo-1 is the first card on the home page.
+// demo-1 is the first card on the reading page.
 const row = (page: Page, run: string) => page.getByTestId(`run-${run}`).first()
 const next = (page: Page) => page.getByRole("button", { name: "Next" }).click()
 
 test("full test: Next moves through every part, then shows saved results", async ({ page }) => {
-  await page.goto("/")
+  await page.goto("/reading")
   await row(page, "full").getByRole("link", { name: "Start" }).click()
   for (const part of [1, 2, 3, 4]) {
     await expect(page.getByRole("heading", { name: new RegExp(`Reading Part ${part}`) })).toBeVisible()
@@ -32,12 +32,13 @@ test("full test: Next moves through every part, then shows saved results", async
   await expect(page).toHaveURL("/reading/demo-1/results/full/")
   await expect(page.getByTestId("score")).toHaveText("Score: 38 / 38")
   await expect(page.getByText("Correct", { exact: true })).toHaveCount(38)
+  await expect(page.getByTestId("level")).toHaveText("CELPIP level 12 (estimate)")
   await page.reload()
   await expect(page.getByTestId("score")).toHaveText("Score: 38 / 38")
 })
 
 test("single part: Next goes straight to that part's results", async ({ page }) => {
-  await page.goto("/")
+  await page.goto("/reading")
   await row(page, "3").getByRole("link", { name: "Start" }).click()
   await expect(page).toHaveURL("/reading/demo-1/3/")
   await expect(page.getByRole("heading", { name: "Reading Part 3: Reading for Information" })).toBeVisible()
@@ -66,19 +67,20 @@ test("clear result on the results page", async ({ page }) => {
   await page.goto("/reading/demo-1/4")
   await next(page)
   await page.getByRole("button", { name: "Clear result" }).click()
-  await expect(page).toHaveURL("/")
+  await expect(page).toHaveURL("/reading/")
   await expect(row(page, "4").getByRole("link", { name: /Results/ })).toHaveCount(0)
   await page.goto("/reading/demo-1/results/4")
   await expect(page.getByText("No saved result.")).toBeVisible()
 })
 
 test("start always begins a fresh run", async ({ page }) => {
-  await page.goto("/")
+  await page.goto("/reading")
   await row(page, "full").getByRole("link", { name: "Start" }).click()
   await answerPart(page, 1)
   await next(page)
   await expect(page.getByRole("heading", { name: /Reading Part 2/ })).toBeVisible()
-  await page.getByRole("link", { name: "CELPIP Reading Practice" }).click()
+  await page.getByRole("link", { name: "CELPIP Practice" }).click()
+  await page.getByRole("link", { name: "Reading tests" }).click()
   await row(page, "full").getByRole("link", { name: "Start" }).click()
   await expect(page.getByRole("heading", { name: /Reading Part 1/ })).toBeVisible()
   await expect(page.getByLabel("Time remaining")).toContainText("11:0")
@@ -113,7 +115,7 @@ test("dark mode renders the test", async ({ browser }) => {
 })
 
 test("pages fit the viewport without horizontal scroll", async ({ page }) => {
-  for (const url of ["/", "/reading/demo-1", "/reading/demo-1/2"]) {
+  for (const url of ["/", "/reading", "/reading/demo-1", "/reading/demo-1/2", "/reading/demo-1/results/full"]) {
     await page.goto(url)
     await page.waitForLoadState("networkidle")
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth)

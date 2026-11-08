@@ -2,10 +2,13 @@ import { useSyncExternalStore } from "react"
 
 import type { Run } from "./runs"
 import type { Answers } from "./scoring"
+import type { Section } from "./sections"
 
 export type SavedResult = { answers: Answers; score: number; total: number }
 
-const key = (testId: string, run: Run) => `celpip:${testId}:${run}`
+// Reading keeps its original key so results saved before other sections existed are kept.
+const key = (section: Section, testId: string, run: Run) =>
+  section === "reading" ? `celpip:${testId}:${run}` : `celpip:${section}:${testId}:${run}`
 const listeners = new Set<() => void>()
 
 function subscribe(listener: () => void) {
@@ -19,20 +22,20 @@ function subscribe(listener: () => void) {
 
 const emit = () => listeners.forEach((l) => l())
 
-export function saveResult(testId: string, run: Run, result: SavedResult) {
-  localStorage.setItem(key(testId, run), JSON.stringify(result))
+export function saveResult(section: Section, testId: string, run: Run, result: SavedResult) {
+  localStorage.setItem(key(section, testId, run), JSON.stringify(result))
   emit()
 }
 
-export function clearResult(testId: string, run: Run) {
-  localStorage.removeItem(key(testId, run))
+export function clearResult(section: Section, testId: string, run: Run) {
+  localStorage.removeItem(key(section, testId, run))
   emit()
 }
 
-export function useResult(testId: string, run: Run): SavedResult | null {
+export function useResult(section: Section, testId: string, run: Run): SavedResult | null {
   const raw = useSyncExternalStore(
     subscribe,
-    () => localStorage.getItem(key(testId, run)),
+    () => localStorage.getItem(key(section, testId, run)),
     () => null,
   )
   return raw ? JSON.parse(raw) : null

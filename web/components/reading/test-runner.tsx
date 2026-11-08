@@ -67,7 +67,7 @@ function PartScreen({ test, part, answers, onAnswer, onNext }: PartScreenProps) 
 
 export function TestRunner({ test, run }: { test: ReadingTest; run: Run }) {
   const router = useRouter()
-  const parts = runParts(run)
+  const parts = runParts("reading", run)
   const [step, setStep] = useState(0)
   const [attempt, setAttempt] = useState(0)
   const [answers, setAnswers] = useState<Answers>({})
@@ -86,8 +86,8 @@ export function TestRunner({ test, run }: { test: ReadingTest; run: Run }) {
   const onNext = useCallback(() => {
     if (step < parts.length - 1) return setStep(step + 1)
     const items = parts.flatMap((p) => itemsForPart(test, p))
-    saveResult(test.id, run, { answers, score: score(items, answers), total: items.length })
-    router.push(resultsPath(test.id, run))
+    saveResult("reading", test.id, run, { answers, score: score(items, answers), total: items.length })
+    router.push(resultsPath("reading", test.id, run))
   }, [step, parts, test, run, answers, router])
 
   return (

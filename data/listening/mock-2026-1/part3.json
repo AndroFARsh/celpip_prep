@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 858.1,
+    "end": 975.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 978.2,
+        "end": 982.1
+      },
+      "prompt": "Why must members shower first?",
+      "options": [
+        "Remove lotion only",
+        "Protect filtering equipment",
+        "Perfume is allowed",
+        "Showers line hallway"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1009.2,
+        "end": 1013.7
+      },
+      "prompt": "Why will Mrs. Chen use the app?",
+      "options": [
+        "Avoid waiting around",
+        "Open lanes capped",
+        "Waiting is enjoyable",
+        "Slots last forty-five minutes"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1040.2,
+        "end": 1043.7
+      },
+      "prompt": "Why avoid old foam boards?",
+      "options": [
+        "Hard plastic required",
+        "Foam boards safest",
+        "Spares near entrance",
+        "Fragments block drains"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1071.1,
+        "end": 1074.5
+      },
+      "prompt": "Why will they visit on weekdays?",
+      "options": [
+        "Guest passes cost ten",
+        "Weekends fully open",
+        "Guests allowed weekdays",
+        "Sandals required outside"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1102.3,
+        "end": 1105.6
+      },
+      "prompt": "Why does the pool close earlier?",
+      "options": [
+        "Gym closes at ten",
+        "Staff need cleaning time",
+        "Pool stays open later",
+        "Wet floors need sandals"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1133.3,
+        "end": 1136.5
+      },
+      "prompt": "Why was the opening delayed?",
+      "options": [
+        "Builder sent message",
+        "Pool finished early",
+        "Tiles aren't finished",
+        "Opening was Monday"
+      ],
+      "answer": 2
+    }
+  ]
+}

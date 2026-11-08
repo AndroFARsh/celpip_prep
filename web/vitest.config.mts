@@ -10,6 +10,9 @@ export default defineConfig({
     setupFiles: ["./vitest.setup.ts"],
     include: ["**/*.test.{ts,tsx}"],
     exclude: ["node_modules", "e2e"],
-    env: { READING_DATA_DIR: path.resolve(import.meta.dirname, "test/fixtures/reading") },
+    env: {
+      READING_DATA_DIR: path.resolve(import.meta.dirname, "test/fixtures/reading"),
+      LISTENING_DATA_DIR: path.resolve(import.meta.dirname, "test/fixtures/listening"),
+    },
   },
 })

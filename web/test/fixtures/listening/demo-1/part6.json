@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 495.0,
+    "end": 584.0
+  },
+  "questions": [
+    {
+      "prompt": "Part 6 question 1 is ______.",
+      "options": [
+        "P6 Q1 option A",
+        "P6 Q1 option B",
+        "P6 Q1 option C",
+        "P6 Q1 option D"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Part 6 question 2 is ______.",
+      "options": [
+        "P6 Q2 option A",
+        "P6 Q2 option B",
+        "P6 Q2 option C",
+        "P6 Q2 option D"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Part 6 question 3 is ______.",
+      "options": [
+        "P6 Q3 option A",
+        "P6 Q3 option B",
+        "P6 Q3 option C",
+        "P6 Q3 option D"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Part 6 question 4 is ______.",
+      "options": [
+        "P6 Q4 option A",
+        "P6 Q4 option B",
+        "P6 Q4 option C",
+        "P6 Q4 option D"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Part 6 question 5 is ______.",
+      "options": [
+        "P6 Q5 option A",
+        "P6 Q5 option B",
+        "P6 Q5 option C",
+        "P6 Q5 option D"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Part 6 question 6 is ______.",
+      "options": [
+        "P6 Q6 option A",
+        "P6 Q6 option B",
+        "P6 Q6 option C",
+        "P6 Q6 option D"
+      ],
+      "answer": 2
+    }
+  ]
+}

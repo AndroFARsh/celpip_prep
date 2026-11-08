@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 566.8,
+    "end": 685.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 686.0,
+        "end": 689.2
+      },
+      "prompt": "Why did David pick the hospital?",
+      "options": [
+        "Team missed quarterly target",
+        "Cookies are everyone's favorite",
+        "Donations stay nearby",
+        "Funds support overseas projects"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 716.9,
+        "end": 721.0
+      },
+      "prompt": "Why does Brenda suggest a sign-up sheet?",
+      "options": [
+        "Handle allergy concerns",
+        "Prevent repeated treats",
+        "Encourage identical baked goods",
+        "Reserve the meeting room"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 748.1,
+        "end": 752.1
+      },
+      "prompt": "Why will Brenda bake vegan brownies?",
+      "options": [
+        "Add more variety",
+        "Brownies sell fastest",
+        "Replace all other desserts",
+        "Include guests with restrictions"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 779.1,
+        "end": 782.3
+      },
+      "prompt": "Why is the lobby rejected?",
+      "options": [
+        "Manager approval uncertain",
+        "Few people pass through",
+        "Security desk complicates things",
+        "Meeting room is closer"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 810.0,
+        "end": 813.5
+      },
+      "prompt": "Why was the date changed?",
+      "options": [
+        "Room unavailable Thursday",
+        "Fridays suit treats",
+        "Room open Thursday",
+        "Brenda is emailing everyone"
+      ],
+      "answer": 0
+    }
+  ]
+}

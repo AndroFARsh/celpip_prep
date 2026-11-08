@@ -6,40 +6,43 @@ import { Button } from "@/components/ui/button"
 import { Card, CardAction, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Separator } from "@/components/ui/separator"
 import { clearResult, useResult } from "@/lib/results-store"
-import { resultsPath, RUNS, runLabel, runPath, type Run } from "@/lib/runs"
+import { resultsPath, runLabel, runPath, runsFor, type Run } from "@/lib/runs"
+import { SECTIONS, type Section } from "@/lib/sections"
 
-function RunRow({ testId, run }: { testId: string; run: Run }) {
-  const result = useResult(testId, run)
+type Props = { section: Section; id: string; title: string; source?: string }
+
+function RunRow({ section, testId, run }: { section: Section; testId: string; run: Run }) {
+  const result = useResult(section, testId, run)
   return (
     <div className="flex flex-wrap items-center justify-between gap-2" data-testid={`run-${run}`}>
-      <span className="text-sm">{runLabel(run)}</span>
+      <span className="text-sm">{runLabel(section, run)}</span>
       <div className="flex gap-2">
         {result && (
           <>
             <Button variant="outline" size="sm" asChild>
-              <Link href={resultsPath(testId, run)}>
+              <Link href={resultsPath(section, testId, run)}>
                 Results {result.score}/{result.total}
               </Link>
             </Button>
-            <Button variant="ghost" size="sm" onClick={() => clearResult(testId, run)}>
+            <Button variant="ghost" size="sm" onClick={() => clearResult(section, testId, run)}>
               Clear
             </Button>
           </>
         )}
         <Button size="sm" asChild>
-          <Link href={runPath(testId, run)}>Start</Link>
+          <Link href={runPath(section, testId, run)}>Start</Link>
         </Button>
       </div>
     </div>
   )
 }
 
-export function TestCard({ id, title, source }: { id: string; title: string; source?: string }) {
+export function TestCard({ section, id, title, source }: Props) {
   return (
     <Card>
       <CardHeader>
         <CardTitle>{title}</CardTitle>
-        <CardDescription>4 parts, 38 questions, 55-60 minutes</CardDescription>
+        <CardDescription>{SECTIONS[section].summary}</CardDescription>
         {source && (
           <CardAction>
             <Button variant="link" size="sm" asChild>
@@ -51,10 +54,10 @@ export function TestCard({ id, title, source }: { id: string; title: string; sou
         )}
       </CardHeader>
       <CardContent className="flex flex-col gap-3">
-        {RUNS.map((run, i) => (
+        {runsFor(section).map((run, i) => (
           <div key={run} className="flex flex-col gap-3">
             {i === 1 && <Separator />}
-            <RunRow testId={id} run={run} />
+            <RunRow section={section} testId={id} run={run} />
           </div>
         ))}
       </CardContent>

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1461.4,
+    "end": 1547.9
+  },
+  "questions": [
+    {
+      "prompt": "Why does Ryan resist the suburbs?",
+      "options": [
+        "Missing last train",
+        "Travel-induced exhaustion",
+        "Welcomes lengthy journeys",
+        "Wants building gym"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What drives Kevin toward the suburbs?",
+      "options": [
+        "Easy train access",
+        "Larger shared kitchen",
+        "Secure bike space",
+        "Long-term savings"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why does Lily mention the last train?",
+      "options": [
+        "Restricted late-night outings",
+        "Lengthy forty-minute ride",
+        "Trains run overnight",
+        "Station near home"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Lily see the suburban bedrooms?",
+      "options": [
+        "Tiny cooking area",
+        "Identical room sizes",
+        "Possible roommate quarrels",
+        "Costly gym fees"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Ryan's gym remark imply?",
+      "options": [
+        "Downtown rooms are equal",
+        "Hidden downtown cost offset",
+        "Downtown costs even more",
+        "Suburbs feel cramped"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Kevin suggest a two-year lease?",
+      "options": [
+        "Finalize before today ends",
+        "Dodge downtown altogether",
+        "Reserve bike space",
+        "Exchange commitment for discount"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What happens if the landlord refuses?",
+      "options": [
+        "Suburbs become default",
+        "Accept downtown regardless",
+        "Ask about parking",
+        "Sign two-year suburban lease"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Kevin want a parking spot?",
+      "options": [
+        "Daily car commuting",
+        "Abandoning the downtown plan",
+        "Storing personal belongings",
+        "Negotiating lower rent"
+      ],
+      "answer": 2
+    }
+  ]
+}

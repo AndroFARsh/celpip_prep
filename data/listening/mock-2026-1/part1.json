@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.7,
+        "end": 181.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 181.8,
+            "end": 185.4
+          },
+          "prompt": "Why does Julian call the hotel?",
+          "options": [
+            "To postpone his stay",
+            "To secure his late arrival",
+            "To complain about delays",
+            "To confirm his payment"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 212.7,
+            "end": 217.4
+          },
+          "prompt": "Why is Julian worried about arriving at 1 o'clock?",
+          "options": [
+            "The desk might be empty",
+            "His reservation might vanish",
+            "The doors might be locked",
+            "Traffic might get worse"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 243.8,
+            "end": 249.1
+          },
+          "prompt": "What can be inferred about Julian's arrival at 1:30?",
+          "options": [
+            "He will need a key",
+            "He will miss the cutoff",
+            "He will cancel the booking",
+            "He will skip the clerk"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 285.7,
+        "end": 334.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 334.8,
+            "end": 339.7
+          },
+          "prompt": "Why is Julian bothered by the locked doors?",
+          "options": [
+            "His bags are heavy",
+            "He lacks a key",
+            "The intercom may fail",
+            "The clerk may sleep"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 365.8,
+            "end": 370.2
+          },
+          "prompt": "Why does Ms. Sterling recommend the garage?",
+          "options": [
+            "It needs no ticket",
+            "It is more secure",
+            "It is nearer the lobby",
+            "It has free spaces"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 396.9,
+            "end": 401.3
+          },
+          "prompt": "Why does Julian feel relieved at the end?",
+          "options": [
+            "Staff will help downstairs",
+            "The elevator is working",
+            "The gate scan is easy",
+            "His room is guaranteed"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 438.9,
+        "end": 487.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 487.9,
+            "end": 493.2
+          },
+          "prompt": "Why does Julian change his wake-up call to 5:30?",
+          "options": [
+            "Travel may take long",
+            "His meeting is at seven",
+            "He wants extra sleep",
+            "His flight was delayed"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 518.8,
+            "end": 523.0
+          },
+          "prompt": "Where can Julian get food late at night?",
+          "options": [
+            "q8-a.jpg",
+            "q8-b.jpg",
+            "q8-c.jpg",
+            "q8-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

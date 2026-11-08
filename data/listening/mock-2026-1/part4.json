@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1182.4,
+    "end": 1261.8
+  },
+  "questions": [
+    {
+      "prompt": "The program aims to ______",
+      "options": [
+        "Fund large corporations",
+        "Remove startup barriers",
+        "Lower local rents",
+        "Train city employees"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The mayor believes new ventures ______",
+      "options": [
+        "Strengthen communities",
+        "Replace big stores",
+        "Reduce city spending",
+        "Attract tourists"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Rosa's story suggests funding would ______",
+      "options": [
+        "Shorten her wait",
+        "Expand her bakery",
+        "Cover her rent",
+        "Train her staff"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Critics doubt the amount is ______",
+      "options": [
+        "Fairly distributed",
+        "Properly advertised",
+        "Realistically sufficient",
+        "Available to everyone"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Winners also receive ______",
+      "options": [
+        "Free shop space",
+        "Practical business guidance",
+        "Marketing contracts",
+        "Equipment discounts"
+      ],
+      "answer": 1
+    }
+  ]
+}

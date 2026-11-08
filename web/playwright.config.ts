@@ -1,8 +1,10 @@
 import { defineConfig, devices } from "@playwright/test"
 import path from "node:path"
 
-// e2e runs against the fixture tests, not the user's data/reading.
+// e2e runs against the fixture tests, not the user's data/, and a fake player instead of YouTube.
 process.env.READING_DATA_DIR = path.resolve(__dirname, "test/fixtures/reading")
+process.env.LISTENING_DATA_DIR = path.resolve(__dirname, "test/fixtures/listening")
+process.env.NEXT_PUBLIC_FAKE_AUDIO = "1"
 
 export default defineConfig({
   testDir: "e2e",

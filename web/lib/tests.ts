@@ -14,7 +14,7 @@ import {
 export const REPO_DATA_DIR = path.join(/* turbopackIgnore: true */ process.cwd(), "..", "data", "reading")
 export const DATA_DIR = process.env.READING_DATA_DIR ?? REPO_DATA_DIR
 
-async function readJson(file: string) {
+export async function readJson(file: string) {
   return JSON.parse(await readFile(file, "utf8"))
 }
 
@@ -37,11 +37,15 @@ const MIME: Record<string, string> = {
   ".svg": "image/svg+xml",
 }
 
-export async function loadDiagram(file: string): Promise<Diagram> {
-  const ext = path.extname(file).toLowerCase()
-  if (ext === ".html") return { kind: "html", html: await readFile(file, "utf8") }
+/** Image file as a data URL, so no asset route is needed in the static export. */
+export async function loadImage(file: string) {
   const data = await readFile(file)
-  return { kind: "image", src: `data:${MIME[ext]};base64,${data.toString("base64")}` }
+  return `data:${MIME[path.extname(file).toLowerCase()]};base64,${data.toString("base64")}`
+}
+
+export async function loadDiagram(file: string): Promise<Diagram> {
+  if (path.extname(file).toLowerCase() === ".html") return { kind: "html", html: await readFile(file, "utf8") }
+  return { kind: "image", src: await loadImage(file) }
 }
 
 export async function loadTest(id: string, dir = DATA_DIR): Promise<ReadingTest> {

@@ -2,6 +2,7 @@ import { Suspense } from "react"
 
 import { TestRunner } from "@/components/reading/test-runner"
 import { loadRun } from "@/lib/load-run"
+import { runsFor } from "@/lib/runs"
 import { listTests } from "@/lib/tests"
 
 async function Run({ params }: { params: Promise<{ id: string; part: string }> }) {
@@ -10,7 +11,7 @@ async function Run({ params }: { params: Promise<{ id: string; part: string }> }
 }
 
 export async function generateStaticParams() {
-  return (await listTests()).flatMap((t) => ["1", "2", "3", "4"].map((part) => ({ id: t.id, part })))
+  return (await listTests()).flatMap((t) => runsFor("reading").slice(1).map((part) => ({ id: t.id, part })))
 }
 
 export default function Page({ params }: PageProps<"/reading/[id]/[part]">) {
