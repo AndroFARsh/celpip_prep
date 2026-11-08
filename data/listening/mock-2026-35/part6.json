@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2057.4,
+    "end": 2192.5
+  },
+  "questions": [
+    {
+      "prompt": "The \"democratization of high fashion\" mentioned in the text serves to ______",
+      "options": [
+        "Increase the price of a latte in downtown cores.",
+        "Highlight the accessibility of current retail trends.",
+        "Justify the high-grade synthetics used in production.",
+        "Support the low-grade durability of modern outfits."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "According to the passage, the most significant environmental threat stems from ______",
+      "options": [
+        "The billions of cubic meters of water consumed annually.",
+        "The 10% of global carbon emissions produced by the industry.",
+        "The psychological shift toward temporary garment ownership.",
+        "The millions of tons of textile waste ending up in landfills."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Skeptics of circularity believe the transition may inadvertently ______",
+      "options": [
+        "Scale too quickly for the current infrastructure.",
+        "Increase the democratization of high fashion.",
+        "Marginalize economically vulnerable consumers.",
+        "Revolutionize textile-to-textile recycling."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The primary technical obstacle to efficient recycling is currently ______",
+      "options": [
+        "The lack of robust recycling infrastructures.",
+        "The inability to deconstruct hybrid textiles.",
+        "The low quality of cotton-polyester yarn.",
+        "The failure of 'take-back' pilot programs."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The author suggests that for the planet’s sake, consumers must change their ______",
+      "options": [
+        "Wardrobes into high-end resale markets.",
+        "Purchasing frequency of trendy outfits.",
+        "Conceptualization of clothing as assets.",
+        "Use of clothes-sharing platforms."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Which statement best summarizes the \"Circular Economy\" pillars mentioned? ______",
+      "options": [
+        "Make, take, and waste responsibly.",
+        "Sustainable sourcing, durability, and recovery.",
+        "Low-grade synthetics and high-end resale.",
+        "Rapid production and robust infrastructure."
+      ],
+      "answer": 1
+    }
+  ]
+}

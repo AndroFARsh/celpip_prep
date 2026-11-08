@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 956.9,
+    "end": 1158.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1158.8,
+        "end": 1164.7
+      },
+      "prompt": "What characterizes the revised protocol for external consultants?",
+      "options": [
+        "They must obtain a \"QR code\" at least twenty-four hours in advance.",
+        "They are granted unassisted passage through the lobby turnstiles.",
+        "Their credentials must be validated against a government-issued document.",
+        "They may utilize the elevators once the receptionist prints their badge."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1189.3,
+        "end": 1194.8
+      },
+      "prompt": "Which of the following is an implied responsibility of the employee?",
+      "options": [
+        "Supervising visitors during their entire tenure on the premises.",
+        "Reporting to \"Room 102\" to pay a twenty-five-dollar activation fee.",
+        "Testing the \"local alarm\" on the side entrance near the cafeteria.",
+        "Providing \"photo ID\" for the consultants before the quarterly audit."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1220.7,
+        "end": 1227.0
+      },
+      "prompt": "Why is the side entrance now considered a high-risk area for staff?",
+      "options": [
+        "It has been permanently sealed to prevent shortcuts to the coffee shop.",
+        "Unauthorized usage triggers a response from external emergency services.",
+        "The \"smoking area\" has been relocated due to new fire department codes.",
+        "It requires a unique QR code that is only issued during a building-wide alert."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1251.7,
+        "end": 1257.8
+      },
+      "prompt": "How does the smart key differ functionally from the previous system?",
+      "options": [
+        "It utilizes \"high-frequency\" signals to bypass the need for physical contact.",
+        "It allows for \"remote\" deactivation if the device is scratched.",
+        "It provides \"tiered access\" to the parking garage and main lobby.",
+        "It requires three or four tries against the \"sensor\" to activate."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1282.8,
+        "end": 1288.7
+      },
+      "prompt": "Which scenario would result in a financial penalty for the employee?",
+      "options": [
+        "Requesting access to the \"sensitive document archives.\"",
+        "Forgetting to \"pre-register\" a visitor twenty-four hours in advance.",
+        "Misplacing the \"high-frequency smart key\" issued by the firm.",
+        "Accidentally triggering the \"local alarm\" during a lunch break."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1313.4,
+        "end": 1319.7
+      },
+      "prompt": "What is the manager's underlying tone regarding the emergency exit?",
+      "options": [
+        "He is \"glad\" that the employee plans to use the shortcut.",
+        "He is warning against a previously common but now prohibited habit.",
+        "He is concerned that the \"technicians\" installed the alarm incorrectly.",
+        "He is dismissive of the \"building-wide alert\" as a minor inconvenience."
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1708.3,
+    "end": 1858.2
+  },
+  "questions": [
+    {
+      "prompt": "Which statement best summarizes Ethan’s primary motivation?",
+      "options": [
+        "To maximize his investment in low-cost index funds.",
+        "To achieve total autonomy over his daily schedule.",
+        "To ensure he can live in a smaller apartment by forty.",
+        "To avoid the social interactions of a corporate environment."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sloane’s critique of Ethan’s lifestyle suggests she views his plan as:",
+      "options": [
+        "A lack of financial literacy and market awareness.",
+        "An over-reliance on the \"Four Percent Rule.\"",
+        "A trade-off that compromises his immediate well-being.",
+        "A calculated risk that ignores future healthcare costs."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is Julian’s most significant reservation regarding early retirement?",
+      "options": [
+        "The volatility of the stock market over fifteen years.",
+        "The inability to afford a luxury lifestyle or travel.",
+        "The potential for psychological stagnation after leaving work.",
+        "The difficulty of maintaining a fifty percent savings rate."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Based on the conversation, \"optionality\" is most nearly defined as:",
+      "options": [
+        "The ability to choose labor based on passion rather than debt.",
+        "The requirement to work only in woodworking or volunteering.",
+        "The strategy of withdrawing four percent of a portfolio.",
+        "The decision to live without a \"Plan B\" during a market crash."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Julian mentions the \"Four Percent Rule\" primarily to:",
+      "options": [
+        "Support Ethan's plan to live in a smaller apartment.",
+        "Counter Sloane's perception of the movement's recklessness.",
+        "Suggest that a fifty percent savings rate is unnecessary.",
+        "Prove that inflation is the greatest threat to retirement."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sloane’s \"mini-retirement\" proposal indicates that she prefers:",
+      "options": [
+        "\"Flamingo FIRE\" over \"Coast FIRE.\"",
+        "Permanent leisure over a traditional 9-to-5 career.",
+        "Periodic recovery over delayed gratification.",
+        "Saving more now to avoid working until sixty-five."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Julian’s final perspective on the FIRE movement is that it is:",
+      "options": [
+        "A rigid math problem that ignores the reality of inflation.",
+        "A spectrum of strategies rather than a single extreme path.",
+        "An impossible goal for anyone living paycheck to paycheck.",
+        "A social movement that relies too heavily on index funds."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Ethan’s concluding remarks suggest that the movement’s secondary benefit is:",
+      "options": [
+        "Retiring by forty even if the market crashes.",
+        "Promoting a culture of woodworking and volunteering.",
+        "Improving one's general financial preparedness.",
+        "Elimination of the need for a \"Plan B.\""
+      ],
+      "answer": 2
+    }
+  ]
+}

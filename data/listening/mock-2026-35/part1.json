@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.5,
+        "end": 195.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 196.5,
+            "end": 202.1
+          },
+          "prompt": "What is the primary cause of the current disagreement?",
+          "options": [
+            "A misunderstanding regarding the new software migration.",
+            "A scheduling overlap in a specialized Boardroom.",
+            "An administrative oversight during the quarterly audit.",
+            "Incompatibility between two high-priority corporate obligations."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 227.5,
+            "end": 233.4
+          },
+          "prompt": "How does Maya justify her claim to the space?",
+          "options": [
+            "By emphasizing the physical paper trails required by the external auditors.",
+            "By highlighting the penalties associated with the compliance review.",
+            "By suggesting that her booking was made three weeks ago.",
+            "By pointing out the mandatory nature of the upcoming evaluation."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 258.6,
+            "end": 264.7
+          },
+          "prompt": "What is Liam's main concern regarding the proposed change?",
+          "options": [
+            "The six-figure revenue loss from a delay.",
+            "The difficulty of coordinating stakeholders in different time zones.",
+            "The potential for a significant postponement of a product release.",
+            "The dual-screen setup being unavailable for his virtual meeting."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 300.6,
+        "end": 388.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 388.6,
+            "end": 395.6
+          },
+          "prompt": "Why does Maya reject the idea of working in the open plan lounge?",
+          "options": [
+            "She requires a specific dual-screen setup for payroll analysis.",
+            "The area is currently occupied by a storage purge.",
+            "The nature of her task demands a high level of confidentiality.",
+            "She cannot digitize the audit trail for the current verification."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 419.4,
+            "end": 424.3
+          },
+          "prompt": "What is the current status of the War Room?",
+          "options": [
+            "It is being utilized for a windowless privacy audit.",
+            "It is technically unavailable according to the official schedule.",
+            "It is being actively cleared by the facilities staff.",
+            "It is being used to house high-tech dual-screen monitors."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 450.6,
+            "end": 456.3
+          },
+          "prompt": "What is the proposed resolution to the colleague's dilemma?",
+          "options": [
+            "Relocating the audit to a more secure, low-tech environment.",
+            "Moving the stakeholders to the fourth floor for the presentation.",
+            "Digitizing the hard copies to allow for a more flexible workspace.",
+            "Repairing the HVAC system to make the Innovation Lab usable."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 492.7,
+        "end": 559.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 559.9,
+            "end": 568.0
+          },
+          "prompt": "What is Liam's primary motivation for offering to assist Maya with the heavy lifting?",
+          "options": [
+            "To ensure he has enough time for a technical rehearsal.",
+            "To compensate for the \"finder’s fee\" he owes the facilities team.",
+            "To avoid a potential misunderstanding via digital communication.",
+            "To help Maya finish her audit verification before the 9:00 AM deadline."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 591.0,
+            "end": 598.2
+          },
+          "prompt": "What unexpected benefit does Maya identify regarding the new location?",
+          "options": [
+            "The proximity to the elevators will make moving boxes easier.",
+            "The auditors will have easier access to onsite amenities.",
+            "The room is better equipped for high-stakes financial pitches.",
+            "It provides more privacy than the \"Fishbowl\" office."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

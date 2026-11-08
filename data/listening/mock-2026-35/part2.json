@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 638.8,
+    "end": 784.5
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 784.9,
+        "end": 790.0
+      },
+      "prompt": "What is the primary catalyst for David's phone call?",
+      "options": [
+        "The arrival of a physical document regarding his tenure.",
+        "A discrepancy in the final cleaning receipt.",
+        "The unexpected cost of professional wall repairs.",
+        "Disagreement over the \"spotless\" condition of 4B."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 815.8,
+        "end": 823.1
+      },
+      "prompt": "Mrs. Higgins' initial justification for the deductions relies on...",
+      "options": [
+        "The duration of David's three-year occupancy.",
+        "Explicit provisions within the rental agreement.",
+        "Visible debris left on the kitchen linoleum.",
+        "Digital photos taken during the move-out inspection."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 847.3,
+        "end": 854.1
+      },
+      "prompt": "Which statement best characterizes David's defense regarding the wall?",
+      "options": [
+        "He claims the damage constitutes standard residential degradation.",
+        "He insists he performed a full prime and repaint himself.",
+        "He argues the scuff mark was documented in the hallway report.",
+        "He suggests the previous tenant left \"minor scuffs\" behind."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 878.2,
+        "end": 884.6
+      },
+      "prompt": "What reveals a potential flaw in the landlord's current records?",
+      "options": [
+        "The move-in sheet lacks any mention of the hallway.",
+        "The paper file contradicts the digital photo evidence.",
+        "The written documentation may be less detailed than the visual archive.",
+        "The receipt from the cleaning crew is missing from the file."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 909.3,
+        "end": 917.1
+      },
+      "prompt": "David uses his history as a reliable tenant, primarily to...",
+      "options": [
+        "Prove that he cleaned the kitchen linoleum.",
+        "Avoid paying the three-hundred-dollar cleaning fee.",
+        "Establish his credibility regarding his verbal claims.",
+        "Negotiate a move to a unit other than 4B."
+      ],
+      "answer": 2
+    }
+  ]
+}

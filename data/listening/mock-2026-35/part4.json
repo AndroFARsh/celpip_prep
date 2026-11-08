@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1362.7,
+    "end": 1505.2
+  },
+  "questions": [
+    {
+      "prompt": "The Mayor suggests that the primary catalyst for the new facility is ______",
+      "options": [
+        "The sixty-year-old hospital's infrastructure.",
+        "The shifting demographic profile of the city.",
+        "The 115% surge in local population growth.",
+        "The current shortage of specialized surgical suites."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "David Chen’s primary grievance regarding the proposal is centered on ______",
+      "options": [
+        "The necessity of the Northview Memorial Hospital.",
+        "The 8% increase in recent road and school costs.",
+        "The narrowness of the proposed funding source.",
+        "The lack of provincial lobbying by the city."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Dr. Varma’s testimony served to reframe the tax increase as a ______",
+      "options": [
+        "Reasonable cost for localized equipment failure.",
+        "Necessary evil to avoid two-hour travel times.",
+        "Vital investment to prevent human loss.",
+        "Sobering account of the city's energy."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Based on the timeline provided, the commencement of the project is ______",
+      "options": [
+        "Contingent upon the next fiscal year.",
+        "Dependent on the final vote next Tuesday.",
+        "Scheduled for the end of the third quarter.",
+        "Effective immediately after the Hospital Funding Act."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"Hospital Funding Act\" can best be described as a ______",
+      "options": [
+        "Controversial 3.5% residential property tax.",
+        "Legislative vehicle for the revenue hike.",
+        "Plan for increased provincial funding.",
+        "Proposal for Northview Memorial's construction."
+      ],
+      "answer": 1
+    }
+  ]
+}
