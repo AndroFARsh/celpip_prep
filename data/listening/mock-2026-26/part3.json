@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 971.2,
+    "end": 1123.4
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1124.3,
+        "end": 1131.2
+      },
+      "prompt": "Why does Ms. Zhang describe the registration as a military operation?",
+      "options": [
+        "The \"Mountain View Summer Camp\" has a strict hierarchy.",
+        "Success depends on precise timing and prior readiness.",
+        "It requires a \"Priority Enrollment\" code for all families.",
+        "The \"Medical Clearance\" must be signed by an officer."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1155.4,
+        "end": 1162.6
+      },
+      "prompt": "What is the primary benefit of having participated in weekend sports clinics?",
+      "options": [
+        "Automatic selection for the \"Adventure Trek\" program.",
+        "A \"full refund\" on the fifty-dollar deposit.",
+        "A temporal advantage in the enrollment sequence.",
+        "Eligibility for the \"Early Bird\" ten-percent discount."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1186.3,
+        "end": 1194.5
+      },
+      "prompt": "To maximize speed during the general public window, what should a parent deprioritize?",
+      "options": [
+        "Confirming the \"User Profile\" details.",
+        "Entering \"Credit Card\" information.",
+        "Completing the \"Bunkmate Request\" section.",
+        "Submitting mandatory health documentation."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1217.4,
+        "end": 1224.5
+      },
+      "prompt": "Which financial scenario offers the most significant cost saving for Mr. Wallace?",
+      "options": [
+        "Utilizing the \"Installment Plan\" with an administrative fee.",
+        "Paying the \"fifty-dollar deposit\" by March 30th.",
+        "Providing a lump-sum remittance by the spring deadline.",
+        "Registering during the \"Priority Enrollment\" period."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1248.4,
+        "end": 1255.1
+      },
+      "prompt": "Why is Mr. Wallace likely to pay more if he chooses to pay in segments?",
+      "options": [
+        "He loses the \"full refund\" cancellation policy.",
+        "A recurring surcharge is applied to the balance.",
+        "He will be placed on a \"waiting list a mile long.\"",
+        "The \"Mountain View Summer Camp\" website charges a portal fee."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1279.5,
+        "end": 1284.9
+      },
+      "prompt": "What is the cancellation policy regarding the initial commitment?",
+      "options": [
+        "A total reimbursement if initiated a month in advance.",
+        "Forfeiture of the \"administrative fee\" only.",
+        "A nearly complete rebate with a nominal deduction.",
+        "No refunds after the \"March 30th\" deadline."
+      ],
+      "answer": 2
+    }
+  ]
+}

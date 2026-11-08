@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2022.3,
+    "end": 2142.5
+  },
+  "questions": [
+    {
+      "prompt": "The primary shift in behavior mentioned represents ______",
+      "options": [
+        "Diminished professional drive.",
+        "Calculated stamina preservation.",
+        "Contractual duty refusal.",
+        "Digital world expansion."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Supporters suggest sticking to formal roles allows for ______",
+      "options": [
+        "Glorified overwork habits.",
+        "Increased physical exhaustion.",
+        "Greater personal autonomy.",
+        "Avoided mental health crises.."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Corporate leaders fear this trend will result in ______",
+      "options": [
+        "Enhanced organizational agility.",
+        "Eroded collective problem-solving.",
+        "Successful startup growth.",
+        "Vanishing team members."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "According to advocates, establishing limits ______",
+      "options": [
+        "Threatens firm agility.",
+        "Diminishes long-term value.",
+        "Ensures worker utility.",
+        "Promotes mental crises."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "HR specialists suggest resolving the conflict requires ______",
+      "options": [
+        "Implementing stricter regulations.",
+        "Reciprocal clarity and rewards.",
+        "Mandatory after-hours communication.",
+        "Eliminating manageable workloads.."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The critique of \"hustle culture\" implies it is ______",
+      "options": [
+        "A necessary survival tool.",
+        "Celebrated but psychologically straining.",
+        "A restorer of agency.",
+        "A restorer of agency."
+      ],
+      "answer": 1
+    }
+  ]
+}

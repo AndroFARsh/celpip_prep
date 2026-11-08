@@ -48,7 +48,7 @@ Scripts live in `.claude/skills/youtube-listening-test/scripts/`. `frame.sh` is 
 ## Done when
 
 - `validate.sh` passes, and `npm test` passes in `web/` (Node 20+). Unit and e2e tests use `web/test/fixtures/listening/`, never `data/listening/`.
-- Counts: Part 1 has 3 sections with 8 questions; Parts 2-6 have 5, 6, 5, 8, 6 questions.
+- Counts: Part 1 has 3 sections with 8 questions (3, 3, 2; some older videos use 2, 3, 3); Parts 2-6 have 5, 6, 5, 8, 6 questions.
 - Every answer was checked against the key, and every spoken prompt matches its options.
 - Spot check on the dev server (`/listening/<id>/1`): the first section starts at the start of the conversation and question 1's clip is only the spoken question.
 - The work dir is deleted.

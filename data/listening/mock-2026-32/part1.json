@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.5,
+        "end": 208.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 209.3,
+            "end": 213.6
+          },
+          "prompt": "What is the primary source of Julian's agitation?",
+          "options": [
+            "The facility is currently undergoing extensive renovations.",
+            "The monthly installment exceeded the agreed-upon rate.",
+            "The staff failed to upgrade his membership status.",
+            "The bank statement contained a data entry error."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 240.8,
+            "end": 245.8
+          },
+          "prompt": "How does Elena justify the additional cost reflected on the account?",
+          "options": [
+            "It is a penalty for missing a notification email in January.",
+            "It is a surcharge dedicated to improving the physical environment.",
+            "It is a required deposit for the locker room and monitor access.",
+            "It is a processing fee for members who have reached six months."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 271.3,
+            "end": 275.9
+          },
+          "prompt": "What can be inferred about Julian's communication with the gym?",
+          "options": [
+            "He intentionally ignored the electronic correspondence sent in January.",
+            "He is skeptical about the validity of the gym's maintenance policy.",
+            "He believes he was singled out for an exclusive contractual obligation.",
+            "He lacks a consistent method for monitoring his financial outreach."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 313.5,
+        "end": 392.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 393.4,
+            "end": 398.3
+          },
+          "prompt": "What does Julian reveal about his initial onboarding process?",
+          "options": [
+            "He was misinformed about the \"New Year Kickstart\" promo.",
+            "He was promised a temporary exemption from ancillary costs.",
+            "He failed to check the secondary billing tab on his sign-up sheet.",
+            "He requested a \"Gold Status\" upgrade during his orientation."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 424.4,
+            "end": 429.7
+          },
+          "prompt": "According to Elena, what was the technical route of the second error?",
+          "options": [
+            "The promotional code for the \"Gold Status\" was expired.",
+            "An administrative oversight occurred within the software's sub-menu.",
+            "The \"New Year Kickstart\" program was incompatible with his contract.",
+            "Julian's signature was missing from the physical sign-up sheet."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 455.4,
+            "end": 460.7
+          },
+          "prompt": "How does the proposed solution deviate from the gym's standard procedure?",
+          "options": [
+            "It involves an immediate reversal of funds to his payment method.",
+            "It grants Julian a permanent waiver for all future facility fees.",
+            "It allows the \"New Year Kickstart\" promo to override his debit card.",
+            "It provides a credit toward his membership for the following month."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 497.6,
+        "end": 584.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 584.9,
+            "end": 590.8
+          },
+          "prompt": "What underlying concern does Julian express regarding financial reimbursements?",
+          "options": [
+            "He believes \"credits\" are a more reliable form of currency.",
+            "He is skeptical of the integrity of internal accounting systems.",
+            "He has experienced technical delays with checking account balances.",
+            "He prefers a permanent \"Fee Exempt\" status over a manual refund."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 616.3,
+            "end": 621.6
+          },
+          "prompt": "What is the anticipated timeline for the restoration of Julian's funds?",
+          "options": [
+            "The corporate billing office will finalize the transaction immediately.",
+            "The reversal is contingent upon interbank communication protocols.",
+            "The funds will be visible in his balance in exactly three business days.",
+            "The transaction void will be processed by the bank this afternoon."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

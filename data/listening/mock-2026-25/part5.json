@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1536.8,
+    "end": 1667.0
+  },
+  "questions": [
+    {
+      "prompt": "What is the underlying irony of the \"Gift of Time\" mentioned by Dr. Vance?",
+      "options": [
+        "It grants children a physical size advantage.",
+        "It inadvertently fosters a sense of alienation.",
+        "It allows for more maturity and school confidence.",
+        "It gives children a hidden cost in kindergarten."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Mr. Wright characterize the impact of redshirting on the standard school program?",
+      "options": [
+        "It creates a massive developmental gap for educators.",
+        "It makes the curriculum difficult to manage for kids.",
+        "It exceeds the intended instructional range of the system.",
+        "It requires a wide spectrum of kindergarten design."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "According to the experts, what is a primary risk for the older student in a redshirted scenario?",
+      "options": [
+        "Developing chronic boredom and academic challenge.",
+        "A decline in the ability to persevere through difficulty.",
+        "Gaining a physical advantage over their younger peers.",
+        "Experiencing early stress from catching up to others."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Dr. Vance suggests that true emotional strength is derived from:",
+      "options": [
+        "Navigating age-appropriate challenges and maturity.",
+        "Avoiding the hidden costs of a complex issue.",
+        "Confronting hurdles typical for one's developmental stage.",
+        "Building resilience through the gift of time."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How does the presence of older students affect the youngest students in class?",
+      "options": [
+        "It creates a social dynamic where they feel out of place.",
+        "It forces them to coast through the curriculum.",
+        "It helps them grow through navigating challenges.",
+        "It subjects them to premature performance anxiety."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Which term best describes the experts' view on the \"edge\" parents seek?",
+      "options": [
+        "An academic advantage that builds grit.",
+        "A strategic delay with counterproductive results.",
+        "A growing trend that provides a gift of time.",
+        "A complex issue regarding physical size."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the \"burden\" Dr. Vance refers to in her opening statement?",
+      "options": [
+        "The weight of being physically larger than peers.",
+        "The pressure of the hidden costs of redshirting.",
+        "The psychological weight of being developmentally mismatched.",
+        "The difficulty of managing a massive developmental gap."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What happens to a student's \"grit\" when they are redshirted?",
+      "options": [
+        "It stagnates due to a lack of genuine struggle.",
+        "It is fostered by the gift of time.",
+        "It increases as they navigate age-appropriate challenges.",
+        "It is hindered by chronic boredom and disengagement."
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.4,
+        "end": 181.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 182.7,
+            "end": 187.4
+          },
+          "prompt": "Why is the caller contacting customer service?",
+          "options": [
+            "She needs to change her address.",
+            "Her package is permanently lost.",
+            "The tracking app charged a fee.",
+            "She might miss her travel deadline."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 213.7,
+            "end": 219.3
+          },
+          "prompt": "Why does Kevin request the tracking code from the caller?",
+          "options": [
+            "To update her personal shipping profile.",
+            "To look into the cause of the delay.",
+            "To verify what type of house she lives in.",
+            "To process an immediate footwear refund."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 244.7,
+            "end": 250.5
+          },
+          "prompt": "Why does the caller disagree with the driver's delivery note?",
+          "options": [
+            "She stayed by the front door all day.",
+            "Her guard dogs never barked at anyone.",
+            "She forgot to unlock her security gate.",
+            "She completely missed the front knock."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 286.6,
+        "end": 345.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 346.8,
+            "end": 350.7
+          },
+          "prompt": "Why did yesterday's delivery fail?",
+          "options": [
+            "Bad receipt info.",
+            "Left with neighbor.",
+            "Wrong street direction.",
+            "Missing from truck."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 377.8,
+            "end": 382.7
+          },
+          "prompt": "Why can't Kevin redirect a driver today?",
+          "options": [
+            "Drivers refused work.",
+            "Warehouse is closed.",
+            "GPS tracking failed.",
+            "Fixed route schedules."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 408.8,
+            "end": 412.9
+          },
+          "prompt": "Where is the package right now?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 450.7,
+        "end": 519.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 519.95,
+            "end": 526.0
+          },
+          "prompt": "Why does the caller decline the option to pick up her boots at the warehouse?",
+          "options": [
+            "She cannot afford the extra pickup fee.",
+            "The airport facility is already closed.",
+            "She is busy preparing her luggage.",
+            "The terminal distance is too dangerous."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 550.9,
+            "end": 557.1
+          },
+          "prompt": "How does Kevin resolve the delivery issue to the caller's satisfaction?",
+          "options": [
+            "Courier Delivery",
+            "Airport Pickup",
+            "Luggage Packing",
+            "Shipping Refund"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

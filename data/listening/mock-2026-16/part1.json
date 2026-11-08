@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.5,
+        "end": 173.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 173.6,
+            "end": 178.7
+          },
+          "prompt": "Why did the mother decide to meet with the teacher?",
+          "options": [
+            "Leo is a hardworking student.",
+            "Leo wants to change classes.",
+            "Boys are calling him names.",
+            "Leo is avoiding attending school."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 204.8,
+            "end": 210.7
+          },
+          "prompt": "Why did the most recent incident upset the mother so much?",
+          "options": [
+            "His shoes were missing.",
+            "Leo enjoyed the gym game.",
+            "Leo felt deeply humiliated.",
+            "It happened during a break."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 235.8,
+            "end": 240.6
+          },
+          "prompt": "Why was the teacher unable to see the bullying?",
+          "options": [
+            "The gym is very messy.",
+            "He monitors the students constantly.",
+            "Leo is usually very happy.",
+            "Staff were busy preparing equipment."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 277.6,
+        "end": 325.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 325.4,
+            "end": 330.0
+          },
+          "prompt": "Why does Leo hide in the library?",
+          "options": [
+            "To study for his exams.",
+            "To avoid his classmates.",
+            "Because he loves reading.",
+            "He enjoys his lunch there."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 356.8,
+            "end": 360.8
+          },
+          "prompt": "Why is the mother worried now?",
+          "options": [
+            "She fears future retaliation.",
+            "She wants him in sports.",
+            "She thinks school is safe.",
+            "She dislikes the counselor."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 387.8,
+            "end": 394.4
+          },
+          "prompt": "Which location represents the blind spot where the bullying occurs?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 429.7,
+        "end": 491.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 491.4,
+            "end": 495.0
+          },
+          "prompt": "How will the school handle the bullies?",
+          "options": [
+            "By calling them to the office.",
+            "By increasing adult supervision.",
+            "By contacting their parents.",
+            "By giving them extra work."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 522.1,
+            "end": 526.3
+          },
+          "prompt": "What is the new plan for Leo?",
+          "options": [
+            "He must stay in the library.",
+            "He will switch to art class.",
+            "He will meet the teacher daily.",
+            "He will skip all gym classes."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

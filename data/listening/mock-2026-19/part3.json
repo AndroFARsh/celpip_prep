@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 881.0,
+    "end": 1041.8
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1042.2,
+        "end": 1046.2
+      },
+      "prompt": "Why is the training time long?",
+      "options": [
+        "The puppets break very easily.",
+        "The times change every week.",
+        "The show is very difficult.",
+        "They do not have workers."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1073.1,
+        "end": 1077.2
+      },
+      "prompt": "When do roles stop changing?",
+      "options": [
+        "At the very first session.",
+        "Halfway through the practice schedule.",
+        "When the curtains close permanently.",
+        "Prior to the orientation phase."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1104.2,
+        "end": 1107.9
+      },
+      "prompt": "Why will Jamie do the legs?",
+      "options": [
+        "Jamie has a bad shoulder.",
+        "Jamie likes to walk around.",
+        "Jamie is a tall person.",
+        "Jamie asked for this job."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1135.1,
+        "end": 1139.7
+      },
+      "prompt": "What happens if Jamie skips practice?",
+      "options": [
+        "Jamie gets a new job.",
+        "Jamie must leave the theater.",
+        "Jamie must pay some money.",
+        "Jamie must work extra hours."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1166.1,
+        "end": 1170.7
+      },
+      "prompt": "When must Jamie wear black clothes?",
+      "options": [
+        "Once public sales begin online.",
+        "Right from the initial meeting.",
+        "Exclusively during the live event.",
+        "Two weeks before opening night."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1197.2,
+        "end": 1201.2
+      },
+      "prompt": "Why are outside shoes banned?",
+      "options": [
+        "They bring in dirt.",
+        "They make loud sounds.",
+        "They look too bright.",
+        "They hurt the floor."
+      ],
+      "answer": 3
+    }
+  ]
+}

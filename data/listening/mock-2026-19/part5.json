@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1531.3,
+    "end": 1649.5
+  },
+  "questions": [
+    {
+      "prompt": "Why does the woman in the blazer want to close the bridge to cars?",
+      "options": [
+        "To boost suburban mall visits.",
+        "To repair the old structure.",
+        "To decrease downtown shopping.",
+        "To create walkable urban space."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why does the woman in the orange cardigan oppose the plan?",
+      "options": [
+        "Pedestrians dislike her shop.",
+        "Her business relies on drivers.",
+        "Winter coats are too expensive.",
+        "She wants to relocate downtown."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the main concern of the man in the navy jacket?",
+      "options": [
+        "Rerouted buses will cause delay.",
+        "The city is banning public transit.",
+        "The 9th Street Bridge is closed.",
+        "High fuel costs for express routes."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does the woman in the blazer plan to help transit riders?",
+      "options": [
+        "By lowering daily bus fares.",
+        "By adding dedicated bus lanes.",
+        "By building a scenic view path.",
+        "By purchasing brand new buses."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does the woman in the orange cardigan believe about the current setup?",
+      "options": [
+        "The existing infrastructure works.",
+        "The bridge is structurally broken.",
+        "Local coffee shops are failing.",
+        "Parking fees are far too high."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Where will the express buses go if the 4th Street Bridge closes?",
+      "options": [
+        "Directly through the shopping mall.",
+        "Across the jammed 9th Street Bridge.",
+        "Only around the neighborhood park.",
+        "Into the downtown pedestrian zone."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "When does the man in the navy jacket want the bus lanes built?",
+      "options": [
+        "After the city budget gets tight.",
+        "When the modern city is complete.",
+        "While passengers test the detour.",
+        "Before any 4th Street road work."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "How does the man in the navy jacket feel about the city's promises?",
+      "options": [
+        "He trusts the construction timeline.",
+        "He finds the new plan exciting.",
+        "He doubts funding will last.",
+        "He wants to change his commute."
+      ],
+      "answer": 2
+    }
+  ]
+}

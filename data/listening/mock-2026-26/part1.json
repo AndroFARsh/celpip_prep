@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.9,
+        "end": 194.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 195.0,
+            "end": 201.0
+          },
+          "prompt": "What does Chris imply about the current status of Cooper's adoption?",
+          "options": [
+            "The canine is officially \"Pending\" on the digital portal.",
+            "The transition is currently in a state of tentative exclusivity.",
+            "The staff favorites are always placed on a twenty-four-hour hold.",
+            "A deposit ensures the family's decision is final and unchangeable."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 226.0,
+            "end": 233.2
+          },
+          "prompt": "Why is Jamie's frustration particularly acute regarding the website information?",
+          "options": [
+            "The listing was missing from the online platform at breakfast.",
+            "The digital data failed to reflect the physical reality of the morning.",
+            "The website incorrectly labeled the Beagle as a \"total sweetheart.\"",
+            "The \"Adoption Hold\" status was visible but she ignored it."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 257.0,
+            "end": 263.6
+          },
+          "prompt": "What is the primary function of the 24-hour window mentioned by Chris?",
+          "options": [
+            "It provides a period for the resident dog to meet the new one.",
+            "It guarantees the dog will be adopted by noon tomorrow.",
+            "It safeguards a specific claimant's priority for a limited duration.",
+            "It allows the staff to process the \"Adoption Hold\" paperwork."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 299.0,
+        "end": 376.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 377.1,
+            "end": 383.9
+          },
+          "prompt": "What is the functional equivalent of the secondary interested party status?",
+          "options": [
+            "A formal placement on the shelter's digital \"Waiting List.\"",
+            "A priority claim triggered by the noon deadline tomorrow.",
+            "A non-guaranteed contingency plan for the current canine.",
+            "A \"Quiet Kennel\" reservation for the Spaniel mix named Bella."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 408.1,
+            "end": 415.8
+          },
+          "prompt": "What specific risk does Jamie's feline at home introduce to the selection process?",
+          "options": [
+            "A requirement for a dog with a low instinctive hunting drive.",
+            "A need for a \"Spaniel mix\" that has already been cleared by the vet.",
+            "A preference for dogs from the \"Quiet Kennel\" section of the facility.",
+            "A demand for a \"total sweetheart\" who is already house-trained."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 439.1,
+            "end": 446.5
+          },
+          "prompt": "Why is Bella's absence from the website significant to Jamie's current situation?",
+          "options": [
+            "It means she hasn't been cleared by the vet or behavioral issues.",
+            "It indicates she is part of a \"no-pets\" apartment legal dispute.",
+            "It suggests a potential opportunity before public competition arises.",
+            "It confirms she is a five-year-old Spaniel mix with a similar temperament."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 481.1,
+        "end": 572.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 573.1,
+            "end": 580.8
+          },
+          "prompt": "What is the primary constraint preventing an immediate physical interaction with Bella?",
+          "options": [
+            "She is currently being \"snatched up\" by another interested party.",
+            "The \"Observation Phase\" requires her to stay in the enrichment wing.",
+            "Her formal medical and behavioral authorization is pending until late afternoon.",
+            "The \"Quiet Kennel\" rules forbid a full \"play session\" before 4:00 PM."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 604.1,
+            "end": 610.4
+          },
+          "prompt": "What does Chris' perfect solution effectively eliminate for Jamie?",
+          "options": [
+            "The need to return to the shelter at noon tomorrow.",
+            "The requirement for Bella to be cleared by the vet at 4:00 PM.",
+            "The administrative redundancy of applying for two different animals.",
+            "The possibility of leaving the shelter \"empty-handed\" today."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1260.4,
+    "end": 1378.2
+  },
+  "questions": [
+    {
+      "prompt": "The project was initiated due to ______.",
+      "options": [
+        "Transport infrastructure degradation",
+        "Expanding industrial zoning",
+        "Suburban water damage",
+        "Commercial corridor delays"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Opponents fear the construction will ______.",
+      "options": [
+        "worsen natural disasters",
+        "disrupt urban development",
+        "increase industrial noise",
+        "compromise legal boundaries"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Eco-tourism businesses anticipate ______.",
+      "options": [
+        "customer traffic growth",
+        "revenue stream destruction",
+        "increased regional connectivity",
+        "industrial pollution fines"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The voting delay allows for ______.",
+      "options": [
+        "courtroom litigation procedures",
+        "protest campaign coordination",
+        "unbiased ecological assessment",
+        "municipal permit adjustments"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The bridge proposal remains ______.",
+      "options": [
+        "legally blocked",
+        "officially discarded",
+        "temporarily unresolved",
+        "entirely approved"
+      ],
+      "answer": 2
+    }
+  ]
+}

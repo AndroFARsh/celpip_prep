@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 592.2,
+    "end": 744.4
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 746.4,
+        "end": 751.0
+      },
+      "prompt": "What is the underlying goal of the Neighborhood Association's event?",
+      "options": [
+        "Broad community participation",
+        "High-intensity athletic competition",
+        "Fundraising for local parks",
+        "Elite athletic talent scouting"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 777.1,
+        "end": 782.6
+      },
+      "prompt": "How does the target audience alter Coach Miller's approach to the workout routine?",
+      "options": [
+        "She must decrease the number of stations.",
+        "She needs to create alternative movement options.",
+        "She must eliminate all cardiovascular activities.",
+        "She needs to shorten the event duration."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 808.2,
+        "end": 813.5
+      },
+      "prompt": "Which operational task is designated as the community group's responsibility?",
+      "options": [
+        "Developing low-impact exercises",
+        "Providing professional instructors",
+        "Managing audio equipment",
+        "Sourcing massive weight inventories"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 839.2,
+        "end": 845.6
+      },
+      "prompt": "What secondary benefit did Coach Miller identify regarding a strictly body weight routine?",
+      "options": [
+        "It requires less administrative paperwork.",
+        "It prevents injuries from loose gear.",
+        "It attracts a younger demographic.",
+        "It shortens the total event duration."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 870.2,
+        "end": 876.0
+      },
+      "prompt": "What structural advantage does a body weight only setup offer for a large crowd?",
+      "options": [
+        "It eliminates the need for coaching.",
+        "It optimizes participant pacing.",
+        "It makes the routine entirely risk-free.",
+        "It allows competitive timing."
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 894.9,
+    "end": 1052.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1052.4,
+        "end": 1057.2
+      },
+      "prompt": "Why does the resident prefer a regular route?",
+      "options": [
+        "He likes routine work.",
+        "To build personal connections.",
+        "He has a mid-size car.",
+        "He wants to avoid kids."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1083.2,
+        "end": 1089.1
+      },
+      "prompt": "What is the resident's underlying concern regarding the deliveries?",
+      "options": [
+        "The time commitment involved.",
+        "His lack of driving experience.",
+        "Safety of the seniors.",
+        "Handling the heavy food bags."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1114.1,
+        "end": 1120.1
+      },
+      "prompt": "How has the coordinator's policy changed the purpose of the visits?",
+      "options": [
+        "It serves as a safety net.",
+        "It is now a medical check.",
+        "It focuses on paperwork accuracy.",
+        "It tracks volunteer mileage records."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1145.2,
+        "end": 1150.8
+      },
+      "prompt": "What must the volunteer do if a senior does not answer?",
+      "options": [
+        "Leave the food outside.",
+        "Return to the office.",
+        "Check for specific instructions.",
+        "Leave a note for them."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1176.3,
+        "end": 1180.9
+      },
+      "prompt": "Why is a background check required?",
+      "options": [
+        "To verify driving history.",
+        "Because of home visits.",
+        "To process the payment.",
+        "To track hours volunteered."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1207.2,
+        "end": 1211.3
+      },
+      "prompt": "What will happen on Thursday morning?",
+      "options": [
+        "He starts delivering alone.",
+        "He receives his uniform.",
+        "He drives his own route.",
+        "He undergoes job training."
+      ],
+      "answer": 3
+    }
+  ]
+}

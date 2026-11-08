@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.8,
+        "end": 173.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 173.9,
+            "end": 179.7
+          },
+          "prompt": "On which day of the week did David's persistent dry cough most likely begin?",
+          "options": [
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Sunday"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 204.8,
+            "end": 211.8
+          },
+          "prompt": "According to Elena, what is the primary medical reason David is experiencing morning dizziness?",
+          "options": [
+            "An adverse allergic reaction to his new prescription.",
+            "A rapid initial drop in his blood pressure after taking the pill.",
+            "A common side effect inherent to all types of ACE inhibitors.",
+            "The combination of his persistent dry cough and work stress."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 235.9,
+            "end": 240.9
+          },
+          "prompt": "What was David's original purpose for walking into the City Care Pharmacy?",
+          "options": [
+            "To pick up a routine prescription refill.",
+            "To report an official allergic reaction to his doctor.",
+            "To get a new prescription for his persistent dry cough.",
+            "To consult the pharmacist about symptoms he found alarming."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 277.8,
+        "end": 337.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 340.0,
+            "end": 347.0
+          },
+          "prompt": "According to Elena, what is the primary reason David is experiencing such intense dizziness?",
+          "options": [
+            "He is experiencing an atypical allergic reaction to the medication.",
+            "The medication is a mild diuretic, which is causing severe dehydration.",
+            "The drug is being absorbed too rapidly because it is taken before he eats.",
+            "He is failing to follow the explicit instructions printed on the prescription label."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 370.9,
+            "end": 378.2
+          },
+          "prompt": "Based on the dialogue, which of the following is true regarding the instructions on David's medication label?",
+          "options": [
+            "The label explicitly specifies that the medication should be taken with food.",
+            "The label explicitly specifies that the medication should be taken in the morning.",
+            "The label leaves the specific timing and food requirements up to the patient's discretion.",
+            "The label explicitly warns against taking the medication on an empty stomach."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 402.0,
+            "end": 409.7
+          },
+          "prompt": "Which symptom discussed in the conversation has Elena not yet provided a potential cause or explanation for?",
+          "options": [
+            "The rash",
+            "The dizziness",
+            "The dehydration",
+            "The cough"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 444.0,
+        "end": 512.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 513.0,
+            "end": 518.3
+          },
+          "prompt": "What is the primary purpose of David changing his breakfast routine tomorrow?",
+          "options": [
+            "To alleviate his persistent dry cough.",
+            "To safely transition to an ARB medication.",
+            "To see if his dizziness decreases.",
+            "To naturally lower his high blood pressure."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 544.1,
+            "end": 550.5
+          },
+          "prompt": "According to Elena, what is a characteristic of the specific medication David is currently taking?",
+          "options": [
+            "It will inevitably cause a cough for at least two weeks.",
+            "Its side effects are expected to completely disappear within three days.",
+            "It belongs to the ARB class of blood pressure medications.",
+            "It can cause a cough that lasts as long as the treatment does."
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

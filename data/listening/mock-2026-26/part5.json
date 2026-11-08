@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1648.6,
+    "end": 1823.1
+  },
+  "questions": [
+    {
+      "prompt": "Why does Mark compare his previous review to a \"principal’s office\" visit?",
+      "options": [
+        "He didn't like the school lunch provided at the office.",
+        "The feedback focused on non-professional social compliance.",
+        "He failed to hit his sales targets three months early.",
+        "He was lectured on his lack of synergy for forty-five minutes."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does David’s recent experience illustrate a failure in management?",
+      "options": [
+        "His manager stared at a spreadsheet and sighed for forty minutes.",
+        "He was told he was doing fine before a lunch meeting.",
+        "A lack of transparency created professional uncertainty.",
+        "He was on the verge of being fired without any warning."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does the group believe the \"annual\" nature of reviews is flawed?",
+      "options": [
+        "It causes the feedback to lose its temporal utility.",
+        "December is too late to talk about what happened in January.",
+        "It puts too much pressure on one day of the school year.",
+        "Managers are too busy with lunch meetings in the final quarter."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the primary benefit of David’s \"monthly check-in\" proposal?",
+      "options": [
+        "It allows coworkers to grab coffee for fifteen minutes.",
+        "It creates a more human way to use corporate jargon.",
+        "It enables immediate course correction for employees.",
+        "It replaces the formal December spreadsheet reviews."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How would Elena’s \"Two-Way Street\" model change the power dynamic?",
+      "options": [
+        "It allows the boss to grade the employees' hiking skills.",
+        "It shifts the focus to institutional support for staff.",
+        "It gives a formal section for peer-ranking and emojis.",
+        "It makes the boss hit their sales targets three months early."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Mark’s \"coach vs. judge\" analogy implies a desire for ?",
+      "options": [
+        "A resource review that uses cynical corporate jargon.",
+        "More outdoor hiking trips led by the previous director.",
+        "A collaborative rather than a punitive atmosphere.",
+        "Better synergy between the sales targets and the boss."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does the team plan to approach the boss as a collective unit?",
+      "options": [
+        "To prove that they can hit their targets without synergy.",
+        "To demonstrate the efficiency and psychological gains of the plan.",
+        "To ensure they don't have to redo the Q3 projections.",
+        "To ask for a raise during a lunch meeting."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Collectively, the group’s final resolution is to replace ?",
+      "options": [
+        "High-pressure critiques with continuous development.",
+        "Internal chat emojis with fifteen-minute coffee breaks.",
+        "Monthly check-ins with annual performance alignment.",
+        "Corporate jargon with a previous director's rumors."
+      ],
+      "answer": 0
+    }
+  ]
+}

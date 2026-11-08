@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 664.1,
+    "end": 803.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 803.5,
+        "end": 808.0
+      },
+      "prompt": "What is the primary catalyst for Sarah's sense of urgency?",
+      "options": [
+        "The immediate financial impact of rising material costs.",
+        "The potential for physical harm to her domestic animal.",
+        "The structural instability of the middle section posts.",
+        "The risk of her neighbor's garden shed roof collapsing."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 834.5,
+        "end": 839.6
+      },
+      "prompt": "Martin's initial resistance to a professional replacement is rooted in what?",
+      "options": [
+        "A desire to utilize 2x4s and concrete for a DIY project.",
+        "Skepticism regarding the $2,000 quote for the 20-foot stretch.",
+        "Competing high-priority financial obligations for a family member.",
+        "A preference for waiting until the spring season for labor."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 865.7,
+        "end": 870.3
+      },
+      "prompt": "What is the status of the boundary repair by the end of the talk?",
+      "options": [
+        "They have finalized a schedule for the upcoming Friday.",
+        "A tentative agreement exists pending a competitive bid.",
+        "Martin has conceded to Sarah's original $2,000 contractor.",
+        "The neighbors have agreed to split the cost of the debris removal."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 896.4,
+        "end": 902.3
+      },
+      "prompt": "Sarah's reaction to Martin's DIY suggestion suggests she views it as what?",
+      "options": [
+        "An economically viable but time-consuming alternative.",
+        "A temporary fix that ignores the fundamental decay.",
+        "A dangerous attempt that would upset her dog.",
+        "A reasonable way to use 2x4s and concrete bags."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 927.8,
+        "end": 932.4
+      },
+      "prompt": "Which word best describes the tone of the interaction?",
+      "options": [
+        "Confrontational regarding property boundaries.",
+        "Collaborative despite differing immediate priorities.",
+        "Dismissive of professional contractor estimates.",
+        "Hesitant because of previous storm damage."
+      ],
+      "answer": 1
+    }
+  ]
+}

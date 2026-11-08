@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1246.2,
+    "end": 1332.4
+  },
+  "questions": [
+    {
+      "prompt": "The city created this project to improve ______",
+      "options": [
+        "local park attendance.",
+        "citizen mental health.",
+        "remote office spaces.",
+        "summer tourist activity."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Park visitors worry that remote workers will disrupt ______",
+      "options": [
+        "the quiet atmosphere",
+        "the booking software.",
+        "the daily schedule.",
+        "the public electronics."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "To maintain fairness, users must use ______",
+      "options": [
+        "a smartphone application.",
+        "a modern laptop.",
+        "a solar charger.",
+        "a regional map."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "People question if the technology can withstand ______",
+      "options": [
+        "hot spring temperatures.",
+        "high daily costs.",
+        "heavy public usage.",
+        "severe wet weather."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Future park expansion depends entirely on ______",
+      "options": [
+        "a quick vote.",
+        "a winter budget.",
+        "a successful trial.",
+        "a citizen survey."
+      ],
+      "answer": 2
+    }
+  ]
+}

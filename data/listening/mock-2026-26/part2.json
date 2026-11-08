@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 651.9,
+    "end": 798.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 799.2,
+        "end": 807.3
+      },
+      "prompt": "What is the primary logistical obstacle preventing Mark from simply taking Sarah's hours?",
+      "options": [
+        "Concerns regarding the 8:00 AM start.",
+        "Institutional prohibitions on surplus labor hours.",
+        "Sarah's inability to work the 4:00 PM finish.",
+        "The manager's refusal to allow \"double shifts.\""
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 830.3,
+        "end": 837.0
+      },
+      "prompt": "How does the final agreement alter Mark's original Friday commitments?",
+      "options": [
+        "He works from 8:00 AM until noon only.",
+        "He experiences a modest extension of his workday.",
+        "He covers the entire closing shift for Sarah.",
+        "He avoids the \"double shift\" problem by working Saturday."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 861.2,
+        "end": 867.5
+      },
+      "prompt": "What specific incentive ultimately secures Mark's cooperation?",
+      "options": [
+        "Attending his sister's graduation ceremony.",
+        "Avoiding a high-effort administrative task.",
+        "Playing a small gig at the community center.",
+        "Getting a \"free Saturday night\" from Jennifer."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 892.2,
+        "end": 898.3
+      },
+      "prompt": "What was the original conflict regarding Sarah's sister's event?",
+      "options": [
+        "A scheduling overlap caused by a temporal shift.",
+        "The ceremony was moved to the afternoon.",
+        "Sarah was \"pinned\" for the 10:00 AM closing shift.",
+        "A \"bit of a bind\" with the Saturday night schedule."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 923.2,
+        "end": 927.9
+      },
+      "prompt": "Which role does Jennifer play in this negotiation?",
+      "options": [
+        "She officially \"confirmed\" the request on the app.",
+        "She identified that Friday would be a \"quiet\" day.",
+        "She provided preliminary authorization for the restructuring.",
+        "She mandated that only one person work until noon."
+      ],
+      "answer": 2
+    }
+  ]
+}

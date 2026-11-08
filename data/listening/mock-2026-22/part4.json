@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1247.7,
+    "end": 1378.6
+  },
+  "questions": [
+    {
+      "prompt": "Communal mailrooms are targeted due to increased ______.",
+      "options": [
+        "residential tenant dissatisfaction.",
+        "digital package tracking reliance.",
+        "digital commerce transaction volumes.",
+        "suburban porch piracy trends."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Intruders typically breach secure entryways by ______.",
+      "options": [
+        "utilizing stolen digital keys.",
+        "closely shadowing authorized individuals.",
+        "exploiting automated locker bugs.",
+        "forcing heavy external doors."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Property firms implement automated lockers to ______.",
+      "options": [
+        "minimize expensive installation investments.",
+        "lower municipal property taxes.",
+        "prevent building occupancy declines.",
+        "eliminate courier access codes."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Residents can retrieve their deliveries via ______.",
+      "options": [
+        "a one-time courier code.",
+        "a secure physical lock.",
+        "an automated warehouse pass.",
+        "a cellular application credential."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Security analysts advise routing expensive items to ______.",
+      "options": [
+        "retrofitted communal lobbies.",
+        "alternative secure destinations.",
+        "steel-reinforced lobby lockers.",
+        "residential apartment mailrooms."
+      ],
+      "answer": 1
+    }
+  ]
+}

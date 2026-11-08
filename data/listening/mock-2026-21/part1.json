@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.1,
+        "end": 174.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 175.8,
+            "end": 181.7
+          },
+          "prompt": "What caused the problem with the reservation?",
+          "options": [
+            "A human error by hotel staff",
+            "An overbooked downtown film festival",
+            "A faulty external reservation transfer",
+            "A deliberate room downgrade system"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 206.9,
+            "end": 211.0
+          },
+          "prompt": "What is true about the hotel tonight?",
+          "options": [
+            "Vacant suites are highly limited",
+            "Standard twin rooms are full",
+            "Third-party reservations are rejected",
+            "Anniversary couples get priority upgrades"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 248.8,
+        "end": 306.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 306.9,
+            "end": 315.0
+          },
+          "prompt": "What does Marcus's reluctance toward Sarah's secondary solution imply about his stay?",
+          "options": [
+            "Plagued by delays",
+            "Highly time-sensitive",
+            "Budget-conscious",
+            "Strictly business-oriented"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 337.8,
+            "end": 345.2
+          },
+          "prompt": "Which accommodation offer does Marcus reject because of physical inconvenience?",
+          "options": [
+            "q4-a.jpg",
+            "q4-b.jpg",
+            "q4-c.jpg",
+            "q4-d.jpg"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 368.9,
+            "end": 375.1
+          },
+          "prompt": "What is the defining disadvantage of the Junior Suite?",
+          "options": [
+            "It lacks atmospheric quietness",
+            "It commands premium pricing",
+            "It compromises visual preferences",
+            "It involves split accommodations"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 410.8,
+        "end": 472.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 474.1,
+            "end": 478.5
+          },
+          "prompt": "What eventually settles the dispute?",
+          "options": [
+            "Waiving the stay expenses",
+            "Postponing the checkout time",
+            "Providing complimentary morning meals",
+            "Offering rooftop drink vouchers"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 504.9,
+            "end": 511.9
+          },
+          "prompt": "What compensation item requires Marcus to wait inside his room?",
+          "options": [
+            "The evening vouchers",
+            "The morning meals",
+            "The arrival treats",
+            "The departure extension"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 536.1,
+            "end": 541.4
+          },
+          "prompt": "How does Sarah temporarily provide the requested scenery?",
+          "options": [
+            "Upgrading his suite tier",
+            "Transferring his reservation location",
+            "Utilizing public hotel areas",
+            "Refunding his initial payment"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

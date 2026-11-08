@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 887.3,
+    "end": 1042.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1043.4,
+        "end": 1049.0
+      },
+      "prompt": "What specific period defines the foster care duration?",
+      "options": [
+        "From clinic arrival until release.",
+        "Post-stabilization until pre-release exercise.",
+        "Throughout the initial surgical phase.",
+        "Exactly ten to twenty-one days."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1074.5,
+        "end": 1080.9
+      },
+      "prompt": "What is the critical environmental requirement for the recovery area?",
+      "options": [
+        "Advanced climate regulation systems.",
+        "Prolonged periods of total obscurity.",
+        "Complete isolation from human roommates.",
+        "Specialized containment for predatory species."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1105.6,
+        "end": 1112.3
+      },
+      "prompt": "What is identified as the primary obstacle for potential hosts?",
+      "options": [
+        "Managing precise therapeutic nourishment.",
+        "Tracking minor physical fluctuations.",
+        "Providing independent logistical transport.",
+        "Handling aggressive domestic animals."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1136.4,
+        "end": 1142.1
+      },
+      "prompt": "What triggers an immediate termination of the home care arrangement?",
+      "options": [
+        "A five-gram weight reduction.",
+        "Any signs of physical stress.",
+        "Neglecting the daily checking protocol.",
+        "Marginal downward mass trends."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1167.6,
+        "end": 1174.3
+      },
+      "prompt": "What is the underlying philosophy behind the strict isolation protocol?",
+      "options": [
+        "Shielding caregivers from zoonotic pathogens.",
+        "Eliminating human behavioral conditioning.",
+        "Minimizing noise in residential spaces.",
+        "Accelerating physical surgical healing."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1198.6,
+        "end": 1205.2
+      },
+      "prompt": "What is mandatory before the final evaluation of the student's residence?",
+      "options": [
+        "Submitting preferences and legal disclaimers.",
+        "Completing a hands-on clinic internship.",
+        "Passing a physical containment inspection.",
+        "Verifying enrollment in veterinary studies."
+      ],
+      "answer": 0
+    }
+  ]
+}

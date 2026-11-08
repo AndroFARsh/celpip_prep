@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1236.7,
+    "end": 1337.0
+  },
+  "questions": [
+    {
+      "prompt": "Based on the Health Coalition’s findings, the primary motivation for the new law was to address a specific ______",
+      "options": [
+        "drop in local coffee sales",
+        "decline in teenage academic performance",
+        "spike in medical crises among youth",
+        "lack of synthetic stimulants in stores"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Dr. Rossi suggests that energy drinks are more dangerous than coffee for teenagers because of their ______",
+      "options": [
+        "higher price point",
+        "artificial additives and sweetness",
+        "natural caffeine content",
+        "traditional history in the province"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "According to Marcus Thorne, the new bylaw is an example of the local government ______",
+      "options": [
+        "supporting small business growth",
+        "helping parents make better choices",
+        "exceeding its appropriate authority",
+        "speeding up service during busy times"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The Regional Retailers Association is worried that the ban will lead to ______",
+      "options": [
+        "difficult interactions with customers",
+        "fewer teenagers visiting the city",
+        "an increase in energy drink prices",
+        "a total ban on sugar for adults"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Even though retailers have voiced concerns, the majority of the local population feels ______",
+      "options": [
+        "confused by the new signage",
+        "positive about the new rules",
+        "worried about the $500 fines",
+        "angry at the Health Coalition"
+      ],
+      "answer": 1
+    }
+  ]
+}

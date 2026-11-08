@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1577.8,
+    "end": 1742.7
+  },
+  "questions": [
+    {
+      "prompt": "Why are kiosks being introduced?",
+      "options": [
+        "Overall operating budgets dropped",
+        "Patient visits climbed dramatically",
+        "Front-desk workers were replaced",
+        "Airport systems proved superior"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Who must use this technology?",
+      "options": [
+        "Patients having standard checkups",
+        "Elderly folks using smartphones",
+        "Individuals paying bills online",
+        "People seeing medical specialists"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is changing about billing?",
+      "options": [
+        "Reception desks are closing down",
+        "Card denials happen frequently",
+        "Paper currency is discouraged",
+        "Staff habits must alter"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Ken like most?",
+      "options": [
+        "Eliminating human receptionists entirely",
+        "Catching registration mistakes early",
+        "Reducing emergency room lines",
+        "Expanding the clinic's finances"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What recently impacted the clinic?",
+      "options": [
+        "A major influx of funding",
+        "Staff hours were reduced",
+        "Insurance coverage guidelines changed",
+        "Crowds increased significantly"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What pleases Maya about automation?",
+      "options": [
+        "Handling less physical cash",
+        "Getting out of offices",
+        "Avoiding future administrative issues",
+        "Receiving automated text alerts"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is true of speakers?",
+      "options": [
+        "Software development is their responsibility",
+        "Front-desk tasks are preferred",
+        "Decision-making excluded them completely",
+        "Initial consultations are their focus"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why do they laugh at the end?",
+      "options": [
+        "They resolved a problem independently",
+        "Supervisor bonuses were promised",
+        "Digital rollout was canceled",
+        "Extra shifts were avoided"
+      ],
+      "answer": 0
+    }
+  ]
+}

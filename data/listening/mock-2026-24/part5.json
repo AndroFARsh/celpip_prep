@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1688.7,
+    "end": 1802.9
+  },
+  "questions": [
+    {
+      "prompt": "What is Marcus’s primary justification for the compulsory nature of the check-ins?",
+      "options": [
+        "Promoting organizational transparency",
+        "Mitigating risk for vulnerable staff",
+        "Standardizing remote work protocols",
+        "Quantifying employee engagement"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sarah’s argument suggests that the initiative creates a legal paradox regarding?",
+      "options": [
+        "Workplace safety versus employee output",
+        "Corporate authority versus personal autonomy",
+        "Data encryption versus verbal disclosure",
+        "Collective wellness versus individual merit."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does Elena imply by the term \"emotional labor\"?",
+      "options": [
+        "The physical exhaustion of video conferencing",
+        "The stress of managing team mental health",
+        "The forced display of a specific disposition",
+        "The difficulty of accessing company therapists"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "David’s concern primarily revolves around the potential for?",
+      "options": [
+        "Immediate clinical intervention",
+        "Unauthorized data breaches",
+        "Long-term professional repercussions",
+        "Mandatory medical leave"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Sarah’s use of the word \"pathologizing\" indicates she believes the policy?",
+      "options": [
+        "Treats standard professional life as a medical issue",
+        "Corrects the 30% rise in clinical burnout",
+        "Identifies genuine psychiatric disorders in the office",
+        "Focuses too much on physical symptoms of stress"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus believes that making the sessions \"universal\" functions to?",
+      "options": [
+        "Reduce the statistical margin of error",
+        "Equalize the burden of remote isolation",
+        "Obscure individual participation patterns",
+        "Neutralize the shame of seeking assistance"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Which underlying assumption does Sarah challenge in Marcus's logic?",
+      "options": [
+        "That remote work leads to social silos",
+        "That compulsion is a valid substitute for agreement",
+        "That aggregate data remains truly anonymous",
+        "That burnout rates are rising by 30%"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Elena’s stance reveals a desire for workplace boundaries to be defined by?",
+      "options": [
+        "Therapeutic transparency",
+        "Technical performance",
+        "Social connectivity",
+        "Emotional vulnerability"
+      ],
+      "answer": 1
+    }
+  ]
+}

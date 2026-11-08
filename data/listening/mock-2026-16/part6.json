@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1911.7,
+    "end": 2087.8
+  },
+  "questions": [
+    {
+      "prompt": "Supporters view backdoor access as ______",
+      "options": [
+        "an essential public safety tool.",
+        "a way to monitor journalists.",
+        "a threat to free speech.",
+        "an unnecessary technological burden."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Critics fear backdoors create ______",
+      "options": [
+        "safer communication for journalists.",
+        "vulnerabilities for malicious actors.",
+        "easier software update processes.",
+        "better judge approval ratings."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Backdoor access might enable ______",
+      "options": [
+        "stronger democratic governing systems.",
+        "improved protection of activists.",
+        "total privacy for all users.",
+        "surveillance by authoritarian regimes."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Law enforcement compares backdoors to ______",
+      "options": [
+        "traditional police wiretapping methods.",
+        "digital encryption protocols today.",
+        "modern software development practices.",
+        "private company messaging systems."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Experts argue encryption guarantees ______",
+      "options": [
+        "total anonymity for criminals.",
+        "protection of personal information.",
+        "access for foreign governments.",
+        "control for app developers."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The debate focuses on ______",
+      "options": [
+        "creating a balanced compromise.",
+        "eliminating all digital apps.",
+        "increasing hacker software speeds.",
+        "ignoring serious national security."
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.0,
+        "end": 175.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 177.1,
+            "end": 182.5
+          },
+          "prompt": "Why did Toby miss his recent piano lessons?",
+          "options": [
+            "Hospital shifts and soccer schedule.",
+            "Chaos caused by late practices.",
+            "Overwhelming recital preparation stress.",
+            "Home practice took too long."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 207.7,
+            "end": 214.2
+          },
+          "prompt": "What is Ms. Liu's primary concern regarding Toby's absences?",
+          "options": [
+            "Losing interest in the piano.",
+            "Forgetting home practice routines.",
+            "Negative emotional impact during performance.",
+            "Missing the upcoming Spring Recital."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 250.0,
+        "end": 307.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 307.8,
+            "end": 312.4
+          },
+          "prompt": "What causes Toby's hand discomfort?",
+          "options": [
+            "Reaching for difficult chords.",
+            "Uncorrected rigid physical tension.",
+            "Excessive home practice hours.",
+            "Playing heavy classical pieces."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 338.9,
+            "end": 344.6
+          },
+          "prompt": "According to Ms. Liu, why is Toby bored?",
+          "options": [
+            "Classical music lacks creative expression.",
+            "He hates his current instructor.",
+            "The mandatory curriculum is inflexible.",
+            "He reached a developmental wall."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 370.0,
+            "end": 375.6
+          },
+          "prompt": "What does Mr. Henderson ultimately desire for Toby?",
+          "options": [
+            "Passing the Royal Conservatory exams.",
+            "Replicating last year's positive experience.",
+            "Avoiding future student resistance.",
+            "Learning a completely different instrument."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 412.0,
+        "end": 470.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 472.1,
+            "end": 476.7
+          },
+          "prompt": "What is Ms. Liu's short-term strategy?",
+          "options": [
+            "Pausing official exam music entirely.",
+            "Discontinuing technical posture exercises entirely.",
+            "Introducing classic video game soundtracks.",
+            "Printing original sheet music compositions."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 503.1,
+            "end": 508.1
+          },
+          "prompt": "How does the scheduling shift resolve the conflict?",
+          "options": [
+            "The father works late shifts.",
+            "The mother provides transport instead.",
+            "Soccer practice was cancelled entirely.",
+            "Toby walks to lessons independently."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 534.0,
+            "end": 538.7
+          },
+          "prompt": "When will Toby's next piano lesson occur?",
+          "options": [
+            "This Thursday afternoon.",
+            "Next Tuesday afternoon.",
+            "Following Thursday afternoon.",
+            "In one month."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

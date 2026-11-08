@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 672.8,
+    "end": 834.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 836.4,
+        "end": 839.7
+      },
+      "prompt": "Which factor primarily led to James's tardiness?",
+      "options": [
+        "Technical glitches on his mobile device.",
+        "Inaccurate data in the initial confirmation.",
+        "Fragmented processing of the provided details.",
+        "Conflicting schedules shared via digital image."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 867.6,
+        "end": 871.6
+      },
+      "prompt": "Why is Chloe specifically concerned about the 10-minute window?",
+      "options": [
+        "Capacity regulations at the primary viewing level.",
+        "The strict closure of the main theater entrance.",
+        "The scheduled conclusion of the preliminary performance.",
+        "Impending delays caused by 5th Avenue infrastructure."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 898.8,
+        "end": 903.2
+      },
+      "prompt": "Chloe's plan to move as slowly as possible in line reveals that?",
+      "options": [
+        "She is willing to jeopardize her own entry to wait for him.",
+        "She intends to stall her progression to minimize his time alone.",
+        "She is attempting to delay the start of the opening act.",
+        "She is balancing loyalty with the necessity of securing a vantage point."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 929.4,
+        "end": 933.7
+      },
+      "prompt": "What is Chloe's primary motivation for mentioning the sound booth?",
+      "options": [
+        "It serves as a secondary rendezvous point if the pit is inaccessible.",
+        "It offers the most \"incredible\" acoustics for the opening act.",
+        "It is a location where security is less likely to monitor crowds.",
+        "It is situated near the back of the floor where James requested."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 961.1,
+        "end": 965.1
+      },
+      "prompt": "At the end of the conversation, what is the status of their meeting?",
+      "options": [
+        "They have reached a definitive agreement to meet at the stone fountain.",
+        "Their reunion is contingent upon James’s transit speed and crowd density.",
+        "Chloe has decided to abandon the line to wait for James at security.",
+        "James has successfully boarded the express train to the stadium."
+      ],
+      "answer": 1
+    }
+  ]
+}

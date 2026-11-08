@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 975.7,
+    "end": 1114.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1114.7,
+        "end": 1119.7
+      },
+      "prompt": "What is the fundamental cause of the current municipal mandate?",
+      "options": [
+        "The onset of a seasonal heatwave affecting vegetable patches.",
+        "A critical depletion of the primary municipal water source.",
+        "The transition from Stage One to Stage Two community bylaws.",
+        "An all-time low in the efficiency of lawn sprinkler systems."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1145.7,
+        "end": 1151.7
+      },
+      "prompt": "Under the current decree, how can Mr. Benson legally clean his SUV?",
+      "options": [
+        "By utilizing a hand-held hose with a shut-off nozzle on Saturdays.",
+        "By waiting until the construction dust settles down the street.",
+        "By outsourcing the task to a facility with water-recovery systems.",
+        "By using a rain barrel to collect water during the drought."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1177.2,
+        "end": 1183.4
+      },
+      "prompt": "What is the city's underlying scientific rationale for the time of day restrictions?",
+      "options": [
+        "To ensure residents are home between five and nine.",
+        "To mitigate the loss of liquid to the atmosphere.",
+        "To prevent the first offense fine of two hundred dollars.",
+        "To synchronize neighborhood watering schedules with house digits."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1207.8,
+        "end": 1213.5
+      },
+      "prompt": "What is the city's policy regarding stagnant or ornamental water features?",
+      "options": [
+        "They must be filled only between 7 and 11 in the evening.",
+        "They are subject to a $200 fine if they contain dust.",
+        "They must remain at their current levels without replenishment.",
+        "They are allowed if they use a hand-held shut-off nozzle."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1239.2,
+        "end": 1244.9
+      },
+      "prompt": "Mr. Benson's ultimate decision to accept the mulch is motivated by what?",
+      "options": [
+        "A desire to preserve his home's aesthetic appeal.",
+        "Financial pragmatism regarding municipal citations.",
+        "A friendship with Ms. Rivera that dates back to last summer.",
+        "The need to wash his SUV after the construction work."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1270.3,
+        "end": 1276.0
+      },
+      "prompt": "Which phrase best describes the nature of Ms. Rivera's role in this dialogue?",
+      "options": [
+        "A city official enforcing Stage Two restrictions.",
+        "An informed resident providing neighborly guidance.",
+        "A commercial car wash owner seeking new business.",
+        "A drought expert analyzing reservoir levels for the city."
+      ],
+      "answer": 1
+    }
+  ]
+}

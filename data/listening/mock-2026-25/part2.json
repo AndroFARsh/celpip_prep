@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 584.1,
+    "end": 709.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 710.1,
+        "end": 716.2
+      },
+      "prompt": "What is the main reason the organizer approached Mr. Henderson specifically?",
+      "options": [
+        "He is in charge of the city’s park festivals.",
+        "He has access to a group of trained performers.",
+        "He is a famous singer who performs in plazas.",
+        "He owns the sound equipment needed for the event."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 741.0,
+        "end": 746.2
+      },
+      "prompt": "How does the organizer want the performance to begin?",
+      "options": [
+        "With a loud announcement over the speakers.",
+        "With the entire group dancing at once.",
+        "By handing out coffee to the people on benches.",
+        "By blending in with the everyday surroundings."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 772.1,
+        "end": 778.1
+      },
+      "prompt": "What was Mr. Henderson's primary hesitation about the request?",
+      "options": [
+        "The difficulty of singing while dancing.",
+        "The lack of a professional stage.",
+        "The logistics and scale of the performance.",
+        "The musical taste of the general public."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 803.1,
+        "end": 809.1
+      },
+      "prompt": "What changed Mr. Henderson's mind about the project being feasible?",
+      "options": [
+        "The choice of a classic show tune.",
+        "The promise of financial compensation.",
+        "The chance to perform on a Saturday.",
+        "The organizer’s high level of energy."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 834.1,
+        "end": 839.1
+      },
+      "prompt": "Why is a boom box mentioned in the conversation?",
+      "options": [
+        "To suggest a vintage theme for the dance.",
+        "To explain what the city tech department provides.",
+        "To illustrate an insufficient way to play music.",
+        "To describe what the first singer will be carrying."
+      ],
+      "answer": 2
+    }
+  ]
+}

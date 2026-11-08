@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1909.0,
+    "end": 2034.0
+  },
+  "questions": [
+    {
+      "prompt": "Critics condemn planned obsolescence as ______.",
+      "options": [
+        "an innovation obstacle",
+        "a regulatory failure",
+        "exploitation of consumers",
+        "a manufacturing error"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Proposed lifespan mandates aim to ______.",
+      "options": [
+        "cut upfront pricing",
+        "minimize material depletion",
+        "eliminate manufacturing jobs",
+        "bypass technological leaps"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Defenders claim quick turnover accelerates ______.",
+      "options": [
+        "circular economic restructuring",
+        "statutory repair rights",
+        "ecological waste management",
+        "modern feature integration"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Strict longevity rules could potentially ______.",
+      "options": [
+        "accelerate corporate accounting",
+        "freeze industrial development",
+        "lower consumer expenses",
+        "eliminate software restrictions"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "In electronics, hardware often faces ______.",
+      "options": [
+        "premature digital irrelevance",
+        "structural material flaws",
+        "sudden software crashes",
+        "unpreventable physical damage"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The core dispute opposes ______.",
+      "options": [
+        "expansion to sustainability",
+        "affordability to innovation",
+        "hardware to software",
+        "labour to management"
+      ],
+      "answer": 0
+    }
+  ]
+}

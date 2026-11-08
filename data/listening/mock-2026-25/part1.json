@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.9,
+        "end": 174.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 174.8,
+            "end": 181.3
+          },
+          "prompt": "Which of these best describes Sarah's initial mood regarding the repair?",
+          "options": [
+            "Fearful of a total engine failure.",
+            "Concerned about the repair bill.",
+            "Annoyed by the long towing delay.",
+            "Confident that Mike can fix it."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 205.8,
+            "end": 212.3
+          },
+          "prompt": "What does Mike's response suggest about his approach to car repairs?",
+          "options": [
+            "He prefers to replace the most expensive parts first.",
+            "He ignores the customer's explanation of the problem.",
+            "He wants to rule out simple fixes before assuming the worst.",
+            "He thinks Sarah is overreacting to a minor issue."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 236.8,
+            "end": 242.8
+          },
+          "prompt": "What happened to the car's power as Sarah kept trying to start it?",
+          "options": [
+            "The engine slowly began to turn over.",
+            "The battery’s energy was completely used up.",
+            "The dashboard lights became much brighter.",
+            "The clicking sound became louder and faster."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 279.0,
+        "end": 341.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 341.8,
+            "end": 347.4
+          },
+          "prompt": "What is the most likely reason the car wouldn't start this morning?",
+          "options": [
+            "The engine is physically broken.",
+            "Electricity couldn't pass through the buildup.",
+            "Sarah forgot to turn the key correctly.",
+            "The car ran out of fuel while parked."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 372.9,
+            "end": 378.6
+          },
+          "prompt": "Based on the conversation, what is the multimeter used for?",
+          "options": [
+            "Cleaning the white crust off the metal.",
+            "Fixing the alternator while the car is off.",
+            "Tracking how many years the battery has left.",
+            "Measuring the amount of energy in the battery."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 403.9,
+            "end": 408.6
+          },
+          "prompt": "What can be inferred about the car's history?",
+          "options": [
+            "Sarah has been the only owner of the vehicle.",
+            "The battery was definitely replaced three years ago.",
+            "The car’s previous owner likely didn't change the battery recently.",
+            "Mike has worked on this specific car before."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 446.0,
+        "end": 504.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 505.0,
+            "end": 509.9
+          },
+          "prompt": "Why is Sarah specifically relieved by the news?",
+          "options": [
+            "She is excited to buy a heavy-duty part.",
+            "She has plenty of extra time to kill.",
+            "The fix is both affordable and fast.",
+            "She decided to skip her morning meeting."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 536.0,
+            "end": 541.5
+          },
+          "prompt": "What is Mike's plan for preventing future issues?",
+          "options": [
+            "Applying a chemical barrier to the parts.",
+            "Charging the battery every morning.",
+            "Replacing the cables entirely.",
+            "Asking Sarah to come back in a week."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1351.5,
+    "end": 1464.2
+  },
+  "questions": [
+    {
+      "prompt": "The program was originally launched because of a daytime influx of patrons who were ______",
+      "options": [
+        "aggressive",
+        "illiterate",
+        "unhoused",
+        "certified"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Before the initiative began, complex behavioral and social issues in the libraries were primarily handled by ______",
+      "options": [
+        "administrative clerks",
+        "protective personnel",
+        "social workers",
+        "city officials"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Initial opposition to the project was largely centered around ______",
+      "options": [
+        "low staff morale",
+        "branch locations",
+        "financial expenditures",
+        "safety incidents"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Because of the social workers' presence, librarians are now better able to prioritize ______",
+      "options": [
+        "crisis intervention",
+        "housing placements",
+        "educational services",
+        "budget management"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Following the pilot's success, the program's financial future depends on an upcoming ______",
+      "options": [
+        "board election",
+        "legislative vote",
+        "public donation",
+        "staff survey"
+      ],
+      "answer": 1
+    }
+  ]
+}

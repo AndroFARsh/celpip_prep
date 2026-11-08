@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 1006.9,
+    "end": 1133.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1135.9,
+        "end": 1140.9
+      },
+      "prompt": "What prompted Mr. Henderson's immediate action regarding the water supply?",
+      "options": [
+        "The spray reached the kitchen cabinetry.",
+        "A desire to minimize structural compromise.",
+        "The classification of the \"emergency repair.\"",
+        "To stop the leak before the holiday Monday."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1167.5,
+        "end": 1171.1
+      },
+      "prompt": "How does Ms. Walters view the current plumbing failure?",
+      "options": [
+        "As a violation of the regular maintenance crew’s schedule.",
+        "As a situation requiring her immediate physical presence.",
+        "As a high-priority incident covered by specific protocols.",
+        "As a 24-hour service scenario for active leaks."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1198.1,
+        "end": 1201.8
+      },
+      "prompt": "What is the primary objective of the Tuesday morning visit?",
+      "options": [
+        "To finalize the \"emergency dispatch fee\" paperwork.",
+        "To replace the hardwood floor and kitchen cabinets.",
+        "To mitigate long-term environmental health hazards.",
+        "To bring industrial fans for the shop-vac cleanup."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1228.5,
+        "end": 1232.7
+      },
+      "prompt": "Why is the plumber's arrival time specifically within 4 hours?",
+      "options": [
+        "Because it is a 24-hour plumbing service requirement.",
+        "Due to a pre-existing contractual arrangement for crises.",
+        "Because the tenant is staying by the door with a shop-vac.",
+        "To avoid the industrial fans being used on Tuesday morning."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1260.1,
+        "end": 1265.6
+      },
+      "prompt": "What can be inferred about Mr. Henderson's financial responsibility for this repair?",
+      "options": [
+        "He must pay the \"emergency dispatch fee\" out of pocket.",
+        "He is exempt from the immediate costs of the professional intervention.",
+        "He is responsible for the restoration specialist but not the plumber.",
+        "He will be billed because the burst occurred on a Saturday morning."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1291.3,
+        "end": 1295.4
+      },
+      "prompt": "What is the main reason Mr. Henderson apologized at the start?",
+      "options": [
+        "For the standing water on the hardwood floor.",
+        "For causing a major situation in unit 402.",
+        "For disturbing the landlord during a period of leisure.",
+        "For the leak reaching the neighbor’s ceiling downstairs."
+      ],
+      "answer": 2
+    }
+  ]
+}

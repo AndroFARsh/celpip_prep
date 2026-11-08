@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2002.4,
+    "end": 2128.5
+  },
+  "questions": [
+    {
+      "prompt": "Advocates view cellular agriculture as a vital tool to mitigate the severe environmental damage caused by traditional ______",
+      "options": [
+        "deforestation",
+        "pastoralism",
+        "engineering",
+        "industrialization"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "From a moral standpoint, the primary benefit of bio-fabricated protein is the complete avoidance of ______",
+      "options": [
+        "corporate control",
+        "consumer alienation",
+        "animal slaughter",
+        "resource extraction"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Without a complete reliance on clean power, lab-grown meat fails to secure its status as a truly sustainable ______",
+      "options": [
+        "alternative",
+        "commodity",
+        "philosophy",
+        "technology"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Philosophical anxiety regarding meat produced in a vat centers heavily on the concept of ______",
+      "options": [
+        "efficiency",
+        "authenticity",
+        "availability",
+        "affordability"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The ultimate ethical viability of this food source as a climate strategy depends heavily on open and honest ______",
+      "options": [
+        "advertising",
+        "management",
+        "funding",
+        "research"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "A final requirement for lab-grown meat to succeed globally is reaching a broad public ______",
+      "options": [
+        "agreement",
+        "skepticism",
+        "segregation",
+        "stratification"
+      ],
+      "answer": 0
+    }
+  ]
+}

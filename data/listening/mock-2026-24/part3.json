@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 918.5,
+    "end": 1146.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1147.2,
+        "end": 1151.4
+      },
+      "prompt": "Where does the organization primarily source its food donations?",
+      "options": [
+        "Grocery store overstocks",
+        "Commercial hospitality venues",
+        "Suburban residential neighborhoods",
+        "Local agricultural farms"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1178.3,
+        "end": 1183.5
+      },
+      "prompt": "What is a prerequisite for Daniel to begin his first distribution route?",
+      "options": [
+        "Purchasing specific insurance",
+        "Completing a background check",
+        "Passing a virtual instruction class",
+        "Paying for insulated equipment"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1209.3,
+        "end": 1214.2
+      },
+      "prompt": "What legal protection exists for individuals participating in this program?",
+      "options": [
+        "Corporate liability insurance",
+        "Food safety certification waivers",
+        "Good Samaritan regulations",
+        "Government mileage exemptions"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1240.3,
+        "end": 1244.0
+      },
+      "prompt": "How are volunteers notified about their specific tasks?",
+      "options": [
+        "Via a mobile application",
+        "Through an automated phone call",
+        "By a calendar invite",
+        "Via a nightly text thread"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1271.4,
+        "end": 1276.2
+      },
+      "prompt": "What logistical challenge does the organization face in urban centers?",
+      "options": [
+        "Severe weather delays",
+        "Strict vehicle parking rules",
+        "Heavy vehicle weight limits",
+        "Unreliable app navigation"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1302.4,
+        "end": 1306.4
+      },
+      "prompt": "How does the organization handle heavily loaded pickups?",
+      "options": [
+        "By using company trucks",
+        "By utilizing multi-person crews",
+        "By cancelling the pickup",
+        "By paying professional movers"
+      ],
+      "answer": 1
+    }
+  ]
+}

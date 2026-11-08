@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1577.6,
+    "end": 1710.2
+  },
+  "questions": [
+    {
+      "prompt": "What mainly causes the \"crash\" for Maya?",
+      "options": [
+        "No one giving her direction",
+        "Too much tough training",
+        "Missing out on a win",
+        "Having no close friends"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Dr. Evans says the \"void\" happens because of?",
+      "options": [
+        "Natural brain chemistry",
+        "Not knowing who you are",
+        "Missing the thrill of racing",
+        "The end of a fixed timeline"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why did Maya feel \"pathetic\"?",
+      "options": [
+        "She had no future job plan",
+        "She could not handle free time",
+        "She let down her family",
+        "She stopped winning medals"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does \"falling off a cliff\" mean here?",
+      "options": [
+        "Dropping in athletic skill",
+        "Losing fan attention",
+        "A bad result in a race",
+        "A fast loss of purpose"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "\u201cIdentity diversification\" means players should?",
+      "options": [
+        "Grow different parts of their life",
+        "Try out multiple sports",
+        "Hang out with more athletes",
+        "Talk to a doctor weekly"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Maya's view on being in a cheering crowd shows?",
+      "options": [
+        "Praise does not fix deep sadness",
+        "Parties do not last very long",
+        "Fans do not truly get players",
+        "Fame brings too much stress"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Moving on is \"total darkness\" if?",
+      "options": [
+        "You leave without a medal",
+        "Brain chemicals start to drop",
+        "Your sport is your whole life",
+        "People stop watching you"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What makes up the \"perfect storm\"?",
+      "options": [
+        "Tired minds and bodies",
+        "Body and lifestyle changes together",
+        "Being famous and retiring fast",
+        "Feeling sad while being successful"
+      ],
+      "answer": 1
+    }
+  ]
+}

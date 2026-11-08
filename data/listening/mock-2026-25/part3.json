@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 882.3,
+    "end": 1033.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1034.0,
+        "end": 1038.2
+      },
+      "prompt": "What is the primary requirement for the repair to be free of charge?",
+      "options": [
+        "The customer must provide a paper receipt.",
+        "The issue must stem from a factory defect.",
+        "The repair must take less than ten business days.",
+        "The laptop must be less than one month old."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1063.3,
+        "end": 1069.6
+      },
+      "prompt": "Why is the customer's recent software installation a potential problem?",
+      "options": [
+        "It likely cracked the screen from the inside.",
+        "It could make the manufacturer’s warranty expire early.",
+        "It might result in a service charge even if the hardware is fine.",
+        "The laptop is too old to run graphic design suites."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1094.3,
+        "end": 1100.2
+      },
+      "prompt": "What is the main difference between the limited and extended plans?",
+      "options": [
+        "The Limited plan only covers software issues.",
+        "The Extended plan ignores the cause of the damage.",
+        "The Limited plan provides a free loaner laptop.",
+        "The Extended plan is only for professional designers."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1125.4,
+        "end": 1131.7
+      },
+      "prompt": "What is the shortest amount of time the customer could be without a laptop?",
+      "options": [
+        "One hour.",
+        "One week.",
+        "Ten business days.",
+        "Fourteen business days."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1156.4,
+        "end": 1162.7
+      },
+      "prompt": "If the customer needs a computer to meet their deadlines, they must?",
+      "options": [
+        "Pay a weekly fee for a temporary device.",
+        "Wait at the shop for the repair to finish.",
+        "Buy a second high-end laptop.",
+        "Back up their files to the cloud."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1187.4,
+        "end": 1192.9
+      },
+      "prompt": "What is the customer's hope regarding the ribbon cable?",
+      "options": [
+        "That it is a software-based problem.",
+        "That it is an expensive part to replace.",
+        "That it is a hardware defect covered by the warranty.",
+        "That it can be fixed without sending the laptop away."
+      ],
+      "answer": 2
+    }
+  ]
+}

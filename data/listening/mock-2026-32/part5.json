@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1629.2,
+    "end": 1824.3
+  },
+  "questions": [
+    {
+      "prompt": "Leo's primary travel philosophy suggests that ?",
+      "options": [
+        "Local hands are better than international hotel chains.",
+        "Extended residency benefits the regional economy.",
+        "Environmental issues are less important than people.",
+        "Staying in one village for three weeks is the only way."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sienna's \"elephant in the room\" refers to the impact of ?",
+      "options": [
+        "Staying at a local guesthouse for a month.",
+        "Funding various carbon-sequestering projects.",
+        "Using green-certified booking platforms.",
+        "High-altitude emissions from long-distance transit."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The Peruvian initiative mentioned by Leo is an example of ?",
+      "options": [
+        "Tourists acting as observers of a harvest.",
+        "A niche market for a week at the beach.",
+        "Shifting from passive leisure to active participation.",
+        "A systemic solution for mainstream travelers."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Sienna argues that for \"mainstream\" tourism to change, there must be ?",
+      "options": [
+        "A move toward zero-waste certifications.",
+        "Institutional shifts in industry standards.",
+        "A demand for more niche market homestays.",
+        "More Instagrammable luxury eco-resorts."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus's example of \"greywater\" disposal is used to illustrate ?",
+      "options": [
+        "The benefits of banning plastic straws.",
+        "Superficial environmentalism for marketing purposes.",
+        "The importance of using a bamboo toothbrush.",
+        "Why travelers should take a free stay."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sienna's concluding summary suggests that sustainability is ?",
+      "options": [
+        "A work in progress for perfect travelers.",
+        "Primarily about environmental transparency.",
+        "A multifaceted approach to travel impact.",
+        "The honesty of green claims in hotels."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Marcus's final goal for his readers is to ?",
+      "options": [
+        "Become perfectly sustainable travelers.",
+        "Avoid the Maldives and other eco-resorts.",
+        "Cultivate incremental mindfulness in habits.",
+        "Stop posting photos of bamboo toothbrushes."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Collectively, the panel implies that the greatest hurdle to sustainable travel is?",
+      "options": [
+        "The high price of sustainable aviation fuel.",
+        "Misleading information and industry facades.",
+        "The difficulty of finding a Peruvian harvest.",
+        "Travelers who only stay for ten days."
+      ],
+      "answer": 1
+    }
+  ]
+}

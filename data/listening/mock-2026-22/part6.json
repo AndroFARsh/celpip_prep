@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1941.4,
+    "end": 2041.6
+  },
+  "questions": [
+    {
+      "prompt": "Cinematic proponents view AI likeness synthesis as a means of ______.",
+      "options": [
+        "digitally preserving iconic performances.",
+        "expanding traditional narrative boundaries.",
+        "redefining legal gray areas.",
+        "bypassing post-production visual effects."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Opponents of the technology express anxiety regarding ______.",
+      "options": [
+        "the rights of performers.",
+        "cost-effective digital production solutions.",
+        "unauthorized artistic image exploitation.",
+        "ownership of human artistry."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "In politics, synthetic videos can be intentionally deployed to ______.",
+      "options": [
+        "translate messages for broader demographics.",
+        "reach multiple language audiences.",
+        "deliberately circulate falsified data.",
+        "generate harmless political satire."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The widespread diffusion of fabricated media ultimately causes ______.",
+      "options": [
+        "institutional information to fail completely.",
+        "a general erosion of trust.",
+        "public inability to perceive reality.",
+        "diminished confidence in official reporting."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The primary societal challenge involves establishing ______.",
+      "options": [
+        "protective statutory boundaries.",
+        "robust legal frameworks.",
+        "identity theft prevention tools.",
+        "unlimited creative expression avenues."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The core debate over deepfakes fundamentally centers on ______.",
+      "options": [
+        "balancing expression against safety.",
+        "stopping political campaign manipulation.",
+        "stabilizing vulnerable democratic processes.",
+        "reducing high-budget production expenditures."
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2023.2,
+    "end": 2161.1
+  },
+  "questions": [
+    {
+      "prompt": "The report suggests that the \"unwritten rule\" of the past primarily served to ______",
+      "options": [
+        "Standardize corporate data.",
+        "Maintain a culture of silence.",
+        "Mask compensation disparities.",
+        "Improve candidate negotiation."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "For a job seeker, the primary value of these laws is the removal of ______",
+      "options": [
+        "The minimum salary requirement.",
+        "Procedural ambiguity.",
+        "The role's internal value.",
+        "Professional social taboos."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "HR executives fear that public salary ranges might result in ______",
+      "options": [
+        "A lack of qualified candidates.",
+        "Internal financial audits.",
+        "Employee dissatisfaction.",
+        "Pay Compression laws.."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "According to the \"poaching\" argument, transparency makes a company ______",
+      "options": [
+        "More attractive to top-tier talent.",
+        "Vulnerable to fiscal espionage.",
+        "Predictable to market rivals.",
+        "Unable to offer a maximum budget."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why is the transition to transparency described as \"messy\" ______",
+      "options": [
+        "Companies are refusing to conduct internal audits.",
+        "The labor market is becoming less evolved..",
+        "Existing pay structures may lack objective justification.",
+        "Regional mandates are being ignored by recruiters."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "According to the passage, the primary skepticism from the business community regarding \"radical openness\" centers on its ______",
+      "options": [
+        "Operational durability.",
+        "Equitability milestones.",
+        "Systemic gap mitigation.",
+        "Systemic gap mitigation."
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1328.6,
+    "end": 1448.9
+  },
+  "questions": [
+    {
+      "prompt": "Marcus Thorne’s primary ambition for the new hires is ______",
+      "options": [
+        "To build panels for the global market.",
+        "To provide a temporary fix for assembly line technicians.",
+        "To establish a foundation for enduring professional advancement.",
+        "To facilitate a transition for the community college."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The existence of the \"Fast-Track\" program suggests that the local labor pool ______",
+      "options": [
+        "Is currently comprised of specialized chemical engineers.",
+        "Possesses outdated expertise due to historical sector declines.",
+        "Has already been retrained by the Community College.",
+        "Was largely unaffected by the manufacturing downturn."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The $5 million government intervention is specifically designed to ______",
+      "options": [
+        "Subsidize the production of high-efficiency photovoltaic panels.",
+        "Bridge the physical gap between residential areas and the workplace.",
+        "Retrain workers who were displaced three years ago.",
+        "Upgrade the front gates of the industrial giant."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The report suggests that for the Tri-City area, the 500 jobs are ______",
+      "options": [
+        "A guarantee of a major transformation.",
+        "A possible catalyst for regional financial recovery.",
+        "A way to connect the residential suburbs to the old textile mill.",
+        "A result of the $5 million grant."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The text implies that a \"sustainable career\" differs from previous work because ______",
+      "options": [
+        "It focuses on high-efficiency photovoltaic panels.",
+        "It is located at the City Convention Center.",
+        "It offers longevity rather than a cyclical downturn.",
+        "It relies on a $5 million grant from the government."
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 569.7,
+    "end": 722.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 722.4,
+        "end": 728.0
+      },
+      "prompt": "Why does the resident hesitate about the laptops?",
+      "options": [
+        "She lacks technical expertise.",
+        "They are too heavy.",
+        "She wants free recycling.",
+        "They are broken units."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 754.1,
+        "end": 758.7
+      },
+      "prompt": "How does the employee address data security?",
+      "options": [
+        "He wipes all drives.",
+        "He advises user action.",
+        "He guarantees data safety.",
+        "He ignores the concern."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 785.0,
+        "end": 790.2
+      },
+      "prompt": "Why does the resident decide to go home first?",
+      "options": [
+        "To prepare the laptops.",
+        "The center is closed.",
+        "To get more money.",
+        "To find the batteries."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 816.1,
+        "end": 820.1
+      },
+      "prompt": "What is the status of the batteries?",
+      "options": [
+        "They are very dangerous.",
+        "All types are accepted.",
+        "They are free now.",
+        "Only specific types accepted."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 847.1,
+        "end": 851.7
+      },
+      "prompt": "Why does the resident choose Saturday morning?",
+      "options": [
+        "She prefers avoiding traffic",
+        "It is a public holiday",
+        "She needs time to sort out her laptops first",
+        "The center is free"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 582.3,
+    "end": 715.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 715.6,
+        "end": 722.4
+      },
+      "prompt": "What portion of the total inventory remains unselected for tomorrow?",
+      "options": [
+        "One-third of the fleet.",
+        "Exactly eight hybrid units.",
+        "A pair of upgraded options.",
+        "Half of the available stock."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 746.0,
+        "end": 752.8
+      },
+      "prompt": "What rate applies to each companion for this specific excursion?",
+      "options": [
+        "The standard individual fee.",
+        "A thirty-five dollar combination.",
+        "The reduced promotional price.",
+        "A fifteen dollar supplemental charge."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 777.3,
+        "end": 781.8
+      },
+      "prompt": "What motivated the timing of their departure?",
+      "options": [
+        "Securing specific equipment.",
+        "Circumventing peak daytime temperatures.",
+        "Evading high traffic congestion.",
+        "Arriving before midday closure."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 808.0,
+        "end": 814.2
+      },
+      "prompt": "What must the guest provide to secure the reservation today?",
+      "options": [
+        "Digital check-in validation documents.",
+        "Separate waivers for each companion.",
+        "Payment details and a signature.",
+        "Room key identification credentials."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 839.2,
+        "end": 845.8
+      },
+      "prompt": "Which feature is universally present on all selected units?",
+      "options": [
+        "A rear-mounted luggage rack.",
+        "An electrical power booster.",
+        "Detachable elastic securing cords.",
+        "Forward storage compartments."
+      ],
+      "answer": 3
+    }
+  ]
+}

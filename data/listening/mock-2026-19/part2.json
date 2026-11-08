@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 598.7,
+    "end": 707.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 709.0,
+        "end": 714.3
+      },
+      "prompt": "Why does Sarah want to transform the messy back alley?",
+      "options": [
+        "Eradicate a rodent issue.",
+        "Expand her private yard.",
+        "Create a shared garden.",
+        "Sell homegrown vegetables."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 739.9,
+        "end": 745.2
+      },
+      "prompt": "What is the man's initial worry about the project?",
+      "options": [
+        "Finding enough volunteers.",
+        "Building wooden planters.",
+        "Spending too much money.",
+        "Planting the wrong herbs."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 771.0,
+        "end": 776.7
+      },
+      "prompt": "How does Sarah plan to attract neighbors to the cleanup day?",
+      "options": [
+        "City Website",
+        "Garden Center",
+        "Mailbox Flyer",
+        "Barbecue Social"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 802.1,
+        "end": 807.9
+      },
+      "prompt": "Where will they secure the necessary dirt and planting materials?",
+      "options": [
+        "Municipal free supply.",
+        "Local commercial nursery.",
+        "Neighbors' private sheds.",
+        "Online retail delivery."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 833.1,
+        "end": 837.7
+      },
+      "prompt": "What task does the man commit to completing today?",
+      "options": [
+        "Distributing print flyers.",
+        "Ordering city compost.",
+        "Purchasing grill meat.",
+        "Building wooden boxes."
+      ],
+      "answer": 0
+    }
+  ]
+}

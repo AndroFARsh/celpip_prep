@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2066.1,
+    "end": 2226.6
+  },
+  "questions": [
+    {
+      "prompt": "Residents characterize the city’s transition toward sustainability as ______",
+      "options": [
+        "A pivotal step toward carbon neutrality",
+        "Lacking in pragmatic administrative support",
+        "A global leader in ambitious bylaws",
+        "A series of strict three-tier mandates"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "City planners view the inconvenience of the new schedule as ______",
+      "options": [
+        "An unhygienic buildup for large families",
+        "A deliberate tool for consumer modification",
+        "A failure of the Department of Environment",
+        "A pressure to increase single-use plastics"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "According to the text, the \"Zero-Waste\" goal aims to ______",
+      "options": [
+        "Shift accountability to the end-user and maker",
+        "Modernize the infrastructure for general refuse",
+        "Reduce the financial burden of recycling rates",
+        "Eliminate the need for three-tier sorting systems"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"25% jump\" in recycling rates is presented as evidence that ______",
+      "options": [
+        "Three-week collection is unhygienic",
+        "Purchasing habits remain stagnant",
+        "Scarcity of disposal options drives diversion",
+        "Public organic drop-off sites are unnecessary"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics of the current policy argue that the city's timing was ______",
+      "options": [
+        "Too focused on behavioral change",
+        "Premature relative to available facilities",
+        "A necessary catalyst for summer months",
+        "Based on 24% of environmental statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"central conflict\" described at the end of the report is between ______",
+      "options": [
+        "High-capacity bins and three-tier sorting",
+        "Environmental objectives and public health",
+        "City planners and the Department of Environment",
+        "Low-income neighborhoods and carbon neutrality"
+      ],
+      "answer": 1
+    }
+  ]
+}

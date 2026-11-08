@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1976.3,
+    "end": 2088.1
+  },
+  "questions": [
+    {
+      "prompt": "The shift in public health policy mentioned here suggests that drug use is increasingly being treated as a ______",
+      "options": [
+        "criminal activity for police to manage",
+        "medical issue requiring support",
+        "minor problem in urban centers",
+        "religious or moral failure"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Supporters believe these sites improve the quality of the surrounding neighborhood by ______",
+      "options": [
+        "providing free housing to the vulnerable",
+        "hiring residents to clean the streets",
+        "reducing the visibility of drug paraphernalia",
+        "banning drug use in all transit stations"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "One way these facilities help users beyond preventing death is by acting as a ______",
+      "options": [
+        "permanent residence for the homeless",
+        "source of income for those in need",
+        "gateway to long-term recovery programs",
+        "place to buy safer alternatives to drugs"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Residents who oppose these centers are primarily worried about ______",
+      "options": [
+        "the high cost of medical supplies",
+        "the negative impact on their local area",
+        "the lack of professional doctors on-site",
+        "a decrease in the city's overall population"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"magnet effect\" mentioned by skeptics refers to the fear that these sites will ______",
+      "options": [
+        "pull in unwanted criminal elements",
+        "attract too many medical professionals",
+        "drain money away from local businesses",
+        "cause electronic devices to malfunction"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Opponents argue that the existence of these sites might send a message that ______",
+      "options": [
+        "addiction is impossible to cure",
+        "illegal drug consumption is acceptable",
+        "the police have stopped working",
+        "property values are no longer important"
+      ],
+      "answer": 1
+    }
+  ]
+}

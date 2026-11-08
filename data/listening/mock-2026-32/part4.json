@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1319.2,
+    "end": 1429.5
+  },
+  "questions": [
+    {
+      "prompt": "The nesting site was likely chosen because it offered ______",
+      "options": [
+        "Pristine coastal conditions.",
+        "Minimal biological threats.",
+        "Abundant gravel resources.",
+        "High-security shipping access."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Dr. Thorne's description of the find suggests the location is ______",
+      "options": [
+        "Historically significant.",
+        "Geographically atypical.",
+        "Environmentally degraded.",
+        "Scientifically expected."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The logistics company's stance can best be characterized as ______",
+      "options": [
+        "Conditionally compliant.",
+        "Openly defiant.",
+        "Environmentally indifferent.",
+        "Financially reckless."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The timeline for the \"major expansion\" is problematic because it ______",
+      "options": [
+        "Precedes the completion of the birds' development.",
+        "Coincides with the arrival of coastal predators.",
+        "Requires the removal of all gravel piles.",
+        "Exceeds the thirty-day monitoring period."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Environmental groups view the current situation as an opportunity for ______",
+      "options": [
+        "Permanent land-use reclassification.",
+        "Immediate industrial shutdown.",
+        "Brief developmental suspension.",
+        "Relocating the speckled eggs to the University."
+      ],
+      "answer": 2
+    }
+  ]
+}

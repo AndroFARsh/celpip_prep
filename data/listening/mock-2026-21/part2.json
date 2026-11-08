@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 584.1,
+    "end": 710.4
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 710.5,
+        "end": 715.7
+      },
+      "prompt": "What logic justifies the restricted event timeline?",
+      "options": [
+        "Creating elite scarcity",
+        "Avoiding public friction",
+        "Accommodating corporate shifts",
+        "Maximizing child stamina"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 741.2,
+        "end": 745.7
+      },
+      "prompt": "Why is a pacing mechanism discarded?",
+      "options": [
+        "Toddlers lack balance",
+        "Licensing requires paperwork",
+        "It sparks hostility",
+        "Equipment is brittle"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 772.1,
+        "end": 776.8
+      },
+      "prompt": "How will systemic movement be directed?",
+      "options": [
+        "Fixed physical placards",
+        "Temporary ground indicators",
+        "Digital layout files",
+        "Relocated structural boundaries"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 803.2,
+        "end": 808.1
+      },
+      "prompt": "What development triggered the initial proposal?",
+      "options": [
+        "Public asset maintenance",
+        "Digital network feedback",
+        "Street pavement degradation",
+        "Excessive domestic storage"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 834.3,
+        "end": 840.0
+      },
+      "prompt": "What is the initial safety anxiety regarding the public site?",
+      "options": [
+        "Animal behavioral issues",
+        "Motorist traffic collisions",
+        "Pedestrian balance hazards",
+        "Local zoning violations"
+      ],
+      "answer": 2
+    }
+  ]
+}

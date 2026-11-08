@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1572.4,
+    "end": 1712.8
+  },
+  "questions": [
+    {
+      "prompt": "Why does the Historian use the term \"Glass House\"?",
+      "options": [
+        "Historical records",
+        "Modern architecture",
+        "Enhanced safety",
+        "Constant visibility"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "How does the Futurist view privacy loss?",
+      "options": [
+        "A minor technical error",
+        "Necessary friction",
+        "A moral failure",
+        "Decentralized finance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does the \"backyard\" symbolize?",
+      "options": [
+        "Space to fail",
+        "Real estate",
+        "Outdoor activity",
+        "20th-century life"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does the Futurist cite the printing press?",
+      "options": [
+        "To normalize change",
+        "To promote literacy",
+        "To warn of danger",
+        "To discuss technology"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the Historian's fear regarding \"connection\"?",
+      "options": [
+        "Improved behavior",
+        "Digital speed",
+        "Social control",
+        "Global empathy"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does \"living without shadows\" imply?",
+      "options": [
+        "Biological isolation",
+        "Scientific failure",
+        "Bright, lit futures",
+        "No private self"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why fear a \"society of performers\"?",
+      "options": [
+        "Better acting skills",
+        "Inauthentic behavior",
+        "Honest expression",
+        "Complex algorithms"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Clara's goal with the \"monument or ledger\" question?",
+      "options": [
+        "Framing the debate",
+        "Defending privacy",
+        "Ending the argument",
+        "Promoting technology"
+      ],
+      "answer": 0
+    }
+  ]
+}

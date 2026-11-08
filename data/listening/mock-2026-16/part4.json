@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1256.2,
+    "end": 1372.8
+  },
+  "questions": [
+    {
+      "prompt": "The trail was raised to ______",
+      "options": [
+        "increase pedestrian speed.",
+        "prevent water buildup.",
+        "add modern trail lighting.",
+        "lengthen the path distance."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Mayor Carter prioritizes park ______",
+      "options": [
+        "increasing property tax value.",
+        "modernizing local infrastructure.",
+        "hosting more weekend picnics.",
+        "long-term community utility."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Residents fear increased park ______",
+      "options": [
+        "neighborhood congestion.",
+        "reduction in seating.",
+        "maintenance costs yearly.",
+        "elderly resident access."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "City built the splash pad ______",
+      "options": [
+        "prioritizing resident feedback.",
+        "ignoring traffic flow issues.",
+        "limiting visitor numbers.",
+        "preferring expensive features."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Future gardens help residents ______",
+      "options": [
+        "manage pond drainage.",
+        "expand food resources.",
+        "reduce park visitors.",
+        "replace playground area."
+      ],
+      "answer": 1
+    }
+  ]
+}

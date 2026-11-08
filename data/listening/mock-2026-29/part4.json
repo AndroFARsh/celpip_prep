@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1338.5,
+    "end": 1460.9
+  },
+  "questions": [
+    {
+      "prompt": "Sergeant Morales characterizes the recent \"surge\" in thefts as being ______",
+      "options": [
+        "A seasonal peak in residential loitering",
+        "Influenced by the nature of the cargo",
+        "A 40% decrease in holiday opportunity crimes",
+        "A result of community safety bulletins"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Modern \"porch pirates\" are distinguished from traditional thieves by their ______",
+      "options": [
+        "Use of high-definition doorbell cameras",
+        "Methodical tracking of logistics vehicles",
+        "Focus on low street-lighting in West-End",
+        "Frequent use of stolen parcels and lockers"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The arrest of two individuals in the West-End suggests that ______",
+      "options": [
+        "The specialized task force has eliminated the threat",
+        "Law enforcement intervention has not deterred the trend",
+        "Over fifty stolen parcels are now in plain view",
+        "Street-lighting has improved in the district"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Doorbell cameras are primarily recommended because they provide ______",
+      "options": [
+        "An immediate stop to all porch piracy",
+        "Evidentiary value for police inquiries",
+        "HD footage for major grocery chains",
+        "A way to trail delivery vans to doorsteps"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Vulnerable properties are specifically identified as those with ______",
+      "options": [
+        "Rented vehicles and high-definition investigation",
+        "Obstructed visibility from public thoroughfares",
+        "Motion-activated non-emergency lines",
+        "Secure lockers at local grocery stores"
+      ],
+      "answer": 1
+    }
+  ]
+}
