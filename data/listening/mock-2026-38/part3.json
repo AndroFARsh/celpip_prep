@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 945.5,
+    "end": 1130.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1130.7,
+        "end": 1136.6
+      },
+      "prompt": "Why does Lucas explain the rules in such detail at the beginning?",
+      "options": [
+        "Emma appears careless",
+        "Campers often argue",
+        "Rules recently changed",
+        "The season increases danger"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1161.8,
+        "end": 1167.4
+      },
+      "prompt": "What is the main reason solid fuel stoves are disallowed?",
+      "options": [
+        "Hard to control heat",
+        "Produce lasting embers",
+        "Camp size limits",
+        "Cause smoke complaints"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1192.8,
+        "end": 1199.7
+      },
+      "prompt": "What does Lucas imply by allowing gas stoves only with conditions?",
+      "options": [
+        "They are mostly harmless",
+        "Risk depends on usage",
+        "Campers lack skill",
+        "Fuel quality varies"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1223.8,
+        "end": 1228.9
+      },
+      "prompt": "What does Lucas suggest about unattended cooking?",
+      "options": [
+        "It causes accidents",
+        "It saves fuel",
+        "It invites wildlife",
+        "It breaks etiquette"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1254.8,
+        "end": 1261.2
+      },
+      "prompt": "What does Lucas's tone about smoking suggest?",
+      "options": [
+        "Indifference",
+        "Prior experience",
+        "Personal dislike",
+        "Policy confusion"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1285.8,
+        "end": 1291.7
+      },
+      "prompt": "What is the purpose of mentioning penalties?",
+      "options": [
+        "To intimidate",
+        "To inform consequences",
+        "To show authority",
+        "To discourage camping"
+      ],
+      "answer": 1
+    }
+  ]
+}

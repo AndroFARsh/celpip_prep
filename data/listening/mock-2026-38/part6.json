@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2091.9,
+    "end": 2283.2
+  },
+  "questions": [
+    {
+      "prompt": "Success in resource-permitted testing relies more on ______.",
+      "options": [
+        "recall speed",
+        "selective judgment",
+        "content exposure",
+        "prior drilling"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Preparation emphasizes concept linking rather than ______.",
+      "options": [
+        "surface scanning",
+        "idea linking",
+        "repetition cycles",
+        "mental mapping"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Managing large materials reveals skill in ______.",
+      "options": [
+        "possession",
+        "fast flipping",
+        "structured navigation",
+        "memory backup"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Assessment pressure comes from balancing knowledge with ______.",
+      "options": [
+        "unlimited aids",
+        "external consultation",
+        "group input",
+        "later review"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is measured depends largely on ______.",
+      "options": [
+        "effort",
+        "access",
+        "question framing",
+        "duration"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "True evaluation emerges when learners manage priorities under ______.",
+      "options": [
+        "comfort",
+        "pressure",
+        "freedom",
+        "guidance"
+      ],
+      "answer": 1
+    }
+  ]
+}

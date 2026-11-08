@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 674.6,
+    "end": 821.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 822.7,
+        "end": 828.8
+      },
+      "prompt": "Why does Sophie slowly favor one plan over the other?",
+      "options": [
+        "She dislikes loud settings",
+        "She values shared energy and interaction",
+        "She wants to save money only",
+        "She prefers daytime schedules"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 853.7,
+        "end": 859.8
+      },
+      "prompt": "What concern weakens the idea of attending both events?",
+      "options": [
+        "Distance between places",
+        "Weather uncertainty",
+        "Poor transportation",
+        "Physical exhaustion"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 884.7,
+        "end": 891.7
+      },
+      "prompt": "Why does Liam initially hesitate despite liking music?",
+      "options": [
+        "He prefers sports permanently",
+        "He seeks novelty through absence",
+        "He dislikes indoor venues",
+        "He already owns recordings"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 915.8,
+        "end": 920.7
+      },
+      "prompt": "What role does weather play in the decision?",
+      "options": [
+        "It eliminates one option",
+        "It strengthens outdoor appeal",
+        "It causes scheduling conflict",
+        "It affects ticket demand"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 946.8,
+        "end": 952.0
+      },
+      "prompt": "Why does Sophie mention ticket availability?",
+      "options": [
+        "To rush decision making",
+        "To highlight exclusivity",
+        "To imply pressure of scarcity",
+        "To discourage attendance"
+      ],
+      "answer": 2
+    }
+  ]
+}

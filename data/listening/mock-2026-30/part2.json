@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 681.2,
+    "end": 817.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 819.6,
+        "end": 825.2
+      },
+      "prompt": "What was the primary red flag that alerted Ms. Clara to Leo's condition?",
+      "options": [
+        "A sudden onset of respiratory distress.",
+        "A notable departure from his usual vitality.",
+        "A failure to consume his midday meal.",
+        "An aggressive physical reaction after lunch."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 850.7,
+        "end": 859.9
+      },
+      "prompt": "Under the daycare's health mandate, if Leo's temperature stabilizes at 9 p.m. Tuesday, when is his earliest return?",
+      "options": [
+        "Wednesday morning at opening.",
+        "Immediately following a Tylenol dose.",
+        "Thursday morning at opening.",
+        "Wednesday afternoon after 24 hours."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 881.7,
+        "end": 886.4
+      },
+      "prompt": "Ms. Clara's decision to call Mr. Henderson was triggered by...",
+      "options": [
+        "A subjective observation of his \"heavy\" head.",
+        "The crossing of a specific clinical limit.",
+        "A direct request from the school nurse.",
+        "An inability to participate in craft time."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 913.1,
+        "end": 918.8
+      },
+      "prompt": "Which term best describes the nature of Leo's digestive complaint?",
+      "options": [
+        "Acute gastrointestinal distress.",
+        "Mild internal discomfort.",
+        "Chronic dietary sensitivity.",
+        "Viral stomach infection."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 943.8,
+        "end": 949.0
+      },
+      "prompt": "Mr. Henderson's reaction to the news can be characterized as...",
+      "options": [
+        "Alarmist and panicked.",
+        "Compliant and proactive.",
+        "Skeptical and dismissive.",
+        "Frustrated by the interruption."
+      ],
+      "answer": 1
+    }
+  ]
+}

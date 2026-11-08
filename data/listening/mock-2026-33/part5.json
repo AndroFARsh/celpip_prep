@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1690.4,
+    "end": 1871.4
+  },
+  "questions": [
+    {
+      "prompt": "Dr. Aris suggest that certain emotional bonds lead to ?",
+      "options": [
+        "A suspension of objective judgment.",
+        "A desire to use bedroom filters.",
+        "An increase in gym memberships.",
+        "A mastery of logical processing."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Marketing strategies have shifted because modern consumers value ?",
+      "options": [
+        "High-interest credit availability.",
+        "The appearance of genuine relatability.",
+        "Traditional celebrity endorsements.",
+        "Limited time drops and TikTok trends."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Social dynamics in educational settings are now influenced by ?",
+      "options": [
+        "The hour students spend in the classroom.",
+        "The ability to avoid social pressure.",
+        "Possession as a requirement for inclusion.",
+        "Interventions provided by the parents."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Financial instability among young adults is often driven by ?",
+      "options": [
+        "A lack of free PR packages from creators.",
+        "Using savings for nineteen years of school.",
+        "Emulating wealth through debt mechanisms.",
+        "Becoming vocal advocates for literacy."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Dr. Aris views excessive consumption as a reaction to ?",
+      "options": [
+        "Feelings of personal insufficiency.",
+        "A forty-eight hour checkout delay.",
+        "Mastering the business of influencers.",
+        "Stable spending habit development."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Becca suggests that the industry's evolution includes ?",
+      "options": [
+        "Eliminating all paid partnerships.",
+        "Increasing the use of editing tricks.",
+        "Prioritizing reputation over profit.",
+        "Moving exclusively to Instagram."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "James argues that ethical content creators are currently ?",
+      "options": [
+        "Outnumbered by promotional content.",
+        "The main cause of school peer pressure.",
+        "Successfully breaking the scrolling cycle.",
+        "Replacing the need for parent intervention."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The proposed educational changes aim to help students ?",
+      "options": [
+        "Earn as much as famous creators.",
+        "Increase their time spent scrolling.",
+        "Recognize the commercial nature of media.",
+        "Avoid using light and filters."
+      ],
+      "answer": 2
+    }
+  ]
+}

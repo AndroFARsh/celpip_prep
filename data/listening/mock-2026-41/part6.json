@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2171.9,
+    "end": 2386.8
+  },
+  "questions": [
+    {
+      "prompt": "Extended hours mainly risk: ______.",
+      "options": [
+        "Work output drop",
+        "Client dissatisfaction",
+        "Skills decline",
+        "Body and mind strain"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Work–life conflicts arise from: ______.",
+      "options": [
+        "Disrupted personal schedule",
+        "Boring tasks",
+        "Poor guidance",
+        "Customer demands"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Mental fatigue worsens with: ______.",
+      "options": [
+        "Nonstop client contact",
+        "Workplace gossip",
+        "Lack of oversight",
+        "Seasonal pressure"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Unequal shifts lead to: ______.",
+      "options": [
+        "Stalled development",
+        "Client complaints",
+        "Employee bitterness",
+        "Absenteeism"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Stress reduction is achieved via: ______.",
+      "options": [
+        "Rotating responsibilities",
+        "Stricter rules",
+        "Shorter breaks",
+        "Standardized duties"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Continuous availability increases: ______.",
+      "options": [
+        "Work efficiency",
+        "Knowledge gaps",
+        "Team bonding",
+        "Nervousness and withdrawal"
+      ],
+      "answer": 3
+    }
+  ]
+}

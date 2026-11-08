@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2104.5,
+    "end": 2210.5
+  },
+  "questions": [
+    {
+      "prompt": "The report suggests that advocates for compulsory voting view the act of casting a ballot as ______",
+      "options": [
+        "A voluntary expression of personal liberty.",
+        "A societal requirement on par with fiscal contributions.",
+        "A unique privilege distinct from other civic tasks.",
+        "A method to ensure the silent majority remains polarized."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics of voting fines suggest that abstention can function as ______",
+      "options": [
+        "A random choice to avoid state coercion.",
+        "Evidence of a lack of civic engagement.",
+        "A form of voter suppression against the base.",
+        "A deliberate non-verbal critique of the ballot options."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "According to the text, the threat of a fine might result in ______",
+      "options": [
+        "Arbitrary candidate selection.",
+        "Enhanced freedom of expression.",
+        "More qualified candidates entering the race.",
+        "A more informed outcome for the silent majority."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Which of the following best describes the \"ethical dilemma\" mentioned ______",
+      "options": [
+        "The conflict between state-mandated duty and individual autonomy.",
+        "The struggle to define taxation as a fundamental social obligation.",
+        "The difficulty of increasing turnout among polarized extremes.",
+        "The trade-off between financial penalties and jury service."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The report implies that a \"democratic mandate\" is \"more accurate\" when ______",
+      "options": [
+        "Voters are well-informed and choose at random.",
+        "Participation is no longer a choice but a penalty.",
+        "The government reflects the breadth of the citizenry.",
+        "Personal liberty is prioritized over social obligation."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics argue that \"state coercion\" essentially ______",
+      "options": [
+        "Eliminates the silent majority.",
+        "Invalidates the communicative power of not voting.",
+        "Promotes a more powerful democratic mandate.",
+        "Protects the sanctity of personal liberty."
+      ],
+      "answer": 1
+    }
+  ]
+}

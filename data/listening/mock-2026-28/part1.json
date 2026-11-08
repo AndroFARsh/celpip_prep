@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.0,
+        "end": 199.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 201.0,
+            "end": 209.0
+          },
+          "prompt": "What is the fundamental conflict preventing a simple rescheduling of the meeting?",
+          "options": [
+            "The candidate’s inability to secure an express vehicle from the airport.",
+            "A misalignment between the arrival time and the evaluators' departures.",
+            "The technical malfunction of the 2:00 PM feeder flight at O'Hare.",
+            "Rachel’s refusal to print the candidate’s resume for the hiring committee."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 232.0,
+            "end": 239.7
+          },
+          "prompt": "How does Rachel attempt to mitigate Leo's professional anxiety during the call?",
+          "options": [
+            "By suggesting that weather patterns are a valid excuse for mechanical issues.",
+            "By offering to push back the 2:00 PM start time to a late-afternoon session.",
+            "By framing the travel disruption as a common and understandable occurrence.",
+            "By confirming that his resume has already been distributed to the four interviewers."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 263.0,
+            "end": 271.4
+          },
+          "prompt": "Which statement best describes Leo's primary objective in his final response?",
+          "options": [
+            "He is seeking to preserve his candidacy through an alternative engagement method.",
+            "He is attempting to force the lead engineers to cancel their conference flights.",
+            "He is demanding a forty-minute extension to his current gate waiting period.",
+            "He is trying to justify his 4:30 PM arrival by emphasizing his express car plan."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 305.0,
+        "end": 395.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 396.1,
+            "end": 403.7
+          },
+          "prompt": "What is the primary incentive driving Leo's hesitation toward Rachel's proposed alternative?",
+          "options": [
+            "The potential for auditory interference to undermine his professional persona.",
+            "The lack of a \"decent Wi-Fi connection\" within the crowded terminal.",
+            "The risk of \"falling behind\" other candidates over the next twelve days.",
+            "The logistical difficulty of opening his laptop while stuck at the gate."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 425.0,
+            "end": 433.2
+          },
+          "prompt": "Why does Rachel view the 12-day delay as a significant threat to Leo's candidacy?",
+          "options": [
+            "Because the office will be closed for a holiday weekend for most of that duration.",
+            "Because the \"High Priority\" flag on his account will expire before the engineers return.",
+            "Because the selection process is operating on a highly condensed timeline.",
+            "Because the lead engineers are likely to hire a candidate at their upcoming conference."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 456.1,
+            "end": 463.2
+          },
+          "prompt": "Rachel's strategy for managing the panel's expectations involves...",
+          "options": [
+            "Rescheduling the conference flights for the two lead engineers.",
+            "Providing context to the evaluators to excuse environmental disruptions.",
+            "Requesting that the airport authorities silence the flight announcements.",
+            "Ensuring that Leo’s technical skills are prioritized over his communication."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 498.0,
+        "end": 575.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 576.2,
+            "end": 585.4
+          },
+          "prompt": "What is the primary functional shift in the interview's agenda due to the change in medium?",
+          "options": [
+            "The replacement of the \"office tour\" with an extended coding demonstration.",
+            "The prioritization of core competencies over environmental exploration.",
+            "The elimination of the Q&A session to accommodate the \"Quiet Zone\" transition.",
+            "The expansion of the \"Priority Rush\" command to include virtual screen sharing."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 607.2,
+            "end": 615.9
+          },
+          "prompt": "How does Rachel's feedback regarding the panel's impression redefine Leo's current situation?",
+          "options": [
+            "It suggests that the \"travel chaos\" has disqualified him from the \"High Priority\" list.",
+            "It implies that the logistical disruption has inadvertently provided a secondary assessment.",
+            "It confirms that the \"Quiet Zone\" lounge is a requirement for demonstrating resilience.",
+            "It indicates that the engineers are more interested in his headset than his coding."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

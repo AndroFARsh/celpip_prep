@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1400.1,
+    "end": 1604.5
+  },
+  "questions": [
+    {
+      "prompt": "The mention of crowded temporary shelters subtly warns of a future risk related to ______.",
+      "options": [
+        "declining public morale",
+        "worsening living standards",
+        "political dissatisfaction",
+        "educational disruption"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The use of schools and religious spaces as shelters reflects a strategy based on ______.",
+      "options": [
+        "immediate accessibility",
+        "economic efficiency",
+        "long-term habitability",
+        "symbolic reassurance"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The establishment of mobile clinics suggests that healthcare delivery needed to be ______.",
+      "options": [
+        "flexible and localized",
+        "specialized and centralized",
+        "experimental and temporary",
+        "limited to emergencies only"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Local residents assisting their neighbors indicates that disaster response was ______.",
+      "options": [
+        "externally driven",
+        "dependent on formal authority",
+        "limited to trained personnel",
+        "shared across social levels"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Identifying vulnerable groups suggests that aid distribution aimed to prioritize ______.",
+      "options": [
+        "equal access",
+        "unequal needs",
+        "population size",
+        "political visibility"
+      ],
+      "answer": 1
+    }
+  ]
+}

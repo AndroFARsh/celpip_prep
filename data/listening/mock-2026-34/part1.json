@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 203.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 203.5,
+            "end": 210.0
+          },
+          "prompt": "What is David's primary emotional response to his current situation?",
+          "options": [
+            "Frustration with the recent health insurance enrollment process.",
+            "Appreciation for Elena's quick access to the electronic ledger.",
+            "Apprehension regarding his ability to meet a significant financial obligation.",
+            "Confusion over why his overtime hours were not logged correctly."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 234.5,
+            "end": 240.4
+          },
+          "prompt": "How does Elena characterize the nature of the missing funds?",
+          "options": [
+            "As a minor discrepancy caused by a premium tier upgrade.",
+            "As a substantial deviation from the employee's anticipated earnings.",
+            "As a routine deduction for health benefits during open enrollment.",
+            "As a manual error in the calculation of the top-line gross pay."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 265.5,
+            "end": 271.0
+          },
+          "prompt": "What does Elena identify as a specific cause of the deficit?",
+          "options": [
+            "A change in David's departmental classification code.",
+            "A miscalculation of the base salary for the current period.",
+            "An involuntary deduction triggered by an external or internal mandate.",
+            "A failure to update the system following the open enrollment period."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 307.7,
+        "end": 396.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 397.6,
+            "end": 403.0
+          },
+          "prompt": "Why does David feel he is being unfairly penalized?",
+          "options": [
+            "He was denied a payment plan despite requesting one in November.",
+            "He provided full disclosure regarding the extra funds when he received them.",
+            "The system failed to archive his correspondence with the payroll department.",
+            "He was ineligible for the bonus cycle due to a departmental clerical error."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 428.6,
+            "end": 435.0
+          },
+          "prompt": "What is Elena's perspective on the company's current course of action?",
+          "options": [
+            "She believes the automatic recovery was a necessary step for the audit.",
+            "She feels David should have been contacted before the funds were retrieved.",
+            "She maintains that the secondary reviewer's decision was legally binding.",
+            "She suggests that David's archives are insufficient proof of the incentive."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 459.7,
+            "end": 466.5
+          },
+          "prompt": "Based on the conversation, what would be the most logical next step for Elena?",
+          "options": [
+            "To ask David to re-submit his health insurance election for the premium tier.",
+            "To initiate a new audit of the November bonus cycle for the entire department.",
+            "To verify the authenticity of the correspondence David mentioned.",
+            "To contact the secondary reviewer to authorize a lump sum payment."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 501.7,
+        "end": 586.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 587.8,
+            "end": 593.2
+          },
+          "prompt": "What is Elena's proposed strategy for the outstanding debt?",
+          "options": [
+            "To completely waive the repayment since David acted with transparency.",
+            "To authorize a lump-sum recovery during the next fiscal year.",
+            "To establish a more sustainable and incremental reimbursement process.",
+            "To deduct the full amount from David's performance incentive in November."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 618.9,
+            "end": 626.2
+          },
+          "prompt": "Why is the timing of Elena's action critical to David's situation?",
+          "options": [
+            "The bank requires a formal letter from HR before the noon cutoff.",
+            "A delay could lead to additional charges from his financial institution.",
+            "The payroll director is only available to authorize transfers until tomorrow.",
+            "The wire transfer request must be initiated before the next pay cycle."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

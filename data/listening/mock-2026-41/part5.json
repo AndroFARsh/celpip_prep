@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1807.9,
+    "end": 1971.3
+  },
+  "questions": [
+    {
+      "prompt": "What does Sarah imply is her main reason for not wanting to buy right now?",
+      "options": [
+        "She dislikes homeownership responsibilities",
+        "She prefers living in different cities",
+        "She values freedom to explore without financial burdens",
+        "She doesn't believe in the property market"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Alex seem to believe is the danger of waiting too long to buy?",
+      "options": [
+        "You end up spending with no long-term benefit",
+        "Renters will miss out on building emotional bonds",
+        "Property prices might plummet",
+        "Renting becomes illegal over time"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What does James mean by saying renting offers “no commitment”?",
+      "options": [
+        "He avoids having roommates",
+        "He prefers short leases",
+        "He dislikes paying utilities",
+        "He enjoys the ability to move easily"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why does Sarah mention wanting to decorate her own place?",
+      "options": [
+        "She wants to renovate old buildings",
+        "She dislikes modern interiors",
+        "She wants the personal satisfaction of owning",
+        "She works as an interior designer"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Alex most likely mean when he says “Even during dips, they recover”?",
+      "options": [
+        "The housing market is too volatile to trust",
+        "Long-term ownership often leads to gains",
+        "Buyers are always at financial risk",
+        "Prices stay flat over time"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is James skeptical about buying despite its advantages?",
+      "options": [
+        "He prefers rural living",
+        "He worries about long-term climate risks",
+        "He's concerned about upfront and hidden costs",
+        "He distrusts mortgage lenders"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does James mean by “Unless you invest that difference wisely”?",
+      "options": [
+        "Renters can build wealth through smart alternatives",
+        "Landlords should lower rent",
+        "Property taxes are unfair",
+        "Everyone should buy property eventually"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the main emotional reason Sarah gives for considering ownership?",
+      "options": [
+        "It's a way to gain neighbors",
+        "It symbolizes independence and pride",
+        "It helps avoid dealing with realtors",
+        "It helps avoid dealing with realtors"
+      ],
+      "answer": 1
+    }
+  ]
+}

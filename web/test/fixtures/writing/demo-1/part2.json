@@ -1,0 +1,7 @@
+{
+  "timeLimitSec": 1560,
+  "title": "New Library Hours",
+  "situation": "Your local library can extend its opening hours on one part of the week.",
+  "options": ["Open later on weekday evenings.", "Open earlier on weekend mornings."],
+  "samples": ["I prefer Option A because many people work during the day.", "I prefer Option B because families are free on weekends."]
+}

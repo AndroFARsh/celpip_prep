@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1702.6,
+    "end": 1905.0
+  },
+  "questions": [
+    {
+      "prompt": "What is Robert’s primary fear regarding the current state of the office?",
+      "options": [
+        "Erosion of prestige",
+        "Declining work ethic",
+        "Employee insubordination",
+        "Outdated handbook rules"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Maya suggests that strict formal attire could actually be a liability because ?",
+      "options": [
+        "It inhibits cognitive function",
+        "It signals a cultural disconnect",
+        "It increases employee turnover",
+        "It requires excessive maintenance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does Jordan imply is the root cause of the current \"boundary pushing\"?",
+      "options": [
+        "Intentional rebellion",
+        "Generational disrespect",
+        "Interpretive fluidity",
+        "Lack of supervision"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Robert’s mention of \"common sense\" serves to?",
+      "options": [
+        "Insult the intelligence of the staff",
+        "Highlight a shift in societal norms",
+        "Advocate for a total ban on denim",
+        "Express frustration with policy-reliance"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Maya’s compromise suggests she prioritizes?",
+      "options": [
+        "Total fashion freedom",
+        "Personal time efficiency",
+        "Financial savings on clothes",
+        "High-end athletic brands"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the symbolic meaning of Robert’s \"campus library\" comparison?",
+      "options": [
+        "A quiet work environment",
+        "A place of academic rigor",
+        "An atmosphere of casual transience",
+        "A lack of physical organization"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Jordan’s \"Professional Flexibility\" title is designed to:",
+      "options": [
+        "Enforce stricter discipline",
+        "Validate Maya’s productivity claims",
+        "Synthesize opposing viewpoints",
+        "Appease the senior partners only"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Which underlying value does the \"Dress for Your Day\" concept rely on?",
+      "options": [
+        "Corporate hierarchy",
+        "Strict time management",
+        "Uniformity of appearance",
+        "Contextual judgment"
+      ],
+      "answer": 3
+    }
+  ]
+}

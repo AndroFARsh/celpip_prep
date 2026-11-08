@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 631.5,
+    "end": 772.8
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 773.6,
+        "end": 779.3
+      },
+      "prompt": "What is Ryan's main concern when he starts the conversation?",
+      "options": [
+        "Losing approval from leadership",
+        "Reducing team workload",
+        "Delaying a customer interaction",
+        "Managing overlapping commitments"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 804.6,
+        "end": 811.2
+      },
+      "prompt": "Why does Clara ask about adjusting the external call first?",
+      "options": [
+        "She assumes outsiders are more flexible",
+        "She follows a priority-checking approach",
+        "She wants to cancel internal discussions",
+        "She doubts Ryan's preparation"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 835.6,
+        "end": 841.5
+      },
+      "prompt": "Why does shifting the internal meeting seem difficult?",
+      "options": [
+        "Technical tools are unavailable",
+        "Junior staff oppose the change",
+        "Key participants are unavailable",
+        "The agenda is unfinished"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 866.6,
+        "end": 872.3
+      },
+      "prompt": "What concern does Ryan raise about recording the session?",
+      "options": [
+        "Data security risks",
+        "Reduced engagement",
+        "Technical reliability",
+        "Time consumption"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 897.7,
+        "end": 903.7
+      },
+      "prompt": "Why does Ryan react positively to this split-meeting idea?",
+      "options": [
+        "It removes all conflicts",
+        "It protects key contributions",
+        "It cancels one obligation",
+        "It reduces accountability"
+      ],
+      "answer": 1
+    }
+  ]
+}

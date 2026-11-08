@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1667.6,
+    "end": 1860.2
+  },
+  "questions": [
+    {
+      "prompt": "What is Chloe’s primary skepticism regarding Liam’s preferred transport?",
+      "options": [
+        "The duration of the journey.",
+        "The deceptive nature of base pricing.",
+        "The lack of on-board amenities.",
+        "The environmental impact of aviation."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Liam perceive the SUV as a financial liability?",
+      "options": [
+        "The logistical costs of urban arrival.",
+        "High fuel consumption rates.",
+        "The mechanical unreliability of the vehicle.",
+        "The expense of shared tolls."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What does Sam’s \"rolling library\" comment imply about his view of the train?",
+      "options": [
+        "It is too quiet for social interaction.",
+        "It is an elitist way to travel.",
+        "It prioritizes utility over excitement.",
+        "It offers superior intellectual comfort."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Based on the dialogue, what is the \"stress-free variable\" Chloe associates with the rail?",
+      "options": [
+        "Elimination of transit-point bureaucracy.",
+        "Guaranteed arrival times.",
+        "Socializing in the bistro car.",
+        "Avoiding the fatigue of operating a vehicle."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the underlying reason Liam rejects the road trip?",
+      "options": [
+        "He fears the group will get lost.",
+        "He dislikes Sam’s taste in snacks.",
+        "He anticipates an unfair labor distribution.",
+        "He wants to avoid Sam’s spontaneous stops."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Chloe’s \"slow travel\" philosophy suggests she values?",
+      "options": [
+        "The quality of the transition period.",
+        "Saving money over saving time.",
+        "Reaching the destination in a calm state.",
+        "Minimizing the group’s total carbon footprint."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Sam view the concept of a travel itinerary?",
+      "options": [
+        "As a necessary evil for group harmony.",
+        "As a budget-saving tool.",
+        "As a way to maximize sightseeing.",
+        "As a restriction on personal autonomy."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What is the group’s final criteria for making a decision?",
+      "options": [
+        "A vote on the most scenic route.",
+        "An analysis of environmental impact.",
+        "A comprehensive fiscal comparison.",
+        "The availability of the bistro car."
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-/** Test sections shown on the landing page. Add Writing and Speaking here when they exist. */
+/** Test sections shown on the landing page. Add Speaking here when it exists. */
 export const SECTIONS = {
   reading: {
     name: "Reading",
@@ -21,6 +21,11 @@ export const SECTIONS = {
       "Listening to a Discussion",
       "Listening for Viewpoints",
     ],
+  },
+  writing: {
+    name: "Writing",
+    summary: "2 tasks, 150-200 words each, 53 minutes",
+    parts: ["Writing an Email", "Responding to Survey Questions"],
   },
 } as const
 

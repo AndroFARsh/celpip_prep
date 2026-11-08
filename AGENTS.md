@@ -1,7 +1,7 @@
 # CELPIP Mock Tests
 
 ## Business Requirements
-- CELPIP practice tests. The landing page picks the section (Reading, Listening; Writing and Speaking later).
+- CELPIP practice tests. The landing page picks the section (Reading, Listening, Writing; Speaking later).
 - An MVP of a CELPIP Reading practice test.
 - The Reading test has 4 parts and should mimic the real test UI (split pane: passage left, questions right; part header with countdown; Next button; no going back).
   1. Reading Correspondence: letter, 6 multiple-choice questions, then a reply with 5 fill-in-the-blank dropdowns. 11 min.
@@ -28,8 +28,16 @@
 - Audio is played from the source YouTube video through the YouTube IFrame Player API as clips (`{ start, end }`). Never download or host the audio.
 - Adding a test: `data/listening/<test-id>/` with `meta.json` (`title`, `source` watch URL) and `part1.json` through `part6.json`. Same full-test, single-part and results behaviour as Reading.
 
+### Writing
+- 2 tasks, mimicking the real test: information on the left; instructions, a text box (no spell check) and a live word count on the right.
+  1. Writing an Email: situation, instruction and 3 points to cover. 27 min.
+  2. Responding to Survey Questions: survey topic with Option A and Option B; choose one and explain. 26 min.
+- Same timer, Next, full-test, single-task and Start/Results/Clear behaviour as Reading.
+- Not scored automatically: results show each response with its word count (150-200) next to the source's sample answer (both options for Task 2). No CELPIP level.
+- Adding a test: `data/writing/<test-id>/` with `meta.json` (`title`, `source`), `part1.json` and `part2.json`.
+
 ## Technical
-- Next.js (App Router, TypeScript) in the `web/` subdirectory. Test data lives at repo root in `data/reading/` and `data/listening/`.
+- Next.js (App Router, TypeScript) in the `web/` subdirectory. Test data lives at repo root in `data/reading/`, `data/listening/` and `data/writing/`.
 - No user login. No database. Finished results are saved in the browser (localStorage), one per test and run (full test or single part).
 - UI only from shadcn/ui components (Tailwind). Do not create custom UI components or hand-roll substitutes. If a component is missing, add it with the shadcn CLI, then use it.
 - Validate test JSON with zod; one schema per part.

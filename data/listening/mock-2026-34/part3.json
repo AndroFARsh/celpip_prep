@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 960.8,
+    "end": 1109.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1109.3,
+        "end": 1114.4
+      },
+      "prompt": "Regarding household management, the patient must adhere to...",
+      "options": [
+        "A total \"restriction on physical activity\" for the duration of the month.",
+        "A strict prohibition on lifting \"laundry baskets\" and \"grocery bags.\"",
+        "A threshold limiting the weight of handled objects to a specific mass.",
+        "A reliance on her \"husband\" to monitor her \"one hundred degree\" fever."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1140.4,
+        "end": 1145.3
+      },
+      "prompt": "What is the prescribed method for post-operative hygiene?",
+      "options": [
+        "Scrubbing the \"area\" with \"soapy water\" to prevent redness spreading.",
+        "Passive exposure to water followed by non-abrasive moisture removal.",
+        "Remaining \"clean and dry\" by avoiding the \"shower\" for ten days.",
+        "Using a \"clean towel\" to apply pressure to the \"sutures.\""
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1171.4,
+        "end": 1177.7
+      },
+      "prompt": "Why does Dr. Miller emphasize completion of the pharmacological regimen?",
+      "options": [
+        "To avoid the development of a resistant or recurring ailment.",
+        "To ensure the \"mild pain reliever\" stays in the patient's system.",
+        "To counteract the \"high-fiber\" side effects of the anesthesia.",
+        "To prepare the patient for \"more vigorous activity\" in the backyard."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1202.4,
+        "end": 1208.0
+      },
+      "prompt": "Dr. Miller's dietary advice is specifically intended to...",
+      "options": [
+        "Facilitate the healing of the \"incision site\" via hydration.",
+        "Mitigate the physiological impact of the sedative used during surgery.",
+        "Provide enough energy for \"short walks\" around the house.",
+        "Ensure the patient can lift \"five pounds\" by the follow-up."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1233.5,
+        "end": 1238.5
+      },
+      "prompt": "The patient's attitude toward the recovery plan can be described as...",
+      "options": [
+        "Overconfident regarding her ability to perform \"housework.\"",
+        "Apprehensive but willing to comply with the documented steps.",
+        "Dismissive of the need for \"discharge\" and \"follow-up.\"",
+        "Frustrated by the \"prohibitions\" on grocery bags."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1264.4,
+        "end": 1270.5
+      },
+      "prompt": "Which activity is permitted within the first 48 hours post-surgery?",
+      "options": [
+        "Performing \"vigorous activity\" if the patient feels \"perfectly fine.\"",
+        "Using a \"clean towel\" to scrub the \"incision site.\"",
+        "Gentle ambulatory movement within the patient's domestic environment.",
+        "Lifting \"grocery bags\" as long as they are under \"five pounds.\""
+      ],
+      "answer": 2
+    }
+  ]
+}

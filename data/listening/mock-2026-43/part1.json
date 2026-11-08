@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.5,
+        "end": 208.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 209.5,
+            "end": 215.0
+          },
+          "prompt": "Why does Daniel ask about sounds and smells?",
+          "options": [
+            "To confirm homeowner negligence",
+            "To estimate repair cost",
+            "To judge problem depth",
+            "To delay arrival"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 240.5,
+            "end": 247.5
+          },
+          "prompt": "What does Daniel's response reveal about his next action?",
+          "options": [
+            "He will reschedule",
+            "He plans limited inspection",
+            "He expects a complex check",
+            "He will only clean the sink"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 271.5,
+            "end": 277.1
+          },
+          "prompt": "Why does Daniel ask about other drains?",
+          "options": [
+            "To assign fault",
+            "To narrow system involvement",
+            "To speed up repair",
+            "To reduce workload"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 313.5,
+        "end": 405.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 405.6,
+            "end": 411.8
+          },
+          "prompt": "Why does Laura react with concern after Daniel's assessment?",
+          "options": [
+            "She expects major damage",
+            "She fears immediate danger",
+            "She assumes higher effort needed",
+            "She doubts the inspection"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 436.8,
+            "end": 442.5
+          },
+          "prompt": "What can be inferred about Laura's role in the problem?",
+          "options": [
+            "She caused damage intentionally",
+            "She ignored warnings",
+            "She may have contributed unknowingly",
+            "She followed all precautions"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 467.9,
+            "end": 473.7
+          },
+          "prompt": "What does the estimated time suggest about the repair method?",
+          "options": [
+            "It is experimental",
+            "It is routine",
+            "It is temporary",
+            "It is labor-intensive"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 509.7,
+        "end": 581.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 582.2,
+            "end": 589.1
+          },
+          "prompt": "Laura's reaction after Daniel's explanation mainly shows...",
+          "options": [
+            "Polite agreement",
+            "Mild doubt",
+            "Reduced worry",
+            "Technical curiosity"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 613.2,
+            "end": 619.7
+          },
+          "prompt": "What problem causing habit is Daniel indirectly warning against?",
+          "options": [
+            "Improper disposal",
+            "Excessive water use",
+            "Old plumbing",
+            "Poor installation"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

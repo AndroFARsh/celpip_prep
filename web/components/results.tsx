@@ -7,13 +7,13 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
-import { celpipLevel } from "@/lib/celpip-level"
+import { celpipLevel, type ScoredSection } from "@/lib/celpip-level"
 import { clearResult, useResult } from "@/lib/results-store"
 import { runLabel, runParts, runPath, type Run } from "@/lib/runs"
 import { score, type Item } from "@/lib/scoring"
 import type { Section } from "@/lib/sections"
 
-type Props = { section: Section; testId: string; title: string; run: Run; items: Item[] }
+type Props = { section: ScoredSection; testId: string; title: string; run: Run; items: Item[] }
 
 /** An answer as text, or as its picture for picture options. */
 function Answer({ item, value }: { item: Item; value: string | undefined }) {
@@ -29,32 +29,61 @@ function Answer({ item, value }: { item: Item; value: string | undefined }) {
   )
 }
 
-export function Results({ section, testId, title, run, items }: Props) {
-  const router = useRouter()
-  const result = useResult(section, testId, run)
-  const home = `/${section}`
+type RunProps = { section: Section; testId: string; run: Run }
 
-  if (!result)
-    return (
-      <div className="mx-auto w-full max-w-5xl p-4">
-        <Card>
-          <CardHeader>
-            <CardTitle>
-              {title}: {runLabel(section, run)}
-            </CardTitle>
-            <CardDescription>No saved result.</CardDescription>
-          </CardHeader>
-          <CardFooter className="gap-2">
-            <Button asChild>
-              <Link href={runPath(section, testId, run)}>Start</Link>
-            </Button>
-            <Button variant="outline" asChild>
-              <Link href={home}>Back to tests</Link>
-            </Button>
-          </CardFooter>
-        </Card>
-      </div>
-    )
+/** Shown when a run has no saved result. */
+export function NoResult({ section, testId, title, run }: RunProps & { title: string }) {
+  return (
+    <div className="mx-auto w-full max-w-5xl p-4">
+      <Card>
+        <CardHeader>
+          <CardTitle>
+            {title}: {runLabel(section, run)}
+          </CardTitle>
+          <CardDescription>No saved result.</CardDescription>
+        </CardHeader>
+        <CardFooter className="gap-2">
+          <Button asChild>
+            <Link href={runPath(section, testId, run)}>Start</Link>
+          </Button>
+          <Button variant="outline" asChild>
+            <Link href={`/${section}`}>Back to tests</Link>
+          </Button>
+        </CardFooter>
+      </Card>
+    </div>
+  )
+}
+
+/** Start again, Clear result and Back to tests. */
+export function ResultActions({ section, testId, run }: RunProps) {
+  const router = useRouter()
+  const home = `/${section}`
+  return (
+    <CardFooter className="flex-wrap gap-2">
+      <Button asChild>
+        <Link href={runPath(section, testId, run)}>Start again</Link>
+      </Button>
+      <Button
+        variant="destructive"
+        onClick={() => {
+          clearResult(section, testId, run)
+          router.push(home)
+        }}
+      >
+        Clear result
+      </Button>
+      <Button variant="outline" asChild>
+        <Link href={home}>Back to tests</Link>
+      </Button>
+    </CardFooter>
+  )
+}
+
+export function Results({ section, testId, title, run, items }: Props) {
+  const result = useResult(section, testId, run)
+
+  if (!result) return <NoResult section={section} testId={testId} title={title} run={run} />
 
   const { answers } = result
   const total = score(items, answers)
@@ -89,23 +118,7 @@ export function Results({ section, testId, title, run, items }: Props) {
             })}
           </div>
         </CardContent>
-        <CardFooter className="flex-wrap gap-2">
-          <Button asChild>
-            <Link href={runPath(section, testId, run)}>Start again</Link>
-          </Button>
-          <Button
-            variant="destructive"
-            onClick={() => {
-              clearResult(section, testId, run)
-              router.push(home)
-            }}
-          >
-            Clear result
-          </Button>
-          <Button variant="outline" asChild>
-            <Link href={home}>Back to tests</Link>
-          </Button>
-        </CardFooter>
+        <ResultActions section={section} testId={testId} run={run} />
       </Card>
       <Card>
         <CardContent>

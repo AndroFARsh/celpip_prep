@@ -1,0 +1,7 @@
+{
+  "timeLimitSec": 1620,
+  "situation": "You bought a coffee maker from an online store. It stopped working after one week.",
+  "task": "Write an email to the store in about 150-200 words.",
+  "points": ["Describe the problem.", "Explain how it affects you.", "Say what you want the store to do."],
+  "sample": "Dear Customer Service,\n\nMy new coffee maker stopped working after one week."
+}

@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.5,
+        "end": 200.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 201.5,
+            "end": 206.7
+          },
+          "prompt": "Which feature matters least to Daniel's decision?",
+          "options": [
+            "Driving distance freedom",
+            "Storage suitability",
+            "Visual appeal",
+            "Rental length"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 232.5,
+            "end": 237.8
+          },
+          "prompt": "Why does Sophia explain the weekly deal first?",
+          "options": [
+            "To discourage booking",
+            "To justify pricing",
+            "To confuse options",
+            "To shift dates"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 263.5,
+            "end": 268.9
+          },
+          "prompt": "What makes the loyalty option attractive to Daniel?",
+          "options": [
+            "Long-term rewards",
+            "Zero delay benefit",
+            "Exclusive vehicles",
+            "Lower insurance"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 305.6,
+        "end": 399.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 400.1,
+            "end": 407.2
+          },
+          "prompt": "Why does Sofia repeatedly explain conditions rather than prices alone?",
+          "options": [
+            "Prices vary daily",
+            "Rules trigger costs",
+            "Discounts are rare",
+            "Fees are negotiable"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 431.1,
+            "end": 438.9
+          },
+          "prompt": "What does the phrase \"that could add up\" reveal about Daniel's trip?",
+          "options": [
+            "Short distance",
+            "Multiple days",
+            "Many drivers",
+            "Fixed budget"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 462.1,
+            "end": 468.8
+          },
+          "prompt": "What unstated assumption exists about the airport counter?",
+          "options": [
+            "It costs extra",
+            "It closes early",
+            "It follows flight times",
+            "It limits services"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 504.1,
+        "end": 595.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 595.6,
+            "end": 603.0
+          },
+          "prompt": "What can be inferred about Daniel's travel needs from rejecting add-ons?",
+          "options": [
+            "He expects poor signal coverage",
+            "He already has necessary tools",
+            "He plans to travel with children",
+            "He dislikes extra devices"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 626.6,
+            "end": 632.9
+          },
+          "prompt": "What does the loyalty program decision indicate about Daniel?",
+          "options": [
+            "He expects frequent future rentals",
+            "He dislikes standard pricing",
+            "He was persuaded without understanding",
+            "He wants immediate financial benefit"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

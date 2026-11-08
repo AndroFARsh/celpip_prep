@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1822.2,
+    "end": 2009.8
+  },
+  "questions": [
+    {
+      "prompt": "What is Jordan’s main concern about deciding on security cameras immediately?",
+      "options": [
+        "The police may misuse the camera footage",
+        "The cameras might not function properly",
+        "Residents might want cameras installed everywhere, including private homes",
+        "The community may become divided if the decision is rushed"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "How does Mr. Patel justify the installation of cameras despite privacy worries?",
+      "options": [
+        "Cameras in public places are common and help prevent crimes",
+        "Cameras will monitor everyone’s behavior closely",
+        "Surveillance only targets suspicious individuals",
+        "Cameras will replace the need for police patrols"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What underlying value does Ms. Rivera emphasize when opposing constant surveillance?",
+      "options": [
+        "The need for more police officers instead of cameras",
+        "The importance of personal freedom and trust",
+        "The necessity to install cameras only in private spaces",
+        "The idea that all neighborhoods should have equal surveillance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Which idea best captures Mr. Patel’s concern about delaying the decision?",
+      "options": [
+        "Postponing action could lead to regrets if crimes occur",
+        "Rushing will cause community unrest",
+        "Waiting will increase the cost of installing cameras",
+        "More opinions will delay camera technology adoption"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Jordan propose forming a working group?",
+      "options": [
+        "To allow the community to understand and shape the plan carefully",
+        "To speed up camera installation immediately",
+        "To avoid involving the whole neighborhood in discussions",
+        "To hand over the decision to police authorities"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Ms. Rivera’s stance reflect a compromise?",
+      "options": [
+        "She believes cameras should replace neighborhood patrols",
+        "She opposes any form of security measure",
+        "She supports safety but insists on protecting individual rights",
+        "She wants unrestricted access to all footage for residents"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What can be inferred about the tone of the neighborhood meeting?",
+      "options": [
+        "Cooperative and seeking balanced solutions",
+        "Contentious and divided with little agreement",
+        "Indifferent to the security issues raised",
+        "Hostile and dominated by one viewpoint"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Which of the following best describes the role of surveillance in this conversation?",
+      "options": [
+        "An invasive method that should be banned outright",
+        "A tool for safety that needs regulation and community input",
+        "A replacement for personal responsibility in public spaces",
+        "A technology that will automatically solve all crime issues"
+      ],
+      "answer": 1
+    }
+  ]
+}

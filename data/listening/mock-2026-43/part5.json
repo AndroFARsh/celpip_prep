@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1766.2,
+    "end": 1923.6
+  },
+  "questions": [
+    {
+      "prompt": "What does Jake imply could become a logistical issue with the new workweek plan?",
+      "options": [
+        "Employee attendance could become inconsistent",
+        "Team tasks may suffer from scheduling mismatches",
+        "People may not use their time off effectively",
+        "Some teams might not agree on the off-day"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is Sophie hesitant about the four-day workweek despite liking the idea?",
+      "options": [
+        "She fears her workload would stay the same",
+        "She doubts management will follow through",
+        "She's concerned about personal time management",
+        "She worries longer days might defeat the benefit"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What does Emily suggest is the possible upside of the proposed schedule?",
+      "options": [
+        "Better focus due to tighter deadlines",
+        "Flexible leave throughout the week",
+        "Fewer distractions because of longer breaks",
+        "Equal productivity with fewer resources"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is Jake's biggest personal concern about the new work model?",
+      "options": [
+        "It may lead to unproductive habits",
+        "It might create exhaustion due to longer hours",
+        "It could affect work-from-home flexibility",
+        "It reduces his interactions with clients"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Sophie emphasize the need for data before making changes?",
+      "options": [
+        "She's seen rushed decisions backfire",
+        "She wants to prove the idea won't work",
+        "She thinks change should be backed by evidence",
+        "She prefers surveys over trends"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Emily mean when she says “sometimes you need to take a leap to find out”?",
+      "options": [
+        "Risks should be avoided only with proof",
+        "Progress sometimes requires trial and error",
+        "Employees should get used to change",
+        "Only bold moves impress management"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Jake suggest easing into the new model?",
+      "options": [
+        "Apply it based on department needs",
+        "Start with pilot trials across all staff",
+        "Let employees choose to try it",
+        "Wait until client feedback is gathered"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "According to Sophie, what condition is crucial if the change is made optional?",
+      "options": [
+        "Careful performance evaluation",
+        "Strict time-tracking systems",
+        "Company-wide agreement",
+        "Multiple surveys and feedback loops"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1743.8,
+    "end": 1891.7
+  },
+  "questions": [
+    {
+      "prompt": "What is Sarah's primary motivation for supporting the bike lane?",
+      "options": [
+        "Reducing traffic congestion",
+        "Increasing parking availability",
+        "Preventing accidents",
+        "Enhancing business accessibility"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "James's main worry about adding the bike lane is that it might:",
+      "options": [
+        "Improve traffic flow too much",
+        "Remove parking space, inconveniencing drivers",
+        "Cause delays in construction",
+        "Increase bicycle accidents"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Jessica's stance on the bike lane proposal is best described as:",
+      "options": [
+        "Fully supportive without reservations",
+        "Opposed due to lack of parking",
+        "Undecided pending more data",
+        "Against any temporary measures"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Mr. Harris imply about the current state of bike lane data?",
+      "options": [
+        "It is comprehensive and conclusive",
+        "It is preliminary and insufficient",
+        "It discourages adding bike lanes",
+        "It supports immediate action"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Sarah believe waiting for perfect data is problematic?",
+      "options": [
+        "It delays necessary safety measures",
+        "It causes confusion among residents",
+        "It increases traffic jams",
+        "It results in budget cuts"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What concern does James express regarding the impact on local businesses?",
+      "options": [
+        "Businesses might lose customers due to reduced parking",
+        "Businesses will benefit from more cyclists",
+        "Businesses are indifferent to parking issues",
+        "Businesses want the bike lane for marketing"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Jessica's suggestion of a pilot project is meant to:",
+      "options": [
+        "Avoid any changes to the street",
+        "Test the bike lane's effects before full implementation",
+        "Immediately eliminate parking restrictions",
+        "Increase funding for a permanent bike lane"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Mr. Harris indicate that a pilot project may still be challenging?",
+      "options": [
+        "It will require more parking spaces",
+        "It could limit parking during the trial period",
+        "It will guarantee full funding immediately",
+        "It will solve all concerns permanently"
+      ],
+      "answer": 1
+    }
+  ]
+}

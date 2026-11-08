@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 661.3,
+    "end": 787.5
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 788.3,
+        "end": 794.1
+      },
+      "prompt": "What can be inferred about Sophie's attitude toward her apartment?",
+      "options": [
+        "She takes minor problems lightly",
+        "She wants a comfortable living space",
+        "She expects repairs to be postponed",
+        "She doubts the landlord's competence"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 819.3,
+        "end": 824.3
+      },
+      "prompt": "Sophie's tone can best be described as...",
+      "options": [
+        "Indifferent",
+        "Overly critical",
+        "Cautiously concerned",
+        "Aggressive"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 850.4,
+        "end": 855.7
+      },
+      "prompt": "What is implied about the urgency of repairs?",
+      "options": [
+        "All issues are equally urgent",
+        "Minor problems can wait",
+        "Nothing requires immediate attention",
+        "The tenant is exaggerating"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 881.4,
+        "end": 887.5
+      },
+      "prompt": "Mr. Harrison's reassurance strategy primarily shows...",
+      "options": [
+        "He wants to end the conversation",
+        "He aims to reduce tenant anxiety",
+        "He doubts the technician's reliability",
+        "He underplays the issues"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 912.4,
+        "end": 918.0
+      },
+      "prompt": "The mention of damp near the sink suggests...",
+      "options": [
+        "Sophie is exaggerating minor issues",
+        "Window problems are worsening",
+        "Heater malfunction is the cause",
+        "Potential future damage"
+      ],
+      "answer": 3
+    }
+  ]
+}

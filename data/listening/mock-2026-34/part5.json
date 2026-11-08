@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1641.3,
+    "end": 1784.8
+  },
+  "questions": [
+    {
+      "prompt": "Aidan's calculator comparison implies that?",
+      "options": [
+        "Tech forces a shift in academic labor.",
+        "Calculators solve calculus at 11:00 PM.",
+        "Manual work is now completely outdated.",
+        "Apps are identical to graphing tools."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Sienna's \"forklift\" analogy highlights the risk of?",
+      "options": [
+        "Using software for structural engineering.",
+        "Cognitive erosion through automation.",
+        "Physical inactivity in modern schooling.",
+        "Glitching software in medical fields."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus's ethical stance is based on?",
+      "options": [
+        "The speed of finishing a homework set.",
+        "The user's underlying objective.",
+        "The cost of a private algebra tutor.",
+        "The complexity of long division."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"accessibility\" argument suggests apps?",
+      "options": [
+        "Replace the need for the student union.",
+        "Capture high-quality camera images.",
+        "Democratize academic support systems.",
+        "Ban phones to level the playing field."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Sienna's \"oral exam\" idea indicates that she?",
+      "options": [
+        "Wants to test smartphone camera quality.",
+        "Prefers efficiency over academic integrity.",
+        "Seeks to verify genuine comprehension.",
+        "Agrees that the questions are outdated."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Aidan's \"real world\" view suggests schools should?",
+      "options": [
+        "Avoid complex derivatives entirely.",
+        "Grade students on software glitches.",
+        "Focus on high-level application.",
+        "Provide free tutoring at 11:00 PM."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The final consensus of the group is that?",
+      "options": [
+        "Phones should be banned in all classes.",
+        "Tech is a tool for personal shortcuts.",
+        "Adoption requires individual discipline.",
+        "The student union should set ethics."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The core conflict between Aidan and Sienna is?",
+      "options": [
+        "Efficiency versus cognitive struggle.",
+        "Calculators versus smartphone apps.",
+        "Video games versus homework sets.",
+        "Oral exams versus written notebooks."
+      ],
+      "answer": 0
+    }
+  ]
+}

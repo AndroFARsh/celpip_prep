@@ -37,7 +37,7 @@ Scripts live in `.claude/skills/youtube-listening-test/scripts/`. `frame.sh` is 
 ## Rules
 
 - **Clip times** come from `silences.txt`: `start` = end of the silence before the speech minus 0.2, `end` = start of the silence after it plus 0.3, rounded to 0.1. A short pause (< 2 s) inside a passage or a spoken question belongs to it.
-- **Spoken prompts:** drop the "Question N." prefix and fix obvious transcription errors using the options (one video's "old phone boards" was "old foam boards"). Write times as `1:30`, not `1.30` or `130`. End with `?`.
+- **Spoken prompts:** drop the "Question N." prefix and fix obvious transcription errors using the options (one video's "old phone boards" was "old foam boards"). Write times as `1:30`, not `1.30` or `130`. End with `?`; a sentence fragment that the options complete stays as spoken and ends with `...`.
 - **Written prompts (Parts 4-6):** copy exactly. Keep a blank as `______` (six underscores); questions without a blank stay as they are.
 - **Options:** copy exactly, without the `A.` letter, in the video's order. Picture options are the four file names (`"q6-a.jpg"`...).
 - **Answers:** `answer` = option row - 1. Check each key answer against the option text, not just the letter.

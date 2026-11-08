@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1379.5,
+    "end": 1596.6
+  },
+  "questions": [
+    {
+      "prompt": "The main reason for the U.S. introducing higher tariffs is to ______.",
+      "options": [
+        "punish foreign producers",
+        "shield domestic markets",
+        "increase government revenue",
+        "restrict imports entirely"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "China's immediate response to U.S. tariffs was to ______.",
+      "options": [
+        "negotiate new trade deals",
+        "impose reciprocal restrictions",
+        "halt exports entirely",
+        "seek arbitration at WTO"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "One indirect consequence for consumers mentioned in the text is ______.",
+      "options": [
+        "fewer shopping options",
+        "immediate shortages of essentials",
+        "limited access to luxury goods",
+        "higher retail prices"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Business associations in both countries primarily encourage ______.",
+      "options": [
+        "complete removal of tariffs",
+        "unilateral decision-making",
+        "continued discussion",
+        "global trade disengagement"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Investors' reactions in financial markets indicate ______.",
+      "options": [
+        "total panic",
+        "cautious adjustment",
+        "disregard for trade news",
+        "rapid growth in tech stocks"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2134.2,
+    "end": 2334.3
+  },
+  "questions": [
+    {
+      "prompt": "Rotational roles are portrayed less as role-switching and more as a way to ______.",
+      "options": [
+        "refresh employee titles",
+        "broaden professional capability",
+        "reduce workload pressure",
+        "speed up promotions"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Exposure to multiple departments mainly helps employees ______.",
+      "options": [
+        "perform tasks faster",
+        "align daily work with wider direction",
+        "avoid departmental conflicts",
+        "master one function deeply"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The broader outlook gained from rotations mainly supports ______.",
+      "options": [
+        "routine compliance",
+        "isolated efficiency",
+        "cross-unit problem solving",
+        "rule-based execution"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Innovative thinking emerges because employees ______.",
+      "options": [
+        "follow varied instructions",
+        "rotate under supervision",
+        "understand system-wide links",
+        "face constant evaluation"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Movement into client-facing roles mainly strengthens ______.",
+      "options": [
+        "analytical precision",
+        "interpersonal influence",
+        "procedural accuracy",
+        "technical specialization"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Leadership rotations primarily cultivate the ability to ______.",
+      "options": [
+        "avoid accountability",
+        "execute fixed instructions",
+        "guide collective effort",
+        "minimize collaboration"
+      ],
+      "answer": 2
+    }
+  ]
+}

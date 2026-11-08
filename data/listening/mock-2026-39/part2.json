@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 683.4,
+    "end": 830.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 831.3,
+        "end": 839.7
+      },
+      "prompt": "Sophie's hesitation about the first cafe mainly reflects her concern about...",
+      "options": [
+        "Comfort quality",
+        "Mental sharpness over time",
+        "Limited seating",
+        "Poor service experience"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 862.4,
+        "end": 870.2
+      },
+      "prompt": "Alex's emphasis on beverages suggests he believes focus is improved by...",
+      "options": [
+        "Habitual routines",
+        "Social atmosphere",
+        "Stimulant support",
+        "Quiet isolation"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 893.4,
+        "end": 900.9
+      },
+      "prompt": "Alex's question about laptop facilities reveals his priority is...",
+      "options": [
+        "Convenience for long sessions",
+        "Internet speed",
+        "Furniture layout",
+        "Staff friendliness"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 924.5,
+        "end": 931.9
+      },
+      "prompt": "Sophie values the second cafe, mostly because it reduces...",
+      "options": [
+        "Financial pressure",
+        "Mental distractions",
+        "Physical tiredness",
+        "Social interruptions"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 955.5,
+        "end": 962.3
+      },
+      "prompt": "Alex's reaction to Sophie's description suggests he is...",
+      "options": [
+        "Reluctantly agreeing",
+        "Internally persuaded",
+        "Ignoring cost concerns",
+        "Overly enthusiastic from the start"
+      ],
+      "answer": 1
+    }
+  ]
+}

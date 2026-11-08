@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 212.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 214.0,
+            "end": 218.4
+          },
+          "prompt": "What is the nature of the financial resolution Rhea provides?",
+          "options": [
+            "A complete reimbursement of the initial reservation fee.",
+            "The removal of a contingent liability regarding the venue’s upkeep.",
+            "A reduction in the hourly rate for the premier exhibition space.",
+            "A subsidy to cover the cost of redirecting the caterers."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 245.0,
+            "end": 249.8
+          },
+          "prompt": "How does the new venue affect the logistical requirements for the vendors?",
+          "options": [
+            "It requires them to navigate the main lobby with heavy equipment.",
+            "it offers a specialized portal that enhances privacy and efficiency.",
+            "It necessitates a manual override of the north parking lot security.",
+            "It complicates the unloading process due to the secluded nature of the wing."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 276.0,
+            "end": 281.1
+          },
+          "prompt": "What does Rhea imply about the quality of the East Wing Gallery?",
+          "options": [
+            "Its primary function makes it more visually appealing than the original choice.",
+            "It is currently hosting an art exhibition that the children can enjoy.",
+            "It is a standard gym hall that has been recently renovated.",
+            "It is only available to members who have a favorable standing."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 316.7,
+        "end": 406.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 408.8,
+            "end": 414.3
+          },
+          "prompt": "What is the primary technical prerequisite for Julian's planned attraction?",
+          "options": [
+            "A consistent supply of compressed air from a commercial-grade tank.",
+            "A power source capable of sustained high-intensity current.",
+            "A specialized floor outlet located every ten feet in the hall.",
+            "A safety certification for a ten-foot inflatable structure."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 440.0,
+            "end": 445.2
+          },
+          "prompt": "What is the nature of the safety issue Julian anticipates?",
+          "options": [
+            "The inflatable castle might obstruct the emergency exits.",
+            "Potential structural damage caused by high-temperature fixtures.",
+            "The risk of electrical shocks from the floor-mounted outlets.",
+            "The possibility of the track lighting falling onto the children."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 470.7,
+            "end": 475.3
+          },
+          "prompt": "Why does Julian insist on an immediate physical inspection?",
+          "options": [
+            "To confirm the aesthetic suitability of the Gallery for his wife.",
+            "To obtain empirical data regarding the vertical clearance of the room.",
+            "To manually measure the distance between the floor outlets.",
+            "To ensure the playground is safe for thirty children to use."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 511.3,
+        "end": 605.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 608.1,
+            "end": 613.6
+          },
+          "prompt": "What empirical observation confirms the feasibility of the attraction?",
+          "options": [
+            "The decorative track lighting has been repositioned to the hallway.",
+            "The architectural design provides sufficient overhead allowance.",
+            "The facility has private restrooms that accommodate thirty children.",
+            "The vaulted ceilings are exactly twelve feet high at the lowest point."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 639.0,
+            "end": 644.1
+          },
+          "prompt": "How does the new venue proposal enhance the privacy of the event?",
+          "options": [
+            "By limiting facility access to members of the general public.",
+            "Through the provision of exclusive sanitary facilities.",
+            "By requiring a digital pass for entry into the East Entrance.",
+            "Through the use of vaulted ceilings that dampen external noise."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

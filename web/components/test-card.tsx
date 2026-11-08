@@ -21,7 +21,7 @@ function RunRow({ section, testId, run }: { section: Section; testId: string; ru
           <>
             <Button variant="outline" size="sm" asChild>
               <Link href={resultsPath(section, testId, run)}>
-                Results {result.score}/{result.total}
+                {result.total === undefined ? "Results" : `Results ${result.score}/${result.total}`}
               </Link>
             </Button>
             <Button variant="ghost" size="sm" onClick={() => clearResult(section, testId, run)}>

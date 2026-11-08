@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.8,
+        "end": 201.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 203.0,
+            "end": 208.8
+          },
+          "prompt": "What is Marcus's primary grievance regarding the store's promotion?",
+          "options": [
+            "He is unable to access his Gold Member status on the mobile app.",
+            "The store's scanner is failing to read his digital barcode properly.",
+            "He feels the marketing materials were intentionally misleading.",
+            "He wants to return three sweaters and a kitchen mixer."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 234.0,
+            "end": 241.2
+          },
+          "prompt": "What does Sloane determine to be the root cause of the system error?",
+          "options": [
+            "The customer's phone screen brightness was too low for the laser.",
+            "The loyalty account was not properly logged into the store app.",
+            "Certain product categories are ineligible for the price reduction.",
+            "The digital flyer was missing the tiny gray text at the bottom."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 264.9,
+            "end": 270.1
+          },
+          "prompt": "How does Sloane's role shift throughout the interaction?",
+          "options": [
+            "From a technical troubleshooter to an interpreter of restrictive clauses.",
+            "From a loyal \"Gold Member\" advocate to a strict enforcer of store rules.",
+            "From a skeptic of the app's functionality to a critic of the manufacturer.",
+            "From a retail assistant to a specialist in high-end kitchen electronics."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 307.0,
+        "end": 396.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 397.0,
+            "end": 402.4
+          },
+          "prompt": "What does Sloane imply about the store's pricing software?",
+          "options": [
+            "It prioritizes the company's financial sustainability over individual discounts.",
+            "It allows for a manager override when a clearance tag is detected.",
+            "It is programmed to reward Gold Members with a technical loop.",
+            "It offers a forty percent markdown on all winter close-out items."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 428.1,
+            "end": 433.4
+          },
+          "prompt": "How does Marcus feel about the current cost of the sweaters?",
+          "options": [
+            "He is frustrated that the winter close-out sale is only five dollars off.",
+            "He believes the current promotion is a headache compared to full price.",
+            "He perceives the current valuation as counterproductive to his savings goal.",
+            "He thinks the apparel is ineligible because it didn't meet the minimum spend."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 459.1,
+            "end": 465.0
+          },
+          "prompt": "Which statement best describes Sloane's professional stance?",
+          "options": [
+            "She is strictly bound by the itemized list on her screen.",
+            "She acknowledges the customer's perspective despite the rigid protocols.",
+            "She intends to rewrite the policy regarding stacking rewards.",
+            "She blames the system for the misleading headlines of the coupons."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 501.1,
+        "end": 588.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 589.1,
+            "end": 594.8
+          },
+          "prompt": "What does Marcus propose as a potential compromise?",
+          "options": [
+            "Forfeiting the markdown on the kitchen appliance.",
+            "Converting the sweaters into a single item.",
+            "Utilizing the voucher at a later date.",
+            "Acquiring the garments at their initial valuation."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 620.1,
+            "end": 626.2
+          },
+          "prompt": "Why was the manager willing to provide an alternative solution?",
+          "options": [
+            "The digital interface provided ambiguous data.",
+            "The supervisor witnessed the entire interaction.",
+            "The manufacturer lifted the restriction on the mixer.",
+            "The store wanted to promote their new mobile app."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

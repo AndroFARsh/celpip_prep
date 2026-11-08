@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 668.2,
+    "end": 804.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 804.3,
+        "end": 809.9
+      },
+      "prompt": "What originated the postponement of Derek's acquisition?",
+      "options": [
+        "An administrative oversight regarding \"regional\" logistics.",
+        "A \"labeling error\" occurring at the loading dock.",
+        "A discrepancy in the \"pre-order\" reservation system.",
+        "An inaccurate \"automated email\" from the bookstore."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 835.3,
+        "end": 841.9
+      },
+      "prompt": "Derek's decision to leave the store and return later implies...",
+      "options": [
+        "He is confident that the fifteen percent discount will be applied.",
+        "He intends to complete secondary tasks in the immediate vicinity.",
+        "He needs to travel to the venue to secure his place in the queue.",
+        "He is going to search for a standard edition at another bookstore."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 866.3,
+        "end": 873.2
+      },
+      "prompt": "What can be inferred about the bookstore's inventory from the clerk's search?",
+      "options": [
+        "The special editions are the only items delayed by the distribution center.",
+        "The store possesses a surplus of leather-bound versions from the warehouse.",
+        "Non-specialized versions of the title are currently on the premises.",
+        "The receiving log is only updated after the boxes are scanned."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 897.2,
+        "end": 905.1
+      },
+      "prompt": "The Special Anniversary Edition is distinguished from the others primarily by...",
+      "options": [
+        "Its unique labeling provided by the regional warehouse.",
+        "The premium material used in its external construction.",
+        "The presence of a pre-signed signature by the author.",
+        "A unique order number assigned by the automated system."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 928.4,
+        "end": 934.6
+      },
+      "prompt": "Which term best describes the clerk's role in Derek's experience?",
+      "options": [
+        "Administrative liaison",
+        "Shipping coordinator",
+        "Regional manager",
+        "Warehouse technician"
+      ],
+      "answer": 0
+    }
+  ]
+}

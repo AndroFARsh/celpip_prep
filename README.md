@@ -1,6 +1,6 @@
 # CELPIP Mock Tests
 
-Reading and Listening practice tests. Next.js app in `web/`, test content in `data/reading/` and `data/listening/`.
+Reading, Listening and Writing practice tests. Next.js app in `web/`, test content in `data/reading/`, `data/listening/` and `data/writing/`.
 
 ## Run
 
@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000, pick Reading or Listening, then start the full test or a single part. Finished results are saved in the browser; the test list shows Results and Clear for runs taken before.
+Open http://localhost:3000, pick Reading, Listening or Writing, then start the full test or a single part. Finished results are saved in the browser; the test list shows Results and Clear for runs taken before.
 
 ## Deploy
 
@@ -50,5 +50,15 @@ Use `data/listening/mock-2026-1` as the example; the `youtube-listening-test` sk
 - `part4.json` to `part6.json`: `timeLimitSec`, `audio`, 5, 8 and 6 questions with `prompt`, 4 `options`, `answer`
 
 Options can be four picture files in the test folder (`"q8-a.jpg"`, ...). Files are validated on load (`web/lib/listening/schema.ts`).
+
+## Add a writing test
+
+Use `data/writing/mock-2026-1` as the example; the `youtube-writing-test` skill imports one from a YouTube video.
+
+- `meta.json`: `title`, `source`
+- `part1.json`: `timeLimitSec`, `situation`, `task` (instruction sentence), 3 `points`, `sample` (model email)
+- `part2.json`: `timeLimitSec`, `title`, `situation`, `options` (A, B), `samples` (a model answer for each option)
+
+Writing is not scored; the results page shows your response next to the samples. Files are validated on load (`web/lib/writing/schema.ts`).
 
 If Playwright's Chromium is not available (macOS 12), run the e2e tests with Google Chrome by adding `channel: "chrome"` to the projects' `use` in a local copy of `playwright.config.ts`.

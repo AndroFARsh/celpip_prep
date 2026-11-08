@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1390.6,
+    "end": 1593.2
+  },
+  "questions": [
+    {
+      "prompt": "Icy conditions mainly reduce vehicle ______.",
+      "options": [
+        "access",
+        "visibility",
+        "responsiveness",
+        "routing"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The greatest danger of certain frozen surfaces is their ______.",
+      "options": [
+        "concealment",
+        "permanence",
+        "thickness",
+        "spread"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Abrupt driving actions mainly disturb vehicle ______.",
+      "options": [
+        "balance",
+        "timing",
+        "direction rules",
+        "lighting"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Avoiding optional trips shows safety outweighs ______.",
+      "options": [
+        "habit",
+        "ease",
+        "distance",
+        "familiarity"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Emergency kits assume drivers may face extended ______.",
+      "options": [
+        "delay signals",
+        "confusion",
+        "rerouting",
+        "stoppage"
+      ],
+      "answer": 3
+    }
+  ]
+}

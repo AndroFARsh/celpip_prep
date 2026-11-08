@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 985.3,
+    "end": 1139.5
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1140.3,
+        "end": 1147.4
+      },
+      "prompt": "What is the primary catalyst for the city's new regulatory measure?",
+      "options": [
+        "The abundance of residential vehicles on the block.",
+        "The commercial development in the immediate vicinity.",
+        "The deteriorating condition of the neighborhood's asphalt.",
+        "The collection of a seventy-five dollar hidden tax."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1171.3,
+        "end": 1178.5
+      },
+      "prompt": "Ms. Vance's initial opposition to the fee is rooted in which sentiment?",
+      "options": [
+        "A lack of residency proof for her current home.",
+        "The high cost of registering multiple family vehicles.",
+        "A sense of entitlement based on her long-term tenure.",
+        "The inconvenience of visiting the city hall annex."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1202.3,
+        "end": 1209.3
+      },
+      "prompt": "What does the sliding scale mentioned by Mr. Sterling imply?",
+      "options": [
+        "A discount for residents who use the mobile app.",
+        "A financial penalty for households with higher vehicle density.",
+        "A reduction in fees for those who park three blocks away.",
+        "An increase in the price of \"Visitor Passes\" over time."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1233.3,
+        "end": 1241.8
+      },
+      "prompt": "What is the unspoken bright side Mr. Sterling associates with fewer cars?",
+      "options": [
+        "A decrease in the volume of groceries he has to carry.",
+        "An improvement in the safety of non-motorized transport.",
+        "A guaranteed spot in front of his house after five p.m.",
+        "The total elimination of delivery trucks on the street."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1264.4,
+        "end": 1272.0
+      },
+      "prompt": "Mr. Sterling's grocery anecdote serves primarily to...",
+      "options": [
+        "Criticize the city's lack of enforcement officers.",
+        "Illustrate the current inadequacy of the status quo.",
+        "Complain about the distance to the city hall annex.",
+        "Suggest that fifteen years of residency is irrelevant"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1295.5,
+        "end": 1302.9
+      },
+      "prompt": "What is the definitive timeline for receiving a parking permit?",
+      "options": [
+        "Exactly twenty-four hours after online registration.",
+        "Within one business week of the digital submission.",
+        "By the first day of the upcoming calendar month.",
+        "Immediately upon showing proof at the city hall annex."
+      ],
+      "answer": 1
+    }
+  ]
+}

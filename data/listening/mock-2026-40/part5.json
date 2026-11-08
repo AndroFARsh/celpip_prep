@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1800.2,
+    "end": 1953.8
+  },
+  "questions": [
+    {
+      "prompt": "Why does James suggest splitting floors among themselves?",
+      "options": [
+        "To save effort by having fewer people involved",
+        "To ensure faster delivery of flyers",
+        "To manage the workload more effectively",
+        "To avoid making door-to-door visits"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Sarah suggest using the Facebook group?",
+      "options": [
+        "Because it's a place residents check frequently",
+        "Because it allows residents to ask questions",
+        "Because it guarantees message delivery",
+        "Because it reduces the need for flyers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What concern does Linda raise about renters?",
+      "options": [
+        "They don't care about recycling policies",
+        "They usually don't read building emails",
+        "They might not be properly informed",
+        "They avoid using shared trash areas"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does James mention yogurt containers?",
+      "options": [
+        "To highlight poor labeling of recycling bins",
+        "To point out an ongoing contamination issue",
+        "To criticize residents for being careless",
+        "To suggest banning dairy items from recycling"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is Linda skeptical about using Facebook alone?",
+      "options": [
+        "Because residents prefer printed materials",
+        "Because many people aren't on the platform",
+        "Because online communication lacks clarity",
+        "Because Facebook posts get deleted quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the group's main communication concern?",
+      "options": [
+        "That people won't take the recycling seriously",
+        "That new policies are too strict to explain",
+        "That flyers are too expensive to print",
+        "That one method alone won't reach everyone"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why does Sarah want to switch floor assignments?",
+      "options": [
+        "She won't be available at the originally scheduled time",
+        "She dislikes talking to residents on upper floors",
+        "She thinks Linda would do a better job on upper floors",
+        "She believes ground floors are more important"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Sarah mention \u201cTop 5 Mistakes to Avoid\u201d?",
+      "options": [
+        "To create an official recycling checklist",
+        "To simplify the message for better understanding",
+        "To replace the confusing policy entirely",
+        "To avoid designing new icons"
+      ],
+      "answer": 1
+    }
+  ]
+}

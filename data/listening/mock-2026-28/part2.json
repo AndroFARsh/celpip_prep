@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 655.1,
+    "end": 812.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 813.2,
+        "end": 822.0
+      },
+      "prompt": "Mark's reaction to Sarah's proposal for a budget redirection can best be described as...",
+      "options": [
+        "Reluctant concession due to professional obligations.",
+        "Immediate validation of a creative compromise.",
+        "Hesitation regarding the kitchen's labor capacity.",
+        "Strategic negotiation to avoid a total refund."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 844.2,
+        "end": 851.2
+      },
+      "prompt": "How will the physical atmosphere of the event change based on the final agreement?",
+      "options": [
+        "The venue will feel more crowded due to fewer tables.",
+        "The reception will have a more opulent introductory phase.",
+        "Table 14 will be repositioned to fill the \"gap.\"",
+        "The floor plan will be condensed to hide the 12-person deficit."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 875.0,
+        "end": 882.4
+      },
+      "prompt": "What does the re-plating fee imply about the new arrangement?",
+      "options": [
+        "The cost of the salmon has been fully offset.",
+        "The catering staff is being penalized for the late change.",
+        "Transforming the format of the food requires additional investment.",
+        "The premium seafood wholesaler charged an extra delivery fee."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 906.3,
+        "end": 913.2
+      },
+      "prompt": "What is Sarah's underlying concern regarding the layout of the room?",
+      "options": [
+        "The visual impact of a diminished guest presence.",
+        "The specific location of Table 14 in the middle.",
+        "The inability of guests to move freely between tables.",
+        "The \"guaranteed minimum\" space required by the venue."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 937.2,
+        "end": 944.4
+      },
+      "prompt": "Mark's professional demeanor is characterized primarily by...",
+      "options": [
+        "Flexibility at the expense of his kitchen's established protocols.",
+        "Strict adherence to the forty-eight-hour cancellation window.",
+        "Solution-oriented management within fixed constraints.",
+        "Empathy for Sarah’s sudden family flight cancellations."
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 668.0,
+    "end": 826.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 827.3,
+        "end": 833.3
+      },
+      "prompt": "What is the fundamental conflict between the neighbors' perspectives?",
+      "options": [
+        "A disagreement over the aesthetic upkeep of the front porch.",
+        "A clash between individual compassion and practical liability.",
+        "A dispute regarding the legal ownership of the ginger tabby.",
+        "A competition for the attention of the rescue center volunteers."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 858.3,
+        "end": 864.5
+      },
+      "prompt": "Mr. Henderson's mention of rose bushes serves to...",
+      "options": [
+        "Identify his primary source of income and livelihood.",
+        "Establish the setting where the raccoons were first spotted.",
+        "Provide a context for his discovery of the unwanted activity.",
+        "Contrast his love of nature with Julia's love for animals."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 889.3,
+        "end": 895.9
+      },
+      "prompt": "Which factor most effectively persuaded Julia to alter her behavior?",
+      "options": [
+        "The financial burden of the high-quality treats.",
+        "The realization of the feline’s physical vulnerability.",
+        "The threat of an eviction due to her lease's \"no pets\" clause.",
+        "The irritation caused by Mr. Henderson’s constant sneezing."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 920.3,
+        "end": 926.8
+      },
+      "prompt": "What is the primary function of the storage locker in the resolution?",
+      "options": [
+        "It houses the broom used to maintain the porch's cleanliness.",
+        "It contains the necessary equipment for the relocation effort.",
+        "It serves as a temporary shelter for the cat during cold weather.",
+        "It provides a hiding spot for the ceramic planter and kibble."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 951.2,
+        "end": 957.7
+      },
+      "prompt": "The plan for 6 p.m. suggests that Mr. Henderson is...",
+      "options": [
+        "Eager to get the cat off his property as quickly as possible.",
+        "Committed to ensuring the animal reaches a safe facility.",
+        "Worried that the raccoons will return after sunset.",
+        "Trying to avoid the evening traffic on the main street."
+      ],
+      "answer": 1
+    }
+  ]
+}

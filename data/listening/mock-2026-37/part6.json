@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2144.1,
+    "end": 2342.3
+  },
+  "questions": [
+    {
+      "prompt": "Frequent calendar-blocked discussions gradually erode sustained mental engagement, resulting in ______.",
+      "options": [
+        "brief pauses",
+        "hidden weakening",
+        "complete elimination",
+        "occasional delays"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "When employees attend loosely structured meetings, the contribution they provide is mostly ______.",
+      "options": [
+        "token",
+        "minimal",
+        "balanced",
+        "delayed"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The speaker emphasizes that meetings should be conducted with clear objectives and used ______.",
+      "options": [
+        "intentionally",
+        "frequently",
+        "spontaneously",
+        "extensively"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Workplaces that protect time as a valuable resource rather than filling it randomly tend to see productivity ______.",
+      "options": [
+        "improve",
+        "stabilize",
+        "fluctuate",
+        "decline"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Meetings that involve participants unrelated to the topic often consume time without providing meaningful ______.",
+      "options": [
+        "participation",
+        "attention",
+        "insight",
+        "effort"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Modern communication tools are effective because they help maintain team alignment without requiring synchronous ______.",
+      "options": [
+        "attendance",
+        "discussion",
+        "briefing",
+        "coordination"
+      ],
+      "answer": 0
+    }
+  ]
+}

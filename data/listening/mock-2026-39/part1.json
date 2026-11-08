@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 216.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 216.8,
+            "end": 222.1
+          },
+          "prompt": "Why does the student arrange a meeting with the advisor?",
+          "options": [
+            "To change her academic program",
+            "To complain about course design",
+            "To clarify uncertain choices",
+            "To request fewer subjects"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 247.8,
+            "end": 253.6
+          },
+          "prompt": "How does the student most likely feel about course planning?",
+          "options": [
+            "Calm but curious",
+            "Pressured and uncertain",
+            "Indifferent yet cautious",
+            "Confident but impatient"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 278.8,
+            "end": 285.6
+          },
+          "prompt": "Why is postponing a course a serious concern for the student?",
+          "options": [
+            "It may reduce scholarship chances",
+            "It would limit elective freedom",
+            "It might lower academic standing",
+            "It could delay program completion"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 320.9,
+        "end": 412.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 413.2,
+            "end": 420.0
+          },
+          "prompt": "What can be inferred about Emily's initial reaction to the online option?",
+          "options": [
+            "She immediately preferred it",
+            "She doubted its academic value",
+            "She felt uncertain but hopeful",
+            "She planned to avoid it"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 444.3,
+            "end": 452.4
+          },
+          "prompt": "Why does Emily question whether the online class counts toward her degree?",
+          "options": [
+            "She suspects fewer credits",
+            "She fears it may not be officially recognized",
+            "She expects lower grading standards",
+            "She thinks online learning is optional"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 475.1,
+            "end": 481.8
+          },
+          "prompt": "What can be inferred about Emily's priority when choosing an elective?",
+          "options": [
+            "Ease of grading",
+            "Career usefulness",
+            "Minimal coursework",
+            "Popularity of subject"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 517.3,
+        "end": 603.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 604.3,
+            "end": 613.0
+          },
+          "prompt": "Dr. Hayes emphasizes organizational behavior mainly because it helps Emily to...",
+          "options": [
+            "Reduce course load stress",
+            "Improve exam performance",
+            "Work effectively with others",
+            "Complete assignments faster"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 635.3,
+            "end": 641.9
+          },
+          "prompt": "Why does Dr. Hayes restate Emily's course plan at the start?",
+          "options": [
+            "To ensure mutual understanding",
+            "To highlight course difficulty",
+            "To persuade her academically",
+            "To formally approve enrollment"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

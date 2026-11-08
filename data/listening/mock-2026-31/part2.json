@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 685.6,
+    "end": 846.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 848.3,
+        "end": 853.1
+      },
+      "prompt": "What primarily motivates Sam's initial preference for the warehouse?",
+      "options": [
+        "Minimizing direct social contact.",
+        "Resolving an operational backup.",
+        "Maximizing his personal free time.",
+        "Organizing food for the kitchen."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 879.2,
+        "end": 883.9
+      },
+      "prompt": "Maya's hesitation toward the warehouse stems from a desire for...",
+      "options": [
+        "Professional skill development.",
+        "Avoidance of physical labor.",
+        "Emotional rejuvenation.",
+        "Collaborative teamwork."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 910.2,
+        "end": 915.4
+      },
+      "prompt": "Which factor most significantly threatens their goal of a shared experience?",
+      "options": [
+        "Differing professional interests.",
+        "Discrepancies in shift duration.",
+        "Mandatory safety certifications.",
+        "Specialized departmental silos."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 941.5,
+        "end": 945.9
+      },
+      "prompt": "What does Sam's mention of his brother reveal about his character?",
+      "options": [
+        "He prioritizes family over charity.",
+        "He values honor in commitments.",
+        "He lacks flexibility in scheduling.",
+        "He is distracted by personal errands."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 972.5,
+        "end": 977.0
+      },
+      "prompt": "Maya's reaction to the 8 a.m. start time suggests she is...",
+      "options": [
+        "Reluctant to sacrifice her sleep.",
+        "Prioritizing impact over comfort.",
+        "Skeptical about the early schedule.",
+        "Enthusiastic about the morning air."
+      ],
+      "answer": 1
+    }
+  ]
+}

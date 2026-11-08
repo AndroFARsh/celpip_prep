@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 674.8,
+    "end": 822.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 823.2,
+        "end": 828.3
+      },
+      "prompt": "What is the main issue motivating their discussion?",
+      "options": [
+        "A need to replace damaged furniture",
+        "A recent move into a new house",
+        "Complaints from visiting guests",
+        "Dissatisfaction with how welcoming the space feels"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 854.2,
+        "end": 860.3
+      },
+      "prompt": "Why does Hannah hesitate about adding wall decorations?",
+      "options": [
+        "She dislikes visual elements",
+        "She fears the room may feel overcrowded",
+        "She prefers minimal spending",
+        "She wants professional advice"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 885.2,
+        "end": 891.5
+      },
+      "prompt": "What does their lighting discussion suggest about their daily routine?",
+      "options": [
+        "They often host evening parties",
+        "They spend calm evenings at home",
+        "They work night shifts",
+        "They rarely use the living room"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 916.2,
+        "end": 922.7
+      },
+      "prompt": "What is the real intention behind choosing warm shades for decor?",
+      "options": [
+        "To hide stains",
+        "To follow seasonal fashion",
+        "To harmonize visual elements",
+        "To match the floor color"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 947.3,
+        "end": 953.6
+      },
+      "prompt": "Why do they prefer gradual changes instead of one-time completion?",
+      "options": [
+        "Limited time availability",
+        "Fear of commitment",
+        "Flexibility in future choices",
+        "Uncertainty about taste"
+      ],
+      "answer": 2
+    }
+  ]
+}

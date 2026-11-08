@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 666.9,
+    "end": 788.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 788.8,
+        "end": 794.2
+      },
+      "prompt": "What is the primary technical conflict Maya is experiencing?",
+      "options": [
+        "An overlapping of distinct acoustic ranges within her hardware.",
+        "A complete failure of the \"high-frequency\" kitchen wall jack.",
+        "Physical damage to the DSL cord caused by \"five years\" of use.",
+        "Interference from her \"cell phone\" during a video conference."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 819.7,
+        "end": 825.0
+      },
+      "prompt": "Kevin's suggested, temporary workaround requires Maya to...",
+      "options": [
+        "Disable her Wi-Fi signal to prioritize the landline calls.",
+        "Sever the physical link between her telephony hardware and the outlet.",
+        "Connect her video conference via the \"cell phone\" data plan.",
+        "Install a \"plug-and-play\" plastic block before her meeting begins."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 850.7,
+        "end": 855.7
+      },
+      "prompt": "Maya's initial concern regarding the repair process was...",
+      "options": [
+        "The \"strange problem\" of her internet working only \"most of the time.\"",
+        "The potential financial burden of an on-site professional visit.",
+        "The delay of the \"replacement kit\" arriving by Thursday.",
+        "The inability to use the \"small plastic blocks\" in her kitchen."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 881.7,
+        "end": 887.4
+      },
+      "prompt": "What does Maya's response to the workaround reveal about her priorities?",
+      "options": [
+        "She values her \"landline\" connectivity over her internet stability.",
+        "She is willing to compromise telephony access for digital reliability.",
+        "She prefers to wait for the \"Thursday\" kit rather than use her cell.",
+        "She is \"frustrated\" that Kevin cannot fix the signal remotely."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 912.7,
+        "end": 918.7
+      },
+      "prompt": "Which term best describes the installation process of the new filter?",
+      "options": [
+        "Labor-intensive",
+        "Non-technical",
+        "Signal-divergent",
+        "Technician-led"
+      ],
+      "answer": 1
+    }
+  ]
+}

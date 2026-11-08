@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1351.6,
+    "end": 1491.2
+  },
+  "questions": [
+    {
+      "prompt": "The core functional distinction of the Smart Patch compared to standard wearables lies in its ______",
+      "options": [
+        "Integrated wrist-based optical sensors.",
+        "Strategic anatomical placement.",
+        "Miniature postage-stamp dimensions.",
+        "Flexible adhesive material."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Dr. Vance implies that \"silent\" arrhythmias are dangerous primarily because they are ______",
+      "options": [
+        "Irregular heartbeats.",
+        "Leading indicators.",
+        "Asymptomatic in nature.",
+        "Linked to heart failure."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Digital rights advocates are primarily concerned with the ______",
+      "options": [
+        "Vulnerability to cyber-attacks.",
+        "Continuous medical surveillance.",
+        "Creation of sensitive information.",
+        "Governance of biometric datasets."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The fast-tracking of the device suggests that the Medical Review Board ______",
+      "options": [
+        "Ignored the digital rights advocates.",
+        "Prioritized clinical utility over privacy.",
+        "Consistently achieved pilot results.",
+        "Standardized preventative care for seniors."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The 48-hour alert window is significant because it precedes ______",
+      "options": [
+        "Cardiac distress.",
+        "Preventative medication.",
+        "Tangible bodily sensations.",
+        "Advanced artificial intelligence."
+      ],
+      "answer": 2
+    }
+  ]
+}

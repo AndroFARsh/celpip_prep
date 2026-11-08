@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 1019.0,
+    "end": 1188.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1190.6,
+        "end": 1196.5
+      },
+      "prompt": "Mr. Thompson's primary justification for the hallway ban is centered on...",
+      "options": [
+        "Reducing physical hallway congestion.",
+        "Improving interpersonal behavioral climate.",
+        "Eliminating social media usage entirely.",
+        "Enforcing strict administrative control."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1221.6,
+        "end": 1225.9
+      },
+      "prompt": "Ms. Bennett's initial hesitation is rooted in a fear of...",
+      "options": [
+        "Digital schedule inaccuracies.",
+        "Losing immediate parental oversight.",
+        "High-cost phone confiscation.",
+        "Deteriorating student safety."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1252.5,
+        "end": 1257.1
+      },
+      "prompt": "The school's approach to the transition can be described as...",
+      "options": [
+        "Punitive and immediate.",
+        "Phased and accommodating.",
+        "Rigid and non-negotiable.",
+        "Optional and experimental."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1283.8,
+        "end": 1289.8
+      },
+      "prompt": "Which detail indicates the school anticipated common student excuses?",
+      "options": [
+        "The two-week grace period.",
+        "The ban on filming videos.",
+        "The installation of physical signage.",
+        "The use of office landlines."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1314.7,
+        "end": 1320.2
+      },
+      "prompt": "What is the implied consequence of a second violation of the policy?",
+      "options": [
+        "Permanent loss of digital property.",
+        "Mandatory parental intervention.",
+        "Suspension from hallway passing periods.",
+        "A formal written warning."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1345.6,
+        "end": 1349.8
+      },
+      "prompt": "The 20% statistic serves primarily to...",
+      "options": [
+        "Prove the efficiency of office staff.",
+        "Validate the policy’s effectiveness.",
+        "Criticize current social media trends.",
+        "Encourage more parent-teacher meetings."
+      ],
+      "answer": 1
+    }
+  ]
+}

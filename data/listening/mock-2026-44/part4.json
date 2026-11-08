@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1370.3,
+    "end": 1572.4
+  },
+  "questions": [
+    {
+      "prompt": "Small retailers experience losses not because incidents are rare, but because they are ______.",
+      "options": [
+        "financially buffered",
+        "geographically isolated",
+        "legally unsupported",
+        "repeatedly targeted"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The timing of most incidents suggests offenders prefer moments of ______.",
+      "options": [
+        "public fatigue",
+        "visual confusion",
+        "official absence",
+        "economic demand"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Retailers respond not only defensively but also by restructuring ______.",
+      "options": [
+        "pricing models",
+        "internal systems",
+        "store locations",
+        "customer access"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Shoppers change behavior mainly due to perceived ______.",
+      "options": [
+        "personal exposure",
+        "inconvenience",
+        "price inflation",
+        "time pressure"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Avoidance of certain areas indicates a shift from casual browsing to ______.",
+      "options": [
+        "purposeful visits",
+        "online reliance",
+        "defensive mobility",
+        "economic protest"
+      ],
+      "answer": 2
+    }
+  ]
+}

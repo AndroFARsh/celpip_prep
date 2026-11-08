@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 196.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 197.5,
+            "end": 202.6
+          },
+          "prompt": "What can be inferred about Daniel's main concern?",
+          "options": [
+            "Device shuts down suddenly",
+            "Power fades unusually fast",
+            "Charger does not work",
+            "Screen drains power"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 228.5,
+            "end": 234.3
+          },
+          "prompt": "Why does Sophie ask about heat even when the phone is idle?",
+          "options": [
+            "Heat proves misuse",
+            "Warmth hints at hidden activity",
+            "Pocket temperature matters",
+            "Battery age increases heat"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 259.5,
+            "end": 265.0
+          },
+          "prompt": "What assumption did Daniel initially make about the phone?",
+          "options": [
+            "Software glitch",
+            "Design limitation",
+            "Manufacturing defect",
+            "User habit issue"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 301.5,
+        "end": 390.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 391.6,
+            "end": 398.8
+          },
+          "prompt": "What can be inferred about Daniel's awareness of his phone settings?",
+          "options": [
+            "He checks settings regularly",
+            "He relies on default setup",
+            "He ignores updates",
+            "He disables features often"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 422.6,
+            "end": 429.2
+          },
+          "prompt": "Why does Sophie not criticize Daniel's bright-screen choice directly?",
+          "options": [
+            "She agrees completely",
+            "She avoids technical detail",
+            "She acknowledges his situation",
+            "She thinks it saves power"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 453.6,
+            "end": 459.2
+          },
+          "prompt": "What can be inferred about the data transfer process?",
+          "options": [
+            "It failed",
+            "It is manual",
+            "It is ongoing quietly",
+            "It requires user action"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 495.6,
+        "end": 579.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 579.9,
+            "end": 585.6
+          },
+          "prompt": "Why does Sophie recommend restarting the phone weekly?",
+          "options": [
+            "To refresh the operating system completely",
+            "To stop long-running invisible tasks",
+            "To recalibrate battery percentage",
+            "To install pending updates automatically"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 610.9,
+            "end": 617.5
+          },
+          "prompt": "What assumption does Sophie make when advising Daniel about charging habits?",
+          "options": [
+            "He charges only when the phone shuts down",
+            "He ignores battery health completely",
+            "He uses low-quality charging equipment",
+            "He follows commonly mistaken routines"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

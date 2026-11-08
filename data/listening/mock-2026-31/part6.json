@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2144.6,
+    "end": 2308.2
+  },
+  "questions": [
+    {
+      "prompt": "The term \"digital pacifier\" implies that technology is primarily used as a ______",
+      "options": [
+        "Tool for accelerated cognitive maturation",
+        "Method for managing juvenile behavior",
+        "Staple of modern educational curricula",
+        "Substitute for preschool tablet integration"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Health experts' \"primary concern\" regarding screens centers on the ______",
+      "options": [
+        "Necessity of sedentary digital engagement",
+        "Loss of non-virtual developmental experiences",
+        "Rapid-fire pacing of educational tablets",
+        "Vital face-to-face connectivity benefits"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Frequent exposure to digital media may result in a brain that ______",
+      "options": [
+        "Requires continuous intense input",
+        "Shortens longitudinal study correlations",
+        "Masters emotional regulation and empathy",
+        "Prefers tethered sensory exploration"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Digital literacy advocates suggest that the \"screen time\" label is ______",
+      "options": [
+        "An undeniable benefit for cartoons",
+        "An overly simplistic classification",
+        "A broad term for coding and art",
+        "A strict limit for passive consumption"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "According to the text, parents should transition from \"monitoring the clock\" to ______",
+      "options": [
+        "Increasing the rate of digital literacy",
+        "Facilitating content-based interactions",
+        "Enforcing 21st-century time limits",
+        "Shielding toddlers from active engagement"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Longitudinal findings regarding rapid digital pacing imply that the brain ______",
+      "options": [
+        "Develops a higher threshold for cognitive engagement.",
+        "Is conditioned for constant sensory exploration.",
+        "Expects 1-to-1 device integration in schools.",
+        "Experiences a surge in empathy and emotional regulation."
+      ],
+      "answer": 0
+    }
+  ]
+}

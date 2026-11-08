@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.8,
+        "end": 202.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 203.0,
+            "end": 208.6
+          },
+          "prompt": "Why does the tenant contact management again?",
+          "options": [
+            "The neighbor’s apology seemed insincere",
+            "Informal efforts no longer protect daily functioning",
+            "Quiet-hour rules were clearly violated",
+            "Guest activity suggests safety risks"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 233.8,
+            "end": 240.4
+          },
+          "prompt": "\"I didn't feel comfortable bringing it up repeatedly\" mainly shows...",
+          "options": [
+            "Fear of confrontation",
+            "Politeness over assertiveness",
+            "Justification for escalation after reasonable effort",
+            "Doubt about building rules"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 264.9,
+            "end": 270.1
+          },
+          "prompt": "Why does the manager ask about specific days?",
+          "options": [
+            "To check legal enforceability",
+            "To identify a recurring pattern",
+            "To confirm weekend exceptions",
+            "To assess multiple-tenant impact"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 306.9,
+        "end": 397.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 398.9,
+            "end": 408.1
+          },
+          "prompt": "What can be most reasonably inferred about the tenant's previous attempts to handle the noise issue?",
+          "options": [
+            "They formally complained to management but did not follow up",
+            "They attempted informal resolution before seeking official involvement",
+            "They tolerated the disturbance until it violated building policy",
+            "They reported the issue only when sleep became impossible"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 430.1,
+            "end": 437.3
+          },
+          "prompt": "Why does the property manager ask whether the noise is constant or in bursts?",
+          "options": [
+            "To determine whether the issue qualifies as a policy violation",
+            "To decide if building security should be immediately involved",
+            "To assess the severity and pattern before selecting an intervention",
+            "To document the tenant’s emotional response to the disturbance"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 461.1,
+            "end": 468.0
+          },
+          "prompt": "What does the property manager's final response mainly emphasize?",
+          "options": [
+            "Flexibility in reporting methods to improve response accuracy",
+            "Preference for written records over verbal complaints",
+            "Delegation of responsibility to building security",
+            "Limitation of management involvement during late hours"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 503.1,
+        "end": 588.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 589.2,
+            "end": 594.5
+          },
+          "prompt": "The request for a brief email mainly serves to...",
+          "options": [
+            "Verify policy compliance",
+            "Create a formal record for escalation",
+            "Limit repeated complaints",
+            "Measure complaint severity"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 620.1,
+            "end": 625.3
+          },
+          "prompt": "The property manager's tone reflects an attempt to...",
+          "options": [
+            "Prioritize tenant comfort over rules",
+            "Defer action until written proof is submitted",
+            "Avoid confronting the neighbor directly",
+            "Remain neutral while acknowledging concerns"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

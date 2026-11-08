@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 213.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 214.4,
+            "end": 220.8
+          },
+          "prompt": "The mention of lease clauses by Mr. James suggests...",
+          "options": [
+            "Legal action is the only option.",
+            "Emily might be violating rules.",
+            "The neighbors are automatically guilty.",
+            "He is highlighting potential formal actions."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 245.5,
+            "end": 251.4
+          },
+          "prompt": "Emily's willingness to share her log implies that she is...",
+          "options": [
+            "Attempting to shift blame onto neighbors.",
+            "Showing initiative and cooperation.",
+            "Hesitant about management involvement.",
+            "Expecting immediate strict action."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 276.5,
+            "end": 283.3
+          },
+          "prompt": "Emily's continued frustration despite polite requests indicates...",
+          "options": [
+            "She expects immediate punitive action.",
+            "Previous efforts were ineffective.",
+            "She dislikes the building environment overall.",
+            "She is exaggerating for attention."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 318.4,
+        "end": 385.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 385.7,
+            "end": 391.7
+          },
+          "prompt": "How does Emily feel about temporary measures like headphones?",
+          "options": [
+            "Skeptical about effectiveness",
+            "Willing to try them",
+            "Angry about using them",
+            "Indifferent to the noise"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 416.8,
+            "end": 422.5
+          },
+          "prompt": "What does Emily hope will happen after submitting the log?",
+          "options": [
+            "Mr. James will handle it without her involvement",
+            "Situation improves and communication is smooth",
+            "Neighbors get punished immediately",
+            "Noise stops magically"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 447.8,
+            "end": 454.3
+          },
+          "prompt": "What approach does Mr. James take to maintain a calm resolution?",
+          "options": [
+            "Gradual, measured actions while considering Emily’s input",
+            "Directly addressing the issue with strong warnings",
+            "Waiting passively to see if the problem resolves itself",
+            "Emphasizing consequences to ensure compliance"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 489.8,
+        "end": 557.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 558.2,
+            "end": 563.7
+          },
+          "prompt": "Why does Mr. James emphasize documentation?",
+          "options": [
+            "To prepare for eviction",
+            "To delay action",
+            "To support future steps if needed",
+            "To transfer responsibility"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 589.2,
+            "end": 595.1
+          },
+          "prompt": "What does Emily's phrase about normal life imply?",
+          "options": [
+            "Temporary discomfort",
+            "Ongoing disruption affecting routine",
+            "Social isolation",
+            "Physical danger"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

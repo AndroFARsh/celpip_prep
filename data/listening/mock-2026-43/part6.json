@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2124.0,
+    "end": 2334.3
+  },
+  "questions": [
+    {
+      "prompt": "The passage suggests that equal treatment becomes unjust when learners' real-world situations are ______.",
+      "options": [
+        "prioritized",
+        "ignored",
+        "compared",
+        "standardized"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Rigid testing schedules subtly advantage learners whose lives are less ______.",
+      "options": [
+        "demanding",
+        "flexible",
+        "planned",
+        "interrupted"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Assessment fairness is framed as judging competence rather than the ability to handle ______.",
+      "options": [
+        "pressure",
+        "complexity",
+        "procedures",
+        "expectations"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Flexible scheduling is defended as a way to improve assessment ______.",
+      "options": [
+        "speed",
+        "fairness",
+        "accuracy",
+        "convenience"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Adult learners' contributions risk being minimized when systems remain ______.",
+      "options": [
+        "demanding",
+        "unchanged",
+        "selective",
+        "competitive"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Concerns about misuse are acknowledged but treated as issues that are ______.",
+      "options": [
+        "exaggerated",
+        "unavoidable",
+        "solvable",
+        "dismissible"
+      ],
+      "answer": 2
+    }
+  ]
+}

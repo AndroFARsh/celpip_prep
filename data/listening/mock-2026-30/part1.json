@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.0,
+        "end": 203.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 205.7,
+            "end": 210.1
+          },
+          "prompt": "What is the primary cause of the discrepancy regarding the furniture?",
+          "options": [
+            "Ambient lighting distorting the fabric’s hue.",
+            "An administrative error during the production phase.",
+            "A mismatch between the showroom sample and the rug.",
+            "Logistics protocols preventing a localized verification."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 236.3,
+            "end": 242.1
+          },
+          "prompt": "Why is Mike hesitant to immediately reload the sectional onto the truck?",
+          "options": [
+            "He lacks the specific credentials to override a finalized delivery.",
+            "The digital manifest is currently locked against further edits.",
+            "Returning the item without specific paperwork impacts his performance record.",
+            "Standard procedure requires him to wait for a manager’s verbal consent."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 267.6,
+            "end": 273.3
+          },
+          "prompt": "Sarah's refusal to sign the digital pad is based on the fear that...",
+          "options": [
+            "The digital manifest contradicts her email records.",
+            "Signature constitutes legal acceptance of the item's condition.",
+            "The delivery team will claim she damaged the \"Midnight Navy\" wrap.",
+            "Future claims will be dismissed due to documented satisfaction."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 308.0,
+        "end": 407.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 409.4,
+            "end": 415.5
+          },
+          "prompt": "What is the primary logistical barrier preventing an immediate exchange?",
+          "options": [
+            "Sequential loading constraints affecting the entire delivery route.",
+            "A total depletion of the required SKU at the distribution center.",
+            "Regulatory limits on the driver’s daily operational hours.",
+            "Financial penalties associated with unauthorized cargo shifts."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 440.8,
+            "end": 447.3
+          },
+          "prompt": "The proposed swap-out strategy serves as a compromise, primarily because...",
+          "options": [
+            "It guarantees the delivery of the Navy model by the end of the business day.",
+            "It mitigates the functional deficit in the customer’s living space.",
+            "It bypasses the need for formal supervisor intervention.",
+            "It reclassifies the \"Slate Grey\" unit as a non-refundable gift."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 471.5,
+            "end": 476.4
+          },
+          "prompt": "Based on Mike's explanation, what is the ultimate source of the error?",
+          "options": [
+            "A manufacturing defect in the threading of the \"402-B\" model.",
+            "A discrepancy between the digital manifest and the physical warehouse tag.",
+            "Inaccurate documentation generated during the point-of-sale process.",
+            "A failure of the delivery team to verify the SKU before unboxing."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 512.1,
+        "end": 601.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 603.5,
+            "end": 609.3
+          },
+          "prompt": "How has the official status of Sarah's delivery changed in the company's database?",
+          "options": [
+            "It is marked as a \"Finalized Sale\" with a pending refund.",
+            "It is registered as a \"Refused Shipment\" due to backorder.",
+            "It is logged as an \"Incomplete Fulfillment\" currently in progress.",
+            "It is categorized as a \"Customer-Initiated Exchange\" for a new SKU."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 634.5,
+            "end": 640.1
+          },
+          "prompt": "What does Sarah require to protect herself from unintended financial obligations?",
+          "options": [
+            "A verbal guarantee from Diane regarding the 10-day timeline.",
+            "A waiver of liability for the physical damage of the \"Midnight Navy\" model.",
+            "Formal documentation decoupling her from the cost of the current item.",
+            "A physical receipt for the \"Mislabeled Inventory\" return shipping."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

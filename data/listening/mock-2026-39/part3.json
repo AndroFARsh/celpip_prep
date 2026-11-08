@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 1003.4,
+    "end": 1214.4
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1215.1,
+        "end": 1222.8
+      },
+      "prompt": "Why does Emma prioritize furniture with multiple uses early in the discussion?",
+      "options": [
+        "To match city living trends",
+        "To allow frequent guest stays",
+        "To reduce the number of items needed",
+        "To simplify interior styling"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1246.1,
+        "end": 1252.7
+      },
+      "prompt": "Liam's reaction to the sofa bed mainly reveals that he values...",
+      "options": [
+        "Adaptability without crowding",
+        "Comfort over aesthetics",
+        "Cost-saving solutions",
+        "Long-term durability"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1277.1,
+        "end": 1283.0
+      },
+      "prompt": "Why does Liam hesitate before agreeing to open shelving?",
+      "options": [
+        "Fear of visual disorder",
+        "Concern about weight limits",
+        "Difficulty in installation",
+        "Lack of storage need"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1308.1,
+        "end": 1316.0
+      },
+      "prompt": "What underlying principle connects ottomans, coffee tables, and beds mentioned by Emma?",
+      "options": [
+        "Budget efficiency",
+        "Decorative enhancement",
+        "Lightweight materials",
+        "Concealed utility"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1339.1,
+        "end": 1346.2
+      },
+      "prompt": "Liam's approval of underbed storage suggests he prefers...",
+      "options": [
+        "Neatness without effort",
+        "Permanent organization systems",
+        "Minimal possessions",
+        "Furniture customization"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1370.1,
+        "end": 1376.2
+      },
+      "prompt": "Liam's comment about his current table implies it...",
+      "options": [
+        "Looks outdated",
+        "Restricts movement",
+        "Lacks durability",
+        "Seats too many people"
+      ],
+      "answer": 1
+    }
+  ]
+}

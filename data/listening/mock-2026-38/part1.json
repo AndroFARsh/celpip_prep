@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 194.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 194.9,
+            "end": 200.8
+          },
+          "prompt": "Why does Sophie hesitate about the 9-10 AM bus?",
+          "options": [
+            "It often breaks down",
+            "Arrival could be tight",
+            "Seats fill quickly",
+            "It skips stops"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 225.9,
+            "end": 231.8
+          },
+          "prompt": "What does Sophie's calculation suggest about her role?",
+          "options": [
+            "She guesses casually",
+            "She relies on experience",
+            "She avoids responsibility",
+            "She checks company rules"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 256.8,
+            "end": 262.0
+          },
+          "prompt": "What does Sophie imply about buying tickets at the station?",
+          "options": [
+            "Seats are always available",
+            "It's cheaper than online",
+            "There is some uncertainty",
+            "Online booking is required"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 298.8,
+        "end": 376.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 377.4,
+            "end": 383.3
+          },
+          "prompt": "Why does Sophie reassure David about availability today?",
+          "options": [
+            "Reservations are limited",
+            "The bus has extra coaches",
+            "The timing reduces competition",
+            "Demand is unpredictable"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 408.4,
+            "end": 413.1
+          },
+          "prompt": "Why are multiple update methods mentioned?",
+          "options": [
+            "To ensure access in different situations",
+            "To replace verbal announcements",
+            "To encourage online booking only",
+            "To reduce platform staff workload"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 439.4,
+            "end": 445.7
+          },
+          "prompt": "Why does Sophie confirm the platform number explicitly?",
+          "options": [
+            "To redirect foot traffic",
+            "To remove final uncertainty",
+            "To highlight station rules",
+            "To change earlier information"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 481.5,
+        "end": 551.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 552.5,
+            "end": 558.2
+          },
+          "prompt": "What does the luggage policy suggest about the bus service?",
+          "options": [
+            "It discourages long trips",
+            "It expects light travelers",
+            "It charges by bag size",
+            "It accommodates varied needs"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 583.5,
+            "end": 588.5
+          },
+          "prompt": "Why does David ask about the next bus option?",
+          "options": [
+            "He plans to change routes",
+            "He expects a delay",
+            "He wants a backup plan",
+            "He dislikes early travel"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

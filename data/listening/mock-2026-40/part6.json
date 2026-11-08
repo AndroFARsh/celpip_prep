@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2154.1,
+    "end": 2346.1
+  },
+  "questions": [
+    {
+      "prompt": "Frequent changes in leadership can primarily disrupt a group's ______.",
+      "options": [
+        "meeting frequency",
+        "member enthusiasm",
+        "steady advancement",
+        "individual learning"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A significant issue with rotating leadership is that students may be ______.",
+      "options": [
+        "unprepared for guidance",
+        "unwilling to attend sessions",
+        "overly reliant on rules",
+        "uninterested in peers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "One effect of inconsistent leadership is that long-term plans may ______.",
+      "options": [
+        "lose continuity",
+        "fail due to conflicts",
+        "improve unpredictably",
+        "remain rigid"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Rotating leadership can generate frustration among group members because ______.",
+      "options": [
+        "deadlines are extended",
+        "tasks are too easy",
+        "everyone is equally skilled",
+        "methods keep changing"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Leadership rotation might fail to achieve fairness if students ______.",
+      "options": [
+        "vary in taking responsibility",
+        "compete for recognition",
+        "share equal ideas",
+        "follow instructions"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Recurrent changes in leadership can turn decision-making into a ______.",
+      "options": [
+        "fast-track system",
+        "symbolic process",
+        "creative venture",
+        "peer competition"
+      ],
+      "answer": 1
+    }
+  ]
+}

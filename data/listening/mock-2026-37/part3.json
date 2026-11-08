@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 1023.3,
+    "end": 1185.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1186.2,
+        "end": 1192.0
+      },
+      "prompt": "Why does Ethan advise stopping for fuel near the return location?",
+      "options": [
+        "To save driving time",
+        "To avoid added handling cost",
+        "To meet inspection rules",
+        "To follow company habit"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1217.3,
+        "end": 1224.3
+      },
+      "prompt": "Why is prepaid fuel presented as a convenience rather than a discount?",
+      "options": [
+        "It costs less overall",
+        "It reduces paperwork",
+        "It removes a final task",
+        "It guarantees no inspection"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1248.3,
+        "end": 1254.2
+      },
+      "prompt": "What assumption must the renter accept when choosing prepaid fuel?",
+      "options": [
+        "Unused fuel is refunded",
+        "Usage is irrelevant at return",
+        "Charges vary by mileage",
+        "Inspection is skipped"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1279.4,
+        "end": 1285.1
+      },
+      "prompt": "Why is early communication encouraged for rental extension?",
+      "options": [
+        "To change vehicle class",
+        "To lock pricing",
+        "To prevent timing penalties",
+        "To reset inspection terms"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1310.5,
+        "end": 1315.9
+      },
+      "prompt": "Why should issues be reported during the rental period?",
+      "options": [
+        "To get a replacement",
+        "To reduce suspicion later",
+        "To qualify for discounts",
+        "To avoid fuel penalties"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1341.4,
+        "end": 1346.0
+      },
+      "prompt": "Why does Grace feel reassured by the end?",
+      "options": [
+        "Fees were waived",
+        "Procedures became predictable",
+        "Vehicle was upgraded",
+        "Staff promised flexibility"
+      ],
+      "answer": 1
+    }
+  ]
+}

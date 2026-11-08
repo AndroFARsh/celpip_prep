@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1370.5,
+    "end": 1619.0
+  },
+  "questions": [
+    {
+      "prompt": "The recent rise in construction injuries is largely attributed to ______.",
+      "options": [
+        "Seasonal workforce changes",
+        "Efficiency pressures and training gaps",
+        "Reduced equipment maintenance",
+        "Increased regulatory oversight"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The ongoing difficulty in preventing injuries suggests that ______.",
+      "options": [
+        "protective tools cannot fully substitute for oversight",
+        "federal laws are inherently ineffective",
+        "workers deliberately ignore safety measures",
+        "accidents mostly stem from outdated equipment"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Short-term or contract-based employment primarily contributes to ______.",
+      "options": [
+        "compromised preparation for risks",
+        "accelerated project timelines",
+        "uneven wages",
+        "higher worker morale"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Regional spikes in accidents appear to be linked to ______.",
+      "options": [
+        "state-specific oversight gaps",
+        "intensity of ongoing projects",
+        "worker inexperience across the board",
+        "aging machinery clusters"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Inexperience among workers is most hazardous during ______.",
+      "options": [
+        "initial months on-site",
+        "peak operational periods",
+        "routine inspections",
+        "low-risk assignments"
+      ],
+      "answer": 0
+    }
+  ]
+}

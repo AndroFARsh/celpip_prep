@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1780.2,
+    "end": 1964.5
+  },
+  "questions": [
+    {
+      "prompt": "What might be the main reason for preferring food stalls over live cooking outdoors?",
+      "options": [
+        "Cooking demos require complex kitchen setups.",
+        "Stalls are less costly than cooking demos.",
+        "Outdoor cooking is less popular with guests.",
+        "Food stalls allow more menu variety."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why is it suggested to rotate cooking demos indoors while having stalls outside?",
+      "options": [
+        "To reduce overcrowding at food stalls.",
+        "To offer a mix of experiences without logistical issues.",
+        "Because demos need more space than stalls.",
+        "To avoid noise interference between activities."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The emphasis on allergy labeling suggests what about past events?",
+      "options": [
+        "Allergy info was previously overlooked causing incidents.",
+        "Attendees requested clearer allergy warnings.",
+        "Labeling was too complicated to enforce before.",
+        "Only sesame allergies were problematic in the past."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the underlying concern about the variety of performances proposed?",
+      "options": [
+        "The mix might confuse or unsettle the audience.",
+        "There are too few performers to fill the schedule.",
+        "Similar cultural acts should be placed apart for contrast.",
+        "Only traditional performances should be included."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"passport system\" is introduced primarily to:",
+      "options": [
+        "Control crowd movement efficiently.",
+        "Encourage engagement across all booths.",
+        "Limit visitor access to certain areas.",
+        "Simplify ticketing and entry procedures."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the main motivation for reaching out to Somali and Vietnamese community leaders?",
+      "options": [
+        "To increase representation of previously excluded groups.",
+        "To source food vendors from these communities.",
+        "To provide cultural performances exclusively from these groups.",
+        "To reduce the number of cultural booths overall."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What purpose does creating a committee with cultural group reps serve?",
+      "options": [
+        "To delegate all event planning responsibilities.",
+        "To give all groups a voice and sense of ownership.",
+        "To reduce workload for the main organizers.",
+        "To limit the number of participating cultures."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is a post-event survey planned?",
+      "options": [
+        "To evaluate success and identify improvements.",
+        "To decide next year's event date.",
+        "To register attendees for future events.",
+        "To assess financial outcomes exclusively."
+      ],
+      "answer": 0
+    }
+  ]
+}

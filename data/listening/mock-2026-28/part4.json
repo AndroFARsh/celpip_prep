@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1344.5,
+    "end": 1468.3
+  },
+  "questions": [
+    {
+      "prompt": "The \"Acoustic Protection Initiative\" is primarily a response to ______",
+      "options": [
+        "The five kilometers of reinforced highway traffic",
+        "Sustained auditory levels exceeding safety thresholds",
+        "The long-delayed breaking ground of five hundred families",
+        "A three-year study on lawnmower emissions"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "A distinctive functional advantage of \"Green-Wall\" technology is its ability to ______",
+      "options": [
+        "Reflect sound waves back onto the Harvest Ridge road",
+        "Act as a traditional concrete slab for modern engineering",
+        "Mitigate atmospheric pollutants from transit",
+        "Provide porous protection for the daily commute"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Local health officials have connected the I-40 corridor environment to ______",
+      "options": [
+        "Chronic physiological and psychological strain",
+        "High-impact plexiglass sleep disturbances",
+        "85 decibels of storefront signage stress",
+        "Acoustic protection for five hundred families"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The city’s compromise for business owners involves ______",
+      "options": [
+        "Moving the 12th Street exit away from commercial zones",
+        "Prioritizing auditory reduction over storefront visibility",
+        "Implementing transparent structural elements",
+        "Funding a drop in 'drive-by' customers"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The project's financial framework is characterized by ______",
+      "options": [
+        "A $12 million investment from local businesses",
+        "Reliance on external ecological subsidies",
+        "Revenue generated from 12th Street exit signage",
+        "High-impact costs for the Harvest Ridge estate"
+      ],
+      "answer": 1
+    }
+  ]
+}

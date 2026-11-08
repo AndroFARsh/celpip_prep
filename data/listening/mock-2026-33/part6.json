@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2078.8,
+    "end": 2224.9
+  },
+  "questions": [
+    {
+      "prompt": "Proponents argue that the primary risk to a district is ______",
+      "options": [
+        "Municipal neglect.",
+        "Economic stimulation.",
+        "Functional immobility.",
+        "Modernization of history."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "\"Disinvestment\" is used in the report to justify the need for ______",
+      "options": [
+        "Inclusive zoning.",
+        "External capital injection.",
+        "Higher property taxes.",
+        "Commercial rent-stabilization."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The replacement of a grocery store with a boutique signifies a loss of ______",
+      "options": [
+        "Practical neighborhood utility.",
+        "Productive urban assets.",
+        "High-end commercial rent.",
+        "Historic district character."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the intended function of \"Inclusive Zoning\"? ______",
+      "options": [
+        "To accelerate urban renewal.",
+        "To encourage municipal neglect.",
+        "To maintain demographic continuity.",
+        "To increase the broader tax base."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"middle ground\" is currently described as ______",
+      "options": [
+        "A palpable transformation.",
+        "A theoretical objective.",
+        "An elusive historic district.",
+        "A broader public service."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Proponents of urban renewal categorize \"stagnation\" as ______",
+      "options": [
+        "A consequence of municipal neglect.",
+        "The primary risk to civic viability.",
+        "A byproduct of historical disinvestment.",
+        "An obstacle to inclusive zoning."
+      ],
+      "answer": 1
+    }
+  ]
+}

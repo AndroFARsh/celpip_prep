@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1727.2,
+    "end": 1945.4
+  },
+  "questions": [
+    {
+      "prompt": "What is Thomas’s primary reservation regarding the \"Pedestrian Weekend\"?",
+      "options": [
+        "The logistical nightmare of retail.",
+        "Prohibitive accessibility for bulky commerce.",
+        "20-kilogram bags and power tools.",
+        "Customers driving to suburban big-box stores."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus’s attitude toward the current street usage can best be described as ?",
+      "options": [
+        "Analyzing sales data from the street festival.",
+        "Concerned about local clients' tailoring drop-offs.",
+        "Frustrated by the misappropriation of public space.",
+        "Proposing a pilot project for one month."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the underlying purpose of the \"Pilot Project\"?",
+      "options": [
+        "To hire a student to do a survey.",
+        "To see if Thomas’s sales drop or revenue goes up.",
+        "To gather actual data over four weekends.",
+        "To provide empirical evidence to mitigate risk."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Thomas’s concern for his \"elderly customers\" implies that he views the pedestrian plan as ?",
+      "options": [
+        "Telling them they aren't welcome on weekends.",
+        "A mobility issue for people with pickup trucks.",
+        "Socially exclusionary toward the physically limited.",
+        "A reason to stop the pilot project for a month."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What must happen for Thomas to consider the project a success?",
+      "options": [
+        "Customer pickup spots maintained at intersections.",
+        "His revenue remains stable or increases.",
+        "People see how vibrant the street feels.",
+        "The city provides better signage for the parking garage."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Which word best captures the shift Isla expects in the street's character?",
+      "options": [
+        "Shoulder-to-shoulder crowds.",
+        "Vibrant and exhaust-free.",
+        "Sensory rejuvenation.",
+        "No noise and idling cars."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Marcus’s suggestion about the parking garage implies that ?",
+      "options": [
+        "The garage is on the next block.",
+        "Street spots are being lost to office workers.",
+        "Proximity is less critical than navigational clarity.",
+        "The city needs to provide better signage."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the fundamental tension between Isla’s and Thomas’s business models?",
+      "options": [
+        "Lattes versus 20-kilogram bags of soil.",
+        "Casual browsing versus destination-bound utility.",
+        "Outdoor seating versus loading zones.",
+        "Weekend crowds versus regular local clients."
+      ],
+      "answer": 1
+    }
+  ]
+}

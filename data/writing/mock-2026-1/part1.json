@@ -1,0 +1,11 @@
+{
+  "timeLimitSec": 1620,
+  "situation": "You recently moved into a new apartment building. Your neighbour, Sarah, has lived in the neighbourhood for many years and is very friendly.",
+  "task": "Write an email to Sarah in about 150-200 words. You are asking for some information about local services.",
+  "points": [
+    "Ask about a good place to buy groceries.",
+    "Request a recommendation for a family doctor.",
+    "Inquire about a nearby park or community centre."
+  ],
+  "sample": "Hi Sarah,\n\nI hope you are having a good week. I am writing to you today because my family and I are new to the area, and we would appreciate your help with a few questions about the neighbourhood.\n\nFirstly, we need to find a good supermarket. Could you please recommend a place that has fresh food and reasonable prices? It would be great if it is not too far from our building, as something convenient is important for us.\n\nSecondly, we are also looking for a new family doctor who is accepting new patients. We have two young children, so it would be wonderful if you know a clinic or doctor in the area that is good with kids. Any information you have would be very helpful.\n\nFinally, I would like to take my children to a park or a community centre on the weekend. Is there a nice one nearby with a playground?\n\nThank you so much for your time and any advice you can offer.\n\nBest regards,\n\nAlex Chen"
+}

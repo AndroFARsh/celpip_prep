@@ -65,7 +65,7 @@
         "start": 1156.4,
         "end": 1162.7
       },
-      "prompt": "If the customer needs a computer to meet their deadlines, they must?",
+      "prompt": "If the customer needs a computer to meet their deadlines, they must...",
       "options": [
         "Pay a weekly fee for a temporary device.",
         "Wait at the shop for the repair to finish.",

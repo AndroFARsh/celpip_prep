@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 994.7,
+    "end": 1195.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1195.9,
+        "end": 1202.0
+      },
+      "prompt": "What can be inferred about why Laura contacted the repair center again?",
+      "options": [
+        "The device completely stopped functioning",
+        "She misunderstood the service terms",
+        "A new defect appeared suddenly",
+        "The earlier fix partially failed"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1227.0,
+        "end": 1233.3
+      },
+      "prompt": "Why does Daniel ask for either an invoice number or phone number?",
+      "options": [
+        "To confirm payment completion",
+        "To identify the correct service record",
+        "To check warranty expiration",
+        "To verify customer identity for security"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1258.0,
+        "end": 1264.1
+      },
+      "prompt": "What does Daniel's response suggest about the company's service policy?",
+      "options": [
+        "It favors strict rules over flexibility",
+        "It avoids responsibility after repair",
+        "It balances fairness with limitations",
+        "It guarantees lifetime coverage"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1289.0,
+        "end": 1295.2
+      },
+      "prompt": "Why does Laura mention how she usually uses her laptop?",
+      "options": [
+        "To request home service",
+        "To prove careful handling",
+        "To complain about design flaws",
+        "To seek extended coverage"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1320.0,
+        "end": 1325.8
+      },
+      "prompt": "What does Daniel imply by suggesting another inspection?",
+      "options": [
+        "The first repair was definitely faulty",
+        "The issue might be unrelated",
+        "The problem can't be diagnosed remotely",
+        "The warranty is about to expire"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1351.0,
+        "end": 1358.0
+      },
+      "prompt": "What can be inferred about the company's approach to extra repairs?",
+      "options": [
+        "They proceed automatically",
+        "They prioritize speed over consent",
+        "They require customer confirmation",
+        "They charge inspection fees upfront"
+      ],
+      "answer": 2
+    }
+  ]
+}

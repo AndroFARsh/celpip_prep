@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1358.6,
+    "end": 1478.8
+  },
+  "questions": [
+    {
+      "prompt": "The \"Class 1 recall\" was initiated primarily due to ______",
+      "options": [
+        "Substandard organic carrot quality",
+        "Undisclosed allergen presence",
+        "Greenfield's routine quality audit",
+        "Expired Best Before dates"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The hazard described in the alert is categorized as ______",
+      "options": [
+        "A chemical assembly line failure",
+        "A potential for severe biological distress",
+        "A mislabeling of Ontario-grown produce",
+        "A mechanical sensor alignment error"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Which group faces the most significant risk from this error ______",
+      "options": [
+        "Buyers of Honey-Glazed Carrots",
+        "Shoppers seeking dairy derivatives.",
+        "Consumers of misidentified legumes",
+        "Routine quality control auditors"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Robert Holloway’s statement implies that the recall is ______",
+      "options": [
+        "A reaction to reported illnesses",
+        "A compulsory legislative mandate",
+        "A preemptive safety measure.",
+        "A formal apology for soy traces"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "To identify an affected product, a consumer must verify ______",
+      "options": [
+        "The presence of honey-glaze traces.",
+        "Specific manufacturing facility markers",
+        "The Evening Bulletin's barcode",
+        "National Food Safety Agency photos."
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 995.3,
+    "end": 1174.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1175.3,
+        "end": 1180.9
+      },
+      "prompt": "Why does Emma refuse the request for earlier arrival?",
+      "options": [
+        "Staff shortage",
+        "Local rules",
+        "Area maintenance",
+        "Fairness to vendors"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1206.3,
+        "end": 1212.2
+      },
+      "prompt": "What can be inferred about Nathan's preparation style?",
+      "options": [
+        "Overconfident",
+        "Detail-oriented",
+        "Unconcerned",
+        "Last-minute"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1237.4,
+        "end": 1242.3
+      },
+      "prompt": "Why does Emma mention the market opening time?",
+      "options": [
+        "To rush Nathan",
+        "To justify setup deadline",
+        "To promote attendance",
+        "To warn customers"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1268.4,
+        "end": 1274.7
+      },
+      "prompt": "What does the phrase \"fairly central\" imply most strongly?",
+      "options": [
+        "Guaranteed high sales",
+        "Reserved priority",
+        "Premium upgrade",
+        "Balanced visibility"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1299.5,
+        "end": 1304.0
+      },
+      "prompt": "Why does Emma offer the waiting list option?",
+      "options": [
+        "To avoid conflict",
+        "To retain flexibility",
+        "To upsell space",
+        "To delay response"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1330.4,
+        "end": 1335.8
+      },
+      "prompt": "What does Nathan's acceptance of rules suggest?",
+      "options": [
+        "Compliance mindset",
+        "Disappointment",
+        "Indifference",
+        "Pressure"
+      ],
+      "answer": 0
+    }
+  ]
+}

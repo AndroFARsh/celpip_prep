@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 999.4,
+    "end": 1171.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1172.4,
+        "end": 1179.8
+      },
+      "prompt": "What is the professor's primary strategy for securing the project's financial needs?",
+      "options": [
+        "Prioritizing high-ceiling National Science Foundation startup grants.",
+        "Utilizing a diversified, multi-tiered acquisition approach.",
+        "Securing \"bridge-funding\" for equipment before labor costs.",
+        "Focusing on the \"President’s Excellence Fund\" to cover sensors."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1203.3,
+        "end": 1210.5
+      },
+      "prompt": "Why does Higgins suggest the small-scale innovation grant despite its lower payout?",
+      "options": [
+        "It offers a higher \"ceiling\" for graduate-led projects.",
+        "It specifically targets carbon sequestration in vertical gardens.",
+        "It offers a more favorable statistical probability of success.",
+        "It is the only way to fund the \"Knowledge Mobilization\" plan."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1234.4,
+        "end": 1240.8
+      },
+      "prompt": "According to the professor, what is the most common pitfall in grant writing?",
+      "options": [
+        "Lacking a solid \"Knowledge Mobilization\" plan.",
+        "Failing to provide a three-page project description.",
+        "Inadequate quantitative alignment of costs to objectives.",
+        "Missing the \"hard deadline\" for the narrative section."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1265.4,
+        "end": 1272.3
+      },
+      "prompt": "What is the underlying purpose of involving the local botanical gardens?",
+      "options": [
+        "To host a public \"Knowledge Mobilization\" seminar.",
+        "To ensure the project remains purely theoretical.",
+        "To demonstrate the practical, civic utility of the research.",
+        "To find a \"solid partnership\" for data collection."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1296.5,
+        "end": 1303.1
+      },
+      "prompt": "How does the university's internal funding interact with external grants?",
+      "options": [
+        "It acts as a primary source for \"Small-Scale Innovation.\"",
+        "It serves as a secondary validation of the project's external merit.",
+        "It mandates the hire of two undergraduate field assistants.",
+        "It covers the \"National Science Foundation\" startup costs."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1327.5,
+        "end": 1334.7
+      },
+      "prompt": "What is the chronological relationship between the departmental and national deadlines?",
+      "options": [
+        "The national portal opens exactly one week after the first draft.",
+        "There is a seven-day window for internal refinement.",
+        "The ethics committee must review protocols by March 15th.",
+        "The \"hard deadline\" for the spreadsheet is April 1st."
+      ],
+      "answer": 1
+    }
+  ]
+}

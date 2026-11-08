@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 668.2,
+    "end": 851.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 851.4,
+        "end": 857.2
+      },
+      "prompt": "Why does Lucas decide to inform Sophie about the situation?",
+      "options": [
+        "He wants immediate repairs",
+        "He fears structural damage",
+        "He is uneasy about health impact",
+        "He dislikes the apartment design"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 882.0,
+        "end": 887.1
+      },
+      "prompt": "What condition makes the problem more noticeable?",
+      "options": [
+        "Reduced daylight",
+        "System circulation",
+        "Closed windows",
+        "Cooking activity"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 913.1,
+        "end": 918.3
+      },
+      "prompt": "What does Sophie's reaction suggest about her approach?",
+      "options": [
+        "She downplays risks",
+        "She follows procedure only",
+        "She balances caution and reassurance",
+        "She avoids responsibility"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 944.2,
+        "end": 949.5
+      },
+      "prompt": "Why does Sophie suggest limiting system use temporarily?",
+      "options": [
+        "To lower electricity bills",
+        "To prevent symptom aggravation",
+        "To test Lucas’s tolerance",
+        "To avoid noise complaints"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 975.3,
+        "end": 981.3
+      },
+      "prompt": "How confident is Sophie about the seriousness of the issue?",
+      "options": [
+        "Fully certain it’s harmless",
+        "Certain it’s dangerous",
+        "Open to multiple possibilities",
+        "Completely unsure and dismissive"
+      ],
+      "answer": 2
+    }
+  ]
+}

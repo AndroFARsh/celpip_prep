@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1313.8,
+    "end": 1442.3
+  },
+  "questions": [
+    {
+      "prompt": "The 17% increase is characterized by labor advocates as a ______",
+      "options": [
+        "Landmark victory for the Ministry of Labor.",
+        "Necessary adjustment for purchasing power.",
+        "Soaring cost of living for small businesses.",
+        "Temporary solution for the working poor."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Maria Santos's dilemma illustrates that for small firms, the hike is ______",
+      "options": [
+        "A choice between service quality and affordability.",
+        "An opportunity to upgrade 'The Daily Grind'.",
+        "A way to reduce downtown labor costs.",
+        "The end of the family-run café era."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"Small Business Tax Credit\" is criticized primarily because it ______",
+      "options": [
+        "Increases the payroll pressure on the Ministry.",
+        "Only applies to businesses with ten employees.",
+        "Fails to mitigate external overhead expenses.",
+        "Is a landmark increase for commercial rents."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Which group does Dr. Vance identify as being most vulnerable to the legislation. ______",
+      "options": [
+        "Labor unions hailing the victory.",
+        "Firms with limited staff numbers.",
+        "Businesses downtown for twenty years.",
+        "The Ministry of Labor's critics."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The Ministry of Labor's stance can be interpreted as ______",
+      "options": [
+        "Opposing the 17% jump in wages.",
+        "Recognizing the financial strain on employers.",
+        "Advocating for increased commercial rents.",
+        "Supporting the closure of micro-businesses."
+      ],
+      "answer": 1
+    }
+  ]
+}

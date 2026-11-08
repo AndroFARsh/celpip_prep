@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 976.4,
+    "end": 1146.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1147.3,
+        "end": 1153.9
+      },
+      "prompt": "What is the primary academic paradox in Leo's profile?",
+      "options": [
+        "Advanced quantitative skills vs. literacy gaps.",
+        "Grade 4 status vs. IEP requirements.",
+        "Downtown transfer vs. local performance.",
+        "High math scores vs. school tablet errors."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1178.4,
+        "end": 1183.4
+      },
+      "prompt": "How is preferential seating defined here?",
+      "options": [
+        "Proximity to the teacher's desk.",
+        "Minimal peripheral stimulation.",
+        "Front-row whiteboard access.",
+        "High-traffic area integration."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1209.5,
+        "end": 1214.7
+      },
+      "prompt": "The heavy work tasks are intended to...",
+      "options": [
+        "Punish classroom fidgeting.",
+        "Aid library organization.",
+        "Regulate the nervous system.",
+        "Speed up content generation."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1240.4,
+        "end": 1245.9
+      },
+      "prompt": "What legal mandate applies to Leo's testing?",
+      "options": [
+        "Mandatory speech-to-text use.",
+        "Modified social studies content.",
+        "Alternative assessment location.",
+        "Over-correction of spelling."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1271.4,
+        "end": 1277.4
+      },
+      "prompt": "What is true of Leo's previous school history?",
+      "options": [
+        "Frequent hallway disciplinary issues.",
+        "Consistent literacy performance.",
+        "High levels of parental advocacy.",
+        "Failure to use reading tools."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1302.4,
+        "end": 1308.3
+      },
+      "prompt": "The fidgeting is treated by the staff as...",
+      "options": [
+        "A defiance of authority.",
+        "A sensory processing need.",
+        "A lack of math focus.",
+        "A whiteboard distraction."
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1796.7,
+    "end": 1944.9
+  },
+  "questions": [
+    {
+      "prompt": "What underlying concern does Daniel express about the meal plan app idea?",
+      "options": [
+        "The cost of hiring professionals might be overwhelming.",
+        "Marketing such an app would be too competitive.",
+        "The concept doesn't align with current trends.",
+        "Storage and logistics could be problematic."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Sophie seem hesitant about the subscription box concept?",
+      "options": [
+        "She doubts its popularity among customers.",
+        "She worries about operational complexities.",
+        "She thinks it requires too much tech expertise.",
+        "She believes it conflicts with their values."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What advantage does James highlight about the tutoring platform compared to other ideas?",
+      "options": [
+        "It allows for quick scalability with low overhead.",
+        "It requires a large team from the start.",
+        "It demands extensive physical resources.",
+        "It is less appealing to a niche market."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What concern does Sophie raise about entering the tutoring market?",
+      "options": [
+        "The market is saturated and needs differentiation.",
+        "The pricing might be too high for beginners.",
+        "Competitors have better technology.",
+        "Students prefer in-person sessions."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How is Sophie’s role in the tutoring platform envisioned?",
+      "options": [
+        "Managing all project tasks alone.",
+        "Leading social media outreach and branding.",
+        "Overseeing financial management.",
+        "Handling technical website development."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the implied reason Sophie does not want to repeat the experience from the fundraiser project?",
+      "options": [
+        "She was overwhelmed by too many responsibilities.",
+        "The fundraiser was unsuccessful.",
+        "The team lacked clear leadership.",
+        "The budget was insufficient."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does the team plan to divide responsibilities for the tutoring platform?",
+      "options": [
+        "Sophie on finances, James on marketing, Daniel on technical work.",
+        "Daniel on outreach, Sophie on tech, James on budgeting.",
+        "Sophie on branding, James on tech setup, Daniel on finances.",
+        "James managing everything, others assisting."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What inference can be drawn about the team's attitude toward the other business ideas after choosing tutoring?",
+      "options": [
+        "They have completely dismissed all other options.",
+        "They lack confidence in their skills for other ideas.",
+        "They believe other ideas are less profitable.",
+        "They want to revisit alternatives if tutoring fails."
+      ],
+      "answer": 3
+    }
+  ]
+}

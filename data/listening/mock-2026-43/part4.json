@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1365.1,
+    "end": 1562.9
+  },
+  "questions": [
+    {
+      "prompt": "The primary logic behind limiting parking duration during business hours is to ______.",
+      "options": [
+        "clear streets permanently",
+        "punish daily office drivers",
+        "boost roadside revenue",
+        "rotate curb usage faster"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Higher charges during busy periods are meant to mainly ______.",
+      "options": [
+        "control excess demand",
+        "increase city profits",
+        "replace free spaces",
+        "favor wealthy drivers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Allowing no extra cost for certain reserved spaces shows the city is prioritizing ______.",
+      "options": [
+        "equitable access",
+        "financial relief",
+        "political image",
+        "legal obligation"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Business owners who support the changes believe smoother movement will ______.",
+      "options": [
+        "shorten shopping hours",
+        "reduce operating costs",
+        "enhance visitor experience",
+        "replace parking demand"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The city's decision to closely track outcomes suggests the rules are ______.",
+      "options": [
+        "adjustable over time",
+        "politically sensitive",
+        "legally uncertain",
+        "short-term experiments"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1985.5,
+    "end": 2128.2
+  },
+  "questions": [
+    {
+      "prompt": "The primary catalyst for the \"hybrid\" proposal is ______",
+      "options": [
+        "A shift toward American-style insurance.",
+        "Systemic throughput deficiencies.",
+        "Record highs in emergency room influxes.",
+        "National pride in public healthcare."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Proponents argue that private clinics offer ______",
+      "options": [
+        "Relief from hospital bed shortages.",
+        "Superior care for complex trauma.",
+        "Environmental insulation from crises.",
+        "Higher pay for specialized surgeons."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"slippery slope\" metaphor specifically warns against ______",
+      "options": [
+        "The erosion of impartial access.",
+        "Moving toward a hybrid approach.",
+        "Diversion of funds to shareholders.",
+        "Chronic pain for public patients."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Critics characterize the \"brain drain\" as ______",
+      "options": [
+        "A lure of predictable hours.",
+        "Resource depletion of the state core.",
+        "A two-tiered reality for technicians.",
+        "Hollowing out elective surgery clinics."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Under this model, the government acts as a ______",
+      "options": [
+        "Specialized surgical technician.",
+        "Public hospital capacity expander.",
+        "Third-party service purchaser.",
+        "Profit-driven shareholder."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The \"efficiency\" of private centers is attributed to ______",
+      "options": [
+        "Addressing complex trauma cases.",
+        "Narrowing their operational scope.",
+        "Reinvesting in public patients.",
+        "Shortening wait times today."
+      ],
+      "answer": 1
+    }
+  ]
+}

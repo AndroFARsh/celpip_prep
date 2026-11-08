@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2165.1,
+    "end": 2380.7
+  },
+  "questions": [
+    {
+      "prompt": "Supporters see reminders as a backup for ______.",
+      "options": [
+        "coordination",
+        "calmness",
+        "self-recall",
+        "planning"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics warn frequent reliance may weaken ______.",
+      "options": [
+        "self-direction",
+        "emotion",
+        "speed",
+        "routine"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Constant alerts may result in ______.",
+      "options": [
+        "split focus",
+        "reassurance",
+        "stronger memory",
+        "discipline"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Effectiveness depends mainly on ______.",
+      "options": [
+        "skill level",
+        "mindful use",
+        "income",
+        "age"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Device failure highlights risk of ______.",
+      "options": [
+        "lost autonomy",
+        "cost",
+        "complexity",
+        "isolation"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Frequent checking behavior reflects a need for ______.",
+      "options": [
+        "reassurance",
+        "accuracy",
+        "speed",
+        "novelty"
+      ],
+      "answer": 0
+    }
+  ]
+}

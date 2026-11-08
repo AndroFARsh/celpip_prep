@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1334.9,
+    "end": 1540.6
+  },
+  "questions": [
+    {
+      "prompt": "Areas once seen as safer are now threatened mainly due to combined heat pressure and ______.",
+      "options": [
+        "wind shifts",
+        "air dryness",
+        "land use",
+        "poor mapping"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Emergency crews being overwhelmed implies incidents are happening ______.",
+      "options": [
+        "randomly",
+        "sequentially",
+        "together",
+        "slowly"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Officials urge caution because small triggers can escalate when the land is ______.",
+      "options": [
+        "unstable",
+        "moisture-poor",
+        "uneven",
+        "soft"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Long-term climate shifts help explain why danger periods are becoming ______.",
+      "options": [
+        "brief",
+        "stretched",
+        "erratic",
+        "manageable"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Increased fire activity across both edge-towns and countryside shows the threat is ______.",
+      "options": [
+        "localized",
+        "selective",
+        "widespread",
+        "seasonal"
+      ],
+      "answer": 2
+    }
+  ]
+}

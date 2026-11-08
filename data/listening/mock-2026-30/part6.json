@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2066.3,
+    "end": 2223.5
+  },
+  "questions": [
+    {
+      "prompt": "Proponents of the legislation suggest that a lack of legal boundaries leads to ______",
+      "options": [
+        "Voluntary engagement with work tasks",
+        "Implicitly coerced availability",
+        "Chronic stress for France and Portugal",
+        "Improved standing and job security"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics of the 6:00 PM cutoff argue that the policy is ______",
+      "options": [
+        "Essential for parents taking afternoon breaks",
+        "Incongruent with modern temporal flexibility",
+        "A competitive advantage for small businesses",
+        "A globalized economy for multiple time zones"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"one-size-fits-all\" regulation is feared to potentially ______",
+      "options": [
+        "Safeguard mental health for small owners",
+        "Compromise a firm's agility in crises",
+        "Enhance the flexibility of modern employees",
+        "Prohibit staff from genuine emergencies"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The mention of France and Portugal serves to ______",
+      "options": [
+        "Contrast European laws with globalized economies",
+        "Provide empirical support for the proposed ban",
+        "Highlight countries with high rates of absenteeism",
+        "Debate the future of workplace flexibility"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the \"unspoken pressure\" mentioned in the report ______",
+      "options": [
+        "The legal requirement to work after 6:00 PM",
+        "The social cost of being digitally unreachable",
+        "The desire to increase absenteeism in the office",
+        "The mandate from internal communication charters"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The report suggests that technology's impact on work is primarily one of ______",
+      "options": [
+        "Enhancing mental detachment",
+        "Eroding boundaries between environments",
+        "Fixing the practical realities of 2026",
+        "Eliminating the need for restorative states"
+      ],
+      "answer": 1
+    }
+  ]
+}

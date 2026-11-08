@@ -4,7 +4,8 @@ import type { Run } from "./runs"
 import type { Answers } from "./scoring"
 import type { Section } from "./sections"
 
-export type SavedResult = { answers: Answers; score: number; total: number }
+/** Writing is not scored automatically, so its results have no `score` or `total`. */
+export type SavedResult = { answers: Answers; score?: number; total?: number }
 
 // Reading keeps its original key so results saved before other sections existed are kept.
 const key = (section: Section, testId: string, run: Run) =>

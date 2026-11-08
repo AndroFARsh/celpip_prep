@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 637.3,
+    "end": 825.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 825.6,
+        "end": 831.5
+      },
+      "prompt": "What is Jason's initial attitude toward the malfunctioning alarm?",
+      "options": [
+        "He thinks it’s urgent",
+        "He believes it’s dangerous",
+        "He wants immediate maintenance",
+        "He’s indifferent to reporting it"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 856.6,
+        "end": 861.4
+      },
+      "prompt": "How does Jason's view about reporting change?",
+      "options": [
+        "He remains reluctant",
+        "He realizes prevention is important",
+        "He thinks it’s unnecessary hassle",
+        "He wants only maintenance notified"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 887.7,
+        "end": 892.8
+      },
+      "prompt": "How does Jason describe the buzzing sound initially?",
+      "options": [
+        "Standard alert",
+        "Strange noise",
+        "Alarming tone",
+        "Electrical issue"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 918.7,
+        "end": 925.3
+      },
+      "prompt": "How does Jason suggest Sophie's concern might be dramatic?",
+      "options": [
+        "She exaggerates potential danger",
+        "She overreacts to work disruption",
+        "She doubts maintenance competence",
+        "She dislikes reporting"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 949.7,
+        "end": 954.7
+      },
+      "prompt": "Why is reporting early considered advantageous?",
+      "options": [
+        "It prevents long-term harm",
+        "It avoids minor delays",
+        "It pleases management",
+        "It guarantees repair"
+      ],
+      "answer": 0
+    }
+  ]
+}

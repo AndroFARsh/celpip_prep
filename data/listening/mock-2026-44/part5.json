@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1776.1,
+    "end": 1934.3
+  },
+  "questions": [
+    {
+      "prompt": "What can be inferred about Sarah's approach to screen time limits?",
+      "options": [
+        "She's given up on controlling it entirely.",
+        "She tried to restrict usage, but it had unintended consequences.",
+        "She allows screen time freely throughout the week.",
+        "She uses technology to monitor her child's usage."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Jenny think enforcing screen limits is difficult?",
+      "options": [
+        "Her daughter is unaware of the rules.",
+        "Her daughter often ignores her completely.",
+        "Her daughter secretly bypasses restrictions.",
+        "Her daughter argues about screen time duration."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Michael suggest about leading by example?",
+      "options": [
+        "He fully agrees with his wife's idea.",
+        "He doesn't think it will solve the problem.",
+        "He enforces it more strictly than others.",
+        "He thinks it works better than apps."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What ironic situation does Jenny describe regarding her daughter?",
+      "options": [
+        "Her daughter mimics behavior from YouTube.",
+        "Her daughter refuses to consume outdoor content.",
+        "Her daughter watches others play outside but avoids doing it herself.",
+        "Her daughter films outdoor videos instead of playing."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What do Sarah's comments suggest about the challenges of modeling behavior?",
+      "options": [
+        "Children imitate any online behavior they see.",
+        "Children get confused by screen rules at school.",
+        "Parents need to stop using devices altogether.",
+        "Children can't tell the difference between work and play screens."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What does Jenny's comment about “screen-free Wednesdays” imply?",
+      "options": [
+        "The strategy created lasting change.",
+        "It was undermined by inconsistent enforcement.",
+        "It helped the whole family engage better.",
+        "It prevented late-night screen use."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Sarah describe the effect of school assignments on screen boundaries?",
+      "options": [
+        "They made it easier to justify extra screen time.",
+        "They made her child more productive online.",
+        "They blurred her efforts to enforce tech-free zones.",
+        "They helped maintain balance at home."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What underlying concern does Michael express about parental control apps?",
+      "options": [
+        "They are too expensive to maintain.",
+        "Kids quickly find ways to bypass them.",
+        "Parents often forget to install them.",
+        "Apps work better than setting personal limits."
+      ],
+      "answer": 1
+    }
+  ]
+}

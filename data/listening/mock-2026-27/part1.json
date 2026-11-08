@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.0,
+        "end": 210.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 210.9,
+            "end": 219.5
+          },
+          "prompt": "Alex's rebuttal regarding the top shelf unit is intended to undermine which of Jordan's claims?",
+          "options": [
+            "That the \"red-tag\" designation is reserved for items with known physical damage.",
+            "That the store's \"quality control\" is independent of the clearance categorization.",
+            "That the discount was a compensation for the item’s status as a display piece.",
+            "That the \"industrial staples\" were necessary to prevent buyer’s remorse."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 242.0,
+            "end": 250.2
+          },
+          "prompt": "Which underlying assumption is Alex challenging when he mentions the heavy industrial staples?",
+          "options": [
+            "The assumption that a \"Final Sale\" purchase constitutes an informed risk.",
+            "The assumption that \"as-is\" signage is a legally binding contract.",
+            "The assumption that warehouse staff are responsible for ceramic transit.",
+            "The assumption that \"red-tag\" items are excluded from the refund system."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 272.7,
+            "end": 278.8
+          },
+          "prompt": "What is the logical implication of Alex's final statement?",
+          "options": [
+            "He believes the \"Final Sale\" policy is only applicable to \"buyer’s remorse.\"",
+            "He is asserting that \"Final Sale\" does not indemnify the store against gross negligence.",
+            "He is requesting that a supervisor manually override the 70% discount.",
+            "He wants to exchange the \"shattered\" lamp for a \"floor model\" instead."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 315.0,
+        "end": 400.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 401.0,
+            "end": 408.2
+          },
+          "prompt": "Jordan's proposed workaround is technically categorized as a move from...",
+          "options": [
+            "A \"Return to Cash\" transaction to a \"Damaged Goods Write-off\" procedure.",
+            "Standard retail restitution to a specialized liability reclassification.",
+            "\"Hidden Damage\" verification to a \"Modern Gold\" inventory exchange.",
+            "A \"Final Sale\" restriction to a \"Store Credit\" register bypass."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 432.3,
+            "end": 440.0
+          },
+          "prompt": "What does Alex's offer to pay the difference reveal about his primary objective?",
+          "options": [
+            "He is seeking a financial gain by upgrading to a more expensive floor lamp.",
+            "He is more concerned with acquiring functional lighting than recovering his capital.",
+            "He is attempting to circumvent the \"Final Sale\" policy through a higher-value purchase.",
+            "He wants to ensure the \"Store Credit\" is applied to the \"Modern Gold\" inventory."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 463.1,
+            "end": 471.2
+          },
+          "prompt": "Why is the factory plastic a critical element in the verification of Alex's claim?",
+          "options": [
+            "It suggests that the damage occurred during the \"shipping box\" transit phase.",
+            "It confirms that the \"Modern Gold\" model was a \"boxed unit\" rather than a floor model.",
+            "It serves as proof that the breakage was pre-existing and not post-purchase.",
+            "It prevents the \"shards\" from scratching the trunk of Alex's car during his drive home."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 505.1,
+        "end": 588.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 589.2,
+            "end": 597.0
+          },
+          "prompt": "Alex's request for a joint inspection is an attempt to mitigate which recurring risk?",
+          "options": [
+            "The administrative \"system lock\" that prevents \"Return to Cash\" transactions.",
+            "The possibility of \"Hidden Damage\" being discovered after the point of no return.",
+            "The \"industrial staples\" obstructing his ability to use a \"Merchandise Return Card.\"",
+            "The \"Quality Control\" issue inherent in purchasing \"Modern Gold\" models."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 620.2,
+            "end": 628.8
+          },
+          "prompt": "Which phrase best captures the resolution of the clash of definitions seen earlier in the dialogue?",
+          "options": [
+            "Ethical flexibility overriding rigid systemic constraints.",
+            "Industrial negligence leading to a \"High-Value\" upgrade.",
+            "Financial restitution achieved through \"Internal Chat\" software.",
+            "A \"Standard Refund\" being masked as a \"Damaged Goods Write-off.\""
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

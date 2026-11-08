@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2210.2,
+    "end": 2417.5
+  },
+  "questions": [
+    {
+      "prompt": "Passengers are more likely to follow quiet zone norms when they perceive ______.",
+      "options": [
+        "obligation to enforce rules",
+        "fear of public embarrassment",
+        "direct personal advantage",
+        "general curiosity about rules"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Non-compliance among tourists is primarily caused by ______.",
+      "options": [
+        "limited familiarity with expectations",
+        "deliberate ignorance of norms",
+        "impatience with structured travel",
+        "loud social habits"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The effectiveness of quiet zones is strengthened when passengers ______.",
+      "options": [
+        "observe peers following norms",
+        "fear formal punishment",
+        "enforce silence themselves",
+        "ignore social cues"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Accidental violations in quiet zones occur because passengers ______.",
+      "options": [
+        "intentionally disrupt others",
+        "misjudge the impact of their devices",
+        "disregard peers’ expectations",
+        "neglect signs and announcements"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The voluntary nature of quiet zones can sometimes result in ______.",
+      "options": [
+        "lapses in adherence when perceived consequences are low",
+        "rigid enforcement by staff",
+        "complete disregard for communal needs",
+        "uniform behavior across all passengers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The success of quiet zones largely hinges on passengers’ ability to ______.",
+      "options": [
+        "wait for formal enforcement",
+        "follow explicit instructions blindly",
+        "rely solely on personal discipline",
+        "internalize shared expectations"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1393.3,
+    "end": 1527.6
+  },
+  "questions": [
+    {
+      "prompt": "Dr. Miller’s \"time capsule\" analogy emphasizes the items’ ______",
+      "options": [
+        "Pristine functional state.",
+        "Proximity to colonial rust stains.",
+        "Location within a sealed cedar chest.",
+        "Protection by the Heritage Board."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why were the implements likely entombed originally ______",
+      "options": [
+        "To facilitate a routine basement renovation.",
+        "To preserve them in heavy clay soil.",
+        "As a strategic safeguard against confiscation.",
+        "Due to a sudden period of civil unrest."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The preservation of the metal was a result of ______",
+      "options": [
+        "The thickness of the 19th-century cellar floor.",
+        "The chemical properties of the surrounding earth.",
+        "A specialized hand-forged blacksmithing process.",
+        "The airtight seal of the 1700s cedar chest."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Elias Thorne’s current attitude toward the event is ______",
+      "options": [
+        "Purely excited about the history beneath his feet.",
+        "Confliction between historical pride and logistical burden.",
+        "Focused on cleaning the artifacts at the University lab.",
+        "Hostile toward the City Heritage Board's survey."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The stop-work order's scope suggests that the Board ______",
+      "options": [
+        "Suspects the artifacts belong to the State Museum.",
+        "Wants to excavate Thorne's cellar to three feet.",
+        "Believes the historical site extends beyond one property.",
+        "Is sorting out the legalities of \"findership.\""
+      ],
+      "answer": 2
+    }
+  ]
+}

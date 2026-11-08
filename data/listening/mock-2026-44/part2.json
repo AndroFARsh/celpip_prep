@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 659.0,
+    "end": 802.8
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 803.3,
+        "end": 808.9
+      },
+      "prompt": "How does Sarah ensure Liam's participation?",
+      "options": [
+        "By threatening consequences",
+        "By assigning tasks based on his skills",
+        "By letting him skip unpleasant tasks",
+        "By dividing work equally without discussion"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 834.4,
+        "end": 840.2
+      },
+      "prompt": "What does the discussion about the garden reveal about Liam?",
+      "options": [
+        "He dislikes outdoor chores entirely",
+        "He loves gardening",
+        "He prefers heavy labor",
+        "He wants to lead the task"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 865.4,
+        "end": 871.4
+      },
+      "prompt": "What is the implied benefit of switching chores on Sunday?",
+      "options": [
+        "Liam can rest entirely",
+        "They can avoid all chores",
+        "To prevent boredom and monotony",
+        "To reduce workload permanently"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 896.5,
+        "end": 903.9
+      },
+      "prompt": "What does Liam's response to splitting the garden suggest about his personality?",
+      "options": [
+        "He is stubborn",
+        "He is flexible but cautious",
+        "He avoids any responsibility",
+        "He always wants full control"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 927.4,
+        "end": 932.8
+      },
+      "prompt": "What can be inferred about Liam's attitude toward household work?",
+      "options": [
+        "He is enthusiastic about all chores",
+        "He is cooperative but selective",
+        "He refuses to participate",
+        "He wants someone else to do it all"
+      ],
+      "answer": 1
+    }
+  ]
+}

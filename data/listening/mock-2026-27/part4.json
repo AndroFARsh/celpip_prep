@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1376.7,
+    "end": 1503.0
+  },
+  "questions": [
+    {
+      "prompt": "The \"record-breaking\" success of the carnival is described as ______",
+      "options": [
+        "A 40% decrease in downtown wind chills",
+        "An outcome exceeding initial projections",
+        "A 150,000% increase since the late 1980s",
+        "A perfect storm of melting snow sculptures"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The report suggests that the weather played a role by ______",
+      "options": [
+        "Hovering below freezing to deter extreme activities",
+        "Eliminating the need for the Illumination Trail",
+        "Providing a climate conducive to outdoor engagement",
+        "Increasing the wind chill for younger demographics"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "According to Maya Chen, the \"unprecedented surge\" was partially fueled by ______",
+      "options": [
+        "A two-kilometer walk through neighboring provinces",
+        "Virtual visibility and expanded regional reach",
+        "Digital marketing analysts from the late 1980s",
+        "Interactive neon lights that replaced food vendors"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The economic data provided in the report indicates ______",
+      "options": [
+        "A revenue boost for fifty thousand social media posts",
+        "Significant fiscal gains for the hospitality sector",
+        "Preliminary shuttle bus costs of nearly $3 million",
+        "Undeniable losses for neighboring provinces"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The report implies that the carnival's demographic has ______",
+      "options": [
+        "Remained unchanged since the late 1980s",
+        "Shifted toward a more digitally-active audience",
+        "Decreased due to extreme wind chill factors",
+        "Moved exclusively to neighboring provinces"
+      ],
+      "answer": 1
+    }
+  ]
+}

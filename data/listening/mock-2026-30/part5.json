@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1679.1,
+    "end": 1867.2
+  },
+  "questions": [
+    {
+      "prompt": "Why does Elena attribute her current work ethic to her time at the mall?",
+      "options": [
+        "She earned a hundred dollars for a pair of jeans.",
+        "Rigid oversight established a standard for precision.",
+        "High-end clothing stores require midnight shifts.",
+        "High-pressure retail involves dealing with grit."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Lucas’s recollection of the ice cream parlor differ from the others?",
+      "options": [
+        "He worked during a record-breaking heatwave.",
+        "His experience created a lasting sensory aversion.",
+        "He spent eight hours a day covered in chocolate.",
+        "He learned how to use a mop to fail fast."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Claire express a conflicted view of her time at the library?",
+      "options": [
+        "The Dewey Decimal System was too complex.",
+        "The environment lacked sufficient stimulation.",
+        "Her parents were too strict about her savings.",
+        "She preferred a portable CD player to books."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Aidan justify the low wages of his shipyard role?",
+      "options": [
+        "He avoided sitting in an air-conditioned cubicle.",
+        "The physical labor helped his back muscles.",
+        "He gained practical, non-academic competencies.",
+        "He hauled cedar planks for fifteen years."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Elena characterize her first major purchase as a poor decision?",
+      "options": [
+        "The designer jeans were a bad investment.",
+        "She spent her entire lottery winnings at the mall.",
+        "It resulted in a lack of retirement savings.",
+        "The expenditure was cyclical and lacked utility."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "How does Lucas view the financial habits of his younger self?",
+      "options": [
+        "As a failure to prioritize future fiscal security.",
+        "As a way to ride a high-end mountain bike.",
+        "As a necessary step toward failing fast.",
+        "As a result of having a concept of retirement."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Aidan believe his early manual labor remains relevant today?",
+      "options": [
+        "He still works with cedar planks at the docks.",
+        "It fostered resilience against demanding workloads.",
+        "It hit him that the intern started fifteen years ago.",
+        "High-pressure deadlines require a local shipyard."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How did Elena’s service experience prepare her for her current career?",
+      "options": [
+        "By teaching her how to fold medium-sized sweaters.",
+        "By facilitating the management of adversarial interactions.",
+        "By allowing her to redo stacks until midnight.",
+        "By providing a pair of jeans for client presentations."
+      ],
+      "answer": 1
+    }
+  ]
+}

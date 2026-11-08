@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2060.1,
+    "end": 2191.5
+  },
+  "questions": [
+    {
+      "prompt": "Proponents argue that traditional exams are primarily indicators of ______",
+      "options": [
+        "Innate intelligence and long-term potential",
+        "Access to preparatory advantages",
+        "Evidence of overcoming personal adversity",
+        "Diversity and resilience in the real world"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Traditionalists value standardized testing because it functions as ______",
+      "options": [
+        "An opaque personal brand for students",
+        "A one-on-one interview for introverts",
+        "A coached image for charismatic candidates",
+        "A personality-neutral performance metric"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "A significant \"logistical challenge\" of the new model is the ______",
+      "options": [
+        "Requirement for high-volume qualitative review",
+        "Decrease in administrative staff and time",
+        "Transition to a new set of scantron eras",
+        "Elimination of individual portfolio interviews"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The term \"diverse and resilient student body\" is used to describe ______",
+      "options": [
+        "The intended outcome of a broader evaluation",
+        "The complexity of expensive private tutoring",
+        "The traditional goal of the 'scantron' era",
+        "The result of a three-hour entrance exam"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The \"central question\" of the report focuses on whether the shift will ______",
+      "options": [
+        "Abandon standardized tests for wealthier students",
+        "Perpetuate or alleviate institutional unfairness",
+        "Increase the frequency of multiple retakes",
+        "Replace portfolios with objective data bias"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The shift to a holistic model suggests that universities now prioritize ______",
+      "options": [
+        "Wealthier students with polished personal brands",
+        "A reduction in administrative staff and time",
+        "Multifaceted profiles over isolated test scores",
+        "The objective data of socio-economic status"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -13,6 +13,7 @@ export default defineConfig({
     env: {
       READING_DATA_DIR: path.resolve(import.meta.dirname, "test/fixtures/reading"),
       LISTENING_DATA_DIR: path.resolve(import.meta.dirname, "test/fixtures/listening"),
+      WRITING_DATA_DIR: path.resolve(import.meta.dirname, "test/fixtures/writing"),
     },
   },
 })

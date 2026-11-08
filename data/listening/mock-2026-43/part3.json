@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 960.5,
+    "end": 1160.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1160.9,
+        "end": 1168.2
+      },
+      "prompt": "Why does Michael first place Sophia on a very slow machine setting?",
+      "options": [
+        "To reduce effort",
+        "To lower fear impact",
+        "To avoid imbalance",
+        "To save energy"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1191.7,
+        "end": 1200.4
+      },
+      "prompt": "Michael's advice about holding the handles lightly mainly aims to prevent which issue?",
+      "options": [
+        "Arm fatigue",
+        "Upper body strain",
+        "Poor grip strength",
+        "Wrist stiffness"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1222.9,
+        "end": 1230.2
+      },
+      "prompt": "What does Michael imply by telling Sophia to stop if she feels unwell?",
+      "options": [
+        "Discomfort always signals danger",
+        "Machines malfunction often",
+        "Physical signals guide limits",
+        "Beginners lack endurance"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1254.0,
+        "end": 1259.9
+      },
+      "prompt": "Why are guided machines recommended before free equipment?",
+      "options": [
+        "They build strength faster",
+        "They limit incorrect motion",
+        "They burn more calories",
+        "They look simpler"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1285.0,
+        "end": 1291.1
+      },
+      "prompt": "What does Michael mean by saying knees should not be locked?",
+      "options": [
+        "Keep joints flexible",
+        "Increase muscle tension",
+        "Avoid full extension stress",
+        "Improve lifting speed"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1316.0,
+        "end": 1322.4
+      },
+      "prompt": "How does Michael redefine progress in training?",
+      "options": [
+        "Increasing resistance",
+        "Extending duration",
+        "Mastering control",
+        "Competing with others"
+      ],
+      "answer": 2
+    }
+  ]
+}

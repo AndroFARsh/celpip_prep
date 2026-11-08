@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1419.2,
+    "end": 1576.9
+  },
+  "questions": [
+    {
+      "prompt": "The government's announcement mainly seeks to correct issues that have existed for years, especially those involving ______.",
+      "options": [
+        "uneven treatment outcomes",
+        "long-standing access barriers",
+        "public dissatisfaction levels",
+        "insurance-related limitations"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Increased financial backing for community-based medical teams is expected to lead indirectly to ______.",
+      "options": [
+        "faster nationwide policy approval",
+        "broader service availability",
+        "reduced treatment complexity",
+        "uniform physician salaries"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The emphasis on early health intervention reflects the belief that long-term system costs can be ______.",
+      "options": [
+        "completely avoided",
+        "predictably capped",
+        "reduced over time",
+        "transferred elsewhere"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Experts' guarded approval indicates that outcomes will depend largely on ______.",
+      "options": [
+        "public enthusiasm",
+        "careful execution",
+        "media oversight",
+        "rapid deployment"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Referring citizens to an official online platform suggests a priority on ______.",
+      "options": [
+        "restricted eligibility",
+        "policy secrecy",
+        "limited transparency",
+        "organized information access"
+      ],
+      "answer": 3
+    }
+  ]
+}

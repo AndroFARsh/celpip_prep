@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.5,
+        "end": 203.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 204.5,
+            "end": 210.2
+          },
+          "prompt": "Why does Sophia feel unsure at the beginning?",
+          "options": [
+            "She dislikes organized exercise",
+            "She lacks prior gym exposure",
+            "She fears physical strain",
+            "She joined unwillingly"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 235.5,
+            "end": 241.5
+          },
+          "prompt": "Daniel's response to Sophia mainly shows that he is...",
+          "options": [
+            "Strict and goal-driven",
+            "Methodical and reassuring",
+            "Casual and detached",
+            "Sales-focused"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 266.5,
+            "end": 271.5
+          },
+          "prompt": "What does Sophia hope activities will change?",
+          "options": [
+            "Workout duration",
+            "Social image",
+            "Personal consistency",
+            "Instructor attention"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 308.5,
+        "end": 407.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 407.7,
+            "end": 413.5
+          },
+          "prompt": "Why does Daniel mention Pilates along with yoga?",
+          "options": [
+            "To replace yoga completely",
+            "To offer a similar low-impact option",
+            "To promote advanced training",
+            "To discourage beginners"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 438.7,
+            "end": 444.4
+          },
+          "prompt": "What reassures Sophia that Pilates won't overwhelm her?",
+          "options": [
+            "Reduced session length",
+            "Optional attendance",
+            "Less physical demand",
+            "Flexible teaching approach"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 469.8,
+            "end": 477.5
+          },
+          "prompt": "What is Daniel's main goal in suggesting two or three sessions initially?",
+          "options": [
+            "Maximizing calorie burn",
+            "Preventing early burnout",
+            "Filling class quotas",
+            "Testing commitment"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 511.7,
+        "end": 594.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 595.8,
+            "end": 602.3
+          },
+          "prompt": "Sophia's main concern at the beginning of the conversation is about...",
+          "options": [
+            "Fast visible change",
+            "Class difficulty",
+            "Trainer support",
+            "Membership cost"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 626.9,
+            "end": 631.7
+          },
+          "prompt": "Sophia admits she struggles most with...",
+          "options": [
+            "Time management",
+            "Following routines",
+            "Physical stamina",
+            "Staying patient"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

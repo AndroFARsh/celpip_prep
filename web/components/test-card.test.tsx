@@ -35,4 +35,14 @@ describe("TestCard", () => {
     act(() => saveResult("reading", "demo-1", "full", { answers: {}, score: 30, total: 38 }))
     expect(screen.getByRole("link", { name: "Results 30/38" })).toBeInTheDocument()
   })
+
+  it("writing: names runs by task and shows results without a score", () => {
+    saveResult("writing", "demo-1", "1", { answers: { p1: "Hi" } })
+    render(<TestCard section="writing" id="demo-1" title="Writing Practice Test 1" />)
+    expect(screen.getByTestId("run-2")).toHaveTextContent("Task 2: Responding to Survey Questions")
+    expect(within(screen.getByTestId("run-1")).getByRole("link", { name: "Results" })).toHaveAttribute(
+      "href",
+      "/writing/demo-1/results/1",
+    )
+  })
 })
