@@ -10,6 +10,7 @@ function mockYouTube() {
     options: undefined as Options | undefined,
     time: 0,
     loadVideoById: vi.fn(),
+    unloadModule: vi.fn(),
     getCurrentTime: () => yt.time,
     destroy: vi.fn(),
   }
@@ -45,6 +46,7 @@ describe("createYouTubePlayer", () => {
     yt.options!.events.onStateChange({ data: 1 }) // playing
     await Promise.resolve()
     expect(ended).toBe(false)
+    expect(yt.unloadModule).toHaveBeenCalledWith("captions")
     yt.options!.events.onStateChange({ data: 0 }) // ended
     await playing
     expect(ended).toBe(true)

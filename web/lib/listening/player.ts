@@ -10,6 +10,8 @@ export type Player = {
 type YTPlayer = {
   loadVideoById: (o: { videoId: string; startSeconds: number; endSeconds: number }) => void
   getCurrentTime: () => number
+  /** Undocumented; unloading the "captions" module turns subtitles off. */
+  unloadModule: (name: string) => void
   destroy: () => void
 }
 type YTApi = { Player: new (el: HTMLElement, options: object) => YTPlayer }
@@ -49,11 +51,16 @@ export async function createYouTubePlayer(el: HTMLElement, videoId: string): Pro
       videoId,
       width: "100%",
       height: "100%",
-      playerVars: { controls: 0, disablekb: 1, fs: 0, rel: 0, playsinline: 1, iv_load_policy: 3 },
+      playerVars: { controls: 0, disablekb: 1, fs: 0, rel: 0, playsinline: 1, iv_load_policy: 3, cc_load_policy: 0 },
       events: {
         onReady: () => resolve(player),
         onStateChange: (e: { data: number }) => {
-          if (e.data === PLAYING) started = true
+          if (e.data === PLAYING) {
+            started = true
+            // No subtitles in a listening test. cc_load_policy alone does not override the viewer's
+            // YouTube caption setting, and each loaded clip loads captions again.
+            yt.unloadModule("captions")
+          }
           if (e.data === ENDED && started) onEnded?.()
         },
       },
