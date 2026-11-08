@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 529,
+    "end": 638.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 639.1,
+        "end": 642.9
+      },
+      "prompt": "Why does Jason want a long lens?",
+      "options": [
+        "To film closer shots",
+        "Camera suits portraits only",
+        "To avoid frightening birds",
+        "Library rents equipment"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 670.1,
+        "end": 674.4
+      },
+      "prompt": "Why does Emma suggest filming early?",
+      "options": [
+        "Roads are quieter then",
+        "Morning light looks softer",
+        "Traffic hides wind noise",
+        "Festival deadline is near"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 701.2,
+        "end": 705.2
+      },
+      "prompt": "What message does Jason want to show?",
+      "options": [
+        "Nature exists nearby",
+        "Construction benefits animals",
+        "Butterflies visit yearly",
+        "Animals adapting to construction"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 732.2,
+        "end": 736.6
+      },
+      "prompt": "How does Emma advise handling editing?",
+      "options": [
+        "Use every clip",
+        "Keep only top scenes",
+        "Aim for five minutes",
+        "Review footage Sunday"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 763.1,
+        "end": 767.1
+      },
+      "prompt": "Why change the time to 6:30?",
+      "options": [
+        "Light looks nicer",
+        "Emma needs her book",
+        "Hawks peak at dawn",
+        "Hawks rest at dawn"
+      ],
+      "answer": 2
+    }
+  ]
+}

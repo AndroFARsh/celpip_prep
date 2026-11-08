@@ -7,7 +7,9 @@ import { itemsForPart } from "./scoring"
 import { part1Schema, part2Schema, part4Schema } from "./schema"
 import { DATA_DIR, listListeningTests, loadListeningTest, REPO_DATA_DIR } from "./tests"
 
-const repoTestIds = (await listListeningTests(REPO_DATA_DIR)).map((t) => t.id)
+// validate.sh can point this at a work dir (VALIDATE_DIR) to check tests before they move into data/listening.
+const VALIDATE_DIR = process.env.VALIDATE_DIR ?? REPO_DATA_DIR
+const repoTestIds = (await listListeningTests(VALIDATE_DIR)).map((t) => t.id)
 const json = async (file: string) => JSON.parse(await readFile(path.join(DATA_DIR, "demo-1", file), "utf8"))
 
 /** A copy of demo-1 in a temp folder with one file replaced. */
@@ -21,7 +23,7 @@ async function withChange<T>(file: string, change: (data: T) => unknown) {
 describe("data/listening", () => {
   it.each(repoTestIds.length ? repoTestIds : ["(none)"])("%s is a valid test", async (id) => {
     if (id === "(none)") return
-    await expect(loadListeningTest(id, REPO_DATA_DIR)).resolves.toMatchObject({ id })
+    await expect(loadListeningTest(id, VALIDATE_DIR)).resolves.toMatchObject({ id })
   })
 })
 

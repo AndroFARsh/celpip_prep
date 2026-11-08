@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1917.1,
+    "end": 2097.4
+  },
+  "questions": [
+    {
+      "prompt": "Supporters believe private options will ______.",
+      "options": [
+        "increase public system funding",
+        "alleviate public system congestion",
+        "eliminate public hospitals entirely",
+        "decrease total doctor wages"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "A benefit of private clinics is ______.",
+      "options": [
+        "more flexible patient scheduling",
+        "universal access for everyone",
+        "shorter lines for surgeries",
+        "standardized national care costs"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Proponents reference other countries to ______.",
+      "options": [
+        "prove public systems fail",
+        "support mixed-model viability",
+        "demand higher medical taxes",
+        "show private-only system success"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics fear staffing shortages due to ______.",
+      "options": [
+        "doctors retiring very early",
+        "higher private sector pay",
+        "lack of medical students",
+        "fewer hospital training programs"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The main ethical concern is ______.",
+      "options": [
+        "creating wealth-based inequality",
+        "the quality of training",
+        "rising costs of medicine",
+        "loss of hospital funding"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Opponents believe healthcare should remain ______.",
+      "options": [
+        "managed by private companies",
+        "a guaranteed equal right",
+        "based on personal speed",
+        "limited to emergency needs"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 573.8,
+    "end": 706.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 706.9,
+        "end": 711.1
+      },
+      "prompt": "Why borrow boards from the school?",
+      "options": [
+        "To guarantee enough playing equipment.",
+        "To save participants some money.",
+        "Because school sets are better.",
+        "To return his home boards."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 737.9,
+        "end": 741.6
+      },
+      "prompt": "How will they manage game time?",
+      "options": [
+        "By buying inexpensive digital clocks.",
+        "By using free mobile applications.",
+        "By limiting number of players.",
+        "By asking for personal timers."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 769.0,
+        "end": 773.1
+      },
+      "prompt": "Why include the bakery prize?",
+      "options": [
+        "It creates a fun incentive.",
+        "The owner loves playing chess.",
+        "It replaces expensive gold medals.",
+        "Winners requested these specific items."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 800.0,
+        "end": 804.2
+      },
+      "prompt": "What is the social media goal?",
+      "options": [
+        "To find professional tournament players.",
+        "To list all official rules.",
+        "To keep the event casual.",
+        "To promote the local bakery."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 831.0,
+        "end": 835.2
+      },
+      "prompt": "How will they handle Saturday setup?",
+      "options": [
+        "They will register everyone together.",
+        "They will organize the room early.",
+        "They will practice their moves.",
+        "They will visit school together."
+      ],
+      "answer": 1
+    }
+  ]
+}

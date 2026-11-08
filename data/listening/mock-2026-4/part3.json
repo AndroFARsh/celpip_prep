@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 783.2,
+    "end": 872.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 873,
+        "end": 877.6
+      },
+      "prompt": "What kind of place does Mrs. Gable want?",
+      "options": [
+        "A place tourists often visit",
+        "A new art gallery",
+        "A spot residents enjoy",
+        "A way to spend a free day"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 904,
+        "end": 908.5
+      },
+      "prompt": "What marks the cafe's entrance?",
+      "options": [
+        "A coloured door, no name",
+        "A sign with its name",
+        "An old greenhouse",
+        "A street fair"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 935.2,
+        "end": 939.7
+      },
+      "prompt": "Why does the manager offer to call the cafe?",
+      "options": [
+        "The café has no sign.",
+        "Saturday tables must be reserved.",
+        "Walk-ins are fine on weekends.",
+        "He knows the owner."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 966.1,
+        "end": 970.2
+      },
+      "prompt": "What does the manager say about the menu?",
+      "options": [
+        "Few meat-free choices",
+        "Tables are by the window.",
+        "The beet tart is famous.",
+        "Mostly meat-free dishes"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 997,
+        "end": 1002.2
+      },
+      "prompt": "Where must Mrs. Gable catch the bus today?",
+      "options": [
+        "Round the back, a short walk",
+        "Right outside the hotel",
+        "On Main Street",
+        "In the Canal District"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1028.2,
+        "end": 1033.1
+      },
+      "prompt": "Why should she leave the canal area by 4?",
+      "options": [
+        "Buses stop running.",
+        "A taxi is easier.",
+        "Crowds fill the buses.",
+        "The market closes at two."
+      ],
+      "answer": 2
+    }
+  ]
+}

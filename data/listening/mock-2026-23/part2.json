@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 594.2,
+    "end": 729.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 730.2,
+        "end": 737.4
+      },
+      "prompt": "What is the mother's primary underlying motivation for approaching the trainer?",
+      "options": [
+        "Reporting a developmental delay",
+        "Requesting a tactical break",
+        "Seeking identical training alternatives",
+        "Discussing spring registration issues"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 761.2,
+        "end": 767.6
+      },
+      "prompt": "What does the coach imply when mentioning the program on Thursday afternoons?",
+      "options": [
+        "Saturday sessions are overcrowded",
+        "The club values diverse learning environments",
+        "Registration is entirely closed",
+        "Quiet Skills replace fundamentals"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 792.2,
+        "end": 798.7
+      },
+      "prompt": "How does the Thursday session primarily differ in its instructional delivery?",
+      "options": [
+        "It features clearer communication styles",
+        "It alters core curriculum guidelines",
+        "It bans all whistles completely",
+        "It avoids physical activity"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 823.4,
+        "end": 830.2
+      },
+      "prompt": "Why are graphic aids considered highly beneficial for this specific player?",
+      "options": [
+        "They shorten drills automatically",
+        "They bypass verbal processing limitations",
+        "They prevent sensory processing needs",
+        "They replace teammate interactions"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 854.4,
+        "end": 860.6
+      },
+      "prompt": "What is the true purpose of inquiring about the boy's frustration triggers?",
+      "options": [
+        "Testing assistant coaches' knowledge",
+        "Planning an equipment shed isolation",
+        "Predicting future rule violations",
+        "Ensuring consistent team support"
+      ],
+      "answer": 3
+    }
+  ]
+}

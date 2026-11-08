@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 871.6,
+    "end": 972.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 973.8,
+        "end": 978.5
+      },
+      "prompt": "Why does the customer select the shared area?",
+      "options": [
+        "Sociable pet demeanor",
+        "Budget-friendly nightly rate",
+        "Absence of private rooms",
+        "Mandatory kennel policy"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1004.7,
+        "end": 1009.7
+      },
+      "prompt": "What prerequisite is required for the dog's day?",
+      "options": [
+        "Current immunization records",
+        "Behavioral training certificate",
+        "Written vet health waiver",
+        "Pre-paid boarding deposit"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1035.9,
+        "end": 1041.4
+      },
+      "prompt": "When does a financial penalty apply regarding timing?",
+      "options": [
+        "Holiday season stays",
+        "Early morning drop-off",
+        "Weekend booking extensions",
+        "Late evening retrieval"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1066.9,
+        "end": 1072.5
+      },
+      "prompt": "What exercise provision is included in the standard rate?",
+      "options": [
+        "Morning agility training",
+        "Unlimited outdoor runs",
+        "Dual daily strolls",
+        "Hourly courtyard breaks"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1097.9,
+        "end": 1103.1
+      },
+      "prompt": "Why does the staff suggest bringing home-supplied food?",
+      "options": [
+        "Reducing facility overhead",
+        "Preventing digestive discomfort",
+        "Complying with state laws",
+        "Saving the owner money"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1128.9,
+        "end": 1133.6
+      },
+      "prompt": "What extra service will the customer add?",
+      "options": [
+        "Extra daily group play",
+        "Daily one-on-one session",
+        "Extra standard daily walk",
+        "In-house kennel meal plan"
+      ],
+      "answer": 1
+    }
+  ]
+}

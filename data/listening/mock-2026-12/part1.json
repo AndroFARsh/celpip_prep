@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.6,
+        "end": 185.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 185.6,
+            "end": 189.4
+          },
+          "prompt": "Why is Julian calling?",
+          "options": [
+            "To order more salmon",
+            "To report spoiled fish",
+            "To praise the delivery",
+            "To ask for a discount"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 216.6,
+            "end": 221.3
+          },
+          "prompt": "Why did the staff reject the fish?",
+          "options": [
+            "It arrived too late",
+            "It was the wrong type",
+            "It smelled and was soft",
+            "It cost too much money"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 247.7,
+            "end": 252.0
+          },
+          "prompt": "What does Rebecca suspect happened?",
+          "options": [
+            "The truck unit failed",
+            "The driver was late",
+            "The sensor was broken",
+            "The kitchen was busy"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 289.6,
+        "end": 347.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 347.6,
+            "end": 353.9
+          },
+          "prompt": "Why is Julian demanding a delivery within 2 hours?",
+          "options": [
+            "He wants to cancel his contract",
+            "He wants to avoid paying fees",
+            "He has a backup supplier",
+            "He needs to prep for dinner"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 378.8,
+            "end": 384.8
+          },
+          "prompt": "What is Julian's underlying concern regarding the delivery?",
+          "options": [
+            "The price of the new fish",
+            "The total number of guests",
+            "The reliability of the service",
+            "The temperature of the warehouse"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 409.6,
+            "end": 417.3
+          },
+          "prompt": "Which option shows the consequence Julian threatens if the deadline isn't met?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 451.7,
+        "end": 527.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 527.6,
+            "end": 533.4
+          },
+          "prompt": "Why does Rebecca decide to deliver the order herself?",
+          "options": [
+            "To test the thermometer",
+            "To save the business relationship",
+            "To visit the restaurant kitchen",
+            "To avoid paying the delivery staff"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 558.8,
+            "end": 564.5
+          },
+          "prompt": "What is Julian's main concern before agreeing to the deal?",
+          "options": [
+            "The quality of the scallops",
+            "The delivery time to his door",
+            "The extra cost of labor",
+            "The location of the warehouse"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

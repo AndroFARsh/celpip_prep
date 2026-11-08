@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.7,
+        "end": 158
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 159,
+            "end": 162.9
+          },
+          "prompt": "Why is Marcus in a hurry?",
+          "options": [
+            "He must be ready for a group event.",
+            "He can't find it on the shelf.",
+            "He has already begun reading.",
+            "The website shows two copies."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 189.5,
+            "end": 195.1
+          },
+          "prompt": "What does Marcus think may have happened to the book?",
+          "options": [
+            "The store never had it.",
+            "The website is wrong.",
+            "Someone put it in the wrong spot.",
+            "It was returned by a customer."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 220.7,
+            "end": 224.6
+          },
+          "prompt": "What does Sarah's computer check show?",
+          "options": [
+            "The store has no copies.",
+            "The records don't match the shelves.",
+            "The returns cart is full.",
+            "Marcus checked the wrong section."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 262.6,
+        "end": 288.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 289.7,
+            "end": 294.5
+          },
+          "prompt": "Why did the website show two copies?",
+          "options": [
+            "Saved books stay listed.",
+            "Saved books get removed.",
+            "A customer comes today.",
+            "Northgate has one."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 320.7,
+            "end": 326.2
+          },
+          "prompt": "Why does Marcus say, \"I'll never get there in time\"?",
+          "options": [
+            "Northgate has none.",
+            "It's already five.",
+            "Both copies are reserved.",
+            "The shop will be shut."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 351.6,
+            "end": 356.7
+          },
+          "prompt": "What does Sarah mean by \"not exactly\"?",
+          "options": [
+            "Totally wrong.",
+            "Right, but unclear.",
+            "Some are saved.",
+            "Forty minutes away."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 393.7,
+        "end": 436.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 436.8,
+            "end": 441.8
+          },
+          "prompt": "Which picture shows what Marcus chooses?",
+          "options": [
+            "q7-a.jpg",
+            "q7-b.jpg",
+            "q7-c.jpg",
+            "q7-d.jpg"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 467.8,
+            "end": 472.8
+          },
+          "prompt": "Why does Sarah write Marcus's name on the book?",
+          "options": [
+            "The e-book is half price.",
+            "It will come by noon.",
+            "Others can buy it first.",
+            "To keep it just for him."
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.7,
+        "end": 172.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 173.6,
+            "end": 177.6
+          },
+          "prompt": "Why is Leo worried?",
+          "options": [
+            "His teacher forgot the letters",
+            "He believes his file is finished",
+            "His essay needs more work",
+            "He may lose his chance to apply"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 204.7,
+            "end": 208.7
+          },
+          "prompt": "What does Leo's proof show?",
+          "options": [
+            "His school did its part",
+            "His file was marked late",
+            "His call was too early",
+            "His award was already won"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 235.6,
+            "end": 240
+          },
+          "prompt": "What does the officer think happened?",
+          "options": [
+            "The committee lost them",
+            "Leo wrote the wrong name",
+            "The papers went astray",
+            "Leo never sent anything"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 277.6,
+        "end": 317.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 317.8,
+            "end": 322.3
+          },
+          "prompt": "Why is Leo so anxious?",
+          "options": [
+            "His school was rude",
+            "Time is running out",
+            "The committee already met",
+            "He missed the call"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 348.6,
+            "end": 353.9
+          },
+          "prompt": "Why can't Leo simply ask his school again?",
+          "options": [
+            "The office has no email",
+            "The school refused him",
+            "It would be too slow",
+            "He lost his password"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 379.8,
+            "end": 383.7
+          },
+          "prompt": "What is the officer's idea?",
+          "options": [
+            "A direct message from the counselor",
+            "A visit to the awards office",
+            "A late application next month",
+            "A new essay from Leo"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 421.8,
+        "end": 465.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 465.8,
+            "end": 470.2
+          },
+          "prompt": "Why does the officer help so much?",
+          "options": [
+            "He is her student",
+            "It is her normal rule",
+            "The deadline was moved",
+            "She values his hard work"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 496.9,
+            "end": 501.8
+          },
+          "prompt": "What will Leo do about the unclear page?",
+          "options": [
+            "q8-a.jpg",
+            "q8-b.jpg",
+            "q8-c.jpg",
+            "q8-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

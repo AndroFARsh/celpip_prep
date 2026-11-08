@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1740,
+    "end": 1850.4
+  },
+  "questions": [
+    {
+      "prompt": "Fast-track fees could help clinics ______.",
+      "options": [
+        "Reduce patient numbers",
+        "Expand their resources",
+        "Lower regular prices",
+        "Replace government funding"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Supporters compare it to ______.",
+      "options": [
+        "Public transport",
+        "Common paid upgrades",
+        "Emergency services",
+        "Free medical advice"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Busy parents might ______.",
+      "options": [
+        "Skip appointments",
+        "Prefer weekend clinics",
+        "Value saved time",
+        "Avoid extra fees"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics believe treatment should depend on ______.",
+      "options": [
+        "Patient income",
+        "Medical urgency",
+        "Appointment timing",
+        "Clinic popularity"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics fear a ______.",
+      "options": [
+        "Divided care system",
+        "Shortage of nurses",
+        "Decline in clinic profits",
+        "Rise in minor illnesses"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The middle path limits ______.",
+      "options": [
+        "Serious cases",
+        "Government involvement",
+        "Priority slots",
+        "Clinic opening hours"
+      ],
+      "answer": 2
+    }
+  ]
+}

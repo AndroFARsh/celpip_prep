@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 587.8,
+    "end": 726.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 726.8,
+        "end": 732.0
+      },
+      "prompt": "Why does the man reject a surprise party?",
+      "options": [
+        "Julia dislikes public attention.",
+        "The office is too small.",
+        "He prefers a quiet lunch.",
+        "It is too expensive."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 757.9,
+        "end": 763.2
+      },
+      "prompt": "Why is the trivia idea ultimately rejected?",
+      "options": [
+        "No one likes trivia.",
+        "It is too much work.",
+        "They forgot her hobbies.",
+        "It makes Julia uncomfortable."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 788.7,
+        "end": 794.0
+      },
+      "prompt": "How do they plan to justify the longer break?",
+      "options": [
+        "Celebrating a decade milestone.",
+        "Promoting positive office culture.",
+        "Saving money on lunch.",
+        "Improving individual employee skills."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 819.9,
+        "end": 824.1
+      },
+      "prompt": "Why is a meeting room booked?",
+      "options": [
+        "As a weather precaution.",
+        "To hold the trivia.",
+        "To keep the party secret.",
+        "Because the courtyard failed."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 850.9,
+        "end": 855.7
+      },
+      "prompt": "What will be included with the park membership?",
+      "options": [
+        "A list of trivia questions.",
+        "A surprise birthday cake.",
+        "A collection of notes.",
+        "A box of deli sandwiches."
+      ],
+      "answer": 2
+    }
+  ]
+}

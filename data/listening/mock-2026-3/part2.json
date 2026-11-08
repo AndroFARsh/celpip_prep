@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 544.9,
+    "end": 641.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 641.8,
+        "end": 646
+      },
+      "prompt": "Why does Mark suggest this idea?",
+      "options": [
+        "He wants a quieter evening",
+        "He enjoys crafting decorations",
+        "He wants a change of pace",
+        "The flat needs a makeover"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 672.8,
+        "end": 677.5
+      },
+      "prompt": "How will they handle the locked exit?",
+      "options": [
+        "Fit a real lock",
+        "Pretend it is sealed",
+        "Hide the door key",
+        "Use the wooden box"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 703.9,
+        "end": 708
+      },
+      "prompt": "What is Sarah's main concern?",
+      "options": [
+        "Guests may lose patience",
+        "The setup costs too much",
+        "The game will be too easy",
+        "The theme feels too scary"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 734.8,
+        "end": 740
+      },
+      "prompt": "Why divide the guests into two groups?",
+      "options": [
+        "To save on supplies",
+        "To create a friendly contest",
+        "To fit around one table",
+        "To keep everyone busy"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 766,
+        "end": 770.9
+      },
+      "prompt": "What is Mark's computer voice for?",
+      "options": [
+        "Helping stuck players",
+        "Counting the minutes",
+        "Making puzzles harder",
+        "Telling the whole story"
+      ],
+      "answer": 0
+    }
+  ]
+}

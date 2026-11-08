@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1756.9,
+    "end": 1928.8
+  },
+  "questions": [
+    {
+      "prompt": "Many people want to stop ______.",
+      "options": [
+        "Changing local time",
+        "Walking outside daily",
+        "Improving physical wellness",
+        "Starting work early"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Health experts worry about ______.",
+      "options": [
+        "Tired office workers",
+        "Biological rhythm disruption",
+        "Seasonal shopping habits",
+        "Increased outdoor sports"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Business owners prefer the ______.",
+      "options": [
+        "Current scheduling method",
+        "Permanent winter darkness",
+        "Longer morning light",
+        "Reduced travel time"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Road safety views are ______.",
+      "options": [
+        "Completely one-sided",
+        "Highly controversial",
+        "Not discussed enough",
+        "Easy to solve"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The proposed solution causes ______.",
+      "options": [
+        "Minimal future issues",
+        "New winter problems",
+        "Better northern sleep",
+        "Immediate government action"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "National progress is currently ______.",
+      "options": [
+        "Waiting for others",
+        "Moving very quickly",
+        "Stopping all trade",
+        "Banning foreign rules"
+      ],
+      "answer": 0
+    }
+  ]
+}

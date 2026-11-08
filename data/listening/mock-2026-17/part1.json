@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.4,
+        "end": 168.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 168.8,
+            "end": 173.2
+          },
+          "prompt": "Why is Karen feeling so frustrated?",
+          "options": [
+            "The table arrived very late.",
+            "Her dinner party is ruined.",
+            "Delivery drivers damaged her floor.",
+            "She hates the table's color."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 199.6,
+            "end": 204.0
+          },
+          "prompt": "What is Karen's main goal today?",
+          "options": [
+            "To report the table damage.",
+            "To ask for a refund.",
+            "To complain about the drivers.",
+            "To reschedule her dinner party."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 230.7,
+            "end": 235.2
+          },
+          "prompt": "Why did Karen take those photos?",
+          "options": [
+            "To show friends the scratch.",
+            "Because drivers asked for them.",
+            "To prove the table's condition.",
+            "To send to the store."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 272.6,
+        "end": 330.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 330.7,
+            "end": 336.2
+          },
+          "prompt": "Why does Steven ask if Karen spoke to the delivery team?",
+          "options": [
+            "He wants to blame the drivers.",
+            "He needs to verify the claim.",
+            "He is trying to avoid responsibility.",
+            "He thinks Karen broke the table."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 361.7,
+            "end": 366.2
+          },
+          "prompt": "What is the status of the dining table?",
+          "options": [
+            "It is usable for the party.",
+            "It is currently being repaired now.",
+            "It is damaged beyond any use.",
+            "It is sitting in the hallway."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 392.8,
+            "end": 397.1
+          },
+          "prompt": "Which option offers the best fix?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 434.7,
+        "end": 494.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 494.9,
+            "end": 499.0
+          },
+          "prompt": "Why does Karen agree to the deal?",
+          "options": [
+            "She prefers the floor model quality.",
+            "The price reduction solves her problem.",
+            "She wants the free wood kit.",
+            "Steven convinced her it is new."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 525.8,
+            "end": 530.1
+          },
+          "prompt": "What is the final step for Karen?",
+          "options": [
+            "Send photos to Steven via email.",
+            "Visit the store to sign papers.",
+            "Meet the drivers at the store.",
+            "Pay for the new table delivery."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

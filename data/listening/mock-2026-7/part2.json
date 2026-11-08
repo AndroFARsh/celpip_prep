@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 610.7,
+    "end": 773.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 773.9,
+        "end": 778.9
+      },
+      "prompt": "Why does the man suggest a shared system?",
+      "options": [
+        "To lower personal costs",
+        "Because their houses are near",
+        "To follow new city rules",
+        "To share garden space"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 804.9,
+        "end": 810
+      },
+      "prompt": "What is the woman's main concern about the project?",
+      "options": [
+        "Cost of the barrels",
+        "Installation difficulty",
+        "Potential lack of space",
+        "Visual appearance of barrels"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 836,
+        "end": 840.4
+      },
+      "prompt": "Why do they need a kit from the store?",
+      "options": [
+        "To filter roof debris",
+        "To connect two barrels",
+        "To prevent water leaking",
+        "To secure the barrels"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 867.3,
+        "end": 872.2
+      },
+      "prompt": "How do they plan to prevent mosquito breeding?",
+      "options": [
+        "Using a chemical treatment",
+        "Adding a fine screen",
+        "Keeping the barrels covered",
+        "Moving them every week"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 898,
+        "end": 902.4
+      },
+      "prompt": "How will they manage the project's budget?",
+      "options": [
+        "Buying a new expensive system",
+        "Splitting costs for used parts",
+        "Borrowing money from neighbors",
+        "Using leftover garden supplies"
+      ],
+      "answer": 1
+    }
+  ]
+}

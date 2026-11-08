@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 515.9,
+    "end": 609.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 610.9,
+        "end": 615.6
+      },
+      "prompt": "What does the manager want for this party?",
+      "options": [
+        "A bowling night",
+        "A time-travel theme",
+        "Something not usual",
+        "A party next month"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 641.9,
+        "end": 647.4
+      },
+      "prompt": "Why does Dana like the idea of optional costumes?",
+      "options": [
+        "Costumes cost a lot.",
+        "Some may feel awkward.",
+        "Everyone loves dressing up.",
+        "Funny hats are cheap."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 672.8,
+        "end": 677.5
+      },
+      "prompt": "Why does Tom skip the downtown hall?",
+      "options": [
+        "It's cheaper than Maple Street.",
+        "It's too small.",
+        "He called it yesterday.",
+        "It costs too much."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 704,
+        "end": 708.2
+      },
+      "prompt": "What will Tom do this afternoon?",
+      "options": [
+        "Book the downtown hall.",
+        "Send the plan.",
+        "Contact a cheaper place.",
+        "Buy funny hats."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 735,
+        "end": 739.4
+      },
+      "prompt": "Why does Dana prefer Friday?",
+      "options": [
+        "Work ends at five.",
+        "The food is simple.",
+        "Saturdays are for sleeping in.",
+        "Many people are free on Saturday."
+      ],
+      "answer": 0
+    }
+  ]
+}

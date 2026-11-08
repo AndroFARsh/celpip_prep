@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1949.7,
+    "end": 2184.3
+  },
+  "questions": [
+    {
+      "prompt": "Proponents view the internet as a ______.",
+      "options": [
+        "tool for personal entertainment",
+        "requirement for modern participation",
+        "luxury for wealthy populations",
+        "secondary utility to water"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The digital divide negatively impacts ______.",
+      "options": [
+        "government power to tax",
+        "private company profit margins",
+        "individual equality and opportunity",
+        "the speed of technological evolution"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Supporters believe government involvement would ______.",
+      "options": [
+        "reduce competition between providers",
+        "ensure broader geographic coverage",
+        "create unnecessary private monopolies",
+        "decrease the quality of connections"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Opponents fear state-managed systems would ______.",
+      "options": [
+        "improve long-term financial stability",
+        "accelerate the pace of innovation",
+        "decrease the standard of service",
+        "increase individual freedom of speech"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics argue that market competition ______.",
+      "options": [
+        "hinders technological advancement",
+        "creates higher costs for users",
+        "drives improvements in efficiency",
+        "ignores the needs of citizens"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A primary concern regarding regulation is ______.",
+      "options": [
+        "the potential for increased surveillance",
+        "the sudden decline of infrastructure",
+        "the lack of affordable devices",
+        "the removal of public utilities"
+      ],
+      "answer": 0
+    }
+  ]
+}

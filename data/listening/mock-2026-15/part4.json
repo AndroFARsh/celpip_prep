@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1237.2,
+    "end": 1356.3
+  },
+  "questions": [
+    {
+      "prompt": "Carol followed the dog because he ______.",
+      "options": [
+        "was acting very strangely",
+        "was protecting the backyard",
+        "loves the wooded park",
+        "wanted some extra treats"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The family's reaction to Biscuit shows ______.",
+      "options": [
+        "they ignored the rescue",
+        "they wanted a new pet",
+        "extreme relief and appreciation",
+        "they were initially angry"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The dog's behavior changed by ______.",
+      "options": [
+        "chasing a colorful butterfly",
+        "staying very quiet always",
+        "eating only special treats",
+        "acting uncharacteristically persistent"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The neighborhood atmosphere shifted toward ______.",
+      "options": [
+        "total confusion and worry",
+        "increased social interaction",
+        "decreased community spirit",
+        "loud weekend birthday parties"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Carol views the recent attention ______.",
+      "options": [
+        "with mixed feelings",
+        "as strictly negative",
+        "as a financial opportunity",
+        "as completely unimportant"
+      ],
+      "answer": 0
+    }
+  ]
+}

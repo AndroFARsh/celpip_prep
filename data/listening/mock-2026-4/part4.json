@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1077.4,
+    "end": 1149.3
+  },
+  "questions": [
+    {
+      "prompt": "Mr. Vance did this long walk because he wanted to ______.",
+      "options": [
+        "help young readers",
+        "visit his old school",
+        "prove seniors stay fit",
+        "raise money for adults"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The mobile libraries are meant for children who live ______.",
+      "options": [
+        "in large cities",
+        "in Ottawa",
+        "along his walking route",
+        "away from big cities"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Mr. Vance was able to keep walking after Winnipeg because ______.",
+      "options": [
+        "a snowstorm ended",
+        "locals helped him recover",
+        "he felt great at the end",
+        "his knee never hurt"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Some people were worried because Mr. Vance is ______.",
+      "options": [
+        "a history teacher",
+        "in poor health",
+        "no longer young",
+        "walking forty kilometres daily"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "After his rest in Victoria, Mr. Vance will ______.",
+      "options": [
+        "rest for a year",
+        "urge older people to stay active",
+        "travel across Canada",
+        "teach in Victoria"
+      ],
+      "answer": 1
+    }
+  ]
+}

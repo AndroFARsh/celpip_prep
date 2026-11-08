@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 600.3,
+    "end": 749.3
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 749.9,
+        "end": 755.0
+      },
+      "prompt": "Why does the man suggest a one-color logo?",
+      "options": [
+        "To keep costs low.",
+        "To match the navy shirt.",
+        "To follow run rules.",
+        "To make printing faster."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 780.9,
+        "end": 785.9
+      },
+      "prompt": "Why does the woman prefer exercise fabric?",
+      "options": [
+        "It is cheaper than cotton.",
+        "It is easier to print on.",
+        "People will wear it more.",
+        "It comes in more colors."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 811.9,
+        "end": 816.8
+      },
+      "prompt": "What is the deadline for sponsor logos?",
+      "options": [
+        "Next month.",
+        "This evening.",
+        "At the finish line.",
+        "Friday."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 843.0,
+        "end": 848.1
+      },
+      "prompt": "Why are they ordering more than 80 shirts?",
+      "options": [
+        "To lower the unit price.",
+        "To accommodate extras.",
+        "To get a bigger discount.",
+        "To fix sizing mistakes."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 874.0,
+        "end": 878.4
+      },
+      "prompt": "What will the man do next?",
+      "options": [
+        "Call the print shop.",
+        "Design the logo.",
+        "Email the runners.",
+        "Collect the sponsorship money."
+      ],
+      "answer": 0
+    }
+  ]
+}

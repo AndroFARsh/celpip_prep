@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1880.7,
+    "end": 2044.2
+  },
+  "questions": [
+    {
+      "prompt": "Retailers prefer digital payments primarily because it ______",
+      "options": [
+        "appeals to older demographics",
+        "removes all employee mistakes",
+        "saves nightly counting time",
+        "improves workplace safety"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Critics argue that excluding cash is problematic because it ______",
+      "options": [
+        "breaks current city legislation",
+        "isolates non-technical residents",
+        "affects smartphone battery life",
+        "simplifies low-income budgeting"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "One major objection regarding electronic records is the ______",
+      "options": [
+        "cost of local meals",
+        "sale of transaction history",
+        "guaranteed consumer anonymity",
+        "necessity of reliable internet"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Opponents point out that a digital-only approach ______",
+      "options": [
+        "works during bad storms",
+        "depends on stable connectivity",
+        "needs specific card types",
+        "targets young teenage shoppers"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Local authorities are intervening to ensure that ______",
+      "options": [
+        "advertisers buy more data",
+        "businesses choose their methods",
+        "everyone's purchasing rights continue",
+        "ends current store arguments"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Entrepreneurs resist potential regulations because they believe ______",
+      "options": [
+        "bank trips are tedious",
+        "most people carry plastic",
+        "legislation improves their operations",
+        "management should stay independent"
+      ],
+      "answer": 3
+    }
+  ]
+}

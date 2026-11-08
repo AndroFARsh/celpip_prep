@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1879.2,
+    "end": 2005.7
+  },
+  "questions": [
+    {
+      "prompt": "Workplace microchips are inserted to make daily business routines ______",
+      "options": [
+        "completely frictionless",
+        "highly efficient",
+        "restricted with precision",
+        "fraught with dilemmas"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "A major worry about this technology is that employers might slowly ______",
+      "options": [
+        "use function creep",
+        "track an employee",
+        "expand data tracking",
+        "ensure biometric precision"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Even though the implants lack active tracking, they can make workers feel like ______",
+      "options": [
+        "a corporate asset",
+        "human beings",
+        "piece of property",
+        "breakdown in trust"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Security professionals are concerned that criminals could easily ______",
+      "options": [
+        "clone an employee",
+        "use handheld readers",
+        "turn into vulnerability",
+        "copy internal data"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "To protect staff, companies must provide a way to safely ______",
+      "options": [
+        "ensure workplace convenience",
+        "refuse the implant",
+        "guarantee right to opt-out",
+        "avoid professional penalty"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The underlying technology used in these rice-sized items relies on ______",
+      "options": [
+        "Radio Frequency Identification",
+        "passive GPS tracking",
+        "wireless signal transmission",
+        "biometric-level precision"
+      ],
+      "answer": 2
+    }
+  ]
+}

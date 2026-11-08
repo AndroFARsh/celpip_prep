@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1620.2,
+    "end": 1780.4
+  },
+  "questions": [
+    {
+      "prompt": "Why does Brian reject the \"hot-desking\" plan?",
+      "options": [
+        "He dislikes the furniture.",
+        "He needs dedicated storage.",
+        "It is too expensive.",
+        "He prefers working remotely."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Mr. Henderson’s main worry about the basement room?",
+      "options": [
+        "It is too far away.",
+        "It lacks enough windows.",
+        "The electrical costs.",
+        "It is too noisy."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Alice advocate for knocking down the back wall?",
+      "options": [
+        "It is the cheapest.",
+        "It increases office light.",
+        "It keeps the team together.",
+        "It is a quick fix."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How does the group plan to minimize office disruption?",
+      "options": [
+        "Hiring a faster contractor.",
+        "Doing work on weekends.",
+        "Moving desks to basement.",
+        "Closing the office entirely."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the group’s underlying concern about the basement?",
+      "options": [
+        "It is not safe enough.",
+        "The room is too small.",
+        "It is already occupied.",
+        "It is too far away."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does the team feel about the hot-desking model?",
+      "options": [
+        "It improves overall focus.",
+        "It helps store equipment.",
+        "It saves electricity costs.",
+        "It causes team disconnection."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why is the back wall solution considered the \"best\"?",
+      "options": [
+        "It is the most modern.",
+        "It solves storage problems.",
+        "It requires no contractors.",
+        "It is free of charge."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does Brian fear about the wall construction?",
+      "options": [
+        "It will be loud.",
+        "It will be too expensive.",
+        "It will damage tools.",
+        "It will take weeks."
+      ],
+      "answer": 0
+    }
+  ]
+}

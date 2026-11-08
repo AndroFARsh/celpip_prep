@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.6,
+        "end": 181.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 182,
+            "end": 187.4
+          },
+          "prompt": "Why did Julian object to the red tulips?",
+          "options": [
+            "Wrong flower type",
+            "Wrong color scheme",
+            "Wrong event theme",
+            "Asking for a refund"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 212.6,
+            "end": 218.3
+          },
+          "prompt": "What is Julian's main issue with the attached card?",
+          "options": [
+            "It names Linda",
+            "It omits his wife's name",
+            "It has bad handwriting",
+            "It has no message"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 243.7,
+            "end": 249.4
+          },
+          "prompt": "How did the delivery error happen according to Mrs. Gable?",
+          "options": [
+            "Driver ran out of time",
+            "Shop packed wrong items",
+            "Driver mixed up street addresses",
+            "Wrong box was packed"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 285.7,
+        "end": 339.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 339.8,
+            "end": 344.3
+          },
+          "prompt": "Why can't the driver fix the mistake?",
+          "options": [
+            "Friday traffic downtown",
+            "Delivering across town",
+            "Shift has ended",
+            "Running out of gas"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 370.6,
+            "end": 374.6
+          },
+          "prompt": "What is Julian's time limit?",
+          "options": [
+            "Ninety minutes",
+            "One hour",
+            "This afternoon",
+            "Friday evening"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 401.7,
+            "end": 406.6
+          },
+          "prompt": "How does Mrs. Gable solve the problem?",
+          "options": [
+            "Hire a fast courier",
+            "Send the driver back",
+            "Use a reserved bouquet",
+            "Offer a full refund"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 443.7,
+        "end": 495.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 495.9,
+            "end": 502.2
+          },
+          "prompt": "How should Julian feel about Mrs. Gable's final solution?",
+          "options": [
+            "Frustrated by the extra trouble",
+            "Unimpressed by the apology",
+            "Suspicious of hidden fees",
+            "Relieved and appreciative"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 526.7,
+            "end": 533.5
+          },
+          "prompt": "Which item did Mrs. Gable use to solve Julian's time crunch?",
+          "options": [
+            "q8-a.jpg",
+            "q8-b.jpg",
+            "q8-c.jpg",
+            "q8-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

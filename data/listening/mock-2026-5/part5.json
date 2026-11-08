@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1499.1,
+    "end": 1620.2
+  },
+  "questions": [
+    {
+      "prompt": "Why does Sarah prefer an after-work party?",
+      "options": [
+        "Restaurants are cheaper",
+        "David prefers evenings",
+        "Office closes at noon",
+        "People run midday errands"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why is the local restaurant chosen?",
+      "options": [
+        "It is very fancy",
+        "It has private space",
+        "It is free for groups",
+        "It is open late"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the group’s plan for the gift?",
+      "options": [
+        "Everyone buys individually",
+        "Company pays for it",
+        "Collect money from everyone",
+        "Buy a digital camera"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why is a camera bag selected?",
+      "options": [
+        "It is a practical gift",
+        "It is very expensive",
+        "It was on sale",
+        "David asked for one"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the group's underlying feeling about David?",
+      "options": [
+        "He is difficult to work with",
+        "He is well-respected",
+        "He is usually late",
+        "He talks too much"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is a card included?",
+      "options": [
+        "It is a company rule",
+        "It is cheap to buy",
+        "It adds personal meaning",
+        "It covers the gift"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How will employees learn about the party?",
+      "options": [
+        "Through a company email",
+        "By checking the website",
+        "During a staff meeting",
+        "By word of mouth"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the deadline for Rachel to collect money?",
+      "options": [
+        "Friday morning",
+        "During the week",
+        "At the restaurant",
+        "Immediately"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1389.3,
+    "end": 1516.5
+  },
+  "questions": [
+    {
+      "prompt": "Why does Ryan clean the kitchen first?",
+      "options": [
+        "It is in the worst condition",
+        "His parents requested it specifically",
+        "It has no trash present",
+        "Appliances require immediate repairs"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why choose Friday night over Saturday morning?",
+      "options": [
+        "Garbage collection occurs then",
+        "Saturday feels too fast-paced",
+        "They are traveling away",
+        "The lease ends Saturday"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Liam suggest doing laundry?",
+      "options": [
+        "Bathing fabrics pile up",
+        "Sheets smell dusty",
+        "Wardrobes are empty",
+        "Machines break often"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Zoe offer to stop at the store?",
+      "options": [
+        "Return items",
+        "Buy a sofa",
+        "Get missing supplies",
+        "Pick up mail"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why address the extra bedroom?",
+      "options": [
+        "Pets made a mess",
+        "Water leaked inside",
+        "It is full of boxes",
+        "Painters are arriving"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why open the apartment windows?",
+      "options": [
+        "Clear cooking smoke",
+        "Cool hot rooms",
+        "Dry laundry faster",
+        "Let in fresh air"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why buy coffee and snacks?",
+      "options": [
+        "Guests remain for a midday meal",
+        "Energy for cleaning",
+        "Stores close early",
+        "Neighbors requested them"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Ryan thank his roommates?",
+      "options": [
+        "Assistance with getting ready",
+        "Low rental costs",
+        "Cooking expertise",
+        "Morning arrivals"
+      ],
+      "answer": 0
+    }
+  ]
+}

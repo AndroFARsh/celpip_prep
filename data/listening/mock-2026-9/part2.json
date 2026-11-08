@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 615.8,
+    "end": 756.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 756.9,
+        "end": 761.4
+      },
+      "prompt": "Why does the man want to volunteer?",
+      "options": [
+        "He needs extra money.",
+        "He has free time.",
+        "He needs job training.",
+        "He enjoys heavy lifting."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 787.7,
+        "end": 792.1
+      },
+      "prompt": "What is the man's physical concern?",
+      "options": [
+        "He cannot use computers.",
+        "He has poor vision.",
+        "He cannot stand long.",
+        "He has back issues."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 818.9,
+        "end": 823.2
+      },
+      "prompt": "Why is the front desk role better?",
+      "options": [
+        "It is less active.",
+        "It pays a salary.",
+        "It involves no people.",
+        "It has shorter shifts."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 849.7,
+        "end": 853.9
+      },
+      "prompt": "What is required before starting?",
+      "options": [
+        "A medical checkup.",
+        "A short interview.",
+        "A training session.",
+        "Buying a uniform."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 880.9,
+        "end": 885.3
+      },
+      "prompt": "When will the man begin training?",
+      "options": [
+        "Tuesday morning.",
+        "Thursday afternoon.",
+        "Friday morning.",
+        "Monday at noon."
+      ],
+      "answer": 2
+    }
+  ]
+}

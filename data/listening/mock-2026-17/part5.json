@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1529.3,
+    "end": 1660.9
+  },
+  "questions": [
+    {
+      "prompt": "Why does the researcher prefer the new trial method?",
+      "options": [
+        "Requires fewer people",
+        "Provides faster results",
+        "Safer than standard trials",
+        "Costs less to conduct"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the ethicist’s core worry regarding the trials?",
+      "options": [
+        "Lack of medical staff",
+        "Low volunteer interest",
+        "High vaccine cost",
+        "Violation of clinical ethics"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "How does the scientist respond to the \"Russian Roulette\" concern?",
+      "options": [
+        "Claims it is not risky",
+        "Promises volunteer pay",
+        "Focuses on moral necessity",
+        "Says virus is inactive"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does the host mention that volunteers are monitored?",
+      "options": [
+        "Proves total safety",
+        "Challenges ethicist's view",
+        "Explains data collection",
+        "Claims risks are zero"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the ethicist’s concern about public trust?",
+      "options": [
+        "Ruined by bad outcomes",
+        "Currently too high",
+        "Depends on compensation",
+        "Irrelevant to medicine"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "According to the scientist, how do volunteers feel?",
+      "options": [
+        "Forced by poverty",
+        "Victims of the system",
+        "Proud of contribution",
+        "Uncertain of future"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the ethicist’s warning about financial reward?",
+      "options": [
+        "It is too low",
+        "Unfairly influences poor",
+        "Ensures trial safety",
+        "Unnecessary for mission"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does the conversation conclude?",
+      "options": [
+        "With a clear winner",
+        "Highlighting issue complexity",
+        "Promise to stop trials",
+        "Agreement on safety"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 840.9,
+    "end": 961.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 962.1,
+        "end": 966.4
+      },
+      "prompt": "Why does Elena need a dimmer switch?",
+      "options": [
+        "To lower the electricity bill.",
+        "Her eyes are sensitive.",
+        "The room light is distracting.",
+        "Current switches are broken."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 993.1,
+        "end": 997.1
+      },
+      "prompt": "Why is the outlet a worry?",
+      "options": [
+        "It makes scary noises.",
+        "It throws off sparks.",
+        "It has loose parts.",
+        "It has stopped working."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1024.2,
+        "end": 1028.6
+      },
+      "prompt": "Why did David check the box?",
+      "options": [
+        "To find the instructions.",
+        "To see if it fits.",
+        "To check the price.",
+        "To look for damage."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1055.0,
+        "end": 1059.5
+      },
+      "prompt": "How will the work timeline change?",
+      "options": [
+        "It will take longer.",
+        "It will finish faster.",
+        "Two hours exactly.",
+        "Three hours exactly."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1086.1,
+        "end": 1090.8
+      },
+      "prompt": "Why is the porch light a problem?",
+      "options": [
+        "The sensor is dusty.",
+        "It is too dim.",
+        "She feels unsafe arriving.",
+        "The glass is cracked."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1117.2,
+        "end": 1121.4
+      },
+      "prompt": "When will David share the cost?",
+      "options": [
+        "Before doing anything.",
+        "Once he checks the room.",
+        "Only when finished.",
+        "After he buys parts."
+      ],
+      "answer": 1
+    }
+  ]
+}

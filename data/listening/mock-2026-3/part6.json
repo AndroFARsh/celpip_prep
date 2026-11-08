@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1717.9,
+    "end": 1856.8
+  },
+  "questions": [
+    {
+      "prompt": "The city launched this program to ______.",
+      "options": [
+        "Train future chefs",
+        "Reward wealthy shoppers",
+        "Ease food costs for families",
+        "Fund a university study"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The card is limited to ______.",
+      "options": [
+        "Nutritious everyday foods",
+        "Forty approved shops",
+        "Sweet treats and snacks",
+        "Items with green labels"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Money left over in a month ______.",
+      "options": [
+        "Disappears right away",
+        "Turns into a gift card",
+        "Is lost when the program ends",
+        "Can be used later"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Parents can attend classes because ______.",
+      "options": [
+        "Classes cost nothing",
+        "Young ones are looked after",
+        "Children are not allowed",
+        "A nurse visits monthly"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Researchers want to learn ______.",
+      "options": [
+        "Whether food has no effect",
+        "Which stores are busiest",
+        "How eating affects wellbeing",
+        "How families spend income"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Applicants should ______.",
+      "options": [
+        "Visit only on weekends",
+        "Speak three languages",
+        "Use only the website",
+        "Bring ID and income proof"
+      ],
+      "answer": 3
+    }
+  ]
+}

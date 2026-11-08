@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.9,
+        "end": 176.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 177.0,
+            "end": 182.6
+          },
+          "prompt": "What is Leo's main source of anxiety regarding his future?",
+          "options": [
+            "Financial instability",
+            "Parental pressure",
+            "Academic failure",
+            "Job boredom"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 208.0,
+            "end": 213.8
+          },
+          "prompt": "What does Mrs. Gable imply about Leo's view of engineering?",
+          "options": [
+            "It lacks stability",
+            "It is too difficult",
+            "It requires no imagination",
+            "It is expanding"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 249.9,
+        "end": 313.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 314.2,
+            "end": 320.2
+          },
+          "prompt": "What does Leo realize he wants his future career to offer?",
+          "options": [
+            "High paying bills",
+            "Industrial physics",
+            "Beautiful images",
+            "Real-world utility"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 345.1,
+            "end": 352.2
+          },
+          "prompt": "Before talking to the counselor, Leo's understanding of UX design was...",
+          "options": [
+            "Superficial",
+            "Nonexistent",
+            "Psychological",
+            "Logical"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 376.2,
+            "end": 382.1
+          },
+          "prompt": "What is the next immediate step in Leo's college planning?",
+          "options": [
+            "Registering for hybrid classes",
+            "Examining entry requirements",
+            "Convincing his worried parents",
+            "Designing physical products"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 418.1,
+        "end": 483.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 484.1,
+            "end": 490.2
+          },
+          "prompt": "What does Leo need before applying to the UX design program?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 515.2,
+            "end": 522.1
+          },
+          "prompt": "What information does Mrs. Gable offer to help Leo talk to his parents?",
+          "options": [
+            "Travel brochure",
+            "Employment and salary report folder",
+            "School timetable",
+            "Laptop repair invoice"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 546.2,
+            "end": 551.8
+          },
+          "prompt": "What does Mrs. Gable ask Leo to bring to the next meeting?",
+          "options": [
+            "Sketchbook with rough drafts and design ideas",
+            "Passport",
+            "Salary report only",
+            "Graduation photo album"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

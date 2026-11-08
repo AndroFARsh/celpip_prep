@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1322.2,
+    "end": 1430.9
+  },
+  "questions": [
+    {
+      "prompt": "Sarah Jenkins implemented the new policy to foster ______.",
+      "options": [
+        "Increased venue tranquility",
+        "Better social interaction",
+        "Higher customer turnover",
+        "Improved operational efficiency"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Marcus Thorne appreciates the change because it promotes ______.",
+      "options": [
+        "Enhanced neighborhood cohesion",
+        "Reduced background noise",
+        "A professional working environment",
+        "Updated reading materials"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The primary grievance of remote workers involves ______.",
+      "options": [
+        "Loss of essential base locations",
+        "Unfair service restrictions",
+        "Increased operational costs",
+        "Forced social engagement"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The owner justifies the policy’s duration by ______.",
+      "options": [
+        "Analyzing long-term fiscal data",
+        "Evaluating experimental outcomes",
+        "Responding to external critiques",
+        "Ignoring public feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Other business owners are monitoring the café to determine ______.",
+      "options": [
+        "Potential profit sustainability",
+        "Necessary venue modifications",
+        "Future customer behavior",
+        "Proper community management"
+      ],
+      "answer": 0
+    }
+  ]
+}

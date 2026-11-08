@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 590.7,
+    "end": 735.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 735.9,
+        "end": 741.7
+      },
+      "prompt": "Why was the specific bedroom corner chosen for this project?",
+      "options": [
+        "To enjoy a calming view.",
+        "To utilize strong evening sunlight.",
+        "To store old cardboard boxes.",
+        "To replace existing yoga equipment."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 766.9,
+        "end": 773.2
+      },
+      "prompt": "What is the underlying concern regarding the room's current lighting?",
+      "options": [
+        "It prevents proper evening visibility.",
+        "It is too intense for relaxation.",
+        "It requires an expensive replacement.",
+        "It cannot be turned off."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 797.9,
+        "end": 803.4
+      },
+      "prompt": "How do they plan to address the issue of household clutter?",
+      "options": [
+        "By using a dedicated container.",
+        "By leaving items around the house.",
+        "By purchasing more exercise gear.",
+        "By selling extra yoga blocks."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 829.0,
+        "end": 834.6
+      },
+      "prompt": "Why is a water fountain being considered instead of a speaker?",
+      "options": [
+        "To listen to pre-recorded guides.",
+        "To prevent water from splashing.",
+        "To completely avoid electronic devices.",
+        "To block out loud neighbor noises."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 860.2,
+        "end": 865.8
+      },
+      "prompt": "What is the immediate next step in preparing the space?",
+      "options": [
+        "Going to a decor shop.",
+        "Setting up a salt lamp.",
+        "Laying down a soft rug.",
+        "Clearing out stored items."
+      ],
+      "answer": 3
+    }
+  ]
+}

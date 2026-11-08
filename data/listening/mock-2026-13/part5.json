@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1624.3,
+    "end": 1744.7
+  },
+  "questions": [
+    {
+      "prompt": "Why does Nathan ultimately decide to choose Italy?",
+      "options": [
+        "It is the cheapest.",
+        "It offers mountain hiking.",
+        "It has the shortest flight.",
+        "It provides balanced relaxation."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What is Nathan’s main concern regarding the Peru trip?",
+      "options": [
+        "The flight is long.",
+        "It is too expensive.",
+        "He lacks physical training.",
+        "He dislikes mountain views."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why is the Thailand beach resort not Nathan’s final choice?",
+      "options": [
+        "The flight is exhausting.",
+        "It is not all-inclusive.",
+        "It is not relaxing.",
+        "The culture is boring."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Marco view the Peru option?",
+      "options": [
+        "As a physical challenge.",
+        "As a relaxing getaway.",
+        "As a waste of time.",
+        "As an affordable option."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is Nathan’s underlying concern about his current life?",
+      "options": [
+        "Lack of job security.",
+        "High stress at work.",
+        "Need for better fitness.",
+        "Boredom with city life."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Chloe suggest Italy fits Nathan's needs?",
+      "options": [
+        "It is an adventure.",
+        "It matches his budget.",
+        "It mixes rest/culture.",
+        "It is near Thailand."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How does Nathan feel about his current fitness level?",
+      "options": [
+        "He feels very strong.",
+        "He feels quite worried.",
+        "He is training daily.",
+        "He prefers gym workouts."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does Nathan mean when he wants to \"disconnect\"?",
+      "options": [
+        "Stop using his phone",
+        "Move to another country.",
+        "Avoid all social contact.",
+        "Cancel his work plans."
+      ],
+      "answer": 0
+    }
+  ]
+}

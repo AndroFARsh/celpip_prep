@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1269.2,
+    "end": 1374.0
+  },
+  "questions": [
+    {
+      "prompt": "The building site was originally ______.",
+      "options": [
+        "near York Street",
+        "submerged underwater",
+        "a modern parking lot",
+        "a residential area"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Moist earth prevented the vessel's ______.",
+      "options": [
+        "natural structural decay",
+        "quick extraction process",
+        "total fiscal deficit",
+        "hauling building materials"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Project managers primarily fear the ______.",
+      "options": [
+        "public historical value",
+        "ongoing financial drain",
+        "ancient maritime routes",
+        "rapid project advancement"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Historians prioritize the vessel's long-term ______.",
+      "options": [
+        "modified basement blueprints",
+        "speedy work restart",
+        "cultural and physical preservation",
+        "damp environmental conditions"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Friday's discussion might necessitate structural ______.",
+      "options": [
+        "detailed scientific analysis",
+        "Great Lakes commerce",
+        "strict deadline fulfilment",
+        "architectural design modifications"
+      ],
+      "answer": 3
+    }
+  ]
+}

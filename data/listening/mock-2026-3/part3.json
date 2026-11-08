@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 814.1,
+    "end": 909
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 910,
+        "end": 914.7
+      },
+      "prompt": "Why does the group leave so early?",
+      "options": [
+        "The drive is very long",
+        "To set up in daylight",
+        "Canoes sell out quickly",
+        "Rain arrives by lunch"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 941.1,
+        "end": 946.1
+      },
+      "prompt": "Why must Ryan bring a warm sleeping bag?",
+      "options": [
+        "The tent is too small",
+        "Everyone brings their own gear",
+        "Anna's brother needs it back",
+        "The nights get chilly"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 972,
+        "end": 976.2
+      },
+      "prompt": "What is Ryan's food job?",
+      "options": [
+        "A morning meal for Saturday",
+        "Dinner for the whole group",
+        "Pasta and chili",
+        "Nothing, only money"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1003.2,
+        "end": 1008.7
+      },
+      "prompt": "Why does each person pay only $10?",
+      "options": [
+        "Parking costs nothing",
+        "Canoes are included",
+        "Four people share the fee",
+        "The tent is borrowed"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1034.2,
+        "end": 1038.8
+      },
+      "prompt": "Why should Ryan warn his family first?",
+      "options": [
+        "The weather may turn bad",
+        "Mobile service works fine",
+        "They must approve the trip",
+        "He will be unreachable"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1065,
+        "end": 1069.6
+      },
+      "prompt": "What does Anna say about canoeing?",
+      "options": [
+        "Required for everyone",
+        "A paid extra choice",
+        "Covered by the site fee",
+        "A one-hour lake walk"
+      ],
+      "answer": 1
+    }
+  ]
+}

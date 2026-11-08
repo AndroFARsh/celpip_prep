@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1212.2,
+    "end": 1329.6
+  },
+  "questions": [
+    {
+      "prompt": "The department launched this trial to improve ______",
+      "options": [
+        "public emotional wellness",
+        "reduced maintenance costs",
+        "rapid response success",
+        "modern car features"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Chief Sterling claims old sirens create ______",
+      "options": [
+        "driver confusion daily",
+        "unwanted personal tension",
+        "slow traffic movement",
+        "higher fuel usage"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Dr. Thorne links loud city noise to ______",
+      "options": [
+        "lasting physical ailments",
+        "emergency service delays",
+        "lower neighbourhood safety",
+        "fewer commercial visitors"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Experts fear the new sound might ______",
+      "options": [
+        "exceed the budget",
+        "lack enough volume",
+        "be ignored by motorists",
+        "alarm young citizens"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "City leaders will judge the pilot based on ______",
+      "options": [
+        "resident survey data",
+        "observed real-world performance",
+        "police staff feedback",
+        "medical association reports"
+      ],
+      "answer": 1
+    }
+  ]
+}

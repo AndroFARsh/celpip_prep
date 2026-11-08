@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 921.9,
+    "end": 1085.4
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1086.1,
+        "end": 1092.0
+      },
+      "prompt": "Why does the guide recommend the Link for the university trip?",
+      "options": [
+        "It is cheaper than the bus.",
+        "It avoids heavy traffic.",
+        "It stops at the historic area.",
+        "It offers better views."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1117.2,
+        "end": 1123.3
+      },
+      "prompt": "How is the Go Pass payment different for buses versus trains?",
+      "options": [
+        "Buses require double tapping.",
+        "Trains require only one tap.",
+        "Buses require only one tap.",
+        "Trains require no tapping."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1148.1,
+        "end": 1153.5
+      },
+      "prompt": "What is a common mistake regarding bus payments?",
+      "options": [
+        "Trying to pay with coins.",
+        "Tapping off when exiting.",
+        "Using the app instead of a card.",
+        "Forgetting to tap on."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1179.1,
+        "end": 1184.2
+      },
+      "prompt": "Why does the guide suggest leaving early for her dinner?",
+      "options": [
+        "The train schedule slows down.",
+        "Trolleys stop running at 6:30.",
+        "The historic area is far.",
+        "Buses are faster than trains."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1210.1,
+        "end": 1215.7
+      },
+      "prompt": "What should the tourist check on the app before her dinner?",
+      "options": [
+        "Bus ticket prices.",
+        "Weekend service changes.",
+        "Trolley route maps.",
+        "Dinner booking status."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1241.0,
+        "end": 1246.8
+      },
+      "prompt": "What is the benefit of the daily payment limit?",
+      "options": [
+        "It makes transit entirely free.",
+        "It tracks the tourist's location.",
+        "It allows for cash payments.",
+        "It is cheaper than day passes."
+      ],
+      "answer": 3
+    }
+  ]
+}

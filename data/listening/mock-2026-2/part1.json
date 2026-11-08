@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.6,
+        "end": 164.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 165.8,
+            "end": 169.1
+          },
+          "prompt": "Why is Derek calling Ms. Thorne?",
+          "options": [
+            "Wants a refund on his pass",
+            "Needs help clearing his spot",
+            "Wants to rent another space",
+            "Needs directions to the elevator"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 196.7,
+            "end": 200.4
+          },
+          "prompt": "What is Derek's main worry right now?",
+          "options": [
+            "Missing his upcoming appointment",
+            "Damage to his vehicle",
+            "Paying an extra parking fee",
+            "Reaching the van's driver"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 227.8,
+            "end": 231
+          },
+          "prompt": "Why does Derek mention the voicemail?",
+          "options": [
+            "To show his own attempt failed",
+            "To blame the supplier company",
+            "To prove the van's owner",
+            "To request a callback later"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 269.8,
+        "end": 309.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 309.8,
+            "end": 313.7
+          },
+          "prompt": "Why does Ms. Thorne mention the guard?",
+          "options": [
+            "To fix Derek's parking problem",
+            "To penalize the van's driver",
+            "To escort Derek upstairs",
+            "To check Derek's pass"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 340.9,
+            "end": 345.4
+          },
+          "prompt": "Why is Derek unhappy about the visitor section?",
+          "options": [
+            "It is too far away",
+            "It needs a new pass",
+            "It has very few spots",
+            "It charges him extra money"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 371.9,
+            "end": 375.9
+          },
+          "prompt": "Why does Derek like the VIP spot?",
+          "options": [
+            "It is nearer his workplace",
+            "It costs nothing at all",
+            "It lasts until evening",
+            "It has an open space"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 414.1,
+        "end": 448.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 449.8,
+            "end": 454.8
+          },
+          "prompt": "Why does Ms. Thorne extend the pass to 8?",
+          "options": [
+            "His meeting may overrun",
+            "To compensate his trouble",
+            "The tow needs time",
+            "The first pass expired"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 481,
+            "end": 484.5
+          },
+          "prompt": "Where is Derek going right now?",
+          "options": [
+            "q8-a.jpg",
+            "q8-b.jpg",
+            "q8-c.jpg",
+            "q8-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

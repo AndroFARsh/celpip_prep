@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 563.5,
+    "end": 698.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 699.6,
+        "end": 704.1
+      },
+      "prompt": "What style is the hobbyist building?",
+      "options": [
+        "Downtown metropolis",
+        "Mountain settlement",
+        "Beachfront harbor",
+        "Factory town"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 730.6,
+        "end": 735.3
+      },
+      "prompt": "What is his current primary challenge?",
+      "options": [
+        "Costly terrain gear",
+        "Limited desk room",
+        "Damaged cardboard sets",
+        "Complicated wall colors"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 761.7,
+        "end": 766.7
+      },
+      "prompt": "How does he plan to solve the wiring problem?",
+      "options": [
+        "Dyeing cords emerald",
+        "Routing through smokestacks",
+        "Concealing them downward",
+        "Leaving them visible"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 792.8,
+        "end": 797.9
+      },
+      "prompt": "What temporary method will he use for dust?",
+      "options": [
+        "Plastic sheeting",
+        "Vacuum cleaner attachment",
+        "Wet towel wiping",
+        "Compressed gas and soft duster"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 823.7,
+        "end": 828
+      },
+      "prompt": "When is his target completion date?",
+      "options": [
+        "Cold seasonal break",
+        "Warm summer vacation",
+        "Spring weekend",
+        "Fall festival"
+      ],
+      "answer": 0
+    }
+  ]
+}

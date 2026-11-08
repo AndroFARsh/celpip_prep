@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 129,
+        "end": 176.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 176.6,
+            "end": 181.2
+          },
+          "prompt": "Why did Miss Miller stop him?",
+          "options": [
+            "Daily nap disruption",
+            "Weekend sleep patterns",
+            "Loud afternoon tantrums",
+            "Missing play items"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 208.7,
+            "end": 213.3
+          },
+          "prompt": "How does Leo behave during rest?",
+          "options": [
+            "Cooperative quiet resting",
+            "Deep silent slumber",
+            "Loud angry crying",
+            "Restless physical movement"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 239.2,
+            "end": 244.1
+          },
+          "prompt": "What is the primary classroom issue?",
+          "options": [
+            "Missing afternoon meals",
+            "Damaging shelf items",
+            "Disturbing peers' slumber",
+            "Disobeying direct commands"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 281.2,
+        "end": 327.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 328.5,
+            "end": 334.4
+          },
+          "prompt": "What recent domestic adjustment did Mr. Lawson make?",
+          "options": [
+            "Faster dinner schedule",
+            "Earlier morning wake-up",
+            "Shorter weekend sleep",
+            "Later evening bedtime"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 359.4,
+            "end": 364.1
+          },
+          "prompt": "Why hasn't the comforting toy been sent?",
+          "options": [
+            "Fear of misplacement",
+            "Child refusing it",
+            "Institution banning items",
+            "Excessive physical size"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 390.3,
+            "end": 395.2
+          },
+          "prompt": "What solution does the educator suggest?",
+          "options": [
+            "Isolating active children completely",
+            "Shortening morning meal portions",
+            "Moving nap schedules earlier",
+            "Introducing familiar soothing objects"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 432.4,
+        "end": 483.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 484.5,
+            "end": 489.2
+          },
+          "prompt": "How will the educator reposition the child?",
+          "options": [
+            "Corner cot relocation",
+            "Center room placement",
+            "Direct door proximity",
+            "Elevated bed setup"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 515.5,
+            "end": 521.4
+          },
+          "prompt": "What alternative activity is offered if resting fails?",
+          "options": [
+            "q8-a.jpg",
+            "q8-b.jpg",
+            "q8-c.jpg",
+            "q8-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1574.3,
+    "end": 1749.0
+  },
+  "questions": [
+    {
+      "prompt": "Why does Sarah initially reject the personal trainer option?",
+      "options": [
+        "It lacks social energy.",
+        "It is too expensive.",
+        "It requires fixed scheduling.",
+        "It has limited equipment."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is Mark's primary concern about the 24-hour gym?",
+      "options": [
+        "It is too expensive.",
+        "It lacks social interaction.",
+        "It has inconvenient hours.",
+        "It requires long commutes."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is the neighborhood sports league not suitable for Sarah?",
+      "options": [
+        "She dislikes outdoor sports.",
+        "Her work hours vary.",
+        "The gym is more private.",
+        "The league is too pricey."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Elena change the group's perspective on the gym?",
+      "options": [
+        "She suggests going alone.",
+        "She proposes group accountability.",
+        "She highlights the low cost.",
+        "She avoids peak hours."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the group's main goal for hiring the trainer once a month?",
+      "options": [
+        "To learn new sports.",
+        "To avoid crowded gyms.",
+        "To update workout plans.",
+        "To replace the gym entirely."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does the group decide against the sports league?",
+      "options": [
+        "It is not social enough.",
+        "It is too expensive.",
+        "It lacks professional results.",
+        "It is less flexible than gym."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "How does the compromise address Sarah's need for convenience?",
+      "options": [
+        "She trains at home.",
+        "She works out together.",
+        "She avoids gym crowds.",
+        "She uses flexible hours."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What does Mark suggest is the \"gym\" option's biggest flaw?",
+      "options": [
+        "The equipment is old.",
+        "It lacks privacy.",
+        "It is too crowded.",
+        "The membership is temporary."
+      ],
+      "answer": 2
+    }
+  ]
+}

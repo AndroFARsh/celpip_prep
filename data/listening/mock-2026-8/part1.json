@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.5,
+        "end": 189.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 189.6,
+            "end": 193.9
+          },
+          "prompt": "Why is Mr. Fletcher calling?",
+          "options": [
+            "Report street flooding issue",
+            "Fix his garage roof",
+            "Complain about noisy neighbors",
+            "Request new trash bins"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 221.0,
+            "end": 224.7
+          },
+          "prompt": "What causes the flooding?",
+          "options": [
+            "Too many rain storms",
+            "Blocked street drain pipes",
+            "Broken water main pipe",
+            "Heavy wind and rain"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 251.5,
+            "end": 255.5
+          },
+          "prompt": "What will Ms. Eris do?",
+          "options": [
+            "Send a repair truck",
+            "Call the fire department",
+            "Ignore the reported issue",
+            "Visit the site herself"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 293.6,
+        "end": 351.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 351.7,
+            "end": 357.2
+          },
+          "prompt": "Why does Mr. Fletcher think the flooding is recurring?",
+          "options": [
+            "It is the first time",
+            "The leaves are heavy",
+            "Too many townhouses built",
+            "The roads are too wide"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 382.8,
+            "end": 387.8
+          },
+          "prompt": "What is the status of the major pipe upgrade?",
+          "options": [
+            "Not planned at all",
+            "Finished by the city",
+            "Cancelled by the council",
+            "Waiting on budget approval"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 413.8,
+            "end": 420.7
+          },
+          "prompt": "Which image shows the special valves the city is installing to stop backflow?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 455.7,
+        "end": 520.4
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 520.8,
+            "end": 526.4
+          },
+          "prompt": "Why is Mr. Fletcher worried about the school bus?",
+          "options": [
+            "It arrives too early",
+            "It is a safety risk",
+            "It lacks necessary supplies",
+            "The schedule is unreliable"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 551.8,
+            "end": 557.1
+          },
+          "prompt": "What action will Ms. Eris take regarding the bus?",
+          "options": [
+            "Help pick up sandbags",
+            "Cancel the bus service",
+            "Send drain cleaning crews",
+            "Suggest a different route"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

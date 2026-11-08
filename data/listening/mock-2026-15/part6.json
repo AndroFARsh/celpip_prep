@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1884.9,
+    "end": 2041.6
+  },
+  "questions": [
+    {
+      "prompt": "Financial penalties ensure that firms ______.",
+      "options": [
+        "increase evening workloads",
+        "reduce overall stress",
+        "adopt different habits",
+        "operate during holidays"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Adequate relaxation boosts long-term employee ______.",
+      "options": [
+        "family connections",
+        "efficiency",
+        "weekend availability",
+        "phone notifications"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Always-on cultures create persistent mental ______.",
+      "options": [
+        "strain",
+        "excitement",
+        "focus",
+        "accountability"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Mandatory regulations might hinder corporate ______.",
+      "options": [
+        "responsiveness",
+        "financial stability",
+        "remote working",
+        "international locations"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Opponents favor developing private office ______.",
+      "options": [
+        "flexible schedules",
+        "standards",
+        "international timezones",
+        "government fines"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Balancing health and agility remains ______.",
+      "options": [
+        "illegal",
+        "unnecessary",
+        "unanimous",
+        "challenging"
+      ],
+      "answer": 3
+    }
+  ]
+}

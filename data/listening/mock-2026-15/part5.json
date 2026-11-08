@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1555.3,
+    "end": 1686.1
+  },
+  "questions": [
+    {
+      "prompt": "Why does Maya propose a joint account?",
+      "options": [
+        "Increased transfers",
+        "Grocery monitoring",
+        "Administrative efficiency",
+        "Manual calculations"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is Leo's primary hesitation?",
+      "options": [
+        "Financial autonomy",
+        "Forgetting payments",
+        "Joining a friendship",
+        "Emergency snacks"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Jax challenge Leo's preference for the current system?",
+      "options": [
+        "Mentioning internet bills",
+        "Highlighting current friction",
+        "Praising the spreadsheet",
+        "Proposing a shared pot"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What benefit does Maya see in \"visibility\"?",
+      "options": [
+        "Buying toilet paper",
+        "Real-time tracking",
+        "Avoiding adulthood",
+        "Financial predictability"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What does Leo mean by \"scope creep\"?",
+      "options": [
+        "Expanding categories",
+        "High-end appliances",
+        "Dish soap costs",
+        "Group decision-making"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Jax intend to control spending?",
+      "options": [
+        "Blank check policies",
+        "Daily group texts",
+        "Strict pre-approval",
+        "Utility tool usage"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the purpose of the \"Expense Manifesto\"?",
+      "options": [
+        "Formalize boundaries",
+        "Three-month testing",
+        "Laptop coordination",
+        "Sunday night math"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the final tone of the conversation?",
+      "options": [
+        "Cautious compromise",
+        "Total refusal",
+        "Immediate excitement",
+        "Budgeting expertise"
+      ],
+      "answer": 0
+    }
+  ]
+}

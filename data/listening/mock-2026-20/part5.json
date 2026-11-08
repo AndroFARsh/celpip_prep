@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1435.3,
+    "end": 1558.1
+  },
+  "questions": [
+    {
+      "prompt": "Why is Kevin frustrated with the new system?",
+      "options": [
+        "He dislikes technology.",
+        "Traffic makes booking timing risky.",
+        "He wants to walk to work.",
+        "The app is too expensive."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Alex dislike it?",
+      "options": [
+        "App is very complex.",
+        "Daily tasks feel unnecessary.",
+        "He wants free parking.",
+        "He walks to work."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why change the system?",
+      "options": [
+        "To reduce employee stress.",
+        "To manage limited space.",
+        "To stop daily driving.",
+        "To upgrade office tech."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Kevin's specific worry regarding the payment?",
+      "options": [
+        "Paying for an unused reserved spot.",
+        "The app having hidden fees.",
+        "The cost of a monthly pass.",
+        "Paying via a credit card."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Lisa feel?",
+      "options": [
+        "The policy is fair.",
+        "Commuters are being punished.",
+        "Biking is much better.",
+        "Expansion was a mistake."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is their suggested solution?",
+      "options": [
+        "Make parking completely free.",
+        "Request a subsidized rate.",
+        "Use different parking lots.",
+        "Ignore the new rules."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How will they protest?",
+      "options": [
+        "Stop using the app.",
+        "Write a joint email.",
+        "Quit their current jobs.",
+        "Move closer to work."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the first step?",
+      "options": [
+        "Send email to HR.",
+        "Start a public petition.",
+        "Talk to other colleagues.",
+        "Download the new app."
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1239.6,
+    "end": 1350.7
+  },
+  "questions": [
+    {
+      "prompt": "The main goal of the 'Prescription for Nature' initiative is to provide citizens with ______",
+      "options": [
+        "alternative wellness solutions",
+        "trial phase medication",
+        "increased wood walks",
+        "pharmaceutical script options"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Dr. Thorne’s research proved that spending time outdoors directly causes ______",
+      "options": [
+        "measurable biological improvements",
+        "hormone level expansion",
+        "mandatory green space hours",
+        "fresh air production"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Critics of the initiative are worried that the current setup ______",
+      "options": [
+        "offers sparse park access",
+        "requires free prescriptions",
+        "creates societal inequalities",
+        "imposes high travel costs"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The city plan to introduce a shuttle service aims to solve problems involving ______",
+      "options": [
+        "low-cost downtown hubs",
+        "August transit delays",
+        "popular trailhead crowding",
+        "geographic transit barriers"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Insurance companies might support low-income participants by covering ______",
+      "options": [
+        "expensive clinical treatment",
+        "necessary physical gear",
+        "specialized insurance providers",
+        "hiking boot manufacturing"
+      ],
+      "answer": 1
+    }
+  ]
+}

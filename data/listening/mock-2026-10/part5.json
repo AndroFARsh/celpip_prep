@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1632.5,
+    "end": 1779.9
+  },
+  "questions": [
+    {
+      "prompt": "Why does Grace reject the community college night classes?",
+      "options": [
+        "Classes are too long",
+        "Wants family time",
+        "Program is too new",
+        "Costs too much"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Grace's main concern about the private school?",
+      "options": [
+        "It is too expensive",
+        "Lack of industry prestige",
+        "Too far from home",
+        "Unproven track record"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why does Luke think Grace's work experience is a plus?",
+      "options": [
+        "It helps with costs",
+        "It improves focus",
+        "It shortens the program",
+        "It impresses employers"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Grace view the university program?",
+      "options": [
+        "High cost, high value",
+        "Low cost, low value",
+        "New but innovative",
+        "Convenient but risky"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the group's underlying goal for Grace?",
+      "options": [
+        "Save money on tuition",
+        "Find a part-time job",
+        "Invest in her career",
+        "Avoid busy schedules"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Grace decide on the university?",
+      "options": [
+        "It has weekend flexibility",
+        "It is the cheapest",
+        "Classes are online",
+        "Josh recommended it"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Grace feel about the private school curriculum?",
+      "options": [
+        "It is outdated",
+        "It is quite impressive",
+        "It is too theoretical",
+        "It is irrelevant"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the final status of the three options?",
+      "options": [
+        "All three are rejected",
+        "University is selected",
+        "Private school is selected",
+        "College is selected"
+      ],
+      "answer": 1
+    }
+  ]
+}

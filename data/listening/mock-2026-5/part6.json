@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1819.6,
+    "end": 1953.4
+  },
+  "questions": [
+    {
+      "prompt": "Instructors support notices because they ______",
+      "options": [
+        "shorten long lecture hours",
+        "eliminate complex class assignments",
+        "improve overall exam scores",
+        "offer considerate advance notice"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Proponents argue a quick advisory leads to ______",
+      "options": [
+        "greater classroom engagement later",
+        "fewer required reading chapters",
+        "mandatory student attendance policies",
+        "lower campus stress levels"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Critics oppose alerts because education should ______",
+      "options": [
+        "ban graphic historical videos",
+        "protect individuals from discomfort",
+        "challenge conventional student thinking",
+        "eliminate difficult exam topics"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A major concern with warnings is professors might ______",
+      "options": [
+        "drop challenging course subjects",
+        "increase tuition fees yearly",
+        "cancel afternoon lectures frequently",
+        "ignore student feedback completely"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Constant warnings can eventually lead to ______",
+      "options": [
+        "faster academic credit completion",
+        "increased long-term subject fear",
+        "improved emotional resilience daily",
+        "reduced campus administrative costs"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The central dilemma focuses on whether universities should ______",
+      "options": [
+        "prioritize wellbeing over challenge",
+        "enforce strict campus safety",
+        "track attendance mandatory systems",
+        "grant advanced research funds"
+      ],
+      "answer": 0
+    }
+  ]
+}

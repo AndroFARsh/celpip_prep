@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 883.8,
+    "end": 990.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 991,
+        "end": 996.1
+      },
+      "prompt": "Why did the customer choose the medium unit?",
+      "options": [
+        "Manages entire houses",
+        "Holds single boxes",
+        "Fits apartment contents",
+        "Matches garage space"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1022,
+        "end": 1027.2
+      },
+      "prompt": "Why does the staff member recommend extra insurance?",
+      "options": [
+        "Basic coverage limits are low",
+        "Mandatory policy for all renters",
+        "Fire protection is otherwise excluded",
+        "Theft prevention requires upgrades"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1053,
+        "end": 1057.9
+      },
+      "prompt": "How does the customer access the facility?",
+      "options": [
+        "Keycard scanning system",
+        "Front desk check-in",
+        "Security guard escort",
+        "Individual entry PIN"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1084.2,
+        "end": 1088.6
+      },
+      "prompt": "What is the policy regarding locks?",
+      "options": [
+        "Mandatory store purchase",
+        "Provided free with rental",
+        "Bring own or buy one",
+        "Strict ban on personal locks"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1115,
+        "end": 1119.6
+      },
+      "prompt": "What is the minimum rental duration?",
+      "options": [
+        "Zero time commitment",
+        "Six-month contract",
+        "One-year agreement",
+        "Thirty-day strict lock-in"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1146.2,
+        "end": 1151.5
+      },
+      "prompt": "What requirement must be met before moving out?",
+      "options": [
+        "Key return deposit fee",
+        "In-person manager inspection",
+        "Advance departure notice",
+        "Professional cleaning service"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 922.0,
+    "end": 1072.5
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1073.0,
+        "end": 1078.0
+      },
+      "prompt": "Why is the volunteer interested in the device?",
+      "options": [
+        "He wants to save money",
+        "He has no space for large bins",
+        "He likes testing new machines",
+        "He wants to learn to garden"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1103.9,
+        "end": 1109.3
+      },
+      "prompt": "What is the volunteer's role in the testing process?",
+      "options": [
+        "Providing qualitative feedback",
+        "Repairing the sensors",
+        "Analyzing the data results",
+        "Selling the device to friends"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1134.9,
+        "end": 1141.2
+      },
+      "prompt": "Why is the volunteer restricted to fruit and vegetable scraps?",
+      "options": [
+        "To test the odor control",
+        "To save electricity costs",
+        "To prevent machine jams",
+        "To avoid attracting bugs"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1166.1,
+        "end": 1171.4
+      },
+      "prompt": "What happens at the end of the 30-day test?",
+      "options": [
+        "He gets to keep the device",
+        "He gets a cash payment",
+        "He receives a free machine",
+        "He returns the device and compost"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1197.0,
+        "end": 1202.0
+      },
+      "prompt": "Why is the volunteer concerned about privacy?",
+      "options": [
+        "The device tracks his usage",
+        "The device is connected online",
+        "He doesn't like being a number",
+        "He fears his home data leaks"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1228.0,
+        "end": 1232.5
+      },
+      "prompt": "What is the benefit for the tester?",
+      "options": [
+        "A large discount on a future purchase",
+        "Early access to the product",
+        "Free composting service for life",
+        "A lifetime membership to the lab"
+      ],
+      "answer": 0
+    }
+  ]
+}

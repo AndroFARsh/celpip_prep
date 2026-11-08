@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1834.3,
+    "end": 1941.2
+  },
+  "questions": [
+    {
+      "prompt": "Proponents claim automation makes grading ______",
+      "options": [
+        "boosts human value",
+        "ends technical needs",
+        "simplifies classroom grading",
+        "raises school ranks"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Teamwork grades reveal a person ______",
+      "options": [
+        "finishes school early",
+        "masters computer coding",
+        "works only alone",
+        "excels at collaborating"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Evaluating empathy is difficult because it ______",
+      "options": [
+        "lacks career value",
+        "relies on formulas",
+        "varies across personalities",
+        "requires advanced coding"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A major worry about grading traits is students ______",
+      "options": [
+        "drop out early",
+        "reject technical subjects",
+        "demand higher grades",
+        "fake expected behaviors"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Grading interpersonal skills might unfairly penalize ______",
+      "options": [
+        "diverse communication styles",
+        "high math scorers",
+        "solo workers",
+        "coding experts"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The debate focuses on whether universities should ______",
+      "options": [
+        "measure subjective personal traits",
+        "teach calculus equations",
+        "eliminate all grades",
+        "prioritize programming"
+      ],
+      "answer": 0
+    }
+  ]
+}

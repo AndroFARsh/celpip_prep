@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.4,
+        "end": 192.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 193.5,
+            "end": 197.9
+          },
+          "prompt": "Why is the customer contacting the store?",
+          "options": [
+            "To request a full refund",
+            "To fix a faulty device",
+            "To complain about poor service",
+            "To ask for repair advice"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 224.5,
+            "end": 229.3
+          },
+          "prompt": "What is customer's primary concern?",
+          "options": [
+            "The cost of repairs",
+            "A lengthy manufacturer wait",
+            "Improper console ventilation",
+            "Losing his saved game data"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 255.7,
+            "end": 261
+          },
+          "prompt": "Why is Chloe's response reassuring to customer?",
+          "options": [
+            "She promises an instant fix",
+            "She offers a home visit",
+            "He qualifies for an exchange",
+            "She provides a discount code"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 297.5,
+        "end": 362.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 362.7,
+            "end": 367.7
+          },
+          "prompt": "Why does Chloe advise against a repair?",
+          "options": [
+            "It costs too much money",
+            "It might void the warranty",
+            "The technician is currently away",
+            "The model is too new"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 393.5,
+            "end": 399.8
+          },
+          "prompt": "What is the customer's main concern about trading consoles?",
+          "options": [
+            "The time taken for repair",
+            "Losing his game progress",
+            "The cost of a new membership",
+            "Configuring the holiday sales settings"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 424.8,
+            "end": 432.2
+          },
+          "prompt": "Which icon best represents customers' current fear regarding his game files?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 466.6,
+        "end": 530.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 531.8,
+            "end": 536.2
+          },
+          "prompt": "Why does Chloe offer a demo unit?",
+          "options": [
+            "To test a new product",
+            "To compensate for store delays",
+            "To provide a temporary solution",
+            "To avoid issuing a refund"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 562.8,
+            "end": 568.5
+          },
+          "prompt": "What is the customer's main motivation for accepting the loaner?",
+          "options": [
+            "He needs to finish his work",
+            "He wants to avoid coming back",
+            "He must prepare for a tournament",
+            "He wants the store’s gift card"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

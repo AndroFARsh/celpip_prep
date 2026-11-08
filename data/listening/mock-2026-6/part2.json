@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 574.8,
+    "end": 710.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 711.9,
+        "end": 716.5
+      },
+      "prompt": "Why is the customer sending the package?",
+      "options": [
+        "Wedding gift",
+        "Anniversary present",
+        "Birthday party",
+        "Holiday present"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 742.9,
+        "end": 747.5
+      },
+      "prompt": "What packaging method does the clerk suggest?",
+      "options": [
+        "Outer container cushioning",
+        "Single layer wrapping",
+        "Wooden crate reinforcement",
+        "Vacuum plastic sealing"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 774,
+        "end": 778.2
+      },
+      "prompt": "Why did the customer pick air shipping?",
+      "options": [
+        "Minimized travel time",
+        "Cheaper postal rate",
+        "Smoother transit ride",
+        "Morning arrival guarantee"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 804.9,
+        "end": 808.7
+      },
+      "prompt": "How is the insurance handled?",
+      "options": [
+        "Upgraded coverage addition",
+        "Basic protection retention",
+        "Complete coverage decline",
+        "Maximum appraisal evaluation"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 836,
+        "end": 841
+      },
+      "prompt": "What delivery condition does the customer request?",
+      "options": [
+        "Depot pickup",
+        "Porch drop-off",
+        "Signature required",
+        "Locker storage"
+      ],
+      "answer": 2
+    }
+  ]
+}

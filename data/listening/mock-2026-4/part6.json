@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1693,
+    "end": 1778.2
+  },
+  "questions": [
+    {
+      "prompt": "The council is asking because ______.",
+      "options": [
+        "prices are going down",
+        "buying a home gets harder",
+        "the vote is coming up",
+        "builders want more work"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Maria supports building because ______.",
+      "options": [
+        "she has two kids",
+        "the city keeps growing",
+        "families like hers miss out",
+        "she owns her flat"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Builders agree because it ______.",
+      "options": [
+        "keeps workers busy",
+        "cuts road traffic",
+        "helps young families",
+        "pleases Ken's side"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Ken wants to keep the land because ______.",
+      "options": [
+        "he lives close by",
+        "it brings more cars",
+        "it sits far away",
+        "soil takes in rain"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Maria says Ken's idea ______.",
+      "options": [
+        "saves the farms",
+        "is good but slow",
+        "is a poor plan",
+        "uses empty lots"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Before the vote, people can ______.",
+      "options": [
+        "talk at the library",
+        "vote on Thursday",
+        "tour the green land",
+        "wait until next month"
+      ],
+      "answer": 0
+    }
+  ]
+}

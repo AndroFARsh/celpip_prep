@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1405.8,
+    "end": 1540
+  },
+  "questions": [
+    {
+      "prompt": "Why was the rooftop dropped?",
+      "options": [
+        "Over-budget pricing",
+        "Disliked skyline view",
+        "Insufficient indoor capacity",
+        "Freezing winter weather"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What bothers Daniel about the hall?",
+      "options": [
+        "Feels dull, uninspiring",
+        "Too expensive overall",
+        "Requires outside catering",
+        "Close to office"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Emma mention the savings?",
+      "options": [
+        "Trim party spending",
+        "Prove hall's affordability",
+        "Purchase festive decorations",
+        "Finance live entertainment"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What worries Maya about food?",
+      "options": [
+        "Doubtful food quality",
+        "Overwhelming workload",
+        "Catering costs rising",
+        "Growing guest list"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does Daniel solve the food issue?",
+      "options": [
+        "Passes it to Emma",
+        "Receives price reduction",
+        "Personally owns task",
+        "Cousin's business type"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How does Maya feel about the hall?",
+      "options": [
+        "Disappointed yet cooperative",
+        "Completely thrilled",
+        "Missing rooftop view",
+        "Eager for invitations"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Daniel suggest a summer event?",
+      "options": [
+        "Replace December party",
+        "Ease Maya's disappointment",
+        "Honour team leaders",
+        "Save extra money"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What happens right after the meeting?",
+      "options": [
+        "Roof booked for December",
+        "Band hired already",
+        "Decorations purchased today",
+        "Maya phones management"
+      ],
+      "answer": 3
+    }
+  ]
+}

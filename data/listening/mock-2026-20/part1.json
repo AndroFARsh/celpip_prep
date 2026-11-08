@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 112.8,
+        "end": 170.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 173.0,
+            "end": 179.3
+          },
+          "prompt": "Why does the man mention the dead space required by the motor housing?",
+          "options": [
+            "To emphasize spatial requirements.",
+            "To explain the high cost.",
+            "To mention her remote job.",
+            "To suggest standard sizing."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 203.8,
+            "end": 210.0
+          },
+          "prompt": "Why does the woman decide to leave the store without making a purchase?",
+          "options": [
+            "Her back is hurting.",
+            "She prefers online desks.",
+            "She lacks specific data.",
+            "She needs to clean."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 234.6,
+            "end": 241.8
+          },
+          "prompt": "What is the man's underlying concern regarding the heavy monitors?",
+          "options": [
+            "The use of arm mounts.",
+            "Reducing the monitor count.",
+            "Welcoming her to TechPro.",
+            "Total weight capacity."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 276.8,
+        "end": 343.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 343.4,
+            "end": 347.3
+          },
+          "prompt": "Why does the woman decide against the glass desk?",
+          "options": [
+            "Oak is harder wood.",
+            "It is too small.",
+            "Glass looks very cheap.",
+            "It feels too cold."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 372.9,
+            "end": 379.0
+          },
+          "prompt": "What is the woman's underlying concern regarding her office?",
+          "options": [
+            "Finding sleek furniture.",
+            "Fitting all monitors.",
+            "Maintaining personal comfort.",
+            "Measuring desk space."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 403.7,
+            "end": 408.5
+          },
+          "prompt": "How does the man view the glass option?",
+          "options": [
+            "Hard to maintain.",
+            "Very easy cleaning.",
+            "Perfect for pets.",
+            "Great for cables."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 445.7,
+        "end": 503.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 504.8,
+            "end": 510.8
+          },
+          "prompt": "What requirement must be met for the company to cover the cost?",
+          "options": [
+            "Manager must approve.",
+            "Desk is local.",
+            "Expense is small.",
+            "Buy extra items."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 535.9,
+            "end": 542.4
+          },
+          "prompt": "Select the item the man suggests to add for better ergonomics.",
+          "options": [
+            "q8-a.jpg",
+            "q8-b.jpg",
+            "q8-c.jpg",
+            "q8-d.jpg"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.4,
+        "end": 181.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 181.5,
+            "end": 186.4
+          },
+          "prompt": "Why did Oliver visit the front desk this morning?",
+          "options": [
+            "He needs help with a conference",
+            "He wants to check out early",
+            "He had trouble sleeping in his room",
+            "He is complaining about the service"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 212.6,
+            "end": 217.3
+          },
+          "prompt": "How does Oliver describe the noise?",
+          "options": [
+            "Like a steady, soft humming",
+            "Like metal shaking around",
+            "Like an engine turning off",
+            "Like wind blowing through vents"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 243.5,
+            "end": 248.8
+          },
+          "prompt": "What does Ms. Sterling think is wrong with the unit?",
+          "options": [
+            "It needs more electricity",
+            "It is set to the wrong temperature",
+            "It has a mechanical issue",
+            "It was turned on too quickly"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 285.5,
+        "end": 338.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 338.7,
+            "end": 343.8
+          },
+          "prompt": "Why does Ms. Sterling offer an executive suite?",
+          "options": [
+            "To impress the guest",
+            "As a backup solution",
+            "Because it is cheaper",
+            "To clear the top floor"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 369.9,
+            "end": 375.6
+          },
+          "prompt": "Why is Oliver relieved about the 3 p.m. timing?",
+          "options": [
+            "He is free after 5:00 PM",
+            "He is finished his work",
+            "He arrives at the hotel",
+            "He wants to move bags"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 400.7,
+            "end": 407.2
+          },
+          "prompt": "Which option shows what Ms. Sterling will do while Oliver is away?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 442.7,
+        "end": 498.8
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 498.8,
+            "end": 504.0
+          },
+          "prompt": "Why is Ms. Sterling offering a free snack tray?",
+          "options": [
+            "To encourage late-night dining",
+            "As compensation for the trouble",
+            "Because the hotel is fully booked",
+            "To celebrate his presentation"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 529.8,
+            "end": 534.6
+          },
+          "prompt": "How will Oliver receive his new room keys?",
+          "options": [
+            "They will be left in his bag",
+            "Staff will drop them at the center",
+            "He will pick them up at the desk",
+            "They will be mailed to his home"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

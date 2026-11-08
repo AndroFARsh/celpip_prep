@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.5,
+        "end": 176.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 177.6,
+            "end": 182.3
+          },
+          "prompt": "Why is Liam looking for a part-time job?",
+          "options": [
+            "He wants to learn office skills.",
+            "His living costs are high.",
+            "He needs to improve his grades.",
+            "He dislikes sitting in class."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 208.7,
+            "end": 213.9
+          },
+          "prompt": "What is Liam's concern about mall jobs?",
+          "options": [
+            "They are too far away.",
+            "They require specific office skills.",
+            "The shifts might be long.",
+            "They are already filled."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 239.7,
+            "end": 244.1
+          },
+          "prompt": "What kind of job does Liam prefer?",
+          "options": [
+            "One that is very quiet.",
+            "One that involves moving.",
+            "An office job on campus.",
+            "A job with evening shifts."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 281.5,
+        "end": 339.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 339.1,
+            "end": 344.5
+          },
+          "prompt": "What is the benefit of working at the Campus Recreation Center?",
+          "options": [
+            "Shorter, more flexible shifts.",
+            "Higher pay than the mall.",
+            "No training is ever required.",
+            "It is located inside the mall."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 369.8,
+            "end": 375.8
+          },
+          "prompt": "What must Liam do to qualify for better campus jobs?",
+          "options": [
+            "Enroll in a new math class.",
+            "Work eight-hour shifts.",
+            "Renew his safety certifications.",
+            "Finish his second semester."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 401.1,
+            "end": 406.6
+          },
+          "prompt": "Which option shows the training Liam needs to renew?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 442.8,
+        "end": 508.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 509.0,
+            "end": 513.7
+          },
+          "prompt": "What is required for the tutoring application?",
+          "options": [
+            "A recommendation and high grades.",
+            "First Aid and CPR certification.",
+            "Eight hours of availability weekly.",
+            "A resume and a job interview."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 539.8,
+            "end": 545.3
+          },
+          "prompt": "Why does the advisor suggest tutoring over the gym job?",
+          "options": [
+            "It pays significantly more money.",
+            "It offers more flexible shift hours.",
+            "It does not require any references.",
+            "It relates to his current studies."
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

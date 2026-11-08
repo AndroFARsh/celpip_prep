@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Validate every test in data/listening/ with the app's own zod schemas and loader.
-# Usage: validate.sh   (run from anywhere inside the repo)
+# Usage: validate.sh [dir]   (run from anywhere inside the repo; dir defaults to data/listening)
 set -euo pipefail
 
 root=$(git rev-parse --show-toplevel)
@@ -8,5 +8,6 @@ root=$(git rev-parse --show-toplevel)
 if [ "$(node -p 'process.versions.node.split(".")[0]')" -lt 20 ] && [ -s "$HOME/.nvm/nvm.sh" ]; then
   set +u; . "$HOME/.nvm/nvm.sh"; nvm use 22 >/dev/null; set -u
 fi
+[ $# -gt 0 ] && export VALIDATE_DIR=$(cd "$1" && pwd)
 cd "$root/web"
 npx vitest run lib/listening/tests.test.ts -t "data/listening"

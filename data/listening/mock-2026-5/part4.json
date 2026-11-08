@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1178.1,
+    "end": 1299.5
+  },
+  "questions": [
+    {
+      "prompt": "The community gathered on Saturday primarily to ______",
+      "options": [
+        "inspect safety building codes",
+        "protect century-old wooden structures",
+        "raise a new agricultural building",
+        "clear storm debris from roads"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The insurance payout caused financial strain because it ______",
+      "options": [
+        "covered only partial expenses",
+        "fully paid for reconstruction",
+        "was completely denied today",
+        "funded organic dairy operations"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The professional carpenter focused on ______",
+      "options": [
+        "teaching traditional framing techniques",
+        "inspecting local safety codes",
+        "operating heavy donor equipment",
+        "managing heavy traffic congestion"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The afternoon schedule experienced a pause due to ______",
+      "options": [
+        "volunteer lunch break interruptions",
+        "heavy equipment delivery delays",
+        "official safety compliance verification",
+        "neighbor complaints about noise"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Local government officials are considering ______",
+      "options": [
+        "replacing old county insurance policies",
+        "banning future community barn raising",
+        "widening narrow valley roadways",
+        "establishing a permanent farmer fund"
+      ],
+      "answer": 3
+    }
+  ]
+}

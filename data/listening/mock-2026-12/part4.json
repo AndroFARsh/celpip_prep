@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1277.2,
+    "end": 1420.7
+  },
+  "questions": [
+    {
+      "prompt": "The primary benefit of this invention is ______.",
+      "options": [
+        "increasing plastic manufacturing production",
+        "providing affordable housing alternatives",
+        "replacing all traditional clay bricks",
+        "creating new high-skilled jobs"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The bricks are designed to be ______.",
+      "options": [
+        "assembled without additional adhesive",
+        "painted to prevent fire damage",
+        "used only for interior walls",
+        "combined with cement for strength"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Construction laborers express concern regarding ______.",
+      "options": [
+        "the structural safety of homes",
+        "the difficulty of learning technology",
+        "the impact on employment stability",
+        "the rising cost of plastic"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Environmentalists question the potential for ______.",
+      "options": [
+        "long-term material degradation",
+        "chemical fire hazards occurring",
+        "excessive waste during production",
+        "increased plastic consumption rates"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Future expansion depends largely on ______.",
+      "options": [
+        "securing international patent rights",
+        "achieving required safety verification",
+        "raising prices for the bricks",
+        "training workers in plastic melting"
+      ],
+      "answer": 1
+    }
+  ]
+}

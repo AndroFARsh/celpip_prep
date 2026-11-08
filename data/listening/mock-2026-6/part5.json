@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1504.2,
+    "end": 1635
+  },
+  "questions": [
+    {
+      "prompt": "Why does the shelter need help now?",
+      "options": [
+        "It is closing down",
+        "It is overcrowded",
+        "It lacks volunteers",
+        "It needs new buildings"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the volunteers' main goal?",
+      "options": [
+        "Organizing a food drive",
+        "Finding homes for dogs",
+        "Cleaning the facility",
+        "Hiring new staff"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why do they decide to use flyers?",
+      "options": [
+        "Cheaper than social media",
+        "Reach older neighbors",
+        "Easier to print",
+        "To show photos"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is a \"set date\" better?",
+      "options": [
+        "Easier to organize",
+        "Avoids bad weather",
+        "Provides a deadline",
+        "Matches store hours"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why include a photo on the flyer?",
+      "options": [
+        "To prove identity",
+        "Increases engagement",
+        "It is required by law",
+        "It saves space"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How will they get the flyers printed?",
+      "options": [
+        "Using a local shop",
+        "James prints them",
+        "Shelter pays for it",
+        "Using Charlotte’s office"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why mention the new dogs?",
+      "options": [
+        "To get more money",
+        "To find foster homes",
+        "To explain the noise",
+        "To create a reason"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Where will the drive take place?",
+      "options": [
+        "Outside the shelter",
+        "At a park",
+        "At the town center",
+        "Online only"
+      ],
+      "answer": 0
+    }
+  ]
+}

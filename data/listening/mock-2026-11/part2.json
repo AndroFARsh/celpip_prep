@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 578.9,
+    "end": 750.9
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 750.9,
+        "end": 754.9
+      },
+      "prompt": "Why does the man want a bin?",
+      "options": [
+        "To reduce food waste",
+        "To save on trash",
+        "To start a garden",
+        "To clear his balcony"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 781.9,
+        "end": 786.5
+      },
+      "prompt": "What is the woman's primary concern?",
+      "options": [
+        "Cost of the bin",
+        "Location of the bin",
+        "Getting manager approval",
+        "Managing the smell"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 812.8,
+        "end": 817.5
+      },
+      "prompt": "How will they manage bin maintenance?",
+      "options": [
+        "Hiring professional waste staff",
+        "Using a rotation system",
+        "Asking the building manager",
+        "Paying a monthly fee"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 843.9,
+        "end": 848.4
+      },
+      "prompt": "Why is the manager willing to allow it?",
+      "options": [
+        "It saves him money",
+        "He is an environmentalist",
+        "They take full responsibility",
+        "It helps the flower pots"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 875.0,
+        "end": 878.3
+      },
+      "prompt": "What will they do next?",
+      "options": [
+        "Inform the other tenants",
+        "Buy the bin today",
+        "Clean the back alley",
+        "Start a new garden"
+      ],
+      "answer": 0
+    }
+  ]
+}

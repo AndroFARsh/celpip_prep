@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.5,
+        "end": 168.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 168.6,
+            "end": 174.4
+          },
+          "prompt": "Why is Alex concerned about the data usage notification?",
+          "options": [
+            "To avoid extra costs",
+            "To stop streaming movies",
+            "To verify his email usage",
+            "To complain to the provider"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 199.5,
+            "end": 205.9
+          },
+          "prompt": "What is Jordan's underlying concern regarding the data limit?",
+          "options": [
+            "That his movies aren't the cause",
+            "That 4K streaming is too expensive",
+            "That he has too much free time",
+            "That the provider is inaccurate"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 230.6,
+            "end": 235.5
+          },
+          "prompt": "How has the situation changed since the last month?",
+          "options": [
+            "Data usage has increased significantly",
+            "They switched to a cheaper plan",
+            "Internet speeds have become slower",
+            "Their midterms have finally ended"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 272.6,
+        "end": 331.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 332.5,
+            "end": 337.2
+          },
+          "prompt": "Why does Jordan apologize?",
+          "options": [
+            "Because he used too much data",
+            "Because he broke the monitor",
+            "Because the internet is too slow",
+            "Because he forgot his midterms"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 363.8,
+            "end": 370.9
+          },
+          "prompt": "Which image best represents the reason for the high data usage mentioned by Jordan?",
+          "options": [
+            "q5-a.jpg",
+            "q5-b.jpg",
+            "q5-c.jpg",
+            "q5-d.jpg"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 394.7,
+            "end": 400.7
+          },
+          "prompt": "What is Alex's underlying concern regarding the bill?",
+          "options": [
+            "He wants a faster internet speed",
+            "He does not want to pay for Jordan's usage",
+            "He needs to buy a new gaming console",
+            "He wants to change service providers"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 436.6,
+        "end": 499.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 499.8,
+            "end": 505.1
+          },
+          "prompt": "What is Jordan's plan for the rest of the month?",
+          "options": [
+            "Use his phone data for heavy tasks",
+            "Pay the provider for unlimited data",
+            "Stop watching YouTube entirely",
+            "Cancel his internet subscription"
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 530.8,
+            "end": 535.7
+          },
+          "prompt": "Why do they decide to switch to an unlimited plan?",
+          "options": [
+            "To get a faster internet connection",
+            "To stop worrying about data limits",
+            "To get a discount on their next bill",
+            "To punish the internet provider"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

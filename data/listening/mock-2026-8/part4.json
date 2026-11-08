@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1290.1,
+    "end": 1426.6
+  },
+  "questions": [
+    {
+      "prompt": "The whales became trapped because ______.",
+      "options": [
+        "they were hunting salmon",
+        "they were injured underwater",
+        "the channel was blocked",
+        "of rapid tidal changes"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Early rescue efforts were ______.",
+      "options": [
+        "perfectly timed and successful",
+        "causing the whales stress",
+        "ignored by wildlife officers",
+        "welcomed by the orcas"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The successful method involved ______.",
+      "options": [
+        "acoustic guidance toward safety",
+        "physical pushing by volunteers",
+        "feeding the whales fish",
+        "using large fishing nets"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Experts value this technique because ______.",
+      "options": [
+        "it prevents human contact",
+        "it is very cheap",
+        "it calms seals nearby",
+        "it requires no equipment"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Some critics remain concerned about ______.",
+      "options": [
+        "the safety of researchers",
+        "the cost of speakers",
+        "whale migration route changes",
+        "potential disruption to wildlife"
+      ],
+      "answer": 3
+    }
+  ]
+}

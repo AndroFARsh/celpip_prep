@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1634.6,
+    "end": 1743.1
+  },
+  "questions": [
+    {
+      "prompt": "Why does Kevin reject the adventure park?",
+      "options": [
+        "It is too expensive",
+        "It is too far",
+        "Transportation is difficult",
+        "He dislikes crowds"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is Tina's main concern regarding the park?",
+      "options": [
+        "She prefers art museums",
+        "The fee is too high",
+        "She hates the beach",
+        "She works on Saturdays"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is the art museum unsuitable for the group?",
+      "options": [
+        "It is too serious",
+        "It is too expensive",
+        "It is hard to reach",
+        "It has no sunshine"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does the beach solve Tina's problem?",
+      "options": [
+        "It is free entry",
+        "It is near her home",
+        "It has better food",
+        "It provides sunshine"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why is the beach convenient for Kevin?",
+      "options": [
+        "It is near the museum",
+        "He has a car",
+        "A direct train exists",
+        "It is walking distance"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the group's underlying goal for Saturday?",
+      "options": [
+        "Saving money on gas",
+        "Finding an active group activity",
+        "Visiting a famous landmark",
+        "Getting a good workout"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does the group finalize their plan?",
+      "options": [
+        "By voting on a date",
+        "By checking the weather",
+        "By coordinating logistics",
+        "By splitting the costs"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Kevin plan to bring?",
+      "options": [
+        "Sandwiches and fruit",
+        "A frisbee",
+        "Two bus tickets",
+        "An art book"
+      ],
+      "answer": 1
+    }
+  ]
+}

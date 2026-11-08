@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 583.8,
+    "end": 668.2
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 669.0,
+        "end": 675.4
+      },
+      "prompt": "Why does Mark decide to join Sarah's group instead of going alone?",
+      "options": [
+        "Prefers eating buttered popcorn",
+        "Avoids the downtown theater",
+        "Likes intense action movies",
+        "Values social movie experiences"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 699.9,
+        "end": 706.0
+      },
+      "prompt": "What is the group's reasoning for choosing the Fifth Avenue Theatre?",
+      "options": [
+        "Features larger screening rooms",
+        "Offers superior physical comfort",
+        "Near the shopping mall",
+        "Located in downtown area"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 730.8,
+        "end": 736.6
+      },
+      "prompt": "Why does Sarah suggest booking tickets in advance?",
+      "options": [
+        "Movie features intense action",
+        "Anticipates weekend sell-out risk",
+        "Usually meets for coffee",
+        "Recommends buying tickets later"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 761.8,
+        "end": 767.5
+      },
+      "prompt": "How does Mark feel about the theater on Fifth Avenue?",
+      "options": [
+        "Previously interested in visiting",
+        "Already purchased his tickets",
+        "Loves real buttered popcorn",
+        "Prefers larger chain cinemas"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 793.0,
+        "end": 798.2
+      },
+      "prompt": "What will Sarah do before contacting Mark again?",
+      "options": [
+        "Sends Mark the link",
+        "Buys coffee for Mark",
+        "Coordinates with group first",
+        "Cancels the original plans"
+      ],
+      "answer": 2
+    }
+  ]
+}

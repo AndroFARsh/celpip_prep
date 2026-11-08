@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 946,
+    "end": 1117.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1117.1,
+        "end": 1123.1
+      },
+      "prompt": "Why does the recruiter value the team-based structure?",
+      "options": [
+        "It increases group accountability",
+        "It minimizes direct reporting",
+        "It keeps work moving fast",
+        "It replaces the management team"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1148.9,
+        "end": 1155
+      },
+      "prompt": "What is the underlying reason for the office attendance policy?",
+      "options": [
+        "To maintain regular team meetings",
+        "To monitor daily employee performance",
+        "To save utility costs",
+        "To limit work-from-home requests"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1180,
+        "end": 1185.5
+      },
+      "prompt": "What is the company's main goal for the Friday get-together?",
+      "options": [
+        "To socialize and bond",
+        "To share professional knowledge",
+        "To discuss upcoming office changes",
+        "To celebrate weekly goal completion"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1211,
+        "end": 1216.6
+      },
+      "prompt": "Why might an employee choose the premium dental plan?",
+      "options": [
+        "The company pays the monthly fee",
+        "It covers more extensive procedures",
+        "It is cheaper than the basic plan",
+        "It includes regular cleanings only"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1242.2,
+        "end": 1247.6
+      },
+      "prompt": "How does the company encourage eco-friendly commuting?",
+      "options": [
+        "By providing free parking spots",
+        "By offering a financial incentive",
+        "By building shower facilities",
+        "By limiting car access to garages"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1273,
+        "end": 1278.4
+      },
+      "prompt": "What is David's underlying impression of the company?",
+      "options": [
+        "It prioritizes employee well-being",
+        "It is highly competitive and fast",
+        "It lacks a clear structure",
+        "It focuses only on technical training"
+      ],
+      "answer": 0
+    }
+  ]
+}

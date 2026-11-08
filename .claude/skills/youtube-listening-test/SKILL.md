@@ -21,24 +21,25 @@ Scripts live in `.claude/skills/youtube-listening-test/scripts/`. `frame.sh` is 
 
 2. **Read the screens** with `bash .claude/skills/youtube-reading-test/scripts/frame.sh "$W" <seconds> "$W/q/<name>.png" [w:h:x:y]`:
    - Parts 1-3: one frame ~2 s into each spoken question. Options are in the right pane ("Question k of n"), crop `660:520:620:150` at 720p. Put 4 crops in one image with ffmpeg `hstack`/`vstack` to read them in fewer calls.
+   - Options can fade in during the answer silence, so take the frame late enough that all four are shown.
    - Parts 4-6: one frame in the answer silence. Options are a table with one column per question; row r is option r. Part 5 shows the options for questions 1-5 first and 6-8 after about 2 minutes, so read one frame early and one late in its silence.
    - Answer key: slides near the end (one to three). Read them at full size.
 
 3. **Transcribe the spoken questions** (Parts 1-3):
    `bash .claude/skills/youtube-listening-test/scripts/transcribe.sh "$W" '[["p1q1", 181.8, 185.4], ...]'` with each clip padded by ~0.2 s. Do not download YouTube captions: they are often rate-limited (HTTP 429), and retrying with other clients is not allowed.
 
-4. **Picture options** (usually Part 1 Q8): cut each picture out of the question frame with `frame.sh ... data/listening/<id>/q8-a.jpg <w:h:x:y>` (a to d) and look at the result: no frame border or letter, nothing cut off.
+4. **Picture options** (one Part 1 question, often Q5-Q8; check every Part 1 frame): cut each picture out of the question frame with `frame.sh ... $W/out/<id>/q<N>-a.jpg <w:h:x:y>` (a to d, N = the question number in Part 1) and look at the result: no frame border or letter, nothing cut off.
 
-5. **Write the files** in `data/listening/<id>/`, named `mock-2026-<N>` with the next free N. Match `web/lib/listening/schema.ts`; use `data/listening/mock-2026-1/` as the reference example.
+5. **Write the files** in `$W/out/<id>/` (not in the repo yet: the app loads every folder in `data/listening/`, so a half-written one breaks the listening page), named `mock-2026-<N>` with the next free N. Match `web/lib/listening/schema.ts`; use `data/listening/mock-2026-1/` as the reference example.
 
-6. **Validate:** `bash .claude/skills/youtube-listening-test/scripts/validate.sh`. Fix the files until it passes.
+6. **Validate and move:** `bash .claude/skills/youtube-listening-test/scripts/validate.sh "$W/out"`. Fix the files until it passes, then `mv "$W/out/<id>" data/listening/`.
 
 ## Rules
 
 - **Clip times** come from `silences.txt`: `start` = end of the silence before the speech minus 0.2, `end` = start of the silence after it plus 0.3, rounded to 0.1. A short pause (< 2 s) inside a passage or a spoken question belongs to it.
 - **Spoken prompts:** drop the "Question N." prefix and fix obvious transcription errors using the options (one video's "old phone boards" was "old foam boards"). Write times as `1:30`, not `1.30` or `130`. End with `?`.
 - **Written prompts (Parts 4-6):** copy exactly. Keep a blank as `______` (six underscores); questions without a blank stay as they are.
-- **Options:** copy exactly, without the `A.` letter, in the video's order. Picture options are the four file names (`"q8-a.jpg"`...).
+- **Options:** copy exactly, without the `A.` letter, in the video's order. Picture options are the four file names (`"q6-a.jpg"`...).
 - **Answers:** `answer` = option row - 1. Check each key answer against the option text, not just the letter.
 - **Time limits** (Parts 4-6 only): the length of the answer silence rounded to the minute, normally 180, 180, 240.
 - **`meta.json`:** `{ "title": "Listening Mock Test 2026 #<N> (CareerAxis video)", "source": "https://www.youtube.com/watch?v=<video id>" }`. `source` is the plain watch URL: the app plays the audio from it and `pending.sh` matches on it.

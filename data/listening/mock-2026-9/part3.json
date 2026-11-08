@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 928.9,
+    "end": 1102.0
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1102.1,
+        "end": 1106.5
+      },
+      "prompt": "Why does the traveler ask for advice?",
+      "options": [
+        "She lost her passport.",
+        "She is traveling solo.",
+        "She dislikes the hostel.",
+        "She is lost in the city."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1132.9,
+        "end": 1138.4
+      },
+      "prompt": "What is the concern with South Quay at night?",
+      "options": [
+        "Too many tourists.",
+        "Aggressive street sellers.",
+        "High taxi fares.",
+        "Poor street lighting."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1164.5,
+        "end": 1170.1
+      },
+      "prompt": "What advice does the receptionist give for night subway travel?",
+      "options": [
+        "Sit in the front car.",
+        "Avoid the subway entirely.",
+        "Only travel with friends.",
+        "Use the emergency number."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1195.1,
+        "end": 1200.6
+      },
+      "prompt": "How should she handle the bracelet street scam?",
+      "options": [
+        "Pay for the bracelet.",
+        "Call the emergency number.",
+        "Keep hands in pockets.",
+        "Ask for a lower price."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1226.0,
+        "end": 1231.4
+      },
+      "prompt": "Why does the receptionist give her a hostel card?",
+      "options": [
+        "To advertise the hostel.",
+        "To help if she gets lost.",
+        "To use as a room key.",
+        "To show taxi drivers routes."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1257.2,
+        "end": 1262.1
+      },
+      "prompt": "What is the hostel's policy on valuables?",
+      "options": [
+        "Guests need their own lock.",
+        "Reception keeps passports.",
+        "The room safes are free.",
+        "Do not carry IDs outside."
+      ],
+      "answer": 0
+    }
+  ]
+}

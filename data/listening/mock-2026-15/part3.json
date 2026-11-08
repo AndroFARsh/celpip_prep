@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 884.0,
+    "end": 1030.7
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1033.0,
+        "end": 1037.9
+      },
+      "prompt": "Why does the volunteer want to join the garden?",
+      "options": [
+        "She needs fresh vegetables.",
+        "She wants to learn gardening.",
+        "She enjoys morning exercise.",
+        "She loves physical labor."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1064.0,
+        "end": 1068.8
+      },
+      "prompt": "Why must rounds be done in the morning?",
+      "options": [
+        "To avoid mid-day heat.",
+        "To catch the bugs early.",
+        "To get the best soil.",
+        "To finish before the shed closes."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1095.1,
+        "end": 1101.9
+      },
+      "prompt": "How does the coordinator's no-pulling rule change the volunteer's process?",
+      "options": [
+        "It makes her work faster.",
+        "It requires her to be observant.",
+        "It allows her to ignore sick plants.",
+        "It forces her to ask for help."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1126.1,
+        "end": 1132.3
+      },
+      "prompt": "What is the main concern behind wearing closed-toe shoes?",
+      "options": [
+        "The soil is often muddy.",
+        "It's a safety precaution.",
+        "It helps with walking uphill.",
+        "To keep her feet clean."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1157.1,
+        "end": 1163.0
+      },
+      "prompt": "Why does the coordinator want to walk through the beds on Thursday?",
+      "options": [
+        "To test the volunteer's knowledge.",
+        "To check for missing tools.",
+        "To provide hands-on training.",
+        "To distribute the garden keys."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1188.3,
+        "end": 1193.4
+      },
+      "prompt": "What is the volunteer's role regarding the harvest?",
+      "options": [
+        "She picks the ripe crops.",
+        "She sells them at market.",
+        "She identifies ready produce.",
+        "She decides what to plant."
+      ],
+      "answer": 2
+    }
+  ]
+}

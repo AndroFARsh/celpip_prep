@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 898.9,
+    "end": 1065.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1065.7,
+        "end": 1071.9
+      },
+      "prompt": "Why does the prop master reject the 3D printed resin for the daggers?",
+      "options": [
+        "It is too heavy to hold.",
+        "It could cause injury.",
+        "Resin is too expensive.",
+        "It looks too realistic."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1096.0,
+        "end": 1100.7
+      },
+      "prompt": "What is the main concern with the drinking cup?",
+      "options": [
+        "It must look antique.",
+        "It must be dishwasher-safe.",
+        "It must be very quiet.",
+        "It must be made of metal."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1127.0,
+        "end": 1132.6
+      },
+      "prompt": "Why are the practice versions required by next Tuesday?",
+      "options": [
+        "For opening night.",
+        "To check the sizing.",
+        "To apply the fire coating.",
+        "To test the paint color."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1158.1,
+        "end": 1163.8
+      },
+      "prompt": "What is the hobbyist's responsibility regarding the finish?",
+      "options": [
+        "Apply the fire coating.",
+        "Paint the final version.",
+        "Provide the base paint.",
+        "Buy the fireproof spray."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1189.4,
+        "end": 1195.9
+      },
+      "prompt": "Why does the prop master require the final coat to be done at the theater?",
+      "options": [
+        "To save time.",
+        "To meet safety laws.",
+        "To save on paint costs.",
+        "To match stage lighting."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1220.2,
+        "end": 1225.3
+      },
+      "prompt": "What will the hobbyist do before Tuesday?",
+      "options": [
+        "Send photos of his work.",
+        "Wait for paint samples.",
+        "Build foam prototypes.",
+        "Watch a performance."
+      ],
+      "answer": 2
+    }
+  ]
+}

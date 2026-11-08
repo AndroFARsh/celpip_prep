@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1987.8,
+    "end": 2166.6
+  },
+  "questions": [
+    {
+      "prompt": "Proponents suggest automation improves ______.",
+      "options": [
+        "store efficiency and pricing",
+        "employee physical health levels",
+        "customer service speed only",
+        "overall building safety standards"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Supporters claim new roles involve ______.",
+      "options": [
+        "managing large shipping fleets",
+        "maintaining complex technical systems",
+        "designing new retail stores",
+        "training robots for labor"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics highlight the value of ______.",
+      "options": [
+        "learning manual inventory skills",
+        "professional career development paths",
+        "initial workforce entry points",
+        "building complex digital applications"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A major concern for students is ______.",
+      "options": [
+        "finding flexible work options",
+        "higher entry-level wage demands",
+        "mandatory retail training programs",
+        "decreasing job satisfaction levels"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Some argue that automation reduces ______.",
+      "options": [
+        "the number of store locations",
+        "daily community human interaction",
+        "the need for inventory control",
+        "overall shopper spending habits"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The core challenge is balancing ______.",
+      "options": [
+        "tech benefits versus access",
+        "local versus global business",
+        "pricing versus product quality",
+        "rural versus urban shopping"
+      ],
+      "answer": 0
+    }
+  ]
+}

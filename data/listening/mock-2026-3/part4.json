@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1114.4,
+    "end": 1190.3
+  },
+  "questions": [
+    {
+      "prompt": "Liam never returned because ______.",
+      "options": [
+        "Harsh weather trapped him",
+        "His friends left him",
+        "A dog pulled him away",
+        "His leg gave out"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The volunteers followed Cooper because ______.",
+      "options": [
+        "He seemed calm and friendly",
+        "His behavior looked purposeful",
+        "He met them at the trailhead",
+        "He had a golden coat"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Liam stayed alive because Cooper ______.",
+      "options": [
+        "Kept him warm",
+        "Ran off for food",
+        "Showed rescuers the way",
+        "Was known to locals"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Park staff fear strays might ______.",
+      "options": [
+        "Protect lost walkers",
+        "Need more feeding",
+        "Upset nature and visitors",
+        "Find new owners"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Cooper's future looks ______.",
+      "options": [
+        "Wild and free",
+        "Warm and secure",
+        "Busy with rescues",
+        "Unclear for now"
+      ],
+      "answer": 1
+    }
+  ]
+}

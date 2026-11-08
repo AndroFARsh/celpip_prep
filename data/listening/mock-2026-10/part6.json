@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1978.7,
+    "end": 2155.2
+  },
+  "questions": [
+    {
+      "prompt": "Supporters argue this technology will ______.",
+      "options": [
+        "increase the birth rate",
+        "improve premature baby survival",
+        "lower costs for hospitals",
+        "replace traditional paediatric care"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Advocates claim this could reduce ______.",
+      "options": [
+        "gender-based career disadvantages",
+        "the global population growth",
+        "the need for doctors",
+        "parental medical debt costs"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "A major social concern involves ______.",
+      "options": [
+        "lowering global birth standards",
+        "ignoring necessary genetic testing",
+        "increasing hospital wait times",
+        "decreasing the human bond"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Some people worry about the ______.",
+      "options": [
+        "rise in genetic disorders",
+        "lack of scientific research",
+        "loss of natural childbirth",
+        "slow machine processing speeds"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Experts raise serious questions regarding ______.",
+      "options": [
+        "machine maintenance and repair",
+        "the cost of electricity",
+        "future reproductive legal rights",
+        "the quality of hospital food"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A primary economic fear is ______.",
+      "options": [
+        "decreased government tax revenue",
+        "expensive technology creating inequality",
+        "high insurance company premiums",
+        "bankruptcy for medical startups"
+      ],
+      "answer": 1
+    }
+  ]
+}

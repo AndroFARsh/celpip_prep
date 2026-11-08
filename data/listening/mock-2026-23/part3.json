@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 902.4,
+    "end": 1034.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1035.4,
+        "end": 1041.4
+      },
+      "prompt": "What is the primary reason the volunteer wants to assist at this theater?",
+      "options": [
+        "Practicing dressmaking hobbies",
+        "Admiration for the organization",
+        "Seeking formal wear employment",
+        "Displaying her personal portfolio"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1066.3,
+        "end": 1073.1
+      },
+      "prompt": "Why is the 1920s setting considered a major challenge for the production team?",
+      "options": [
+        "Modern plastics are banned",
+        "Authenticity demands distinct styles",
+        "Historical drama is unpopular",
+        "Beadwork is too expensive"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1097.2,
+        "end": 1104.0
+      },
+      "prompt": "What problem does the theater face regarding the main actress's gown?",
+      "options": [
+        "Antique buttons are missing",
+        "The gala scene changed",
+        "Contemporary materials look artificial",
+        "Stage lighting was damaged"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1128.4,
+        "end": 1134.5
+      },
+      "prompt": "What allows the volunteer to accept this demanding schedule?",
+      "options": [
+        "Flexible Tuesday construction time",
+        "Prior experience with scrambles",
+        "Remote employment arrangements",
+        "Three weeks of vacation"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1159.4,
+        "end": 1165.7
+      },
+      "prompt": "What is the head designer's current situation in the wardrobe department?",
+      "options": [
+        "Overwhelmed by specific tailoring",
+        "Refusing to fix dresses",
+        "Struggling with hand stitching",
+        "Resigning from dressmaking duties"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1190.7,
+        "end": 1196.7
+      },
+      "prompt": "How does the volunteer view the request to work on men's clothing?",
+      "options": [
+        "Anxious about basic alterations",
+        "Willing to provide support",
+        "Expert in wool tailoring",
+        "Sticking strictly to expertise"
+      ],
+      "answer": 1
+    }
+  ]
+}

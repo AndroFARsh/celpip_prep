@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1135.4,
+    "end": 1206
+  },
+  "questions": [
+    {
+      "prompt": "The bridge was shut because of ______.",
+      "options": [
+        "Heavy traffic",
+        "Hidden structural damage",
+        "Spring flooding",
+        "Its old age"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Cold weather made the problem ______.",
+      "options": [
+        "Less visible",
+        "Easier to fix",
+        "Noticeably worse",
+        "Completely new"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Drivers now face a ______.",
+      "options": [
+        "Slower detour",
+        "Toll road",
+        "Shorter route",
+        "Walking path"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Small shops fear ______.",
+      "options": [
+        "Losing passing customers",
+        "Higher rent costs",
+        "Council restrictions",
+        "Fewer deliveries"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The city urges residents to ______.",
+      "options": [
+        "Avoid the area",
+        "Support nearby businesses",
+        "Vote next week",
+        "Use the highway"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1302.1,
+    "end": 1424.9
+  },
+  "questions": [
+    {
+      "prompt": "The primary purpose is providing ______.",
+      "options": [
+        "faster medical assistance solutions",
+        "luxury goods to remote villages",
+        "alternative transportation for residents",
+        "employment for Northern Ontario pilots"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Drones offer an operational advantage by ______.",
+      "options": [
+        "flying longer than traditional planes",
+        "bypassing standard infrastructure needs",
+        "carrying passengers through storms",
+        "landing exclusively at large airports"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The chief values the system for ______.",
+      "options": [
+        "increasing the speed of pilots",
+        "reducing reliance on ice roads",
+        "lowering the cost of medicine",
+        "replacing the local health clinic"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Concerns regarding environmental impact involve ______.",
+      "options": [
+        "disruption of animal movement patterns",
+        "constant noise near private residences",
+        "pollution from drone battery leaks",
+        "high energy usage during summer"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Future success depends on overcoming ______.",
+      "options": [
+        "a lack of government funding",
+        "the limitations of battery technology",
+        "the high weight of medical equipment",
+        "a shortage of trained technicians"
+      ],
+      "answer": 1
+    }
+  ]
+}

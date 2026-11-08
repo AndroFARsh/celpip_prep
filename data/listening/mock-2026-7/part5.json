@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1631.5,
+    "end": 1755.1
+  },
+  "questions": [
+    {
+      "prompt": "Why does Sarah reject the painting project?",
+      "options": [
+        "It looks bad",
+        "Needs too many volunteers",
+        "It is too expensive",
+        "It is not permanent"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Alice’s concern about the food drive?",
+      "options": [
+        "It is too costly",
+        "It requires too much labor",
+        "It is only a temporary fix",
+        "It lacks community support"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Ben favor the garden project?",
+      "options": [
+        "It provides long-term benefits",
+        "It is the easiest to do",
+        "It requires no tools",
+        "It is indoors"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How will the group handle the heavy work?",
+      "options": [
+        "By hiring professionals",
+        "By working all weekend",
+        "By starting early in the morning",
+        "By splitting into teams"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is the group’s main priority?",
+      "options": [
+        "Finding the cheapest option",
+        "Balancing effort and impact",
+        "Finishing by lunchtime",
+        "Getting city permits"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How do they plan to get the necessary tools?",
+      "options": [
+        "Asking volunteers to bring them",
+        "Buying them at the store",
+        "Renting from the center",
+        "Borrowing from the pantry"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is Alice’s final task?",
+      "options": [
+        "Organizing the food drive",
+        "Securing project permission",
+        "Making a tool list",
+        "Painting the center"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How is the garden seen compared to the food drive?",
+      "options": [
+        "More permanent",
+        "Less expensive",
+        "More difficult",
+        "Less meaningful"
+      ],
+      "answer": 0
+    }
+  ]
+}

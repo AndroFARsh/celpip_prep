@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1941.8,
+    "end": 2112.9
+  },
+  "questions": [
+    {
+      "prompt": "Proponents suggest a surcharge to ______.",
+      "options": [
+        "increase local restaurant profits",
+        "finance better waste management",
+        "lower costs for consumers",
+        "stop all delivery services"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Supporters believe a fee might ______.",
+      "options": [
+        "force people to cook",
+        "stop all plastic use",
+        "reduce frequent, small orders",
+        "encourage faster food delivery"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Restaurant owners fear a fee ______.",
+      "options": [
+        "will limit their options",
+        "lowers customer interest levels",
+        "ignores environmental safety rules",
+        "creates unnecessary delivery delays"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Some blame the waste on ______.",
+      "options": [
+        "customer-driven packaging demands",
+        "poor quality restaurant food",
+        "expensive delivery app software",
+        "outdated city recycling laws"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "A potential alternative solution is ______.",
+      "options": [
+        "banning all plastic containers",
+        "removing all extra napkins",
+        "opting into extra items",
+        "ending late-night delivery services"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "The central issue revolves around ______.",
+      "options": [
+        "government regulation of apps",
+        "responsibility for packaging waste",
+        "the speed of current deliveries",
+        "fairness in restaurant pricing"
+      ],
+      "answer": 1
+    }
+  ]
+}

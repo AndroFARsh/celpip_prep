@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1980.7,
+    "end": 2169.0
+  },
+  "questions": [
+    {
+      "prompt": "Supporters of removing degree mandates prioritize ______.",
+      "options": [
+        "institutional reputation",
+        "demonstrated practical ability",
+        "formal academic records",
+        "traditional hiring standards"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "A key drawback mentioned regarding degrees is ______.",
+      "options": [
+        "the lack of critical thinking",
+        "an excessive financial burden",
+        "the difficulty of finding jobs",
+        "the failure to teach writing"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Proponents claim that tech firms have ______.",
+      "options": [
+        "struggled with lower quality hires",
+        "successfully adapted to skill-based hiring",
+        "increased their reliance on diplomas",
+        "faced major legal hiring issues"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Critics argue that degrees act as a ______.",
+      "options": [
+        "substitute for personal connection",
+        "deterrent for motivated students",
+        "consistent measurement of applicant quality",
+        "barrier to technical innovation"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "A major hiring risk without degrees is ______.",
+      "options": [
+        "an increase in objective testing",
+        "more subjective selection processes",
+        "higher salary expectations for staff",
+        "a shortage of specialized talent"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Some worry that dropping requirements might ______.",
+      "options": [
+        "cheapen the worth of higher learning",
+        "lead to a surplus of graduates",
+        "force schools to lower tuition",
+        "improve workforce diversity quickly"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1349.3,
+    "end": 1493.3
+  },
+  "questions": [
+    {
+      "prompt": "Why do they choose the lake instead of the mountains?",
+      "options": [
+        "Absence of weekend crowds",
+        "Larger camp space availability",
+        "Shorter drive and swimming",
+        "Better mountain weather forecast"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why do they prefer leaving on Friday night?",
+      "options": [
+        "Extra time and less traffic",
+        "Morning traffic is too heavy",
+        "Saturday mornings are for chores",
+        "Weather forecasts look better then"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Jake offer to bring extra blankets?",
+      "options": [
+        "Morning dew makes grass wet",
+        "Sleeping bags are completely forgotten",
+        "Tents lack proper insulation walls",
+        "Night temperatures drop significantly"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why do they decide against inviting more people?",
+      "options": [
+        "Large tents are unavailable now",
+        "Cars lack passenger seating space",
+        "Prefer a relaxing small group",
+        "Food supplies are very limited"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Anna plan to pack the tent immediately?",
+      "options": [
+        "Prevent forgetting it later",
+        "Check for fabric rips",
+        "Clean out old dirt",
+        "Fit extra gear inside"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Jake plan to bring his cooking stove?",
+      "options": [
+        "Enable group meal preparation",
+        "Replace broken kitchen appliances",
+        "Boil lake water safely",
+        "Heat the sleeping tent"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why does Anna decide not to bring a bicycle?",
+      "options": [
+        "Walking is too exhausting",
+        "Bikes are banned on trails",
+        "Her tires are flat",
+        "She lacks one entirely"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Why do they choose six o'clock as their meeting time on Friday?",
+      "options": [
+        "Meet park gate curfews",
+        "Avoid morning rush hour",
+        "Catch the sunset views",
+        "Allow car-packing time"
+      ],
+      "answer": 3
+    }
+  ]
+}

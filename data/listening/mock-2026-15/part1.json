@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.4,
+        "end": 173.6
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 173.7,
+            "end": 178.0
+          },
+          "prompt": "Why was Derek worried after reading the report?",
+          "options": [
+            "The house was not perfect.",
+            "He found hidden dampness.",
+            "He disliked the open house.",
+            "The furnace was already replaced."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 203.5,
+            "end": 208.2
+          },
+          "prompt": "How does Rachel feel about the furnace?",
+          "options": [
+            "She is surprised it is old.",
+            "She was already aware of it.",
+            "She thinks it is brand new.",
+            "She wants a modern upgrade."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 234.5,
+            "end": 238.6
+          },
+          "prompt": "What is the next step for them?",
+          "options": [
+            "They will cancel the offer.",
+            "They will fix the foundation.",
+            "They will discuss price changes.",
+            "They will hire a new inspector."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 276.6,
+        "end": 335.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 335.2,
+            "end": 339.3
+          },
+          "prompt": "Why is Derek worried about the repair?",
+          "options": [
+            "He cannot afford the house.",
+            "He dislikes the neighborhood.",
+            "It might be very expensive.",
+            "He must move in immediately."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 365.8,
+            "end": 370.3
+          },
+          "prompt": "What is Rachel's view on the moisture?",
+          "options": [
+            "It is caused by heavy rain.",
+            "The inspector was likely wrong.",
+            "The entire basement is ruined.",
+            "It is an easy DIY project."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 396.8,
+            "end": 402.3
+          },
+          "prompt": "What is the suggested simple solution for the moisture issue?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 438.7,
+        "end": 499.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 500.0,
+            "end": 504.7
+          },
+          "prompt": "Why does Derek prefer a price reduction?",
+          "options": [
+            "He wants a newer house.",
+            "He wants to control repairs.",
+            "He has no money left.",
+            "He wants to paint the walls."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 530.7,
+            "end": 535.2
+          },
+          "prompt": "Why does Rachel think the sellers will agree?",
+          "options": [
+            "They love Derek's offer.",
+            "They have no other options.",
+            "Other buyers will face issues.",
+            "They are experts at repairs."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

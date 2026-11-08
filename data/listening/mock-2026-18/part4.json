@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1282.1,
+    "end": 1360.7
+  },
+  "questions": [
+    {
+      "prompt": "The decision to replace the metal rails with stone is intended to ______",
+      "options": [
+        "Cost five million.",
+        "Make travel harder.",
+        "Clear illegal dumping.",
+        "Increase trail accessibility."
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Local officials anticipate that the new trail will primarily ______",
+      "options": [
+        "Measure fifty kilometers.",
+        "Drive local profit.",
+        "Harm small cafes.",
+        "Support equestrian enthusiasts."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Neighboring landowners are mainly anxious about potential ______",
+      "options": [
+        "Sturdy fence installation.",
+        "Unauthorized land entry.",
+        "Marcus Thorne's leadership.",
+        "Higher property values."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The municipality plans to mitigate neighbor complaints by ______",
+      "options": [
+        "Creating physical barriers.",
+        "Encouraging trespassing.",
+        "Removing rusty tracks.",
+        "Finishing next spring."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "A primary reason for repurposing the area was its ______",
+      "options": [
+        "Improved track conditions.",
+        "Declining safety standards.",
+        "Location at Grandview.",
+        "Recent railway usage."
+      ],
+      "answer": 1
+    }
+  ]
+}

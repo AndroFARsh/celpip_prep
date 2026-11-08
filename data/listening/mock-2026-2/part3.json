@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 811.2,
+    "end": 930
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 931.2,
+        "end": 935.4
+      },
+      "prompt": "What mainly causes Tom's afternoon slump?",
+      "options": [
+        "Caffeine wearing off",
+        "Gym sessions after work",
+        "Sugar spikes, then plunges",
+        "Lunch had enough protein"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 962.1,
+        "end": 965.9
+      },
+      "prompt": "Why aren't chickpeas enough for lunch?",
+      "options": [
+        "Protein amount still low",
+        "Chickpeas are carb-heavy",
+        "Chickpeas offer no help",
+        "Lunch eaten too late"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 993.3,
+        "end": 996.8
+      },
+      "prompt": "Why skip the 11 o'clock coffee?",
+      "options": [
+        "Drinking too many coffees",
+        "Quit coffee completely",
+        "Lattes are too large",
+        "Fading caffeine worsens crash"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1024.3,
+        "end": 1028.2
+      },
+      "prompt": "Why eat a snack at 1:45?",
+      "options": [
+        "Satisfy chocolate cravings",
+        "Stop crash early",
+        "Fix it afterward",
+        "Fuel evening workout"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1055.3,
+        "end": 1059.7
+      },
+      "prompt": "Why swap cereal for herbal tea?",
+      "options": [
+        "Cereal is too sugary",
+        "Tea boosts alertness",
+        "Better sleep, better energy",
+        "Water intake is low"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1086.4,
+        "end": 1090.3
+      },
+      "prompt": "What must Tom record until then?",
+      "options": [
+        "Water and headache timing",
+        "Water and meals eaten",
+        "Ignore headache details",
+        "Morning energy levels"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 606.7,
+    "end": 749.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 749.9,
+        "end": 754.7
+      },
+      "prompt": "Why does the man want to host the event?",
+      "options": [
+        "He needs help repairing drones",
+        "He saw other local pilots",
+        "He wants to sell equipment",
+        "He wants to win prizes"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 780.9,
+        "end": 786.2
+      },
+      "prompt": "What is the main concern regarding park rules?",
+      "options": [
+        "Preventing public disturbance",
+        "Paying for a permit",
+        "Cleaning up the field",
+        "Finding a power source"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 811.8,
+        "end": 817.2
+      },
+      "prompt": "How do they plan to prevent technical interference?",
+      "options": [
+        "By limiting flight speed",
+        "By using pre-assigned settings",
+        "By flying one at a time",
+        "By banning camera use"
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 843.0,
+        "end": 848.0
+      },
+      "prompt": "Why is Sunday evening chosen for the event?",
+      "options": [
+        "To avoid large crowds",
+        "The park is closed Saturdays",
+        "To get better wind",
+        "To avoid the heat"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 873.8,
+        "end": 878.6
+      },
+      "prompt": "Why do they decide not to charge a fee?",
+      "options": [
+        "They lack a bank account",
+        "They want maximum participation",
+        "The park requires free entry",
+        "They already have prizes"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1560.2,
+    "end": 1680.9
+  },
+  "questions": [
+    {
+      "prompt": "Why does Team Lead A mention \"musical chairs\"?",
+      "options": [
+        "Team agility.",
+        "Office games.",
+        "Lost productivity.",
+        "Software bugs."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is Team Lead B’s primary concern regarding the creative team?",
+      "options": [
+        "Territorial behaviors.",
+        "Rigid workspaces.",
+        "Window temperature.",
+        "Engineer collaboration."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How has the hot-desking transition affected cross-departmental collaboration?",
+      "options": [
+        "Successfully broke silos.",
+        "Forced digital communication.",
+        "Stopped all teamwork.",
+        "Increased rent costs."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the deeper psychological impact of losing permanent desks according to Team Lead B?",
+      "options": [
+        "Hotel lobby preferences.",
+        "Less company belonging.",
+        "Fewer personal items.",
+        "Higher salary demands."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does the Manager imply when discussing the 25% real estate savings?",
+      "options": [
+        "The data is wrong.",
+        "Needs more cost-cutting.",
+        "Negated by morale drops.",
+        "Engineers caused the loss."
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What is Team Lead A’s attitude toward the current office setup?",
+      "options": [
+        "Dissatisfied with disruptions.",
+        "Enthusiastic about Slack.",
+        "Indifferent to changes.",
+        "Optimistic for the future."
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Why do the software engineers use Slack every morning?",
+      "options": [
+        "To complain to management.",
+        "To sit together anyway.",
+        "To organize brainstorming.",
+        "To coordinate gym gear."
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What does the Manager’s final decision suggest?",
+      "options": [
+        "Eliminating team zones.",
+        "Fully reversing the policy.",
+        "Refusing any changes.",
+        "Seeking a compromise."
+      ],
+      "answer": 3
+    }
+  ]
+}

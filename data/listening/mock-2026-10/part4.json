@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1278.1,
+    "end": 1433.3
+  },
+  "questions": [
+    {
+      "prompt": "Rural power restoration faces ______.",
+      "options": [
+        "inaccessible local road conditions",
+        "extreme weather safety hazards",
+        "lack of repair equipment",
+        "shortages of skilled crews"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Repair crews are performing ______.",
+      "options": [
+        "mostly indoor electrical maintenance",
+        "tree removal for cities",
+        "quick, daytime-only site repairs",
+        "urgent, high-risk physical labor"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Public frustration is primarily caused ______.",
+      "options": [
+        "by expensive food spoilage",
+        "because crews are slow",
+        "by unclear timeline information",
+        "because warming centers closed"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Business owners suffer from ______.",
+      "options": [
+        "lost inventory revenue costs",
+        "destroyed brick building facades",
+        "inability to hire workers",
+        "rising electricity supply rates"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Future government policy will ______.",
+      "options": [
+        "privatize the power company",
+        "analyze infrastructure protection methods",
+        "eliminate tree trimming programs",
+        "charge residents for repairs"
+      ],
+      "answer": 1
+    }
+  ]
+}

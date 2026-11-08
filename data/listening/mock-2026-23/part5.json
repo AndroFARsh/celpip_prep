@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1551.5,
+    "end": 1680.4
+  },
+  "questions": [
+    {
+      "prompt": "Based on Dr. Thorne’s explanation, what is the defining technical characteristic of a cobot?",
+      "options": [
+        "The ability to function without human oversight",
+        "Integration of reactive proximity awareness",
+        "High-speed execution of industrial assembly",
+        "Mechanical isolation from the human environment"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Prof. Reed’s perspective suggests that a CFO’s interest in cobots is primarily?",
+      "options": [
+        "Enhancing the \"three Ds\" for staff",
+        "Promoting the \"colleague\" culture",
+        "Minimizing operational labor expenses",
+        "Improving the safety records of factories"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Dr. Thorne imply is the primary benefit of \"upskilling\"?",
+      "options": [
+        "Increasing the speed of factory production lines",
+        "Shifting labor from physical exertion to system management",
+        "Allowing robots to handle 40% of the decision-making",
+        "Guaranteeing higher salaries for veteran employees"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Prof. Reed uses the term \"three Ds\" to describe tasks that are?",
+      "options": [
+        "Economically unviable for human workers",
+        "Subservient to the nuance of machine logic",
+        "Inherently undesirable for people to perform",
+        "Requiring high levels of human dexterity"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Prof. Reed expresses a \"less optimistic\" concern that cobots might lead to?",
+      "options": [
+        "A total disappearance of the factory setting",
+        "An increase in the physical toll on veteran workers",
+        "Robots becoming too dangerous for the \"caged\" areas",
+        "The erosion of the value of specialized labor"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Mark’s concluding phrase \"Safety vs. Salary\" summarizes the conflict between?",
+      "options": [
+        "Engineering improvements and economic risks",
+        "Robot vision accuracy and machine speed",
+        "CFO expectations and Dr. Thorne’s designs",
+        "Veteran workers and new programmers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the fundamental difference in how Dr. Thorne and Prof. Reed view the cobot?",
+      "options": [
+        "Tool for automation vs. tool for surveillance",
+        "Mechanical colleague vs. potential economic threat",
+        "Dangerous machine vs. safer industrial cage",
+        "Expensive investment vs. cost-saving device"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Prof. Reed’s mention of \"40% of the job\" is intended to highlight?",
+      "options": [
+        "The efficiency of cobot programming",
+        "The specific percentage of dull tasks in a day",
+        "The uncertainty of how productivity gains are shared",
+        "The limit of how much a robot can sense"
+      ],
+      "answer": 2
+    }
+  ]
+}

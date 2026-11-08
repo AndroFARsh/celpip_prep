@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1943.7,
+    "end": 2134.7
+  },
+  "questions": [
+    {
+      "prompt": "Supporters believe outdoor learning improves ______.",
+      "options": [
+        "screen time habits",
+        "physical capability",
+        "digital fluency",
+        "classroom concentration"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The \"nature deficit\" argument highlights ______.",
+      "options": [
+        "kids' reduced outdoor exposure",
+        "a decline in park accessibility",
+        "poor school facility conditions",
+        "dangerous playground equipment"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Climbing trees is viewed as ______.",
+      "options": [
+        "an unnecessary distraction",
+        "a dangerous activity",
+        "a risk-assessment tool",
+        "a way to find shelter"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Critics question the program's ______.",
+      "options": [
+        "environmental conservation goals",
+        "ability to handle weather",
+        "lack of professional teachers",
+        "focus on academic testing"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "A major barrier for families is ______.",
+      "options": [
+        "the cost of clothing",
+        "fear of local wildlife",
+        "strict behavioral requirements",
+        "inadequate local school busing"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Opponents worry that these schools ______.",
+      "options": [
+        "ignore social skill development",
+        "fail to prepare children",
+        "encourage too much structure",
+        "prioritize math over nature"
+      ],
+      "answer": 1
+    }
+  ]
+}

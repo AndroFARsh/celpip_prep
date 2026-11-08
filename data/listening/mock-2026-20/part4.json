@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1166.3,
+    "end": 1236.3
+  },
+  "questions": [
+    {
+      "prompt": "The group pursued the project to ______.",
+      "options": [
+        "Increase online viewability",
+        "Save paper records",
+        "Lower repair costs",
+        "Own the archives"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Marcus agreed to the plan to ______.",
+      "options": [
+        "Obtain digital copies",
+        "Speed up cleaning",
+        "Skip expert help",
+        "Cut renovation fees"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The library's problems grew from ______.",
+      "options": [
+        "External weather events",
+        "Broken indoor pipes",
+        "Careless document handling",
+        "Ground level leakage"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Clara started the drive to ______.",
+      "options": [
+        "Patch ruined charts",
+        "Recruit building workers",
+        "Upgrade storage standards",
+        "Accumulate more items"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How will events shape future ______.",
+      "options": [
+        "Records stay unprotected",
+        "Storage areas improve",
+        "Funding will vanish",
+        "Files remain hardcopies"
+      ],
+      "answer": 1
+    }
+  ]
+}

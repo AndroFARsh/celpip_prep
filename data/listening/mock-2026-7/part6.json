@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 1954.8,
+    "end": 2144
+  },
+  "questions": [
+    {
+      "prompt": "Residents favor rental caps to ______.",
+      "options": [
+        "Improve neighborhood social stability",
+        "Increase local property values",
+        "Reduce overall tourist numbers",
+        "Limit street traffic congestion"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Investors negatively impact local housing by ______.",
+      "options": [
+        "Increasing long-term rental options",
+        "Reducing available residential supply",
+        "Lowering home maintenance standards",
+        "Creating too many student suites"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Homeowners view rental income as ______.",
+      "options": [
+        "Optional supplemental pocket money",
+        "A necessity for mortgage survival",
+        "A temporary business opportunity",
+        "Primary retirement funding source"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Proponents of rentals emphasize ______.",
+      "options": [
+        "Economic support for shops",
+        "Improved neighborhood safety levels",
+        "Constant growth in tourism",
+        "Lowering local business prices"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The middle-ground approach focuses on ______.",
+      "options": [
+        "Reducing total rental counts",
+        "Penalizing specific rule violations",
+        "Increasing tourist stay durations",
+        "Banning all residential rentals"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The core issue involves balancing ______.",
+      "options": [
+        "City planning and tourism",
+        "Investor profit and affordability",
+        "Enforcement and property rights",
+        "Rent costs and noise"
+      ],
+      "answer": 1
+    }
+  ]
+}

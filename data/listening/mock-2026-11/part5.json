@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1593.4,
+    "end": 1716.4
+  },
+  "questions": [
+    {
+      "prompt": "Why does Paul dislike the park?",
+      "options": [
+        "Lacks fun games",
+        "Weather is risky",
+        "It is too expensive.",
+        "Too hard to reach"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Mark’s complaint about bowling?",
+      "options": [
+        "It is too far",
+        "It is too noisy",
+        "Food is bad",
+        "Not enough space"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why is Helen against the hall?",
+      "options": [
+        "Location is bad",
+        "Catering is poor",
+        "Budget is too high",
+        "It lacks seating"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How does the shelter help?",
+      "options": [
+        "Provides free food",
+        "Offers weather protection",
+        "Has better games",
+        "Is inside downtown"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the team’s main goal?",
+      "options": [
+        "Professional networking",
+        "Budgeting correctly",
+        "Balancing cost and comfort",
+        "Winning frisbee games"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why is the park considered risky?",
+      "options": [
+        "Potential for rain",
+        "Lack of seating",
+        "Limited parking",
+        "Expensive rental fees"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How is the hall option described?",
+      "options": [
+        "Cheap and fun",
+        "Professional but pricey",
+        "Loud and crowded",
+        "Risky and small"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is the final decision?",
+      "options": [
+        "Renting a hall",
+        "Going bowling",
+        "Using park shelter",
+        "Canceling the party"
+      ],
+      "answer": 2
+    }
+  ]
+}

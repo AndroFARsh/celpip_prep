@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 601.8,
+    "end": 752.6
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 752.9,
+        "end": 757.2
+      },
+      "prompt": "Why is the client initially worried?",
+      "options": [
+        "Wiring is too complex.",
+        "System is too expensive.",
+        "Bulbs might not fit.",
+        "She dislikes smart tech."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 784.1,
+        "end": 788.9
+      },
+      "prompt": "What is the benefit of this smart kit?",
+      "options": [
+        "It lowers electrical bills.",
+        "It works without Wi-Fi.",
+        "No house rewiring needed.",
+        "It connects to all appliances."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 814.8,
+        "end": 819.7
+      },
+      "prompt": "What happens if the Wi-Fi goes down?",
+      "options": [
+        "Lights turn off entirely.",
+        "Smart features remain active.",
+        "System triggers an alarm.",
+        "Lights work manually only."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 846.0,
+        "end": 850.6
+      },
+      "prompt": "How does the client plan to use the system?",
+      "options": [
+        "To improve home security.",
+        "To replace a loud alarm.",
+        "To save internet data.",
+        "To track power usage."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 877.0,
+        "end": 881.7
+      },
+      "prompt": "What is the man's role in this conversation?",
+      "options": [
+        "A tech-savvy neighbor.",
+        "A software developer.",
+        "A retail store manager.",
+        "A professional electrician."
+      ],
+      "answer": 3
+    }
+  ]
+}

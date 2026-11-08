@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1306.2,
+    "end": 1435.0
+  },
+  "questions": [
+    {
+      "prompt": "The lobster's color is a ______.",
+      "options": [
+        "result of local paint",
+        "sign of toxic water",
+        "rare biological fluke",
+        "common seasonal occurrence"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Local opinions on Bluey are ______.",
+      "options": [
+        "entirely in full agreement",
+        "split between different goals",
+        "focused on scientific research",
+        "ignoring the tourism potential"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Sarah Jenkins favors an ______.",
+      "options": [
+        "exclusive private owner sale",
+        "immediate release back home",
+        "auction for local profit",
+        "educational public display option"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "The owner's preference for Bluey ______.",
+      "options": [
+        "requiers a massive fee",
+        "involves local provincial placement",
+        "mandates immediate aquarium transfer",
+        "includes selling to restaurants"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The current situation involves ______.",
+      "options": [
+        "significant regional community interest",
+        "urgent harbor safety concerns",
+        "debates about fishing laws",
+        "plans for commercial breeding"
+      ],
+      "answer": 0
+    }
+  ]
+}

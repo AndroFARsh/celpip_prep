@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 578.7,
+    "end": 711.4
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 711.9,
+        "end": 717.1
+      },
+      "prompt": "Why does the traveler want to extend her stay?",
+      "options": [
+        "She prefers the hotel.",
+        "Her flight was delayed.",
+        "She wants more luxury.",
+        "She loves the marathon."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 742.9,
+        "end": 747.6
+      },
+      "prompt": "Why must the traveler move rooms?",
+      "options": [
+        "Her current room is booked.",
+        "Her room is too loud.",
+        "The room needs repairs.",
+        "She wants a discount."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 789.1,
+        "end": 793.8
+      },
+      "prompt": "How does the staff help with her work call?",
+      "options": [
+        "He prioritizes room cleaning.",
+        "He offers free Wi-Fi.",
+        "He moves her meeting.",
+        "He ignores the request."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 805.0,
+        "end": 809.7
+      },
+      "prompt": "What is the traveler's concern about moving?",
+      "options": [
+        "The higher room cost.",
+        "The smaller bed size.",
+        "The lack of internet.",
+        "The time of access."
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 835.9,
+        "end": 841.0
+      },
+      "prompt": "Why is the staff confident about the request?",
+      "options": [
+        "He doesn't like guests.",
+        "The hotel is empty.",
+        "He has backup plans.",
+        "He is the manager."
+      ],
+      "answer": 2
+    }
+  ]
+}

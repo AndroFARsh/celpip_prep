@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1626.3,
+    "end": 1788.8
+  },
+  "questions": [
+    {
+      "prompt": "Why is the five-day running plan rejected?",
+      "options": [
+        "It is too expensive",
+        "It is too time-consuming",
+        "It lacks cycling days",
+        "It is too easy"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Marcus's main reason for liking the new plan?",
+      "options": [
+        "He loves swimming",
+        "He wants to race",
+        "It helps his knees",
+        "He wants a coach"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Julian recommend swimming?",
+      "options": [
+        "It builds leg speed",
+        "It is low impact",
+        "It is very cheap",
+        "It is easy to learn"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "How does the group feel about running together?",
+      "options": [
+        "It increases motivation",
+        "It makes running slower",
+        "It is too distracting",
+        "It saves travel time"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "What is the group's underlying concern about training?",
+      "options": [
+        "Missing the race date",
+        "Avoiding potential injury",
+        "Finding a good park",
+        "Saving money on gear"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Why does Camille suggest a reminder?",
+      "options": [
+        "The race is near",
+        "She is very busy",
+        "To prevent skipping",
+        "To track their time"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "How will the group handle the extra workouts?",
+      "options": [
+        "By doing them daily",
+        "By skipping them",
+        "By scheduling specific days",
+        "By going to the gym"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Julian mean by \"making it feel more real\"?",
+      "options": [
+        "Meeting at a set time",
+        "Paying for the race",
+        "Buying better equipment",
+        "Running more miles"
+      ],
+      "answer": 0
+    }
+  ]
+}

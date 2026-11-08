@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1261.1,
+    "end": 1393.8
+  },
+  "questions": [
+    {
+      "prompt": "The owner began this practice ______.",
+      "options": [
+        "to avoid wasting edible food",
+        "to gain positive media attention",
+        "because of expensive bakery rent",
+        "to attract more paying customers"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The community’s role involves ______.",
+      "options": [
+        "paying for donated bread items",
+        "helping prepare daily bread donations",
+        "monitoring the bakery's front door",
+        "selling leftover bread to others"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The primary benefit for families is ______.",
+      "options": [
+        "healthier snacks for their kids",
+        "lower monthly grocery budget expenses",
+        "free access to fancy pastries",
+        "gaining jobs at the bakery"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The bakery's reputation grew after ______.",
+      "options": [
+        "a viral online video post",
+        "the city started news reports",
+        "a new food bank partnership",
+        "neighbors complained about waste piles"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "The food bank wants to ______.",
+      "options": [
+        "charge for the leftover bread",
+        "manage the nightly community basket",
+        "distribute any remaining unsold bread",
+        "stop the bakery's donation program"
+      ],
+      "answer": 2
+    }
+  ]
+}

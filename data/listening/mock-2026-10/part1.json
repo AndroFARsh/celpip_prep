@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.5,
+        "end": 194.2
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 194.8,
+            "end": 199.5
+          },
+          "prompt": "Why is Mark so anxious about the time?",
+          "options": [
+            "He likes Terminal 3.",
+            "He needs to check bags.",
+            "Traffic is usually light.",
+            "He has a work meeting."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 225.6,
+            "end": 229.5
+          },
+          "prompt": "What is causing the heavy traffic?",
+          "options": [
+            "Bridge construction.",
+            "A vehicle accident.",
+            "Tuesday rush hour.",
+            "GPS system failure."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 256.5,
+            "end": 261.0
+          },
+          "prompt": "Why does Mark want the industrial road?",
+          "options": [
+            "To avoid stopping.",
+            "It is much shorter.",
+            "It has better scenery.",
+            "To save 40 minutes."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 298.6,
+        "end": 354.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 354.5,
+            "end": 358.4
+          },
+          "prompt": "Why does Mark agree to take the riskier detour?",
+          "options": [
+            "He trusts the quiet traffic.",
+            "The train schedule is guaranteed.",
+            "He wants to avoid a long wait.",
+            "The main road is already clear."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 383.6,
+            "end": 390.2
+          },
+          "prompt": "What is Mark's primary motivation for offering a bigger tip?",
+          "options": [
+            "To secure an on-time arrival.",
+            "To pay the bridge toll.",
+            "To thank Sam for the radio update.",
+            "To cover the extra gas money."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 414.7,
+            "end": 421.9
+          },
+          "prompt": "Which image best represents the gamble Mark is taking by choosing the detour?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 456.7,
+        "end": 522.3
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 522.8,
+            "end": 527.2
+          },
+          "prompt": "Why were they able to make good time?",
+          "options": [
+            "Most drivers stayed on highway.",
+            "The industrial road was smooth.",
+            "They followed the GPS directions.",
+            "Mark held onto his coffee."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 553.7,
+            "end": 558.2
+          },
+          "prompt": "Why is Mark grateful to Sam?",
+          "options": [
+            "The airport tower was visible.",
+            "Sam followed the GPS route.",
+            "Sam drove them to airport.",
+            "Sam found a faster route."
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

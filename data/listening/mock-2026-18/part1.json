@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 117.5,
+        "end": 179.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 179.6,
+            "end": 184.6
+          },
+          "prompt": "What is the main concern about the visitor's father?",
+          "options": [
+            "He cannot climb stairs easily.",
+            "He gets exhausted quickly.",
+            "He forgot his walking frame.",
+            "He dislikes crowded museum exhibits."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 210.6,
+            "end": 215.5
+          },
+          "prompt": "Why does the man agree to borrow a wheelchair?",
+          "options": [
+            "To conserve his father's energy.",
+            "To bypass the long lines.",
+            "Because the walker is broken.",
+            "To access the third floor."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 242.0,
+            "end": 247.0
+          },
+          "prompt": "Why is the man looking for a different elevator?",
+          "options": [
+            "The first one is broken.",
+            "To find a shorter line.",
+            "He dislikes the museum entrance.",
+            "The other elevator is faster."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 283.6,
+        "end": 347.1
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 347.7,
+            "end": 353.9
+          },
+          "prompt": "Why does the man express relief near the end of the conversation?",
+          "options": [
+            "Captions can be turned off.",
+            "Wheelchairs are available free.",
+            "The theater rooms are open.",
+            "His father can enjoy videos."
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 378.7,
+            "end": 385.1
+          },
+          "prompt": "What is the underlying concern about visiting the third floor?",
+          "options": [
+            "Navigating through the West Wing.",
+            "The physical fatigue of traveling.",
+            "Finding the correct main elevator.",
+            "Missing the Ancient Civilizations section."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 409.6,
+            "end": 416.8
+          },
+          "prompt": "What additional item can be picked up at the wheelchair desk to assist the visitor?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 451.6,
+        "end": 511.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 511.9,
+            "end": 518.2
+          },
+          "prompt": "Why is the 2:30 pm tour preferred over the 2 pm tour?",
+          "options": [
+            "It reduces anxiety for visitors.",
+            "It covers different exhibits completely.",
+            "It includes free wheelchair access.",
+            "It requires advance online booking."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 542.7,
+            "end": 549.0
+          },
+          "prompt": "What is the main reason for checking out the final recommendation?",
+          "options": [
+            "To enjoy scenic outdoor views.",
+            "To easily avoid any crowds.",
+            "To register at a desk.",
+            "To view the mummies exhibit."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

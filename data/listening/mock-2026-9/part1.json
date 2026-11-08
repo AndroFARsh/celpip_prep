@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 128.4,
+        "end": 197.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 197.6,
+            "end": 201.6
+          },
+          "prompt": "Why is Mrs. Patel calling?",
+          "options": [
+            "To discuss upcoming hiking plans.",
+            "To register him for camp.",
+            "To ensure her son's safety.",
+            "To request nut-based camp snacks."
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 229.0,
+            "end": 233.2
+          },
+          "prompt": "What is her underlying concern?",
+          "options": [
+            "Managing his dangerous allergic reactions.",
+            "Planning his daily hiking route.",
+            "Providing him with more nuts.",
+            "Checking his daily packed lunch."
+          ],
+          "answer": 0
+        },
+        {
+          "audio": {
+            "start": 259.5,
+            "end": 263.8
+          },
+          "prompt": "How does staff ensure safety?",
+          "options": [
+            "By preparing all camp lunches.",
+            "Only counselors learn first aid.",
+            "By providing specific outdoor snacks.",
+            "Through mandatory camp first-aid training."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 301.5,
+        "end": 362.5
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 362.7,
+            "end": 369.8
+          },
+          "prompt": "Why does Greg assign specific tables to kids with severe allergies?",
+          "options": [
+            "To help them make new friends.",
+            "To monitor their food intake closely.",
+            "To speed up the meal service.",
+            "To keep the dining hall organized."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 393.7,
+            "end": 399.4
+          },
+          "prompt": "What is Mrs. Patel's main concern about the nurse?",
+          "options": [
+            "Her ability to use an EpiPen.",
+            "Her availability on-site.",
+            "Her knowledge of bee stings.",
+            "Her location during hikes."
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 424.7,
+            "end": 433.0
+          },
+          "prompt": "Which image best represents the outdoor danger Mrs. Patel is asking about at the end of the clip?",
+          "options": [
+            "q6-a.jpg",
+            "q6-b.jpg",
+            "q6-c.jpg",
+            "q6-d.jpg"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 466.7,
+        "end": 536.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 536.7,
+            "end": 541.4
+          },
+          "prompt": "Why does Liam get a wristband?",
+          "options": [
+            "To track his location",
+            "To make him special",
+            "It is for fashion",
+            "Quick allergy identification"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 567.8,
+            "end": 571.5
+          },
+          "prompt": "When is the form due?",
+          "options": [
+            "On the first day",
+            "Tonight",
+            "By next Friday",
+            "In August"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

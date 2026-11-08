@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 878.9,
+    "end": 1007.5
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1007.9,
+        "end": 1012.7
+      },
+      "prompt": "Why does the employee verify levels?",
+      "options": [
+        "To confirm tank readiness.",
+        "To test customer knowledge.",
+        "To prevent water contamination.",
+        "To sell more kits."
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1038.9,
+        "end": 1043.8
+      },
+      "prompt": "Why suggest neon tetras first?",
+      "options": [
+        "Because they are colorful.",
+        "Because they are hardy.",
+        "Because they swim together.",
+        "Because they are cheap."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1070.1,
+        "end": 1073.9
+      },
+      "prompt": "What is the benefit of grouping?",
+      "options": [
+        "Less food is needed.",
+        "It increases fish security.",
+        "Faster group swimming speed.",
+        "Smaller tank space requirement."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1101.1,
+        "end": 1105.8
+      },
+      "prompt": "Why choose Java Fern specifically?",
+      "options": [
+        "They purify the water.",
+        "They need high light.",
+        "They are low maintenance.",
+        "They hide fish well."
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1132.1,
+        "end": 1136.1
+      },
+      "prompt": "Why choose the starter bundle?",
+      "options": [
+        "Includes all necessary fish.",
+        "Provides better value savings.",
+        "Contains professional lighting.",
+        "Simplifies the tank cleaning."
+      ],
+      "answer": 1
+    },
+    {
+      "audio": {
+        "start": 1163.5,
+        "end": 1168.0
+      },
+      "prompt": "What is the customer's main priority?",
+      "options": [
+        "Getting the lowest price.",
+        "Starting with fancy fish.",
+        "Buying every store item.",
+        "Avoiding common beginner mistakes."
+      ],
+      "answer": 3
+    }
+  ]
+}
