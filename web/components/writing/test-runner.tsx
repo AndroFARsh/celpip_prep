@@ -109,7 +109,7 @@ function TaskScreen({ test, part, answers, onAnswer, onNext }: TaskProps) {
             <div>{part === 1 ? <Task1 test={test} /> : <Task2 test={test} answers={answers} onAnswer={onAnswer} />}</div>
             <Textarea
               aria-label="Your response"
-              spellCheck={false}
+              spellCheck
               autoCorrect="off"
               autoCapitalize="off"
               className="field-sizing-fixed min-h-72 flex-1 resize-none"

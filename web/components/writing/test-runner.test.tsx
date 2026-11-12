@@ -23,7 +23,7 @@ describe("WritingTestRunner", () => {
     expect(screen.getByRole("heading", { name: "Writing Task 1: Writing an Email" })).toBeInTheDocument()
     expect(screen.getByText(test.parts[0].situation)).toBeInTheDocument()
     for (const point of test.parts[0].points) expect(screen.getByText(point)).toBeInTheDocument()
-    expect(response()).toHaveAttribute("spellcheck", "false")
+    expect(response()).toHaveAttribute("spellcheck", "true")
     await user.click(response())
     await user.paste("Dear store, it broke.")
     await next(user)

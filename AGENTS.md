@@ -29,7 +29,7 @@
 - Adding a test: `data/listening/<test-id>/` with `meta.json` (`title`, `source` watch URL) and `part1.json` through `part6.json`. Same full-test, single-part and results behaviour as Reading.
 
 ### Writing
-- 2 tasks, mimicking the real test: information on the left; instructions, a text box (no spell check) and a live word count on the right.
+- 2 tasks, mimicking the real test: information on the left; instructions, a text box with the browser spell checker (misspelled words underlined, right-click for suggestions; no auto-correct) and a live word count on the right.
   1. Writing an Email: situation, instruction and 3 points to cover. 27 min.
   2. Responding to Survey Questions: survey topic with Option A and Option B; choose one and explain. 26 min.
 - Same timer, Next, full-test, single-task and Start/Results/Clear behaviour as Reading.
