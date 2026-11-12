@@ -1,0 +1,11 @@
+{
+  "prompt": "Choose a bike for your commute.",
+  "options": [
+    { "name": "Road Bike", "image": "pic.jpg", "details": ["Fast", "Light"] },
+    { "name": "Cargo Bike", "image": "pic.jpg", "details": ["Carries groceries"] }
+  ],
+  "alternative": { "name": "E-Scooter", "image": "pic.jpg", "details": ["Folds up"] },
+  "compare": "Your friend suggests the E-Scooter. Explain why the {choice} is still better.",
+  "sampleChoice": 1,
+  "sample": "The cargo bike carries more."
+}

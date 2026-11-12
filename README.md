@@ -1,6 +1,6 @@
 # CELPIP Mock Tests
 
-Reading, Listening and Writing practice tests. Next.js app in `web/`, test content in `data/reading/`, `data/listening/` and `data/writing/`.
+Reading, Listening, Writing and Speaking practice tests. Next.js app in `web/`, test content in `data/reading/`, `data/listening/`, `data/writing/` and `data/speaking/`.
 
 ## Run
 
@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000, pick Reading, Listening or Writing, then start the full test or a single part. Finished results are saved in the browser; the test list shows Results and Clear for runs taken before.
+Open http://localhost:3000, pick a section, then start the full test or a single part. Finished results are saved in the browser; the test list shows Results and Clear for runs taken before.
 
 ## Deploy
 
@@ -60,5 +60,17 @@ Use `data/writing/mock-2026-1` as the example; the `youtube-writing-test` skill 
 - `part2.json`: `timeLimitSec`, `title`, `situation`, `options` (A, B), `samples` (a model answer for each option)
 
 Writing is not scored; the results page shows your response next to the samples. Files are validated on load (`web/lib/writing/schema.ts`).
+
+## Add a speaking test
+
+Use `data/speaking/mock-2026-1` as the example; the `youtube-speaking-test` skill imports one from a YouTube video.
+
+- `meta.json`: `title`, `source`
+- `part1.json`, `part2.json`, `part7.json`: `prompt`, `sample`
+- `part3.json`, `part4.json`, `part8.json`: `prompt`, `image` (picture file in the folder), `sample`
+- `part5.json`: `prompt`, 2 `options` and an `alternative` (each `name`, `image`, `details`), `compare` (names the user's pick as `{choice}`), `sampleChoice` (0 or 1, the option `sample` argues for), `sample`
+- `part6.json`: `prompt`, 2 `choices`, 2 `samples`
+
+Preparation and recording times are fixed by the real test (`web/lib/speaking/schema.ts`). Speaking needs a microphone; recordings stay in the browser.
 
 If Playwright's Chromium is not available (macOS 12), run the e2e tests with Google Chrome by adding `channel: "chrome"` to the projects' `use` in a local copy of `playwright.config.ts`.

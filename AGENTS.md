@@ -1,7 +1,7 @@
 # CELPIP Mock Tests
 
 ## Business Requirements
-- CELPIP practice tests. The landing page picks the section (Reading, Listening, Writing; Speaking later).
+- CELPIP practice tests. The landing page picks the section (Reading, Listening, Writing, Speaking).
 - An MVP of a CELPIP Reading practice test.
 - The Reading test has 4 parts and should mimic the real test UI (split pane: passage left, questions right; part header with countdown; Next button; no going back).
   1. Reading Correspondence: letter, 6 multiple-choice questions, then a reply with 5 fill-in-the-blank dropdowns. 11 min.
@@ -36,9 +36,15 @@
 - Not scored automatically: results show each response with its word count (150-200) next to the source's sample answer (both options for Task 2). No CELPIP level.
 - Adding a test: `data/writing/<test-id>/` with `meta.json` (`title`, `source`), `part1.json` and `part2.json`.
 
+### Speaking
+- 8 tasks, mimicking the real test: each task shows its prompt (and picture), a preparation countdown, then records from the microphone for a fixed time and moves on by itself. Next skips the rest of the current step; no going back.
+  1. Giving Advice (30 s / 90 s). 2. Talking about a Personal Experience (30/60). 3. Describing a Scene (30/60, picture). 4. Making Predictions (30/60, same picture). 5. Comparing and Persuading (60 s to choose one of two options, then 60/60 to argue for it against a new option). 6. Dealing with a Difficult Situation (60/60, one of two situations). 7. Expressing Opinions (30/90). 8. Describing an Unusual Situation (30/60, picture).
+- The microphone is requested on Start. Recordings are kept in the browser (IndexedDB, too large for localStorage) and played back on the results page next to the source's sample answers. Not scored; no CELPIP level.
+- Adding a test: `data/speaking/<test-id>/` with `meta.json`, `part1.json` through `part8.json` and the picture files.
+
 ## Technical
-- Next.js (App Router, TypeScript) in the `web/` subdirectory. Test data lives at repo root in `data/reading/`, `data/listening/` and `data/writing/`.
-- No user login. No database. Finished results are saved in the browser (localStorage), one per test and run (full test or single part).
+- Next.js (App Router, TypeScript) in the `web/` subdirectory. Test data lives at repo root in `data/reading/`, `data/listening/`, `data/writing/` and `data/speaking/`.
+- No user login. No database. Finished results are saved in the browser (localStorage; Speaking audio in IndexedDB), one per test and run (full test or single part).
 - UI only from shadcn/ui components (Tailwind). Do not create custom UI components or hand-roll substitutes. If a component is missing, add it with the shadcn CLI, then use it.
 - Validate test JSON with zod; one schema per part.
 - Keep it simple.

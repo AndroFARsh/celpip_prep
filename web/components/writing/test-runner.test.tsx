@@ -24,14 +24,16 @@ describe("WritingTestRunner", () => {
     expect(screen.getByText(test.parts[0].situation)).toBeInTheDocument()
     for (const point of test.parts[0].points) expect(screen.getByText(point)).toBeInTheDocument()
     expect(response()).toHaveAttribute("spellcheck", "false")
-    await user.type(response(), "Dear store, it broke.")
+    await user.click(response())
+    await user.paste("Dear store, it broke.")
     await next(user)
 
     expect(screen.getByRole("heading", { name: "Writing Task 2: Responding to Survey Questions" })).toBeInTheDocument()
     expect(screen.getByText(test.parts[1].title)).toBeInTheDocument()
     expect(response()).toHaveValue("")
     await user.click(screen.getByRole("radio", { name: /Option B/ }))
-    await user.type(response(), "I prefer weekends.")
+    await user.click(response())
+    await user.paste("I prefer weekends.")
     expect(push).not.toHaveBeenCalled()
     await next(user)
 
@@ -45,7 +47,8 @@ describe("WritingTestRunner", () => {
     const user = userEvent.setup()
     render(<WritingTestRunner test={test} run="1" />)
     expect(screen.getByTestId("word-count")).toHaveTextContent("Word count: 0")
-    await user.type(response(), "One two  three\nfour")
+    await user.click(response())
+    await user.paste("One two  three\nfour")
     expect(screen.getByTestId("word-count")).toHaveTextContent("Word count: 4")
   })
 
@@ -79,7 +82,8 @@ describe("WritingTestRunner", () => {
       </Activity>
     )
     const { rerender } = render(view("visible"))
-    await user.type(response(), "Draft")
+    await user.click(response())
+    await user.paste("Draft")
     await next(user)
     rerender(view("hidden"))
     rerender(view("visible"))

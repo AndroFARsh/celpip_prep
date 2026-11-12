@@ -1,0 +1,23 @@
+{
+  "prompt": "You and your friend are planning some weekend hiking trips and need a new backpack, so look at these two options, choose one, and then persuade your friend that your choice is better.",
+  "options": [
+    {
+      "name": "Trailblazer Pack",
+      "image": "option-a.jpg",
+      "details": ["Durable, water-resistant fabric", "Multiple compartments for gear", "Padded back and shoulder straps", "Holds 30 litres"]
+    },
+    {
+      "name": "City Daypack",
+      "image": "option-b.jpg",
+      "details": ["Lightweight, simple design", "One large main pocket", "Comes in stylish colours", "Holds 20 litres"]
+    }
+  ],
+  "alternative": {
+    "name": "Ultralight Pack",
+    "image": "option-c.jpg",
+    "details": ["Extremely light material", "Minimalist, frameless design", "No extra pockets", "Folds into a small pouch"]
+  },
+  "compare": "Your friend found another option, the Ultralight Pack, and thinks it might be a better choice, so compare the {choice} to this new option and explain why your original pick is still best.",
+  "sampleChoice": 0,
+  "sample": "Okay, I see why the Ultralight Pack is tempting, but I still think the Trailblazer is the better option for our hikes. The new pack is very light, but it gives up too much comfort and practicality.\n\nFirst, the Trailblazer has padded straps, which will be much more comfortable for us on long walks. The Ultralight pack will probably hurt our shoulders after a few hours. Second, let's think about its durability. The Trailblazer's fabric is designed to handle rough trails. If we buy the Ultralight pack, we might snag it on a branch and rip it on our very first trip. Finally, the Trailblazer has more compartments, so our gear will be better organized and easier to find. I am sure it will be a better investment for our future adventures and will last much longer. For these reasons, I am sticking with my first choice."
+}

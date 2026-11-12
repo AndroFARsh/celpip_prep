@@ -1,10 +1,11 @@
 import { useSyncExternalStore } from "react"
 
 import type { Run } from "./runs"
+import { clearRecordings } from "./speaking/recordings"
 import type { Answers } from "./scoring"
 import type { Section } from "./sections"
 
-/** Writing is not scored automatically, so its results have no `score` or `total`. */
+/** Writing and Speaking are not scored automatically, so their results have no `score` or `total`. */
 export type SavedResult = { answers: Answers; score?: number; total?: number }
 
 // Reading keeps its original key so results saved before other sections existed are kept.
@@ -30,6 +31,7 @@ export function saveResult(section: Section, testId: string, run: Run, result: S
 
 export function clearResult(section: Section, testId: string, run: Run) {
   localStorage.removeItem(key(section, testId, run))
+  if (section === "speaking") clearRecordings(testId, run)
   emit()
 }
 

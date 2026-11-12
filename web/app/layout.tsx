@@ -9,7 +9,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "CELPIP Practice",
-  description: "Mock CELPIP Reading, Listening and Writing tests",
+  description: "Mock CELPIP Reading, Listening, Writing and Speaking tests",
 }
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

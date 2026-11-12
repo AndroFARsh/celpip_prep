@@ -5,11 +5,17 @@ import path from "node:path"
 process.env.READING_DATA_DIR = path.resolve(__dirname, "test/fixtures/reading")
 process.env.LISTENING_DATA_DIR = path.resolve(__dirname, "test/fixtures/listening")
 process.env.WRITING_DATA_DIR = path.resolve(__dirname, "test/fixtures/writing")
+process.env.SPEAKING_DATA_DIR = path.resolve(__dirname, "test/fixtures/speaking")
 process.env.NEXT_PUBLIC_FAKE_AUDIO = "1"
 
 export default defineConfig({
   testDir: "e2e",
-  use: { baseURL: "http://localhost:3100" },
+  use: {
+    baseURL: "http://localhost:3100",
+    // Speaking records from a fake microphone that is allowed without a prompt.
+    permissions: ["microphone"],
+    launchOptions: { args: ["--use-fake-ui-for-media-stream", "--use-fake-device-for-media-stream"] },
+  },
   projects: [
     { name: "desktop", use: { ...devices["Desktop Chrome"] } },
     { name: "mobile", use: { ...devices["Pixel 7"] } },

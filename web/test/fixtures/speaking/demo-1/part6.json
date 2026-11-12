@@ -1,0 +1,5 @@
+{
+  "prompt": "You broke a borrowed lamp.",
+  "choices": ["Call your friend.", "Call the store."],
+  "samples": ["Friend sample.", "Store sample."]
+}

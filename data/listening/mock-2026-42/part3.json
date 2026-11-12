@@ -1,0 +1,92 @@
+{
+  "audio": {
+    "start": 988.9,
+    "end": 1191.5
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 1192.1,
+        "end": 1198.3
+      },
+      "prompt": "Why does Daniel mention being a first-year student early in the conversation?",
+      "options": [
+        "To explain limited cooking skills",
+        "To receive priority treatment",
+        "To justify unfamiliarity with dining routines",
+        "To request discounted meals"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 1223.1,
+        "end": 1229.5
+      },
+      "prompt": "Ms. Carter's initial response mainly shows that she wants to...",
+      "options": [
+        "Reduce the student's hesitation",
+        "Finish the interaction quickly",
+        "Follow a scripted response",
+        "Redirect him to medical staff"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1254.1,
+        "end": 1260.1
+      },
+      "prompt": "Daniel's description of dairy sensitivity implies that he...",
+      "options": [
+        "Exercises discretion rather than strict avoidance",
+        "Considers it harmless",
+        "Ignores it in social settings",
+        "Has overcome it medically"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1285.2,
+        "end": 1292.7
+      },
+      "prompt": "The recommendation of the allergy-aware station suggests the cafeteria...",
+      "options": [
+        "Avoids customization requests",
+        "Prefers centralized food prep",
+        "Limits student choices",
+        "Anticipates diverse dietary needs"
+      ],
+      "answer": 3
+    },
+    {
+      "audio": {
+        "start": 1316.3,
+        "end": 1323.7
+      },
+      "prompt": "Separate cookware and utensils mainly indicate concern about...",
+      "options": [
+        "Indirect exposure",
+        "Taste preservation",
+        "Faster service",
+        "Equipment durability"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 1347.1,
+        "end": 1353.0
+      },
+      "prompt": "The mention of staff training implies that mistakes are...",
+      "options": [
+        "Common but tolerated",
+        "Actively guarded against",
+        "Only handled by supervisors",
+        "Expected from new workers"
+      ],
+      "answer": 1
+    }
+  ]
+}

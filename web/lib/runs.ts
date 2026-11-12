@@ -12,4 +12,4 @@ export const runPath = (section: Section, id: string, run: Run) =>
   run === "full" ? `/${section}/${id}` : `/${section}/${id}/${run}`
 export const resultsPath = (section: Section, id: string, run: Run) => `/${section}/${id}/results/${run}`
 export const runLabel = (section: Section, run: Run) =>
-  run === "full" ? "Full test" : `${section === "writing" ? "Task" : "Part"} ${run}: ${SECTIONS[section].parts[Number(run) - 1]}`
+  run === "full" ? "Full test" : `${SECTIONS[section].unit} ${run}: ${SECTIONS[section].parts[Number(run) - 1]}`

@@ -1,7 +1,8 @@
-/** Test sections shown on the landing page. Add Speaking here when it exists. */
+/** Test sections shown on the landing page. `unit` is what the test calls its parts. */
 export const SECTIONS = {
   reading: {
     name: "Reading",
+    unit: "Part",
     summary: "4 parts, 38 questions, 55-60 minutes",
     parts: [
       "Reading Correspondence",
@@ -12,6 +13,7 @@ export const SECTIONS = {
   },
   listening: {
     name: "Listening",
+    unit: "Part",
     summary: "6 parts, 38 questions, about 40 minutes",
     parts: [
       "Listening to Problem Solving",
@@ -24,8 +26,24 @@ export const SECTIONS = {
   },
   writing: {
     name: "Writing",
+    unit: "Task",
     summary: "2 tasks, 150-200 words each, 53 minutes",
     parts: ["Writing an Email", "Responding to Survey Questions"],
+  },
+  speaking: {
+    name: "Speaking",
+    unit: "Task",
+    summary: "8 tasks, recorded answers, about 15 minutes",
+    parts: [
+      "Giving Advice",
+      "Talking about a Personal Experience",
+      "Describing a Scene",
+      "Making Predictions",
+      "Comparing and Persuading",
+      "Dealing with a Difficult Situation",
+      "Expressing Opinions",
+      "Describing an Unusual Situation",
+    ],
   },
 } as const
 

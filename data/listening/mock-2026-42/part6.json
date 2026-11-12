@@ -1,0 +1,69 @@
+{
+  "timeLimitSec": 240,
+  "audio": {
+    "start": 2176.0,
+    "end": 2384.5
+  },
+  "questions": [
+    {
+      "prompt": "The hiring philosophy described shifts attention away from certificates toward ______.",
+      "options": [
+        "documented schooling",
+        "standardized ranking",
+        "immediate usefulness",
+        "theoretical exposure"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "When advancement depends on ability, individuals are more likely to become ______.",
+      "options": [
+        "compliance-focused",
+        "internally driven",
+        "reward-sensitive",
+        "instruction-dependent"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Broadening access beyond elite credentials tends to produce teams that are ______.",
+      "options": [
+        "administratively equal",
+        "socially varied",
+        "skill-identical",
+        "narrowly trained"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Movement into higher responsibility is guided mainly by ______.",
+      "options": [
+        "duration of service",
+        "demonstrated impact",
+        "prior affiliations",
+        "formal checkpoints"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "An unspoken implication of this approach is that traditional credentials may ______.",
+      "options": [
+        "lose universal authority",
+        "disappear completely",
+        "remain legally required",
+        "gain stronger influence"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "A likely challenge for organizations using this hiring approach is the need to ______.",
+      "options": [
+        "redesign evaluation methods",
+        "lower performance standards",
+        "rely on personal opinions",
+        "reduce internal mobility"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audio": {
+    "start": 667.9,
+    "end": 816.1
+  },
+  "questions": [
+    {
+      "audio": {
+        "start": 816.9,
+        "end": 825.6
+      },
+      "prompt": "Why do Sophie and Lucas finally decide to depart earlier than originally suggested?",
+      "options": [
+        "To avoid searching for a parking space",
+        "To include an unplanned meal stop",
+        "To protect against unpredictable delays",
+        "To match the bus timetable"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 848.0,
+        "end": 854.0
+      },
+      "prompt": "What concern makes Sophie reluctant to use public transport?",
+      "options": [
+        "It lacks comfort",
+        "It limits flexibility",
+        "It wastes unpredictable time",
+        "It doesn't reach the area"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 878.9,
+        "end": 885.1
+      },
+      "prompt": "Why does Lucas suggest checking navigation updates later?",
+      "options": [
+        "To find a shorter scenic route",
+        "To confirm parking availability",
+        "To react to changing road conditions",
+        "To calculate fuel efficiency"
+      ],
+      "answer": 2
+    },
+    {
+      "audio": {
+        "start": 909.9,
+        "end": 915.9
+      },
+      "prompt": "What does choosing Lucas's vehicle indirectly suggest?",
+      "options": [
+        "Fewer passengers are expected",
+        "His vehicle is newer",
+        "His vehicle is more fuel-efficient",
+        "His vehicle has better seating"
+      ],
+      "answer": 0
+    },
+    {
+      "audio": {
+        "start": 940.8,
+        "end": 947.2
+      },
+      "prompt": "Why is Sophie confident food won't be an issue at the destination?",
+      "options": [
+        "They plan to arrive late",
+        "The host is known for hospitality",
+        "There are nearby restaurants",
+        "They are bringing supplies"
+      ],
+      "answer": 1
+    }
+  ]
+}

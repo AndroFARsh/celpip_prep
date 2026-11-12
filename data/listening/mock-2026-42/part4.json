@@ -1,0 +1,59 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1396.4,
+    "end": 1604.8
+  },
+  "questions": [
+    {
+      "prompt": "The primary motivation behind the temporary access restrictions is to ______.",
+      "options": [
+        "reduce travel demand permanently",
+        "discourage private vehicles",
+        "promote commercial activity",
+        "modernize weak structures safely"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "Drivers are advised to choose different paths mainly to ______.",
+      "options": [
+        "avoid enforcement checks",
+        "maintain smoother movement",
+        "support local neighborhoods",
+        "shorten total travel distance"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "The timing of certain lane reductions suggests planners aimed to ______.",
+      "options": [
+        "interrupt work shifts",
+        "lessen commuter disruption",
+        "finish faster at night",
+        "increase visibility of repairs"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Allowing limited vehicle movement near one intersection implies the area is ______.",
+      "options": [
+        "completely safe already",
+        "closed to outsiders only",
+        "restricted but functional",
+        "unaffected by maintenance"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Pedestrian guidance during construction mainly reflects concern for ______.",
+      "options": [
+        "convenience over safety",
+        "visual orderliness",
+        "controlled foot movement",
+        "faster sidewalk repairs"
+      ],
+      "answer": 2
+    }
+  ]
+}

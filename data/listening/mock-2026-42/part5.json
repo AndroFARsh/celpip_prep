@@ -1,0 +1,89 @@
+{
+  "timeLimitSec": 180,
+  "audio": {
+    "start": 1808.1,
+    "end": 1975.2
+  },
+  "questions": [
+    {
+      "prompt": "What does Liam imply about using optimization software?",
+      "options": [
+        "It would require major system changes",
+        "It's less effective than hiring drivers",
+        "It's compatible with current operations",
+        "It solves the traffic issue completely"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What does Emma suggest is a possible initial step?",
+      "options": [
+        "Hire staff immediately",
+        "Implement everything fully",
+        "Delay action until budget clears",
+        "Test multiple fixes in a trial"
+      ],
+      "answer": 3
+    },
+    {
+      "prompt": "What concern does Jason raise about adding more drivers?",
+      "options": [
+        "New hires aren't productive immediately",
+        "Delays might increase during training",
+        "Drivers are expensive to hire",
+        "Drivers are unwilling to join"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "How does Liam view client communication?",
+      "options": [
+        "It distracts from deeper problems",
+        "It builds customer patience",
+        "It avoids logistical costs",
+        "It replaces the need for delivery changes"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What can be inferred about Emma’s leadership style?",
+      "options": [
+        "Decisive and unilateral",
+        "Focused only on cost",
+        "Open to collaboration and testing",
+        "Prefers quick fixes over planning"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "Why does Jason downplay communication improvements?",
+      "options": [
+        "He doesn't value client satisfaction",
+        "He sees it as avoiding real solutions",
+        "He favors technology over people",
+        "He prefers silence over information"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "What is Liam's strategic reasoning for optimization first?",
+      "options": [
+        "It saves money long-term",
+        "It's immediately deployable",
+        "It brings good value with less effort",
+        "It avoids hiring complications entirely"
+      ],
+      "answer": 2
+    },
+    {
+      "prompt": "What can be inferred about the team's agreement?",
+      "options": [
+        "They've made a firm decision",
+        "They all agree hiring is best",
+        "There's cautious openness to testing",
+        "Jason strongly rejects Emma's view"
+      ],
+      "answer": 2
+    }
+  ]
+}

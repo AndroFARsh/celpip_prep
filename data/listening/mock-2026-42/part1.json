@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "audio": {
+        "start": 113.4,
+        "end": 194.0
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 194.7,
+            "end": 200.3
+          },
+          "prompt": "Why does Sarah ask about the template John used?",
+          "options": [
+            "To check company rules",
+            "To confirm file format consistency",
+            "To see who created the document",
+            "To assign responsibility"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 225.6,
+            "end": 233.0
+          },
+          "prompt": "What mistake did John realize only after encountering problems?",
+          "options": [
+            "Ignoring previous instructions",
+            "Skipping validation checks",
+            "Using outdated numbers",
+            "Choosing speed over accuracy"
+          ],
+          "answer": 3
+        },
+        {
+          "audio": {
+            "start": 256.6,
+            "end": 262.4
+          },
+          "prompt": "What does Sarah's response style suggest about her role?",
+          "options": [
+            "Supervisor enforcing rules",
+            "Peer offering support",
+            "Technician fixing files",
+            "Manager assigning tasks"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 298.7,
+        "end": 389.7
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 390.7,
+            "end": 397.7
+          },
+          "prompt": "What does Sarah imply by suggesting automation instead of manual work?",
+          "options": [
+            "Manual effort is risky",
+            "Time can be optimized",
+            "Accuracy is impossible manually",
+            "John lacks skill"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 421.7,
+            "end": 428.6
+          },
+          "prompt": "What concern does John express when thinking about fixing formulas?",
+          "options": [
+            "Fear of deleting data",
+            "Too many steps",
+            "Excessive time demand",
+            "Risk of crashing Excel"
+          ],
+          "answer": 2
+        },
+        {
+          "audio": {
+            "start": 452.7,
+            "end": 458.4
+          },
+          "prompt": "Why does Sarah recommend checking only certain cells?",
+          "options": [
+            "All errors behave similarly",
+            "Some issues affect others",
+            "Errors resolve themselves",
+            "Cells refresh automatically"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "audio": {
+        "start": 494.8,
+        "end": 587.9
+      },
+      "questions": [
+        {
+          "audio": {
+            "start": 588.8,
+            "end": 594.3
+          },
+          "prompt": "Why does Sarah advise checking totals after merging?",
+          "options": [
+            "To improve formatting",
+            "To confirm accuracy",
+            "To speed up review",
+            "To update formulas"
+          ],
+          "answer": 1
+        },
+        {
+          "audio": {
+            "start": 619.8,
+            "end": 625.4
+          },
+          "prompt": "What is the main benefit of using macros according to Sarah?",
+          "options": [
+            "Reduces mistakes",
+            "Works on any file",
+            "Repeats saved actions",
+            "Improves visuals"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
