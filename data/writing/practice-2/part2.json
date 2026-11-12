@@ -1,0 +1,13 @@
+{
+  "timeLimitSec": 1560,
+  "title": "Community Centre Funding",
+  "situation": "Your town has received money to improve its community centre. There is only enough for one project, and the town council is asking residents which one they prefer.",
+  "options": [
+    "Build a new indoor swimming pool.",
+    "Expand the library with a computer lab and quiet study rooms."
+  ],
+  "samples": [
+    "I believe the town should choose Option A and build a new indoor swimming pool. It would improve the health of residents of all ages and give our town something it does not have now.\n\nTo begin with, the closest public pool is in another town, about forty minutes away by car. Because of this, many children here never learn to swim properly, which is a real safety concern in an area with so many lakes. A local pool would make swimming lessons possible for every family.\n\nIn addition, swimming is one of the few activities that almost everyone can do. Seniors and people with injuries can exercise in the water without hurting their joints, and teenagers would have a healthy place to spend time during our long winters.\n\nFinally, a pool would bring money back to the community centre through lessons, memberships and birthday parties. This income could help pay for other programs in the future.\n\nThe library is important, but many people already have computers and internet at home. A pool would offer something new, so I strongly support Option A.",
+    "In my opinion, Option B is the better choice. Expanding the library with a computer lab and quiet study rooms would help more residents and cost the town less in the long term.\n\nFirst, many people in our town still do not have a good computer or fast internet at home. Students need them for homework, and adults need them to look for jobs, take online courses and fill out government forms. A computer lab would give everyone equal access to these important tools.\n\nSecond, there are very few quiet places to study or work in our town. High school and college students often live in busy homes, and the library tables are usually full during exam season. Study rooms would also be useful for tutors, newcomers practising English and small community groups.\n\nFinally, a swimming pool is extremely expensive to operate. It needs heating, cleaning and lifeguards every day, so taxes or entrance fees would probably rise. A larger library would cost much less to run and would be free for everyone.\n\nFor these reasons, I recommend that the council choose Option B."
+  ]
+}

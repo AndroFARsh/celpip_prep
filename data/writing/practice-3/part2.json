@@ -1,0 +1,13 @@
+{
+  "timeLimitSec": 1560,
+  "title": "High School Schedule",
+  "situation": "The local school board wants to help high school students do better in class. It is considering two changes and is asking parents and residents for their opinion.",
+  "options": [
+    "Start the school day one hour later, at 9:30 a.m.",
+    "Keep the current schedule and add free after-school tutoring."
+  ],
+  "samples": [
+    "I support Option A, starting the school day one hour later. I believe it is the simplest way to help every student, not only those who are having difficulties.\n\nThe most important reason is sleep. Teenagers naturally fall asleep later at night, so an early start means that many of them come to school after only six hours of rest. As a parent, I see how hard it is for my son to wake up, and his teachers say that students are half asleep during the first class. With one more hour of sleep, students would be more awake, pay more attention and remember more of what they learn.\n\nAnother reason is safety and health. Tired teenagers are more likely to get sick, feel stressed or have accidents on the way to school. In winter, a later start would also mean that students travel in daylight.\n\nTutoring after school is a good idea, but it would only help students who choose to stay. Many of them have part-time jobs or sports practice in the afternoon. A later start would benefit everyone, so I recommend Option A.",
+    "I would choose Option B, keeping the current schedule and adding free after-school tutoring. In my view, it gives direct help to the students who need it most and does not create problems for families.\n\nFirstly, tutoring deals with the real cause of low marks. When students do not understand a subject, an extra hour of sleep will not help them catch up. Working with a tutor in a small group gives them the chance to ask questions and practise until they understand. Free tutoring is especially important for families who cannot afford private lessons.\n\nSecondly, a later start would be very inconvenient for working parents. Most of us begin work at 8:00 or 9:00, so we could not drive our children to school any more. The school day would also finish later, leaving less time for sports, part-time jobs and homework.\n\nFinally, I doubt that a later start would really give students more sleep. Many teenagers would simply stay up later on their phones.\n\nFor these reasons, I believe Option B is the more practical and effective choice."
+  ]
+}

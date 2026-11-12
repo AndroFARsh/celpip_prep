@@ -1,0 +1,13 @@
+{
+  "timeLimitSec": 1560,
+  "title": "Public Transit Improvements",
+  "situation": "Your city plans to spend more money on its bus system next year. The transit department is asking residents how the money should be used.",
+  "options": [
+    "Run buses more often on the existing routes.",
+    "Add new bus routes to neighbourhoods that have no service now."
+  ],
+  "samples": [
+    "I think the city should choose Option A and run buses more often on the existing routes. This would improve daily life for the largest number of passengers.\n\nAt the moment, buses on most routes come only every thirty minutes, and even less often in the evening. If a bus is full or a few minutes early, passengers have to wait a long time in the cold. I take the bus to work every day, and I often arrive late or have to leave home much earlier than necessary.\n\nIf buses came every ten or fifteen minutes, people would not need to plan their whole day around a schedule. Buses would also be less crowded during rush hour, which would make the trip more comfortable for seniors and parents with strollers. As a result, more drivers might decide to leave their cars at home, and traffic downtown would improve.\n\nNew routes sound attractive, but buses in quiet neighbourhoods are often almost empty. It makes more sense to improve the routes that thousands of people already depend on. Therefore, I support Option A.",
+    "I believe Option B is the right choice. Adding new bus routes to neighbourhoods without service would make our transit system fair for all residents.\n\nOur city has grown quickly in the last ten years, but the bus network has not changed. Several new neighbourhoods on the edge of the city have no bus service at all. People who live there and do not own a car, such as students, seniors and newcomers, have no way to get to work, school or medical appointments. Some of them walk more than half an hour to the nearest stop, even in winter.\n\nThese residents pay the same taxes as everyone else, so they should have access to the same basic services. New routes would also reduce the number of cars on the road, because many families in these areas need two vehicles only because there is no bus.\n\nPeople on existing routes may have to wait a little longer, but at least they have a bus to wait for. Giving every neighbourhood a connection to the city is more important, so I recommend Option B."
+  ]
+}

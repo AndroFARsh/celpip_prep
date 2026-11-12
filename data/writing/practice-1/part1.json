@@ -1,0 +1,11 @@
+{
+  "timeLimitSec": 1620,
+  "situation": "Two weeks ago, you bought a laptop from an online electronics store. When it arrived, the screen was cracked and the computer would not turn on.",
+  "task": "Write an email to the store's customer service manager in about 150-200 words. You are complaining about the damaged product.",
+  "points": [
+    "Describe what you ordered and when you ordered it.",
+    "Explain what is wrong with the product.",
+    "State what you would like the store to do."
+  ],
+  "sample": "Dear Customer Service Manager,\n\nI am writing to complain about a laptop that I recently bought from your online store. I am a regular customer, and this is the first time I have been disappointed with an order.\n\nOn March 3, I ordered a 15-inch SilverBook laptop for $1,150. My order number is 48213. The package was delivered to my home five days later.\n\nUnfortunately, when I opened the box, I saw a long crack across the left side of the screen. I also tried to turn the computer on several times, but nothing happened, even after charging it overnight. The box itself looked fine, so I believe the laptop was damaged before it was shipped.\n\nI need a computer for my online classes, so I would like you to send me a replacement as soon as possible. I would also ask you to cover the cost of returning the broken one. If a replacement is not available this week, please give me a full refund instead.\n\nI look forward to your reply.\n\nSincerely,\n\nMaria Lopez"
+}

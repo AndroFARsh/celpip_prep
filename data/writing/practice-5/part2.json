@@ -1,0 +1,13 @@
+{
+  "timeLimitSec": 1560,
+  "title": "Employee Wellness Budget",
+  "situation": "Your company has set aside money to support the health of its employees. The human resources department is asking staff how the money should be spent.",
+  "options": [
+    "Build a small fitness room in the office building.",
+    "Give each employee a monthly allowance to spend on a health activity of their choice."
+  ],
+  "samples": [
+    "My choice is Option A, building a small fitness room in our office building. I think it is the option that employees would actually use, and it would last for many years.\n\nThe biggest advantage is convenience. Most of us say we are too busy to exercise because we go straight home after work to cook and look after our families. If there were a fitness room downstairs, we could exercise for half an hour at lunch or before driving home, without travelling anywhere or paying for a membership.\n\nA fitness room would also be good for relationships at work. Colleagues from different departments could exercise together or join a lunchtime yoga class. This kind of contact helps people work better as a team.\n\nFinally, the room would be a permanent benefit. The company would pay for it once, and every current and future employee could use it. In contrast, a monthly allowance would be spent quickly, and some people might use it on things that are not really related to health.\n\nFor these reasons, I hope the company chooses Option A.",
+    "I would prefer Option B, a monthly allowance that each employee can spend on a health activity of their choice. I believe this is the only option that would benefit all staff members equally.\n\nPeople have very different needs and interests. Some of my colleagues enjoy lifting weights, but others prefer swimming, dance classes or hiking. Health is also more than exercise. Some people might want to use the money for a massage, a nutrition course or a session with a counsellor to manage stress. An allowance would let every person choose what truly helps them.\n\nMoreover, a small fitness room would not suit everyone. Many employees feel uncomfortable exercising in front of their managers and co-workers. Others work from home several days a week or at our second location, so they would rarely be able to use it. The room would also be crowded at lunch, and the equipment would need repairs.\n\nWith an allowance, employees could be active close to their homes and at times that fit their schedules, even on weekends. Therefore, I strongly recommend Option B."
+  ]
+}

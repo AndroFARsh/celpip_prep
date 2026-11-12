@@ -1,0 +1,11 @@
+{
+  "timeLimitSec": 1620,
+  "situation": "You rent an apartment. It is the middle of winter, and the heating in your apartment has not been working properly for a week.",
+  "task": "Write an email to your landlord in about 150-200 words. You are asking for the heating to be repaired.",
+  "points": [
+    "Describe the problem with the heating.",
+    "Explain what you have already done about it.",
+    "Say what you expect the landlord to do and by when."
+  ],
+  "sample": "Dear Mr. Petrov,\n\nI am the tenant in apartment 304, and I am writing about a serious problem with the heating in my unit.\n\nFor the past week, the radiators in the living room and both bedrooms have been only slightly warm, and the one in the bathroom does not work at all. The temperature inside has stayed around 14 degrees, even though the thermostat is set to 22. With the weather we are having, the apartment is very uncomfortable, especially at night.\n\nI have already tried to solve the problem myself. I checked the thermostat and replaced its batteries, and I made sure that nothing is blocking the radiators. I also called the building manager on Monday and left two messages, but nobody has called me back. In the meantime, I have bought an electric heater, which is increasing my electricity bill.\n\nI would appreciate it if you could send a technician to repair the heating by Friday at the latest. I work from home, so someone will be here to open the door at any time.\n\nThank you for your prompt attention.\n\nSincerely,\n\nElena Rossi"
+}

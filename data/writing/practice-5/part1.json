@@ -1,0 +1,11 @@
+{
+  "timeLimitSec": 1620,
+  "situation": "You registered and paid for an evening course at a local community college. The course starts next month, but your work schedule has changed and you can no longer attend at that time.",
+  "task": "Write an email to the college registration office in about 150-200 words. You are asking for help with your registration.",
+  "points": [
+    "Explain which course you registered for and why you cannot attend.",
+    "Ask whether you can move to a class at a different time.",
+    "Ask about a refund if a change is not possible."
+  ],
+  "sample": "Dear Registration Office,\n\nMy name is Andre Silva, and my student number is 204418. I am writing to ask for your help with a course I registered for last month.\n\nI signed up for Introduction to Accounting, which takes place on Tuesday and Thursday evenings from 6:00 to 9:00, starting on September 9. I paid the full fee of $480 online. Unfortunately, my employer has just changed my schedule, and from next month I will be working until 8:00 p.m. on weekdays. As a result, I will not be able to attend this class.\n\nI am still very interested in the course, as I need it for a promotion at work. Is the same course offered on Saturdays or online? If so, I would be grateful if you could transfer my registration to that class.\n\nIf no other time is available, could you please tell me whether I can receive a refund, and what I need to do to request one? I can provide a letter from my employer if necessary.\n\nThank you for your help.\n\nSincerely,\n\nAndre Silva"
+}

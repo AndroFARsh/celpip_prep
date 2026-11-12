@@ -1,0 +1,13 @@
+{
+  "timeLimitSec": 1560,
+  "title": "Neighbourhood Summer Events",
+  "situation": "Your neighbourhood association has a budget for community events this summer. It is asking residents which type of event they would prefer.",
+  "options": [
+    "Hold one large weekend festival with live music and food stands.",
+    "Hold a free outdoor movie night in the park every week during the summer."
+  ],
+  "samples": [
+    "I would like the association to choose Option A, one large weekend festival with live music and food stands. I think a big event would bring far more people together than a series of small ones.\n\nA festival offers something for everyone. Children can enjoy games and face painting, teenagers can listen to the bands, and adults can try food from different cultures. Because there is so much to do, whole families and groups of friends would come and stay for hours. It would be a great opportunity to meet neighbours we normally only wave to.\n\nA festival would also support our local economy. Restaurants, bakeries and artists from the neighbourhood could rent a stand and introduce themselves to new customers, and local musicians would get a chance to perform. A successful festival could even become a yearly tradition that attracts visitors from other parts of the city.\n\nMovie nights are pleasant, but people sit quietly in the dark and do not really talk to each other. Also, the audience would probably get smaller every week. For these reasons, I believe Option A is the better use of the budget.",
+    "I prefer Option B, a free outdoor movie night in the park every week. In my opinion, regular small events would do more for our community than a single big weekend.\n\nThe first reason is that everyone would have a chance to attend. Many residents travel in the summer or work on weekends, so they could easily miss a festival that happens only once. With a movie every week, people can come whenever they are free. If it rains one evening, there is always the following week, while bad weather could ruin an entire festival.\n\nThe second reason is that meeting regularly builds real relationships. When neighbours see each other every Friday, they start to chat, share snacks and let their children play together before the film begins. One crowded weekend does not create the same connections.\n\nFinally, movie nights are simple and inexpensive. All we need is a screen, a projector and a few volunteers. A festival needs a stage, security and cleaning, and it brings noise, garbage and parking problems to our streets.\n\nFor these reasons, I strongly recommend Option B."
+  ]
+}
